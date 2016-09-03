@@ -19,9 +19,3 @@ Past
   - [StackOverflow](http://careers.stackoverflow.com/cauerego) and [GitHub](https://github.com/cauerego) profile
   - [Abaixa Tampa (Lower the toilet lid)](http://abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months
   - [Funny or Die with Jean Claude](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), cool video made in about 5 days
-
-Once planed to do
-
-- Food Seekers
-- Learn IT / School
-- The Advisor
