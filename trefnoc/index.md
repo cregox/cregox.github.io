@@ -3,7 +3,6 @@ permalink: /trefnoc/
 layout: page
 title: treFnoc
 published: true
-hide: true
 ---
 
 

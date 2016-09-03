@@ -3,7 +3,6 @@ permalink: /lyrics/
 layout: page
 title: lyrics
 published: true
-hide: true
 ---
 
 
