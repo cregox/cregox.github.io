@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cregox.com" # the base hostname & protocol for your site
 github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
-github_username: caue.rego
+github_username: cauerego
 google_analytics:
 
 
