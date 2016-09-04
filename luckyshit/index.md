@@ -73,12 +73,6 @@ body {
   color: black;
   text-align: center;
 }
-a:link, a:visited {
-  color: #000;
-}
-a:active, a:hover {
-  color: #666;
-}
 p.header {
   font-size: small;
 }
