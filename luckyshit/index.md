@@ -3,7 +3,6 @@ permalink: /luckyshit/
 layout: page
 title: luckyshit
 published: true
-menu: true
 ---
 
 This is a game I've programmed in my first Hackathon, along with 3 great folks I've met there, at [IME USP 2014 Sep 14](https://www.hackerleague.org/hackathons/hackathon-usp-slash-ime). That was just 1 day before my second and last play presentation, "[Não esqueça de abaixar a tampa](http://abaixatampa.com/)" (something like "Don't forget to put the toilet sit down"). Busy weekend. [The source code can be found at GitHub](https://github.com/monnacs/luckyshit).
