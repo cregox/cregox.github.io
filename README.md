@@ -1,21 +1,6 @@
-# Site do Coro da Achada (não oficial)
+# [cregox](http://cregox.com)
 
-[Ir para o site](http://coroachada.github.io)
+[Hi, I'm cregox, the artificial mind of Caue Rego](http://patreon.com/cregox), still not uploaded to the cloud and living in a meat sack. **Do check our [basiux](http://basiux.org) project** (A.i. and singularity)!
 
-<small>Baseado em [Landy](https://github.com/cauerego/Landy-v1.0)</small>
-
-# Contribua com conteúdo!
-
-Sugira edições e melhorias a vontade e com muita facilidade no [Prose.io](http://prose.io/#coroachada/coroachada.github.io)!
-
-Veja [esta página mesmo lá](http://prose.io/#coroachada/coroachada.github.io/edit/master/README.md), por exemplo.
-
-Lembre-se de [**sempre escrever um título descritivo**](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message) nas modificações pedidas, por favor:
-
-- Faça quase como no Twitter, mas em vez de 140 caracteres, pense que temos apenas 42!
-
-- Responda a pergunta: Por que esta mudança é necessária, como sua contribuição ajuda e existe algum efeito colateral?
-
-- [Veja exemplos de como já estamos "*comitando*" as mensagens no próprio GitHub](https://github.com/coroachada/coroachada.github.io/commits/master) (cada linha aí é uma mensagem de "commit").
-
-- Prefira **sempre** escrever códigos em inglês!
+![sky walk on Auckland](http://cregox.com/skywalkcauerecorte.jpg)
+*It's a me!*
