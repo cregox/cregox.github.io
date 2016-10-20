@@ -17,6 +17,9 @@ Past
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a bg queue
 - I could've fix [your Home Site](/your-home) on the web
 - [Abaixa Tampa (Lower the toilet lid)](http://abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months
-- [Funny or Die with Jean Claude](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), cool video made in about 5 days
+- [Funny or Die with Jean Claude](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), "cool" video made in about 5 days
 
-[StackOverflow](http://careers.stackoverflow.com/cauerego) and [GitHub](https://github.com/cauerego) profile
+More
+
+- [StackOverflow](http://stackoverflow.com/story/cauerego) and [GitHub](https://github.com/cauerego) profiles
+- [Some photos for casting](https://b.cregox.com/caue-casting)
