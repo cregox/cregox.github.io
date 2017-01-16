@@ -16,15 +16,18 @@ Until then, I won't have much to show - unless you want to start digging me up o
 So below I'm trying to gather a collectino of relevant links. Hope you can enjoy!
 
 Photos
+
 - [casting](https://b.cregox.com/caue-casting) is a more traditional (and boring) style, if you're into this stuff
 - probably I should use more [instagram](https://www.instagram.com/cregox/), haha
 - [random fun](/random), [why not](http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919)? this kinda says a lot of my current idea of a project
 - back to [myself](/myself) then, with more actual real photos
 
 Relevant [Projects](/projects)
+
 - [Abaixa Tampa (Lower the toilet lid)](http://abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months
 - [Funny or Die with Jean Claude](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), “cool” video made in about 5 days
 - [Youtube Channel](https://www.youtube.com/c/CaueRego) maybe one day I'll be more of a youtuber
 
 [Contacts](/contact)
+
 - [talk.cregox.com](http://talk.cregox.com/) a ["ghost town"](http://talk.cregox.com/t/a-beginning-for-the-forums-here/7/7?u=cregox) and still most of my weird one-man-[blog](/blog) as an [inform**art**icist](http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914) and [progammer*](http://talk.cregox.com/t/yeah-im-also-a-progammer/7676)
