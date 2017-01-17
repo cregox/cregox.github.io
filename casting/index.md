@@ -19,7 +19,7 @@ Photos
 
 - [casting](https://b.cregox.com/caue-casting) is a more traditional (and boring) style, if you're into this stuff
 - probably I should use more [instagram](https://www.instagram.com/cregox/), haha
-- [random fun](/random), [why not](http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919)? this kinda says a lot of my current idea of a project
+- [random fun](/random), [why not](http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919)? randomness kinda says a lot about my current idea-project
 - back to [myself](/myself) then, with more actual real photos
 
 Somewhat relevant projects
