@@ -5,10 +5,14 @@ title: blog
 published: true
 ---
 
-Right now, got "just" those 3 (not 4 anymore, the one from squarespace is completely gone):
+Eventually I'll move everything into one platform.
 
-- [old](http://cauecmrego.blogspot.com) (blogspot) just for reference
-- [new](http://talk.cregox.com/c/blog) (discourse) in most use, but soon will be replaced
-- [sidekick](http://blog.cregox.com) (jekyll) need to allow commenting before becoming official
+Right now, the main one is [medium](https://medium.cregox.com).
 
-Hopefully I'll be able soon to make all this more concise.
+Meanwhile...
+
+Still got those 3 (not 4 anymore, the one from squarespace is completely gone):
+
+- [oldest](http://cauecmrego.blogspot.com) (blogspot) just for reference
+- [old](http://talk.cregox.com/c/blog) (discourse) still in use, but soon will be archived
+- [experimental](http://blog.cregox.com) (jekyll) mostly for toying around, I guess. but might become the one.
