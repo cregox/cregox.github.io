@@ -10,6 +10,7 @@ coding
 
 - [basiux](http://basiux.org) contains a small neat javascript Ai I've ported from another language in about 3 days
 - [formigas](http://scratch.mit.edu/projects/17273607/#player), another tiny game in MIT's Scratch made in about 5 days
+- [pcsedados](/pcsedados) complete OS system made in 2003 for about 2 months, still in use today
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a background queue
 - [luckyshit](/luckyshit), very tiny game in [Unity3D](http://answers.unity3d.com/users/822/cawas.html) made in about 10 hours
 
