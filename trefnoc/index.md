@@ -26,6 +26,6 @@ I hope this can serve as reference for people looking on how to do some stuff on
 
 To test this you'll need to have PyQT4 installed and ffmpeg.
 
-https://github.com/cauerego/trefnoc
+# [trefnoc on github](https://github.com/cauerego/trefnoc)
 
 ![screenshot](trefnoc screenshot.png)

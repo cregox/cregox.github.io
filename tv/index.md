@@ -3,6 +3,7 @@ permalink: /tv/
 layout: page
 title: fas tv
 published: true
+fastv: https://plus.google.com/collection/4Qqrb
 ---
 
 at some point in 2015 I thought it would be fun to try making something like [9gag tv](http://9gag.com/tv) or [ifls](http://www.iflscience.com/team/elise-andrew/) (later on I found out about something [similar](https://www.patreon.com/lolhehehe) to my will, except I have no wish to produce anything in non-english).
@@ -21,6 +22,10 @@ meanwhile, at least I think there's a good and fun collection of links that came
 
 tl;dr;
 
-here's the one thing left from this (yet another) failed project: [cregox fas tv](https://plus.google.com/collection/4Qqrb)
+here's the one thing left from this (yet another) failed project:
 
-![community pool](community pool.gif)
+# [cregox fas tv on g+]({{page.fastv}})
+
+[![community pool](community pool.gif)]({{page.fastv}})
+
+<small>_community series - almost as good as scrubs_</small>
