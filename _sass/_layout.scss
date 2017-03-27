@@ -205,6 +205,11 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+
+    a {
+        text-decoration: none !important;
+        color: black !important;
+    }
 }
 
 .post-content {
