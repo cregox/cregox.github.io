@@ -14,29 +14,28 @@ Actually...
 It's not even *that* complicated:
 
 - learn a little of [github markdown](https://guides.github.com/features/mastering-markdown/) (if you want to actually format your contribution), or;
-- use samples, [such as the other pages in this site](https://github.com/cregox/cregox.github.io), or [this one file you're in](https://github.com/cregox/cregox.github.io/blob/master/newpage/index.md)), and;
+- see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage/index.md) (click on the [raw] button, ignore the script), and;
 
-- [**go here**](https://github.com/cregox/cregox.github.io/new/master/[jesus]) and name the file "index.md"
+- [**go here**](https://github.com/cregox/cregox.github.io/new/master/[jesus]) and name the file `index.md` (after login or create an account if you need to)
 
 Even **going there** and writing your suggestion in plain text is already simple-ish enough and much better than trying any other contact form.
 
-We want to replace this page (or the whole host) with something even simpler for contribution. But meanwhile...
+Somewhere in the future, we will replace this process with something even simpler for contribution.
 
+Meanwhile, <br>
 Thanks for your willingness to help! :)
 
 <script>
-function getParameterByName(name, url) {
-    if (!url) {
-      url = window.location.href;
-    }
-    name = name.replace(/[\[\]]/g, "\\$&");
+function getParameterByName (name, result, url) {
+    result = result || ''
+    url = url || window.location.href
+    name = name.replace(/[\[\]]/g, "\\$&")
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-        results = regex.exec(url);
-    if (!results) return null;
-    if (!results[2]) return '';
-    return decodeURIComponent(results[2].replace(/\+/g, " "));
+        results = regex.exec(url)
+    if (!results || !results[2]) return result
+    return decodeURIComponent(results[2].replace(/\+/g, " "))
 }
-document.querySelectorAll('a[href*="[jesus]"]').forEach(function(item){
-  item.href = item.href.replace('[jesus]', getParameterByName('a'));
+document.querySelectorAll('a[href*="[jesus]"]').forEach(function (item) {
+    item.href = item.href.replace('[jesus]', getParameterByName('a', 'dummy-newpage'))
 })
 </script>
