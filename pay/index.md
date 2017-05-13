@@ -6,12 +6,10 @@ published: true
 menu: true
 ---
 
-TAKE A LOOK AT OUR [PATREON CAMPAIGN](http://patreon.com/cregox)!
+[hi. I'm cregox, the artificial mind of caue rego](http://patreon.com/cregox), still not uploaded to the cloud and living in a meat sack.
 
-or...
+got bitcoin?
 
-use bitcoin:
-
-![blockchain](blockchain.info wallet 1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT.png)
+![blockchain](blockchain.info savings 1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT.png)
 
 <small>1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT</small>
