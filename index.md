@@ -27,6 +27,8 @@ or, or perhaps you want to check our [basiux](http://basiux.org) project (super 
 ![sky walk on Auckland](skywalkcauerecorte.jpg)
 *it's a me!*
 
+wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
+
 <script>
     document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
         item.href = item.href.replace('[random]', sample([
