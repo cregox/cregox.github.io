@@ -10,4 +10,4 @@ menu: true
 
 [![resume](caue rego resume.png)](http://s.cregox.com/resume)
 
-[download compressed pdf](https://www.dropbox.com/s/fz89qlqvrix1u49/caue%20rego%20resume%202017.compressed.pdf?dl=1)
+[download compressed pdf](http://s.cregox.com/download-resume)
