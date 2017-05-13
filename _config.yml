@@ -6,7 +6,7 @@ title: cregox (Caue Rego)
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://cregox.com" # the base hostname & protocol for your site
+url: https://cregox.com # the base hostname & protocol for your site
 enforce_ssl: "cregox.com"
 github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
