@@ -20,9 +20,22 @@ how can I help you today? it's probably better to search for your **topic**:
 </script>
 <gcse:search></gcse:search>
 
-or do it similarly but [straight on google](https://www.google.com/?q=site:cregox.com+random).
+or do it similarly but [straight on google](https://www.google.com/?q=site:cregox.com+[random]).
 
 or, or perhaps you want to check our [basiux](http://basiux.org) project (super A.i.)? "watch" some [fas tv](/tv)?
 
 ![sky walk on Auckland](skywalkcauerecorte.jpg)
 *it's a me!*
+
+<script>
+    document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
+        item.href = item.href.replace('[random]', sample([
+            'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
+            'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
+            'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
+        ]));
+    })
+    function sample (items) {
+        return items[Math.floor(Math.random() * items.length)];
+    }
+</script>
