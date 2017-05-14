@@ -35,10 +35,15 @@ wondering what's up with my writing style, [locaws](https://medium.cregox.com/lo
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
         'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
     ]);
+    var gcseTerm = getHashQueryStringValue('gsc.q');
+    if (gcseTerm) term = gcseTerm;
     document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
         item.href = item.href.replace('[random]', term);
     })
     function sample (items) {
         return items[Math.floor(Math.random() * items.length)];
     }
+    function getHashQueryStringValue (key) {  
+      return decodeURIComponent(window.location.hash.replace(new RegExp("^(?:.*[&\\#]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
+    }  
 </script>
