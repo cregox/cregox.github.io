@@ -8,6 +8,24 @@ published: true
 how can I help you today? it's probably better to **search** for it:
 
 <script>
+  function gcseSetForm () {
+      console.log(document.querySelectorAll('form'))
+      document.querySelectorAll('form').forEach(function(f){
+          f.onkeyup = function (e) { if (e.keyCode != 13) return; console.log('fuck'); setTimeout(window.onhashchange, 200); }
+      });
+  }
+  function gcseCallback () {
+    if (document.readyState == 'complete') {
+        gcseSetForm();
+    } else {
+        google.setOnLoadCallback(function() {
+            gcseSetForm();
+        }, true);
+    }
+  }
+  window.__gcse = {
+    callback: gcseCallback
+  };
   (function() {
     var cx = '010647840594061099018:ofzvp-qmvj4';
     var gcse = document.createElement('script');
