@@ -5,7 +5,7 @@ title: home
 published: true
 ---
 
-how can I help you today? it's probably better to search for your **topic**:
+how can I help you today? it's probably better to **search** for it:
 
 <script>
   (function() {
@@ -20,7 +20,7 @@ how can I help you today? it's probably better to search for your **topic**:
 </script>
 <gcse:search defaultToRefinement="main"></gcse:search>
 
-or do it similarly but [straight on google](https://www.google.com/?q=site:cregox.com+[random]).
+or go [straight to google](https://www.google.com/?q=site:cregox.com+[random]).
 
 or, or perhaps you want to check our [basiux](http://basiux.org) project (super A.i.)? "watch" some [fas tv](/tv)?
 
@@ -55,5 +55,5 @@ wondering what's up with my writing style, [locaws](https://medium.cregox.com/lo
     }
     function getHashQueryStringValue (key) {  
       return decodeURIComponent(window.location.hash.replace(new RegExp("^(?:.*[&\\#]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
-    }  
+    }
 })(); </script>
