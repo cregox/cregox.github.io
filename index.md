@@ -8,36 +8,6 @@ published: true
 how can I help you today? it's probably better to search for your **topic**:
 
 <script>
-function updateQueryString(key, value, url) {
-    if (!url) url = window.location.href;
-    var re = new RegExp("([?&])" + key + "=.*?(&|#|$)(.*)", "gi"),
-        hash;
-
-    if (re.test(url)) {
-        if (typeof value !== 'undefined' && value !== null)
-            return url.replace(re, '$1' + key + "=" + value + '$2$3');
-        else {
-            hash = url.split('#');
-            url = hash[0].replace(re, '$1$3').replace(/(&|\?)$/, '');
-            if (typeof hash[1] !== 'undefined' && hash[1] !== null)
-                url += '#' + hash[1];
-            return url;
-        }
-    }
-    else {
-        if (typeof value !== 'undefined' && value !== null) {
-            var separator = url.indexOf('?') !== -1 ? '&' : '?';
-            hash = url.split('#');
-            url = hash[0] + separator + key + '=' + value;
-            if (typeof hash[1] !== 'undefined' && hash[1] !== null)
-                url += '#' + hash[1];
-            return url;
-        }
-        else
-            return url;
-    }
-}
-  //document.location = updateQueryString('gsc.q', '[random]');
   (function() {
     var cx = '010647840594061099018:ofzvp-qmvj4';
     var gcse = document.createElement('script');
@@ -48,7 +18,7 @@ function updateQueryString(key, value, url) {
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search defaultToRefinement="main" autoSearchOnLoad="false"></gcse:search>
+<gcse:search defaultToRefinement="main"></gcse:search>
 
 or do it similarly but [straight on google](https://www.google.com/?q=site:cregox.com+[random]).
 
