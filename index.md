@@ -29,21 +29,31 @@ or, or perhaps you want to check our [basiux](http://basiux.org) project (super 
 
 wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
 
-<script>
+<script> (function() {
+    window.onhashchange = updateGoogleLinks;
+    window.onpopstate = updateGoogleLinks;
     var term = sample([
         'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
         'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
     ]);
-    var gcseTerm = getHashQueryStringValue('gsc.q');
-    if (gcseTerm) term = gcseTerm;
-    document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
-        item.href = item.href.replace('[random]', term);
-    })
+    var linksUpdated = [];
+    updateGoogleLinks();
+    function updateGoogleLinks () {
+        var gcseTerm = getHashQueryStringValue('gsc.q');
+        if (gcseTerm) term = gcseTerm;
+        linksUpdated.forEach(function(original){
+            original.item.href = original.href.replace('[random]', term);
+        })
+        document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
+            linksUpdated.push({item: item, href: item.href, term: term});
+            item.href = item.href.replace('[random]', term);
+        })
+    }
     function sample (items) {
         return items[Math.floor(Math.random() * items.length)];
     }
     function getHashQueryStringValue (key) {  
       return decodeURIComponent(window.location.hash.replace(new RegExp("^(?:.*[&\\#]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
     }  
-</script>
+})(); </script>
