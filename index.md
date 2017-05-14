@@ -18,7 +18,7 @@ how can I help you today? it's probably better to search for your **topic**:
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:search defaultToRefinement="main"></gcse:search>
 
 or do it similarly but [straight on google](https://www.google.com/?q=site:cregox.com+[random]).
 
