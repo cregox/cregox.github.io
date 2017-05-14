@@ -30,12 +30,13 @@ or, or perhaps you want to check our [basiux](http://basiux.org) project (super 
 wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
 
 <script>
+    var term = sample([
+        'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
+        'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
+        'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
+    ]);
     document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
-        item.href = item.href.replace('[random]', sample([
-            'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
-            'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
-            'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
-        ]));
+        item.href = item.href.replace('[random]', term);
     })
     function sample (items) {
         return items[Math.floor(Math.random() * items.length)];
