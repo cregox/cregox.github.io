@@ -23,3 +23,6 @@ slightly related
 
 - [StackOverflow](http://stackoverflow.com/story/cauerego) and [GitHub](https://github.com/cauerego) profiles
 - [Some photos for casting](https://b.cregox.com/caue-casting)
+
+![sky walk over Auckland](skywalkcauerecorte.jpg)
+*it's a me! in one of my "enjoying life" projects. :)*

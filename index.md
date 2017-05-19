@@ -24,9 +24,6 @@ or go [straight to google](https://www.google.com/?q=site:cregox.com+[random]).
 
 or, or perhaps you want to check our [basiux](http://basiux.org) project (super A.i.)? "watch" some [fas tv](/tv)?
 
-![sky walk on Auckland](skywalkcauerecorte.jpg)
-*it's a me!*
-
 wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
 
 <script> (function() {
