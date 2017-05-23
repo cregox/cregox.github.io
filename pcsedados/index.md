@@ -9,7 +9,7 @@ published: true
 
 this is, to date, about 14 years later, my coding project I'm most proud of. done in 2003.
 
-coincidentally, it is:
+coincidentally, it's:
 
 - still working
 - the longest one running
@@ -20,25 +20,26 @@ coincidentally, it is:
 
 [![pcsedados hire tax id](pcsedados hire tax id.png)](http://www.pcsedados.com.br/servicos/contr_recdados.asp)
 
-instead of login and password, just enter your tax id.
+instead of login and password, your "tax id" is all we need.
 
-we went with the idea that we only store publicly available data anyway. simplify.
+we went with the idea to store data which was already [publicly available]() anyway. simple.
 
 time have spoken: over 10 years with no issues.
 
-the other screens are just 2 regular forms, user data then the actual service order. finally one confirmation screen before submitting and one afterwards to say "thanks, we'll get in touch asap".
+the other screens are 2 regular forms: user data then the actual service order. lastly one confirmation screen before submitting and one afterwards to say "thanks, we'll get in touch asap".
 
 ### and this is the control panel (not an usual thing back then):
 
 ![pcsedados extranet](pcsedados extranet.png)
+<small>_granted, all the user the data outside the SO is publicly available but it's still a bit too sensitive to show it aggregated in this static page_</small>
 
-basically it just list the OS'es, have a way to search through it all, a CRUD and print. many prints.
+basically it lists the OS'es, have a way to search through it all, a CRUD and print.
 
-the whole team working on it was me and a web designer. using asp and access, so the company could manage the database themselves, and no javascript. back then client side scripts were not widespread and even considered bad as it would only function in a few places.
+me and a web designer were the whole team working on it. using asp and access, so the company could manage the database themselves, and no javascript. back then client side scripts were not widespread and even considered bad as it would function solely in a couple unpopular browsers.
 
-### all very ugly and outdated, isn't it?
+### ugly and outdated, isn't it?
 
-not much more than the rest of the web, though. just for reference and fun:
+not much more than the rest of the web, though. below there are some references also for fun:
 
 [![nintendo 2003](nintendo 2003.png)](http://web.archive.org/web/20030401081820/http://www.nintendo.com/index.jsp)
 
