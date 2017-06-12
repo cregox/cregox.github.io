@@ -4,6 +4,8 @@ layout: page
 title: resume
 published: true
 menu: true
+redirect_from:
+  - /curriculum/
 ---
 
 [skills self evaluation](http://s.cregox.com/skills)

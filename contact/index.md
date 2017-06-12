@@ -4,6 +4,8 @@ layout: page
 title: contact
 published: true
 menu: true
+redirect_from:
+- /contacts/
 ---
 
 Aha, no form here!

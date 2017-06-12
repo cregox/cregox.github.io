@@ -4,6 +4,8 @@ layout: page
 title: projects
 published: true
 menu: true
+redirect_from:
+  - /project/
 ---
 
 coding
