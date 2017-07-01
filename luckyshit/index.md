@@ -60,7 +60,7 @@ document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/
         break;
       }
     });
-    u.initPlugin(jQuery("#unityPlayer")[0], "https://dl.dropboxusercontent.com/u/140249/luckyshit/luckyshit.unity3d");
+    u.initPlugin(jQuery("#unityPlayer")[0], "luckyshit.unity3d");
   });
 -->
 </script>
