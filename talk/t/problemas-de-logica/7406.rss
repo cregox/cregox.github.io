@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Problemas de Lógica</title>
+    <link>http://talk.cregox.com/t/problemas-de-logica/7406</link>
+    <description>
+&lt;div&gt;&lt;div&gt;Hoje, por acaso, vi um &lt;a href=&quot;https://twitter.com/#!/lucasradaelli/status/139737140727779328&quot;&gt;tweet do Lucas Radaelli&lt;/a&gt; com um &lt;a href=&quot;http://www.twitlonger.com/show/ebtufi&quot;&gt;desafio de lógica&lt;/a&gt; e terminei lembrando de um outro sobre &lt;a href=&quot;http://www.cregox.com/cauecmrego/2007/06/penachos-de-ouro.html&quot;&gt;penachos de ouro que postei anos atrás&lt;/a&gt; e deixei sem resposta. Então resolvi compilar aqui algumas coisas relacionadas... E a resposta do problema lá em baixo, no finalzinho.&lt;p&gt;O mesmo desafio pode ser encontrado no &lt;a href=&quot;http://www.problemasdelogica.com.br/&quot;&gt;item 14 de um site esquisito&lt;/a&gt; enunciado assim:  
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;As galinhas de penacho dourado&lt;/b&gt; &lt;/blockquote&gt;
+&lt;blockquote&gt; Era uma vez um galinheiro muito curioso. Todas as galinhas possuíam um lindo penacho dourado, o que era motivo de muito  orgulho  para  elas. Tanto que, se alguma  galinha  descobre  que  perdeu  seu  maravilhoso penacho, no mesmo dia que ela descobre ela se mata. Mas só se  mata  à meia-noite,  em  um  horário  em  que  geralmente  as  galinhas  estão dormindo. &lt;/blockquote&gt;
+&lt;blockquote&gt; Porém, descobrir que perdeu o penacho pode levar muito tempo. Elas não conseguem olhar para o próprio penacho e não  se  comunicam  de  forma alguma uma  com  a  outra.  Mas  são  inteligentíssimas.  O  brilhante raciocínio lógico que elas têm é a única maneira delas descobrirem que perderam o penacho (pobres galinhas, se não  fossem  tão  inteligentes viveriam mais). &lt;/blockquote&gt;
+&lt;blockquote&gt; Certo dia, Tio Patinhas descobre esse galinheiro. Ganancioso como  ele é, já pensa em ganhar dinheiro com esses penachos. é, já pensa em ganhar dinheiro com esses penachos. Chama seu sobrinho, o Pato Donald, e o  manda  roubar  alguns  penachos.  Assim  ele  faz. Enquanto todas as galinhas dormiam, sem  que  ninguém   percebesse,  o malvado roubou os penachos de sete galinhas. Mas na fuga, com medo que alguém acordasse, deixou  cair  um  penacho,  que  ficou  no  meio  do galinheiro. &lt;/blockquote&gt;
+&lt;blockquote&gt;            Passados alguns dias, todas as galinhas  que  perderam  o  penacho  se matam, numa mesma noite. Pergunta: quantos dias  se  passaram  e  como elas descobriram?&lt;/blockquote&gt;E também um desafio muito similar um amigo meu encontrou numa &lt;a href=&quot;http://myitforum.com/cs2/blogs/rcrumbaker/archive/2007/09/10/crazy-questions-at-google-job-interview.aspx&quot;&gt;entrevista do google&lt;/a&gt; (e duvido que esse amigo sequer lembre que foi ele quem me mandou o link - até por que tive que atualizar o link que já não existia mais e encontrei um novo), no item 9, traduzido com o google translator e corrigido manualmente:  
+&lt;blockquote&gt;Todo homem em uma aldeia de 100 casais traíu sua esposa. Toda mulher na aldeia sabe instantaneamente quando um outro homem que não seu marido traiu sua respectiva esposa, mas não sabe sobre seu próprio marido. A vila tem uma lei que não permite adultério. Qualquer mulher que pode evidenciar que seu marido é infiel deve matá-lo naquele mesmo dia. As mulheres da aldeia nunca desobedeceriam a esta lei. Um dia, a rainha da aldeia visita e anuncia que pelo menos um marido foi infiel. O que acontece?&lt;/blockquote&gt;  
+&lt;div&gt;&lt;a href=&quot;https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f586e4b0e92b6eaacf68/1409611142851/1000w/&quot;&gt;&lt;img src=&quot;https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f586e4b0e92b6eaacf69/1409611142851/1000w/&quot;&gt;&lt;/a&gt;&lt;/div&gt;  
+&lt;b&gt;Resposta para os &lt;a href=&quot;http://www.cregox.com/cauecmrego/2007/06/penachos-de-ouro.html&quot;&gt;Penachos de Ouro&lt;/a&gt;&lt;/b&gt;&lt;p&gt;No fundo é a mesma resposta para todos esses desafios. Neste caso: 2 dias. No caso das galinhas (que, aliás, é um enunciado mil veze melhor do que o que eu fiz além de ser mais correto com o que eu hoje lembro do que escutei originalmente), 7 dias.&lt;/p&gt;
+&lt;p&gt;O difícil é entender por que. Vou lidar primeiro com o caso mais simples que enunciei.&lt;/p&gt;
+&lt;p&gt;Começemos imaginando a situação com somente 1 penacho roubado que caiu no chão. Todas aves verão 5 aves com penacho e 1 sem, exceto 1, que verá 6 aves com penacho e saberá que ela está sem, com certeza. As outras estarão na dúvida mas sabem que se for somente 1 ave que perdeu o penacho, ela se matará no mesmo dia seguinte pois ela tera certeza. Então aguardam o dia seguinte para tomarem ação e em somente 1 dia somente 1 ave já se matou.&lt;/p&gt;
+&lt;p&gt;Como no caso foram dois penachos, são 5 aves vendo &quot;&lt;i&gt;2 sem e 4 com&lt;/i&gt;&quot; e 2 aves vendo &quot;&lt;i&gt;1 sem e 5 com&lt;/i&gt;&quot;. Todas estão em dúvida, mas todas sabem a situação anterior, então todas esperam o primeiro dia. No segundo dia todas estarão vivas, então as 2 aves que viram somente 1 sem já sabem que elas também estão sem penacho, afinal estava uma esperando a outra se matar e não aconteceu por que uma viu que a outra estava sem. No dia 2, as 2 se matam.&lt;/p&gt;
+&lt;p&gt;Daí a lógica só se repete. O mesmo vale pra 3, 4, 5... No caso das galinhas a resposta é 7 dias.&lt;/p&gt;
+&lt;p&gt;No caso do desafio do google todos homens morrem em 100 dias, seguindo a mesma lógica acima. Mas li uma outra interpretação que &lt;a href=&quot;http://placementsindia.blogspot.com/2008/05/solutions-to-crazy-questions-at-google.html&quot;&gt;não entendi direito&lt;/a&gt; de que &quot;nenhuma esposa mata o marido&quot;. Algum comentário? :-P&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;small&gt;This is a companion discussion topic for the original entry at &lt;a href=&quot;http://www.cregox.com/blog/2011/11/problemas-de-logica.html&quot;&gt;http://www.cregox.com/blog/2011/11/problemas-de-logica.html&lt;/a&gt;&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Feb 2015 12:08:11 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/problemas-de-logica/7406.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Problemas de Lógica</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              
+<div><div>Hoje, por acaso, vi um <a href="https://twitter.com/#!/lucasradaelli/status/139737140727779328">tweet do Lucas Radaelli</a> com um <a href="http://www.twitlonger.com/show/ebtufi">desafio de lógica</a> e terminei lembrando de um outro sobre <a href="http://www.cregox.com/cauecmrego/2007/06/penachos-de-ouro.html">penachos de ouro que postei anos atrás</a> e deixei sem resposta. Então resolvi compilar aqui algumas coisas relacionadas... E a resposta do problema lá em baixo, no finalzinho.<p>O mesmo desafio pode ser encontrado no <a href="http://www.problemasdelogica.com.br/">item 14 de um site esquisito</a> enunciado assim:  
+</p>
+<blockquote>
+<b>As galinhas de penacho dourado</b> </blockquote>
+<blockquote> Era uma vez um galinheiro muito curioso. Todas as galinhas possuíam um lindo penacho dourado, o que era motivo de muito  orgulho  para  elas. Tanto que, se alguma  galinha  descobre  que  perdeu  seu  maravilhoso penacho, no mesmo dia que ela descobre ela se mata. Mas só se  mata  à meia-noite,  em  um  horário  em  que  geralmente  as  galinhas  estão dormindo. </blockquote>
+<blockquote> Porém, descobrir que perdeu o penacho pode levar muito tempo. Elas não conseguem olhar para o próprio penacho e não  se  comunicam  de  forma alguma uma  com  a  outra.  Mas  são  inteligentíssimas.  O  brilhante raciocínio lógico que elas têm é a única maneira delas descobrirem que perderam o penacho (pobres galinhas, se não  fossem  tão  inteligentes viveriam mais). </blockquote>
+<blockquote> Certo dia, Tio Patinhas descobre esse galinheiro. Ganancioso como  ele é, já pensa em ganhar dinheiro com esses penachos. é, já pensa em ganhar dinheiro com esses penachos. Chama seu sobrinho, o Pato Donald, e o  manda  roubar  alguns  penachos.  Assim  ele  faz. Enquanto todas as galinhas dormiam, sem  que  ninguém   percebesse,  o malvado roubou os penachos de sete galinhas. Mas na fuga, com medo que alguém acordasse, deixou  cair  um  penacho,  que  ficou  no  meio  do galinheiro. </blockquote>
+<blockquote>            Passados alguns dias, todas as galinhas  que  perderam  o  penacho  se matam, numa mesma noite. Pergunta: quantos dias  se  passaram  e  como elas descobriram?</blockquote>E também um desafio muito similar um amigo meu encontrou numa <a href="http://myitforum.com/cs2/blogs/rcrumbaker/archive/2007/09/10/crazy-questions-at-google-job-interview.aspx">entrevista do google</a> (e duvido que esse amigo sequer lembre que foi ele quem me mandou o link - até por que tive que atualizar o link que já não existia mais e encontrei um novo), no item 9, traduzido com o google translator e corrigido manualmente:  
+<blockquote>Todo homem em uma aldeia de 100 casais traíu sua esposa. Toda mulher na aldeia sabe instantaneamente quando um outro homem que não seu marido traiu sua respectiva esposa, mas não sabe sobre seu próprio marido. A vila tem uma lei que não permite adultério. Qualquer mulher que pode evidenciar que seu marido é infiel deve matá-lo naquele mesmo dia. As mulheres da aldeia nunca desobedeceriam a esta lei. Um dia, a rainha da aldeia visita e anuncia que pelo menos um marido foi infiel. O que acontece?</blockquote>  
+<div><a href="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f586e4b0e92b6eaacf68/1409611142851/1000w/"><img src="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f586e4b0e92b6eaacf69/1409611142851/1000w/" width="214" height="320"></a></div>  
+<b>Resposta para os <a href="http://www.cregox.com/cauecmrego/2007/06/penachos-de-ouro.html">Penachos de Ouro</a></b><p>No fundo é a mesma resposta para todos esses desafios. Neste caso: 2 dias. No caso das galinhas (que, aliás, é um enunciado mil veze melhor do que o que eu fiz além de ser mais correto com o que eu hoje lembro do que escutei originalmente), 7 dias.</p>
+<p>O difícil é entender por que. Vou lidar primeiro com o caso mais simples que enunciei.</p>
+<p>Começemos imaginando a situação com somente 1 penacho roubado que caiu no chão. Todas aves verão 5 aves com penacho e 1 sem, exceto 1, que verá 6 aves com penacho e saberá que ela está sem, com certeza. As outras estarão na dúvida mas sabem que se for somente 1 ave que perdeu o penacho, ela se matará no mesmo dia seguinte pois ela tera certeza. Então aguardam o dia seguinte para tomarem ação e em somente 1 dia somente 1 ave já se matou.</p>
+<p>Como no caso foram dois penachos, são 5 aves vendo "<i>2 sem e 4 com</i>" e 2 aves vendo "<i>1 sem e 5 com</i>". Todas estão em dúvida, mas todas sabem a situação anterior, então todas esperam o primeiro dia. No segundo dia todas estarão vivas, então as 2 aves que viram somente 1 sem já sabem que elas também estão sem penacho, afinal estava uma esperando a outra se matar e não aconteceu por que uma viu que a outra estava sem. No dia 2, as 2 se matam.</p>
+<p>Daí a lógica só se repete. O mesmo vale pra 3, 4, 5... No caso das galinhas a resposta é 7 dias.</p>
+<p>No caso do desafio do google todos homens morrem em 100 dias, seguindo a mesma lógica acima. Mas li uma outra interpretação que <a href="http://placementsindia.blogspot.com/2008/05/solutions-to-crazy-questions-at-google.html">não entendi direito</a> de que "nenhuma esposa mata o marido". Algum comentário? :-P</p>
+</div></div>
+
+<hr>
+<small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2011/11/problemas-de-logica.html">http://www.cregox.com/blog/2011/11/problemas-de-logica.html</a></small>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/problemas-de-logica/7406/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/problemas-de-logica/7406/1</link>
+        <pubDate>Thu, 12 Feb 2015 11:23:42 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7406-1</guid>
+        <source url="http://talk.cregox.com/t/problemas-de-logica/7406.rss">Problemas de Lógica</source>
+      </item>
+  </channel>
+</rss>

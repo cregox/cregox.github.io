@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Construindo amigo do hd</title>
+    <link>http://talk.cregox.com/t/construindo-amigo-do-hd/3344</link>
+    <description>**Mudando um pouco a proposta:**
+
+Não vou trabalhar no design, apenas te **ensinar** a usar as ferramentas. Só pra deixar claro. Foi o que fiz no meu site (tirando o logo, que paguei por ele), e quero que **você aprenda a fazer** a mesma coisa.
+
+Assim, eis o que pretendo te ensinar a fazer:
+
+- Qual a importância de **aprender TI**.
+
+- Usar o **google**.
+
+- Forums via **discourse**: custos começam com U$20 por mês e aumentam conforme precisar. Esta pode ser a casa do &quot;amigodohd.com&quot; ou algo assim.
+
+- Novo site no **squarespace**, com blog: custo cerca de U$8 por mês, pagos anualmente
+
+- Configurar domínios e etc: usaremos **hover**, squarespace e **cloudflare**, tudo incluso no preço ou começa gratuíto
+
+- Sistema de Ordem de Serviço: sugiro adotar o **uservoice**, que começa gratuíto, ou talvez o **zendesk**, começa com U$1 por mês ou muito talvez o **osticket** mesmo. Também corre bem por fora o **getsatisfaction**. Pelo que andei vendo o uservoice eh melhor que todos os outros juntos!
+
+- Mais qualquer detalhe que precisar, naturalmente (tudo questão do &quot;tempo&quot;)
+
+Nesta lista já sei que está faltando o que não combinamos que eu poderia ajudar a fazer, pelo menos nesta primeira etapa:
+
+- Nota fiscal (aconselho bastante o **vinco**)
+
+- Pagamentos online (**moip**, **coinverse**/bitcoin e **payleven** são opções que funcionam no brasil)
+
+E, por fim, vale lembrar que pretendo investir do meu tempo em paralelo para focar [minha escola][1] para o amigo do hd, ou algum projeto parecido... Mas este é um formato que ainda vou ter que pensar em como fazer e depois explicar direito! ;)
+
+
+  [1]: http://cregox.com/escola</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2014 22:09:21 +0000</lastBuildDate>
+    <category>portuguese</category>
+    <atom:link href="http://talk.cregox.com/t/construindo-amigo-do-hd/3344.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Construindo amigo do hd</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Você podia ter editado a primeira mensagem! Eu acabei de editar a minha lá em cima. <img src="/images/emoji/emoji_one/smiley.png" title=":smiley:" class="emoji" alt="smiley"></p>
+
+<p>Desculpe-me por ele e pela confusão. Fico no aguardo. Tentarei falar com ele.</p>
+
+<aside class="quote" data-post="3" data-topic="3344"><div class="title"><div class="quote-controls"></div><img width='20' height='20' src='/letter_avatar/ricardo_augusto_rama/40/2.png' class='avatar'>Ricardo_Augusto_Rama said:</div><blockquote><p>faço o comparativo com o asp , quem mexe?</p></blockquote></aside>
+
+<p>A proposta mudou. Eu não iria mais só fazer, ia te ensinar a fazer e/ou fazer junto. Daí você mexe. Nada de programação, aliás. Em nenhuma das propostas, desde o começo deste tópico.</p>
+
+<p>De toda forma, já te dei todo o mapa do caminho a trilhar. Recomendo muito ir por esse caminho. Se quer economizar na aula / consultoria e gastar tempo se virando sozinho, acredito que esse tempo será melhor gasto tentando aprender o mapa do que fazendo processos manuais. Estude ele, vale a pena. <img src="/images/emoji/emoji_one/wink.png" title=":wink:" class="emoji" alt="wink"></p>
+
+<aside class="quote" data-post="3" data-topic="3344"><div class="title"><div class="quote-controls"></div><img width='20' height='20' src='/letter_avatar/ricardo_augusto_rama/40/2.png' class='avatar'>Ricardo_Augusto_Rama said:</div><blockquote><p>da cabeça dele.</p></blockquote></aside>
+
+<p>Qualquer um que conheçe ele sabe disso.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/construindo-amigo-do-hd/3344/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/construindo-amigo-do-hd/3344/4</link>
+        <pubDate>Mon, 06 Oct 2014 22:09:21 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-3344-4</guid>
+        <source url="http://talk.cregox.com/t/construindo-amigo-do-hd/3344.rss">Construindo amigo do hd</source>
+      </item>
+      <item>
+        <title>Construindo amigo do hd</title>
+        <dc:creator><![CDATA[@Ricardo_Augusto_Rama Ricardo Augusto Ramalho]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/ricardo_augusto_rama">@Ricardo_Augusto_Rama</a> wrote:</p>
+          <blockquote>
+              <p>Ops, só para concluir a questão site -  possuir algo que dependeremos da empresa  la de fora para dar manutenção ou realizar mudanças fica complicado,  faço o comparativo com o asp , quem mexe?  o Otávio disse que arruma alguém caso você resolva viajar e ficar uns tempos fora do país... pois bem , eu acredito que o Otávio não vai encontrar essa pessoa  e ficaremos a "ver navios"   , por isso , sou a favor do pacote comercial pronto , possui riscos?  sim , mas tem a empresa de hospedagem dando um " pseudo suporte "  fazer algo personalizado é legal quando o pós venda - suporte existe , vai que em Janeiro você descobre outra tecnologia e não queira mais trabalhar com essa ? ou resolva mudar com a Maíra para a Inglaterra?  São incertezas  que surgiram , achei legal o lance do fórum , e não sei se consigo aproveitar o Otávio como jornalista , comentei com ele que  talvez ele escrevesse algo para publicar esporadicamente , tipo quinzenal ? mensal? bimestral? não definido . Talvez o bonificaria por texto, foi o máximo que falei com ele , claro, ele me fez perguntas e respondi, mas nada além disso, não entendo o que ele faz aqui quase  todos os dias.... ? quero deixar claro que não o contratei e ele não representa nenhum assunto da pcsedados se por acaso está levando informações até você é da cabeça dele.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/construindo-amigo-do-hd/3344/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/construindo-amigo-do-hd/3344/3</link>
+        <pubDate>Mon, 06 Oct 2014 20:02:50 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-3344-3</guid>
+        <source url="http://talk.cregox.com/t/construindo-amigo-do-hd/3344.rss">Construindo amigo do hd</source>
+      </item>
+      <item>
+        <title>Construindo amigo do hd</title>
+        <dc:creator><![CDATA[@Ricardo_Augusto_Rama Ricardo Augusto Ramalho]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/ricardo_augusto_rama">@Ricardo_Augusto_Rama</a> wrote:</p>
+          <blockquote>
+              <p>Olá Caue</p>
+
+<p>Cara eu nem sei o que o Otavio está fazendo aqui ou falando para você, ele foi chegando disse que passaria 1 ou 2 x na semana após o expediente , pediu para mexer no item ajuda e queria escrever ... agora me deparo com ele aqui todos os dias. ????  Traz pessoas sem autorização para dentro do laboratório ... sendo seu amigo ok, só que nem parente entra aqui , quanto mais amigo do amigo. <br>E falando em amigo do hd , esse é um nick meu de faculdade , não pensei em associá-lo a pcsedados que é a questão. Quando precisei do site funcionar em asp , voce ajudou com o teste que o problema não era o mdb , era voltar um anterior e deveria funcionar .... o pessoal da braslink resolveu o problema , daí novamente o assunto site. E diante que estou verificando, tenho tres opções de trabalho , adquirir o programa Gdoor que faz o gerenciamento e controle da Ordem de Serviço ( local ) , criar um site estatico apenas solicitando o cadastro do nome, e-mail, e dados do disco , retorno por e-mail um formulario para ser preenchido e encaminhado com o dispositivo ( alguns concorrentes fazem isso ) outra opção fazer o site e forum com voce ... não defini e não conversei com o Rabaça e não será essa semana que estarei definindo , estou com inumeros exames sendo realizados e sem saco pra nada, por esse motivo nem e-mail abro só o da empresa ... na segunda feira que vem afirmo se vamos contratar algum serviço proposto . Em relação ao Otavio vou perguntar a ele hoje o que tanto faz aqui na empresa. <br>abraço</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/construindo-amigo-do-hd/3344/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/construindo-amigo-do-hd/3344/2</link>
+        <pubDate>Mon, 06 Oct 2014 19:47:51 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-3344-2</guid>
+        <source url="http://talk.cregox.com/t/construindo-amigo-do-hd/3344.rss">Construindo amigo do hd</source>
+      </item>
+      <item>
+        <title>Construindo amigo do hd</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><strong>Mudando um pouco a proposta:</strong></p>
+
+<p>Não vou trabalhar no design, apenas te <strong>ensinar</strong> a usar as ferramentas. Só pra deixar claro. Foi o que fiz no meu site (tirando o logo, que paguei por ele), e quero que <strong>você aprenda a fazer</strong> a mesma coisa.</p>
+
+<p>Assim, eis o que pretendo te ensinar a fazer:</p>
+
+<ul><li><p>Qual a importância de <strong>aprender TI</strong>.</p></li><li><p>Usar o <strong>google</strong>.</p></li><li><p>Forums via <strong>discourse</strong>: custos começam com U$20 por mês e aumentam conforme precisar. Esta pode ser a casa do "amigodohd.com" ou algo assim.</p></li><li><p>Novo site no <strong>squarespace</strong>, com blog: custo cerca de U$8 por mês, pagos anualmente</p></li><li><p>Configurar domínios e etc: usaremos <strong>hover</strong>, squarespace e <strong>cloudflare</strong>, tudo incluso no preço ou começa gratuíto</p></li><li><p>Sistema de Ordem de Serviço: sugiro adotar o <strong>uservoice</strong>, que começa gratuíto, ou talvez o <strong>zendesk</strong>, começa com U$1 por mês ou muito talvez o <strong>osticket</strong> mesmo. Também corre bem por fora o <strong>getsatisfaction</strong>. Pelo que andei vendo o uservoice eh melhor que todos os outros juntos!</p></li><li><p>Mais qualquer detalhe que precisar, naturalmente (tudo questão do "tempo")</p></li></ul>
+
+<p>Nesta lista já sei que está faltando o que não combinamos que eu poderia ajudar a fazer, pelo menos nesta primeira etapa:</p>
+
+<ul><li><p>Nota fiscal (aconselho bastante o <strong>vinco</strong>)</p></li><li><p>Pagamentos online (<strong>moip</strong>, <strong>coinverse</strong>/bitcoin e <strong>payleven</strong> são opções que funcionam no brasil)</p></li></ul>
+
+<p>E, por fim, vale lembrar que pretendo investir do meu tempo em paralelo para focar <a href="http://cregox.com/escola">minha escola</a> para o amigo do hd, ou algum projeto parecido... Mas este é um formato que ainda vou ter que pensar em como fazer e depois explicar direito! <img src="/images/emoji/emoji_one/wink.png" title=":wink:" class="emoji" alt="wink"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/construindo-amigo-do-hd/3344/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/construindo-amigo-do-hd/3344/1</link>
+        <pubDate>Fri, 03 Oct 2014 16:11:36 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-3344-1</guid>
+        <source url="http://talk.cregox.com/t/construindo-amigo-do-hd/3344.rss">Construindo amigo do hd</source>
+      </item>
+  </channel>
+</rss>

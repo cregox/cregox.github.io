@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</title>
+    <link>http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434</link>
+    <description>
+&lt;div&gt;&lt;div&gt;
+      &lt;div&gt;
+        
+          &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Only reason I&#39;m posting this is here so I can add that bookmarklet properly:  
+&lt;blockquote&gt;
+&lt;b&gt;&lt;a href=&quot;javascript:window.location+=&#39;&amp;amp;list=UL&#39;&quot;&gt;youtube list&lt;/a&gt; (drag this to your bookmark bar)&lt;/b&gt;
+&lt;/blockquote&gt;
+&lt;b&gt;How can I automatically play all videos of a channel without clicking each video?&lt;/b&gt;&lt;p&gt;This question is &lt;a href=&quot;http://webapps.stackexchange.com/questions/9702/play-all-youtube-videos-uploaded-by-one-user&quot;&gt;from StackExchange&#39;s web apps&lt;/a&gt;:  
+&lt;/p&gt;
+&lt;blockquote&gt;
+Is there a way to play all YouTube videos uploaded by a particular user? Obviously I could create a playlist, add each video to it, then play the entire playlist, but is there a simpler way?  
+For example, I want to play all 58 videos uploaded by a single user.  
+How can I do it?&lt;/blockquote&gt;
+To which &lt;a href=&quot;http://webapps.stackexchange.com/a/57179/4616&quot;&gt;I have already answered there&lt;/a&gt; as well:  
+&lt;blockquote&gt;
+&lt;p&gt;
+URL hacking for the rescue! You can append &lt;code&gt;&amp;amp;list=UL&lt;/code&gt; to the end of a video URL from that user.&lt;/p&gt;
+&lt;p&gt;
+So, if you have:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;https://www.youtube.com/watch?v=zucBfXpCA6s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+it should become:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;                                           ^ right here
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+You could also add something like this to your bookmark and simply click on it:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;javascript:window.location+=&#39;&amp;amp;list=UL&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+Select it then drag and drop it on your bookmarks. I couldn&#39;t figure out how to properly &lt;code&gt;href&lt;/code&gt; it here in stackexchange! :(&lt;/p&gt;
+&lt;p&gt;
+The only &quot;issue&quot; with this is that it will make a list always in the same weird order.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+        
+        &lt;p&gt;
+          
+        
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          
+&lt;/p&gt;
+        
+      &lt;/div&gt;
+      
+    &lt;/div&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;small&gt;This is a companion discussion topic for the original entry at &lt;a href=&quot;http://www.cregox.com/blog/2014/02/blog-post.html&quot;&gt;http://www.cregox.com/blog/2014/02/blog-post.html&lt;/a&gt;&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2015 14:48:36 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              
+<div><div>
+      <div>
+        
+          <div><div><div><div><div>Only reason I'm posting this is here so I can add that bookmarklet properly:  
+<blockquote>
+<b><a href="javascript:window.location+='&amp;list=UL'">youtube list</a> (drag this to your bookmark bar)</b>
+</blockquote>
+<b>How can I automatically play all videos of a channel without clicking each video?</b><p>This question is <a href="http://webapps.stackexchange.com/questions/9702/play-all-youtube-videos-uploaded-by-one-user">from StackExchange's web apps</a>:  
+</p>
+<blockquote>
+Is there a way to play all YouTube videos uploaded by a particular user? Obviously I could create a playlist, add each video to it, then play the entire playlist, but is there a simpler way?  
+For example, I want to play all 58 videos uploaded by a single user.  
+How can I do it?</blockquote>
+To which <a href="http://webapps.stackexchange.com/a/57179/4616">I have already answered there</a> as well:  
+<blockquote>
+<p>
+URL hacking for the rescue! You can append <code>&amp;list=UL</code> to the end of a video URL from that user.</p>
+<p>
+So, if you have:</p>
+<pre><code>https://www.youtube.com/watch?v=zucBfXpCA6s
+</code></pre>
+<p>
+it should become:</p>
+<pre><code>                                           ^ right here
+</code></pre>
+<p>
+You could also add something like this to your bookmark and simply click on it:</p>
+<pre><code>javascript:window.location+='&amp;list=UL'
+</code></pre>
+<p>
+Select it then drag and drop it on your bookmarks. I couldn't figure out how to properly <code>href</code> it here in stackexchange! :(</p>
+<p>
+The only "issue" with this is that it will make a list always in the same weird order.</p>
+</blockquote>
+</div></div></div></div></div>
+        
+        <p>
+          
+        
+        </p>
+        
+        <p>
+          
+</p>
+        
+      </div>
+      
+    </div></div>
+
+<hr>
+<small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/02/blog-post.html">http://www.cregox.com/blog/2014/02/blog-post.html</a></small>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1</link>
+        <pubDate>Sun, 01 Mar 2015 14:20:34 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7434-1</guid>
+        <source url="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss">Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>From God&#39;s Debris to data loss... Why people love forgetting so much?</title>
+    <link>http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750</link>
+    <description>## I kinda **hate** forgetting.
+
+Not because of the [spotless mind][1] at all, but because data is very useful. The internet only became what it is once Google came around, and enabled us to **remind** virtually anything.
+
+This will be very dense...
+
+To me, *forgetting* is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone&#39;s life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! :)
+
+Granted, there is a value in customizing search results. And not only for each person, but for each usage. When you search for &quot;apple&quot; you might want to know more about the fruit or the company, depending on your current mindset context, which might be far from obvious. On another hand, outdated data can also get too much neural connections in it and gain a bad rank up - since it&#39;s outdated. It&#39;s still better to demote it (for being old) than to forget / erase it. We might still want or need old data, eventually. And that&#39;s the same basic principle that could be applied to define which apple we&#39;re looking for - need dynamic weights on context. Not just *forgetting* things.
+
+Even considering how the *universe can conspire* in our favor when we do lose data, it doesn&#39;t mean it wouldn&#39;t still conspire if we didn&#39;t.
+
+This leads us to the following very connected story, which could represent how important keeping data can be to people...
+
+##Enter yet again, the skeptics
+
+Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin&#39; dedicated hour to finally find it. And indeed, [it was wiped][2] (&lt;small&gt;[here is the print of the wiped &quot;broken&quot; link][9] in which @user6907 is Scott Adams - only logged in users with permission can see it&lt;/small&gt;). Again. At least, like [before][3], it was not 100% trashed away, or else I couldn&#39;t recover it. *Cool enough, that &quot;before&quot; post linked there is by far the highest visited page on cregox.com :sunglasses:. Anyway...*
+
+The **serendipity** (universal conspiration) of how, after that, I also found a very valuable piece of information (see below) to me is quite entertaining and important. To me only. The chain started with someone opening up a slack #ai channel, then me participating in some conversations there, ending up talking about books with that same one, and how the last one I&#39;ve read was God&#39;s Debris, which is an interesting read despite being filled with woo and terrible so called &quot;science&quot;. Awfully terrible.
+
+The good part was the awesome science I got to when, looking for my deleted post, I ended up finding a new brief conversation [Scott][4] had with [Steven][5]. Which also lead me to hear bits of episodes #502 and [#455][6]... That last old one brought to my attention a particular Mathematician and [his amazing achievement][7] resolving the [twin prime conjecture][8] (if twin primes were an infinite set or not): **Yitang Zhang**.
+
+Now, you see, this was a **huge open / unsolved mathematical question for millennia**. Many tried, none succeeded. Many groups joined efforts, nothing was achieved. The highly unlikely man not only did it, he came out from a place nobody would ever expect (being 57 year old with almost no previous notation). Okay, doing all that &quot;fun&quot; maths will probably never ever have any practical use. But still, it was an amazing *scientific* event.
+
+&lt;details&gt;&lt;summary&gt;More about the discovery ...&lt;/summary&gt;
+After years working alone he found a number on the thousands (although wikipedia says &quot;less than 70 million, I think the podcast said on the thousands) that was later reduced to a number on the hundreds (on the podcast they probably say 252, but on wikipedia they say it was 246). Today the number is 6 (also my current favorite number, coincidentally). That is the number of difference between two primes that can go to infinity. In other words, there are an infinite number of primes that differ by 6 from each other, just like 5 differs 6 from 11, 2 prime numbers. That number was thought to not exist up to 2013 because when we see a pattern on prime numbers going up, they seem to be getting always more and more apart from each other. It&#39;s just not true.
+&lt;/details&gt;
+
+I needed this inspiration today. It helps my mindset a lot. A lot.
+
+## I had forgotten about that!
+
+We sure need to forget, we couldn&#39;t handle remembering everything. Not enough storage or processing power. We feel better if our heads aren&#39;t filled with confusing data, it can become too hard to digest and compress it, a.k.a. understand / internalize it.
+
+That doesn&#39;t mean forgetting is something desirable.
+
+Also *(I forgot what I was going to write here, lol)*.
+
+Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I&#39;ll just hit &quot;Create Topic&quot; now, and eventually edit it later. :ocean: 
+
+# Too Long
+
+Editing this couple months later, I haven&#39;t re-read it myself. Just adding this because of those last notes right above here.
+
+Point I was trying to make probably was along these lines: 
+
+People love forgetting because our **brain needs** to. It&#39;s only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make **life** so much more fun and interesting! :)
+
+
+  [1]: http://www.imdb.com/title/tt0338013/combined
+  [2]: http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science
+  [3]: http://talk.cregox.com/t/only-for-geniuses-and-not-for-stack-exchangers/68
+  [4]: http://blog.dilbert.com/post/112326463991/skeptics-say-science-has-no-obligation-to
+  [5]: http://theness.com/neurologicablog/index.php/scott-adams-on-science-and-nutrition/
+  [6]: https://www.sgutranscripts.org/wiki/SGU_Episode_455
+  [7]: https://en.wikipedia.org/wiki/Yitang_Zhang#Research
+  [8]: https://en.wikipedia.org/wiki/Twin_prime#History
+  [9]: https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Mar 2016 01:04:44 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>From God&#39;s Debris to data loss... Why people love forgetting so much?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <h2>I kinda <strong>hate</strong> forgetting.</h2>
+
+<p>Not because of the <a href="http://www.imdb.com/title/tt0338013/combined">spotless mind</a> at all, but because data is very useful. The internet only became what it is once Google came around, and enabled us to <strong>remind</strong> virtually anything.</p>
+
+<p>This will be very dense...</p>
+
+<p>To me, <em>forgetting</em> is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone's life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+
+<p>Granted, there is a value in customizing search results. And not only for each person, but for each usage. When you search for "apple" you might want to know more about the fruit or the company, depending on your current mindset context, which might be far from obvious. On another hand, outdated data can also get too much neural connections in it and gain a bad rank up - since it's outdated. It's still better to demote it (for being old) than to forget / erase it. We might still want or need old data, eventually. And that's the same basic principle that could be applied to define which apple we're looking for - need dynamic weights on context. Not just <em>forgetting</em> things.</p>
+
+<p>Even considering how the <em>universe can conspire</em> in our favor when we do lose data, it doesn't mean it wouldn't still conspire if we didn't.</p>
+
+<p>This leads us to the following very connected story, which could represent how important keeping data can be to people...</p>
+
+<h2>Enter yet again, the skeptics</h2>
+
+<p>Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin' dedicated hour to finally find it. And indeed, <a href="http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science">it was wiped</a> (<small><a href="https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf">here is the print of the wiped "broken" link</a> in which <span class="mention">@user6907</span> is Scott Adams - only logged in users with permission can see it</small>). Again. At least, like <a href="http://talk.cregox.com/t/only-for-geniuses-and-not-for-stack-exchangers/68">before</a>, it was not 100% trashed away, or else I couldn't recover it. <em>Cool enough, that "before" post linked there is by far the highest visited page on cregox.com <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunglasses.png?v=2" title=":sunglasses:" class="emoji" alt=":sunglasses:">. Anyway...</em></p>
+
+<p>The <strong>serendipity</strong> (universal conspiration) of how, after that, I also found a very valuable piece of information (see below) to me is quite entertaining and important. To me only. The chain started with someone opening up a slack <span class="hashtag">#ai</span> channel, then me participating in some conversations there, ending up talking about books with that same one, and how the last one I've read was God's Debris, which is an interesting read despite being filled with woo and terrible so called "science". Awfully terrible.</p>
+
+<p>The good part was the awesome science I got to when, looking for my deleted post, I ended up finding a new brief conversation <a href="http://blog.dilbert.com/post/112326463991/skeptics-say-science-has-no-obligation-to">Scott</a> had with <a href="http://theness.com/neurologicablog/index.php/scott-adams-on-science-and-nutrition/">Steven</a>. Which also lead me to hear bits of episodes <span class="hashtag">#502</span> and <a href="https://www.sgutranscripts.org/wiki/SGU_Episode_455">#455</a>... That last old one brought to my attention a particular Mathematician and <a href="https://en.wikipedia.org/wiki/Yitang_Zhang#Research">his amazing achievement</a> resolving the <a href="https://en.wikipedia.org/wiki/Twin_prime#History">twin prime conjecture</a> (if twin primes were an infinite set or not): <strong>Yitang Zhang</strong>.</p>
+
+<p>Now, you see, this was a <strong>huge open / unsolved mathematical question for millennia</strong>. Many tried, none succeeded. Many groups joined efforts, nothing was achieved. The highly unlikely man not only did it, he came out from a place nobody would ever expect (being 57 year old with almost no previous notation). Okay, doing all that "fun" maths will probably never ever have any practical use. But still, it was an amazing <em>scientific</em> event.</p>
+
+<p><details><summary>More about the discovery ...</summary>
+
+<p>After years working alone he found a number on the thousands (although wikipedia says "less than 70 million, I think the podcast said on the thousands) that was later reduced to a number on the hundreds (on the podcast they probably say 252, but on wikipedia they say it was 246). Today the number is 6 (also my current favorite number, coincidentally). That is the number of difference between two primes that can go to infinity. In other words, there are an infinite number of primes that differ by 6 from each other, just like 5 differs 6 from 11, 2 prime numbers. That number was thought to not exist up to 2013 because when we see a pattern on prime numbers going up, they seem to be getting always more and more apart from each other. It's just not true.</p>
+
+<p></p></details></p>
+
+<p>I needed this inspiration today. It helps my mindset a lot. A lot.</p>
+
+<h2>I had forgotten about that!</h2>
+
+<p>We sure need to forget, we couldn't handle remembering everything. Not enough storage or processing power. We feel better if our heads aren't filled with confusing data, it can become too hard to digest and compress it, a.k.a. understand / internalize it.</p>
+
+<p>That doesn't mean forgetting is something desirable.</p>
+
+<p>Also <em>(I forgot what I was going to write here, lol)</em>.</p>
+
+<p>Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I'll just hit "Create Topic" now, and eventually edit it later. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/ocean.png?v=2" title=":ocean:" class="emoji" alt=":ocean:"> </p>
+
+<h1>Too Long</h1>
+
+<p>Editing this couple months later, I haven't re-read it myself. Just adding this because of those last notes right above here.</p>
+
+<p>Point I was trying to make probably was along these lines: </p>
+
+<p>People love forgetting because our <strong>brain needs</strong> to. It's only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make <strong>life</strong> so much more fun and interesting! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1</link>
+        <pubDate>Sun, 15 Nov 2015 11:19:01 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7750-1</guid>
+        <source url="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss">From God&#39;s Debris to data loss... Why people love forgetting so much?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>meta - cregox talk</title>
+    <link>http://talk.cregox.com/c/meta</link>
+    <description>Topics in the &#39;meta&#39; category Discussion about this forum, its organization, how it works, and how we can improve it.</description>
+    <language>en</language>
+      <lastBuildDate>Thu, 06 Apr 2017 08:53:39 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/meta.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Shut down announcement</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>this host will shut down soon, probably before July!</p>
+
+<p><a href="http://explosm.net/comics/1135/"><img src="https://talk-cdn.cregox.com/uploads/default/original/1X/abd89729faa2d0b45fc8037fe0e711fb8baca471.png" alt='googled for "pull the plug" animated images, found it thanks to link from &lt;a href="http://www.funnyjunk.com/funny_pictures/89591/Pull#69470a_159660"&gt;http://www.funnyjunk.com/funny_pictures/89591/Pull#69470a_159660&lt;/a&gt; and went for full credit' width="489" height="396"></a><br><small><em>don't freak out!</em></small></p>
+
+<p>I've actually announced this "trend" a while ago <a href="http://blog.cregox.com/medium-new-blog-announcement-eYdVBD2">elsewhere</a>.</p>
+
+<p>got an awesome digital ocean support feedback from an email I wrote them about this situation. basically, they cheered me up, told me to hang in there, <strong>and gave me U$40 of credit</strong> <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=3" title=":smiley:" class="emoji" alt=":smiley:"> so I could have enough time to figure out what to do. I decided to go with little to no work...</p>
+
+<p>basically I'll manually <a href="https://meta.discourse.org/t/print-long-topic-to-pdf-redux-again/44639/45?u=cregox">print</a> some relevant topics and host it somewhere. I'll keep full backups of the whole talk, and it should be easy to bring it back up in the next few years, if anyone wishes to. and until the last day here (see below) I'll try to do some scripting for exporting as much content as possible.</p>
+
+<p>at some point I may want to <a href="https://meta.discourse.org/t/freezing-discourse-site/23225/2?u=cregox">freeze</a> the whole site and not allow any new posts, just to keep the last backup consistent.</p>
+
+<p>not sure when exactly the plug will be pulled though, it will be for whichever comes first: I finish exporting or the current credit is over. right now I've got $37.40 and a $12 bill per month so current date estimations point to July 6th as the last day.</p>
+
+<p>finally, for further reference, always go to the main domain: <a href="https://cregox.com">https://cregox.com</a> or google. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=3" title=":wink:" class="emoji" alt=":wink:"></p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/shut-down-announcement/7945">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/shut-down-announcement/7945</link>
+          <pubDate>Thu, 06 Apr 2017 08:53:39 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7945</guid>
+          <source url="http://talk.cregox.com/t/shut-down-announcement/7945.rss">Shut down announcement</source>
+        </item>
+        <item>
+          <title>Spoiler tag not working</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><span class="spoiler">This should work.</span> Why doesn't it?</p>
+
+<p>The above line's source is like the below:</p>
+
+<p><code>[spoiler]This should work.[/spoiler] Why doesn't it?</code></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/spoiler-tag-not-working/7648">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/spoiler-tag-not-working/7648</link>
+          <pubDate>Wed, 17 Jun 2015 16:32:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7648</guid>
+          <source url="http://talk.cregox.com/t/spoiler-tag-not-working/7648.rss">Spoiler tag not working</source>
+        </item>
+        <item>
+          <title>Similar web sites / forums</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>I just got some pointers from <a href="http://www.freewebs.com/opend/contactus.htm">Paul</a> (on a <a href="https://chatbox.com/#/p=0v4VBpcPvRI=_dSc8y-vFSQHPGSqAfgW6ycY78k=">chat</a>) to websites supposedly trying to achieve same thing as I did when I created this site. I consider those very different attempts, but they help me realize what other people think of how clear the approach is here (currently not clear at all):</p>
+
+<p><a href="https://www.erowid.org/" class="onebox" target="_blank">https://www.erowid.org/</a><br><a href="http://www.shroomery.org">http://www.shroomery.org</a> for those mycologists out there<br><a href="http://www.physicsforums.com/">http://www.physicsforums.com/</a> if physics is your thing or <a href="http://my.rsc.org">http://my.rsc.org</a></p>
+
+<p>Do you have any other similar web site links? If I ever see one that's truly similar I'd gladly just drop this site. <img src="//talk.cregox.com/images/emoji/emoji_one/smiley.png" title=":smiley:" class="emoji" alt="smiley" width="64" height="64"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/similar-web-sites-forums/52">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/similar-web-sites-forums/52</link>
+          <pubDate>Mon, 04 Aug 2014 14:45:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-52</guid>
+          <source url="http://talk.cregox.com/t/similar-web-sites-forums/52.rss">Similar web sites / forums</source>
+        </item>
+        <item>
+          <title>Disconnect this from SGU?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>A friend brought in this shiny new idea: <em>why SGU?</em></p>
+
+<p>I don't know.</p>
+
+<p>Maybe I should indeed make this a completely separated project. After all, nobody from SGU showed any interest in it and so it's just a fan-made website. Maybe that way it could bring more interest in the project from a wider audience... I'm just not sure I wanted to see it become too big. Not really something to worry right now, huh?</p>
+
+<p>What do you think? ( <em>Is anyone there?</em> )</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/disconnect-this-from-sgu/23">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/disconnect-this-from-sgu/23</link>
+          <pubDate>Fri, 20 Jun 2014 19:47:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-23</guid>
+          <source url="http://talk.cregox.com/t/disconnect-this-from-sgu/23.rss">Disconnect this from SGU?</source>
+        </item>
+        <item>
+          <title>Password strength</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <h1>Beware of your password security!</h1>
+
+<p><a href="http://talk.cregox.com/t/more-about-passwords-yet-again-xkcd-was-dead-wrong/7743?u=cregox">Just don't even make a password here</a>. Set openids / oAuth, preferably in all of them: GitHub, Google, Twitter, etc. But picking 2 is good enough to have a backup, in case one of them crashes.</p>
+
+<p>Also, feel free to make a strong password, by all means. Right now it's enforced for at least 21 characters.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/password-strength/10">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/password-strength/10</link>
+          <pubDate>Sun, 08 Jun 2014 03:57:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-10</guid>
+          <source url="http://talk.cregox.com/t/password-strength/10.rss">Password strength</source>
+        </item>
+        <item>
+          <title>A beginning for the forums here</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Hello there,</p>
+
+<p><a href="http://sguforums.com/index.php/topic,43864.msg9295192.html">This is the origin</a> of this "forum".</p>
+
+<p>All thanks to that amazing podcast, <a href="http://www.theskepticsguide.org">The Skeptics' Guide to the Universe</a>.</p>
+
+<p>I hope this little sandbox can grow up with your help!</p>
+
+<p>Cheers. ^_^</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/a-beginning-for-the-forums-here/7</link>
+          <pubDate>Sat, 07 Jun 2014 13:59:25 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7</guid>
+          <source url="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7.rss">A beginning for the forums here</source>
+        </item>
+        <item>
+          <title>Welcome to cregox talk</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p>cregox talk is a random forum-ish place where we can talk about anything! <em>We shall never delete or moderate a post that isn't considered clear spam.</em></p>
+
+<h1><strong>Who is it for?</strong></h1>
+
+<p>Anyone interested in chaos!</p>
+
+<p>There are 3 commandments of what should be avoided at all costs (never forbidden). These are among the most circular and vicious popular subjects in the world today (and for the longest time):</p>
+
+<p>no religion<br>no politics<br>no possessions <small>(under <a href="http://talk.cregox.com/t/lets-make-a-podcast/7753">review</a> of a better short term for the general idea)</small></p>
+
+<h2><strong>What can you find here?</strong></h2>
+
+<p>A lot of confusing texts, mostly around <a href="http://talk.cregox.com/c/buffer">categories on buffer</a>, probably still such as: tech, science, skepticism, philosophy, entertainment, porn, intelligence and some meta. You know, anything that matters! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=3" title=":smiley:" class="emoji" alt=":smiley:"></p>
+
+<h1><strong>Why should you come here?</strong></h1>
+
+<p>Because <a href="http://talk.cregox.com/t/similar-web-sites-forums/52/1">you could not find anywhere else good enough</a>! There are many communities out there, but they're either too restrictive (I ended up finding up that even "the daily wtf" is <a href="https://what.thedailywtf.com/topic/21279/unofficial-w-e-tldr-stuff-thread-spoilers-still-needed-nsfw/13">too restrictive to my taste</a>) and/or got a bad forums software.</p>
+
+<p>In fact, if you do know of anywhere else, please let us know! We'd love to go there. Just keep in mind the tool has to be at least as good as <a href="https://nodebb.org/">nodeBB</a>, <a href="http://flarum.org/">flarum</a> or even the one we're still using here, as legacy, <a href="http://discourse.org">discourse.org</a> (beware <a href="http://blog.cregox.com/2015/12/25/new-blog-platform-once-again.html">Jeff is an ass</a>).</p>
+
+<h1><strong>Where can you read more (links, resources, etc)?</strong></h1>
+
+<p>The <a href="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas">forum</a> was born from a fan (<a class="mention" href="/users/cregox">@cregox</a>) of <a href="http://www.theskepticsguide.org/">SGU</a> who was too excited about using the most advanced forums tool there was back then and wanted to use it for free expression of anything in their mind.</p>
+
+<h2><strong>Why you talk so much about that discourse thing?</strong></h2>
+
+<p>Think of <a href="http://www.quora.com">quora</a> and <a href="http://www.reddit.com">reddit</a>, if you will, but using this open source technology made by the same guys from <a href="http://www.stackexchange.com">StackOverflow</a>. You'll <em>probably</em> only be able to understand how good this is once you start using it, and once we do have a community to power it up. So, do try out <a href="https://www.discourse.org/faq/customers">some similar sites with bigger communities (these are their paying customers)</a>. But <strong>don't go too far into building a huge community</strong>, or <a href="https://what.thedailywtf.com/t/tdwtf-forum-faq/370">you could easily break the toy</a>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/welcome-to-cregox-talk/6">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/welcome-to-cregox-talk/6</link>
+          <pubDate>Fri, 06 Jun 2014 19:41:00 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-6</guid>
+          <source url="http://talk.cregox.com/t/welcome-to-cregox-talk/6.rss">Welcome to cregox talk</source>
+        </item>
+        <item>
+          <title>About the meta category</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>meta</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p>Discussion about this forum, its organization, how it works, and how we can improve it.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-meta-category/2">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-meta-category/2</link>
+          <pubDate>Fri, 06 Jun 2014 19:40:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-2</guid>
+          <source url="http://talk.cregox.com/t/about-the-meta-category/2.rss">About the meta category</source>
+        </item>
+  </channel>
+</rss>

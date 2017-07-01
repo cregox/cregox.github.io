@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Voting system in Squarespace</title>
+    <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599</link>
+    <description>[quote]
+Hi
+
+We are muwae.com and using squarespace right now, we want to add voting
+system (like comment share) in every picture and video in the gallery and
+could show in summery block. Please tell me if you could do it and how much
+will it be.
+
+Such as the 2nd product in my website
+[image: Inline image 1]
+&lt;img src=&#39;/uploads/default/115/ed7fb703dddce14b.png&#39; width=&#39;375&#39; height=&#39;336&#39;&gt;
+
+We want like and share button shows on every &quot;Love distributor videos&quot; and
+&quot;love distributor pictures&quot; (everybody could see how many likes they have
+and could vote)
+
+[image: Inline image 2]
+&lt;img src=&#39;/uploads/default/114/ed7fb703dddce14b.png&#39; width=&#39;690&#39; height=&#39;325&#39;&gt;
+
+Other concern:
+1) Is the &quot;like&quot; a squarespace voting system or separate system like
+facebook or others?? We prefer SS like and have number &quot;how many likes&quot; on
+that
+2) If I add anther gallery in system? do I need to inject code or need you
+guy help again?
+3) Is that Developer Mode will effect my future website edit??
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 May 2015 13:27:05 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Voting system in Squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>You mean in the shop!</p>
+
+<p>Please, do read <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> as I just updated it.</p>
+
+<p>The easiest way to do this is to simply use blog posts instead of galleries or commerce. You can still use summary block there. I'm not sure there's any template that do use squarespace's commerce ability to have comments (with like and share buttons). I know some will support it on galleries too, but often not as fully as blog.</p>
+
+<p>Anyway, <a href="http://cregox.com/your-home">it will be U$321 upfront to get me started. I'll look deeper into this and see what I can do for that price then, if you agree, I'll do it within 1 week from payment (again, pleae do read the site).</a></p>
+
+<p>As for your concerns:</p>
+
+<ol>
+<li>The button could be from squarespace, facebook or anywhere you want.</li>
+<li>You will need no help from me again to repeat anything. I work to give you full freedom and I have no interest in doing monthly contracts.</li>
+<li>I can probably do this without developer mode. And even if we use it, it only affects how squarespace updates would work. In other words, in average 2 to 5 year from now you might need to updated it manually due to some new security issue or bug.</li>
+</ol>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/voting-system-in-squarespace/7599/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599/2</link>
+        <pubDate>Sat, 09 May 2015 13:27:05 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7599-2</guid>
+        <source url="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
+      </item>
+      <item>
+        <title>Voting system in Squarespace</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi</p>
+<p>We are muwae.com and using squarespace right now, we want to add voting<br>system (like comment share) in every picture and video in the gallery and<br>could show in summery block. Please tell me if you could do it and how much<br>will it be.</p>
+<p>Such as the 2nd product in my website<br>[image: Inline image 1]<br><img src="//talk-cdn.cregox.com/uploads/default/115/ed7fb703dddce14b.png" width="375" height="336"></p>
+<p>We want like and share button shows on every "Love distributor videos" and<br>"love distributor pictures" (everybody could see how many likes they have<br>and could vote)</p>
+<p>[image: Inline image 2]<br><img src="//talk-cdn.cregox.com/uploads/default/114/ed7fb703dddce14b.png" width="690" height="325"></p>
+<p>Other concern:<br>1) Is the "like" a squarespace voting system or separate system like<br>facebook or others?? We prefer SS like and have number "how many likes" on<br>that<br>2) If I add anther gallery in system? do I need to inject code or need you<br>guy help again?<br>3) Is that Developer Mode will effect my future website edit??</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/voting-system-in-squarespace/7599/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599/1</link>
+        <pubDate>Fri, 08 May 2015 15:50:22 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7599-1</guid>
+        <source url="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
+      </item>
+  </channel>
+</rss>

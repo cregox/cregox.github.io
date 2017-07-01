@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the meta category</title>
+    <link>http://talk.cregox.com/t/about-the-meta-category/2</link>
+    <description>Discussion about this forum, its organization, how it works, and how we can improve it.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Jun 2014 19:40:59 +0000</lastBuildDate>
+    <category>meta</category>
+    <atom:link href="http://talk.cregox.com/t/about-the-meta-category/2.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the meta category</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p>Discussion about this forum, its organization, how it works, and how we can improve it.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/about-the-meta-category/2/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/about-the-meta-category/2/1</link>
+        <pubDate>Fri, 06 Jun 2014 19:40:59 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-2-1</guid>
+        <source url="http://talk.cregox.com/t/about-the-meta-category/2.rss">About the meta category</source>
+      </item>
+  </channel>
+</rss>

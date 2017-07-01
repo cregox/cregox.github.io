@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Anything Advisor</title>
+    <link>http://talk.cregox.com/t/anything-advisor/7426</link>
+    <description>My brother triggered me about making a &quot;City Advisor&quot;. He said he don&#39;t know of any good site that does this service. And I think he&#39;s right. I couldn&#39;t find any!
+
+Here are the top 3 I&#39;ve found:
+http://livability.com/
+http://www.bestplaces.net/
+http://www.areavibes.com/
+
+And two of them ask for you to start by tipping an address. That&#39;s nice if you already know where you might want to go regardless of anything, but it makes no sense if you&#39;re looking for good advice on cities and you don&#39;t know about every possibility in the world!
+
+Looks like there&#39;s a huge niche there and I&#39;m currently wondering why nobody really tackled it.
+
+I also wonder how much more of a generic system this could be...
+
+Instead of recommending cities only, it could be a system to recommend anything! (What triggered me into this was getting refused by a handpicked process yet again, such as country visas.)
+
+The tricky part is that any recommendation is based upon people and you can&#39;t advise upwardly everything, most will have to be left out. A product is made by people, if you say it&#39;s bad, you&#39;re also saying those people made a bad job there. A city is made by many people, if you say it&#39;s a bad place to live, you&#39;re also saying &quot;everyone there sucks&quot;. Ultimately this could advise even about people themselves!
+
+**How?**
+
+Personalization. &quot;Good&quot; and &quot;bad&quot; are highly relativistic aspects and it depends on who you are. So we&#39;d need to create a huge profile for each user and customize the experience for them. Then we can start recommending based on that.
+
+And how you begin building something like this?
+
+Like anything else. Making a minimum viable project. First find a team interested in the idea, then see what they can offer to contribute in making it real, finally make something visible in less than 1 week, ideally 1 weekend. It doesn&#39;t have to work, it has to clearly communicate the idea to a 8 year old.
+
+This project could start as a City Advisor. It should probably start as one specific item advisor... But keeping in mind the ultimate much bigger goal: building an AI capable of identifying an user and profiling them for whatever we&#39;re going to recommend &#39;em.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Apr 2015 23:04:04 +0000</lastBuildDate>
+    <category>quest</category>
+    <atom:link href="http://talk.cregox.com/t/anything-advisor/7426.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Just updating with <a href="http://www.numbeo.com/quality-of-life/compare_cities.jsp?country1=United+States&amp;country2=Brazil&amp;city1=Boston%2C+MA&amp;city2=Sao+Paulo">a new link</a> to that good city advisor you've pointed me:</p>
+
+<p><a href="http://www.numbeo.com/" class="onebox" target="_blank">http://www.numbeo.com/</a></p>
+
+<p>That's a database we probably would need to grab somehow, later on.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/7</link>
+        <pubDate>Wed, 08 Apr 2015 23:04:04 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-7</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@IanRego Ian Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/ianrego">@IanRego</a> wrote:</p>
+          <blockquote>
+              <p>Sounds good, lets schedule a meeting so we can discuss in details.</p>
+
+<p>I can meet for half hour at 5PM EST today or you can IM me so we can look for other times.</p>
+
+<p>Best,<br>Ian R</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/6</link>
+        <pubDate>Mon, 02 Mar 2015 16:41:22 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-6</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>I don't know, there's no magical formula! But...</p>
+
+<p>One idea would be making a landing page and marketing the concept. Such as <a href="https://thegrid.io/">the grid</a>, for instance, or <a href="http://magicleap.com">magic leap</a>.</p>
+
+<p>We get people to sign up early, to gather how much interest the hype can generate. Grasping an estimate on what we can expect is very important to enable us moving forward. If we can't get a huge number of people to sign up for a "soon to be released" supposed <strong>free</strong> beta, then there's no reason to begin building it.</p>
+
+<p>Another one would be opening this "blog draft" to public, share among friends and ask them as well.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/5</link>
+        <pubDate>Mon, 02 Mar 2015 16:06:05 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-5</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@IanRego Ian Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/ianrego">@IanRego</a> wrote:</p>
+          <blockquote>
+              <p>I agree. What do we need to start?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/4</link>
+        <pubDate>Mon, 02 Mar 2015 14:53:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-4</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>True that! That's why I wanted to focus on profiling...</p>
+
+<p>I don't like 1-5 rating method. I prefer using just 3: negative, neutral and positive. Then, to make it more meaningful, add many items. In a city those would be things such as "transport, eating" etc. Finally we can sum all that up and make an average 1-X rating, in which X is the amount of items. But that should be automatic.</p>
+
+<p>Even then, the biggest innovation I see is not simply adding such a better rating system. It is enabling an user to get recommendations based on their profile. So, for instance, we could throw random suggestions and you start liking and disliking them. Eventually we have enough data to cross on the items and recommend you new places based on your own unique profile. That could be built in other ways too, using facebook twitter and such, even for the first then apparently "random" suggestions.</p>
+
+<p>As for making it profitable... Ads is something to do only way later on, if we ever reach a critical mass. So yeah, no ads for now, but I do think this is the ultimate goal to profit from it. In the beginning everything has to be free. Premium access with a free trial and convenience features might be a good idea, such as a mobile app or something. But even that's something to think about only later on, if we do reach a good viable product <strong>and</strong> no angels come around. Because, to shot for the big bucks there, it has to stay free for a much longer time. To lure people in.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/3</link>
+        <pubDate>Mon, 02 Mar 2015 14:26:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-3</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@IanRego Ian Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/ianrego">@IanRego</a> wrote:</p>
+          <blockquote>
+              <p>Cawas,</p>
+
+<p>The main thing these websites are missing is to simplify the information. The biggest innovation would be to use the 1-5 rating method used successfully in many major websites to rate products. No one wants to be going through tons of comments without being able to average out what is the common opinion about a certain place. I could sure read some opinions after I have set my initial expectation like when you are researching about a product before you buy it. We must be able to create synthetic concepts about a city livability. I think it would be a huge success but still I don't know how to profit from it. Like I said before I tend to believe that ADs are not worth so exposing some of the content for free or maybe all to begin building DB and at some point selling premium access subscription is an option. BTW cityadvisors.org is a good available name.</p>
+
+<p>Best<br>-Ian</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/2</link>
+        <pubDate>Mon, 02 Mar 2015 14:07:24 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-2</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+      <item>
+        <title>Anything Advisor</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>My brother triggered me about making a "City Advisor". He said he don't know of any good site that does this service. And I think he's right. I couldn't find any!</p>
+
+<p>Here are the top 3 I've found:<br><a href="http://livability.com/" class="onebox" target="_blank">http://livability.com/</a><br><a href="http://www.bestplaces.net/" class="onebox" target="_blank">http://www.bestplaces.net/</a><br><a href="http://www.areavibes.com/" class="onebox" target="_blank">http://www.areavibes.com/</a></p>
+
+<p>And two of them ask for you to start by tipping an address. That's nice if you already know where you might want to go regardless of anything, but it makes no sense if you're looking for good advice on cities and you don't know about every possibility in the world!</p>
+
+<p>Looks like there's a huge niche there and I'm currently wondering why nobody really tackled it.</p>
+
+<p>I also wonder how much more of a generic system this could be...</p>
+
+<p>Instead of recommending cities only, it could be a system to recommend anything! (What triggered me into this was getting refused by a handpicked process yet again, such as country visas.)</p>
+
+<p>The tricky part is that any recommendation is based upon people and you can't advise upwardly everything, most will have to be left out. A product is made by people, if you say it's bad, you're also saying those people made a bad job there. A city is made by many people, if you say it's a bad place to live, you're also saying "everyone there sucks". Ultimately this could advise even about people themselves!</p>
+
+<p><strong>How?</strong></p>
+
+<p>Personalization. "Good" and "bad" are highly relativistic aspects and it depends on who you are. So we'd need to create a huge profile for each user and customize the experience for them. Then we can start recommending based on that.</p>
+
+<p>And how you begin building something like this?</p>
+
+<p>Like anything else. Making a minimum viable project. First find a team interested in the idea, then see what they can offer to contribute in making it real, finally make something visible in less than 1 week, ideally 1 weekend. It doesn't have to work, it has to clearly communicate the idea to a 8 year old.</p>
+
+<p>This project could start as a City Advisor. It should probably start as one specific item advisor... But keeping in mind the ultimate much bigger goal: building an AI capable of identifying an user and profiling them for whatever we're going to recommend 'em.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/anything-advisor/7426/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/anything-advisor/7426/1</link>
+        <pubDate>Sat, 28 Feb 2015 09:54:04 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7426-1</guid>
+        <source url="http://talk.cregox.com/t/anything-advisor/7426.rss">Anything Advisor</source>
+      </item>
+  </channel>
+</rss>

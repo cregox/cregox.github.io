@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Are you a programmer? Do you want to create a *login* registration form? Do you want it to be good?</title>
+    <link>http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72</link>
+    <description>&lt;span&gt;Then &lt;b&gt;FUCK SECURITY QUESTIONS, DAMN&lt;/b&gt;!&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;Also &lt;b&gt;fuck&lt;/b&gt; those &lt;b&gt;password requirements&lt;/b&gt;!&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;And &lt;b&gt;fuck the whole form&lt;/b&gt;, in fact. &lt;b&gt;Use some &lt;a href=&quot;http://openid.net/&quot;&gt;openAuthID&lt;/a&gt; already&lt;/b&gt;, such as google, twitter or even freaking facebook, for fucking sake!&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;br&gt;
+
+&lt;a href=&quot;http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength&quot; imageanchor=&quot;1&quot;&gt;&lt;img border=&quot;0&quot; src=&#39;/uploads/default/8/80aa0c900168204b.png&#39; height=&quot;161&quot; width=&quot;200&quot;&gt;&lt;/a&gt;&lt;span&gt;Security questions are the *easiest* ways to make a security flaw. &lt;a href=&quot;http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/all/&quot;&gt;Apple learned it the hard way&lt;/a&gt;. All you need is gather a little info from your prey. The people who are most likely to get hacked will be easier targets with this bullshit.&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;Password requirements, such as &quot;&lt;i&gt;at least one number, one capital letter and one non alphanumeric character&lt;/i&gt;&quot; are like &quot;security&quot; doors in banks or metal detectors in airports. They are only an annoyance theater. The only requirement you should ever ask is &quot;type in &lt;a href=&quot;http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength&quot;&gt;at least 16 characters&lt;/a&gt;&quot; but, even that, fuck it. If the person wants to have a weak password, fuck them! If it&#39;s a &quot;poor&quot; old person, fuck them!&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;&lt;b&gt;Fuck&lt;/b&gt;. Tell them to go learn to live a little and quit whining. Close the telephone support doors (Google) or make it long lines (Apple).&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot;&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&lt;img src=&#39;/uploads/default/12/720caf3721d52da8.jpg&#39;&gt;&quot; imageanchor=&quot;1&quot;&gt;&lt;img border=&quot;0&quot; src=&#39;/uploads/default/12/720caf3721d52da8.jpg&#39; height=&quot;236&quot; width=&quot;320&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot;&gt;Mother fuckers!&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;span&gt;You want to alert them? Then ALERT THEM! Do not REQUIRE everyone to do as you please. Make a popup &quot;&lt;b&gt;YOUR PASSWORD IS PROBABLY INSECURE - PLEASE TYPE IN AT LEAST 16 LETTERS&lt;/b&gt;&quot; or something.&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;If you HAVE to make that form, if someone is pointing a gun to your head and telling you &quot;MAKE A FREAKING LOGIN FORM&quot;, then do it properly. It&#39;s not that hard.&lt;/span&gt;&lt;br&gt;
+&lt;span&gt;&lt;br&gt;&lt;/span&gt;
+&lt;span&gt;But it would be better if right after that, you get a gun back to that someone and say &quot;&lt;b&gt;I WILL NOW USE OPENID, FUCKER&lt;/b&gt;&quot;, and delete the whole thing.&lt;/span&gt;
+&lt;hr&gt;
+&lt;small&gt;This is a companion discussion topic for the original entry at &lt;a href=&quot;http://www.cregox.com/blog/2014/05/are-you-programmer-do-you-want-to.html&quot;&gt;http://www.cregox.com/blog/2014/05/are-you-programmer-do-you-want-to.html&lt;/a&gt;&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Sep 2016 16:01:33 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are you a programmer? Do you want to create a *login* registration form? Do you want it to be good?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>follow up:<br><aside class="quote" data-post="1" data-topic="7743">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743">Xkcd was dead staple horse wrong about passwords</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title="A lot of cregox" s ramblings and somewhat incoherent thoughts very much shaped by the brazilian culture. are more posts on portuguese category>blog</span></a>
+  </div>
+  <blockquote>xkcd is freaking awesome!
+
+<a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595">I love xkcd</a>. What's not to love about <a href="http://xkcd.com/about/">Randall</a>'s <a href="https://what-if.xkcd.com/">brilliant work</a>? 
+
+[image] The fan base is so huge, and his witty so obscure, he got <a href="https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom">this fanbased site explaining his comics. Do click here to read the very funny Bobby Tables</a>. At least I think any progammer<a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">*</a> would find it funny. Certainly you need to know more than a bit about coding software to get it anyway. 
+
+But...
+
+While he does spread very witty and intelligent comments, I should have been more careful about taking…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+</p>
+
+<p>the whole idea in this post was to favor oAuth and openID (I did mix both there unwillingly) and completely drop the password reminders along with all the weak ideas around authentication. one of them was the password strength.</p>
+
+<p>so, this really changes nothing on the whole idea here, but it sure shed some light on the xkcd relevant mention there. specially on mobile, asking even for passwords is stupid as fuck.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72/2</link>
+        <pubDate>Wed, 28 Sep 2016 16:01:33 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-72-2</guid>
+        <source url="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72.rss">Are you a programmer? Do you want to create a *login* registration form? Do you want it to be good?</source>
+      </item>
+      <item>
+        <title>Are you a programmer? Do you want to create a *login* registration form? Do you want it to be good?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <span>Then <b>FUCK SECURITY QUESTIONS, DAMN</b>!</span><br>
+<span><br></span>
+<span>Also <b>fuck</b> those <b>password requirements</b>!</span><br>
+<span><br></span>
+<span>And <b>fuck the whole form</b>, in fact. <b>Use some <a href="http://openid.net/">openAuthID</a> already</b>, such as google, twitter or even freaking facebook, for fucking sake!</span><br>
+<span><br></span>
+<br>
+
+<a href="http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength" imageanchor="1"><img border="0" src="//talk-cdn.cregox.com/uploads/default/8/80aa0c900168204b.png" height="161" width="200"></a><span>Security questions are the *easiest* ways to make a security flaw. <a href="http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/all/">Apple learned it the hard way</a>. All you need is gather a little info from your prey. The people who are most likely to get hacked will be easier targets with this bullshit.</span><br>
+<span><br></span>
+<span>Password requirements, such as "<i>at least one number, one capital letter and one non alphanumeric character</i>" are like "security" doors in banks or metal detectors in airports. They are only an annoyance theater. The only requirement you should ever ask is "type in <a href="http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength">at least 16 characters</a>" but, even that, fuck it. If the person wants to have a weak password, fuck them! If it's a "poor" old person, fuck them!</span><br>
+<span><br></span>
+<span><b>Fuck</b>. Tell them to go learn to live a little and quit whining. Close the telephone support doors (Google) or make it long lines (Apple).</span><br>
+<span><br></span>
+<br>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody>
+<tr><td><a href="&lt;img%20src='/uploads/default/12/720caf3721d52da8.jpg'&gt;" imageanchor="1"><img border="0" src="//talk-cdn.cregox.com/uploads/default/12/720caf3721d52da8.jpg" height="236" width="320"></a></td></tr>
+<tr><td class="tr-caption">Mother fuckers!</td></tr>
+</tbody></table>
+<span>You want to alert them? Then ALERT THEM! Do not REQUIRE everyone to do as you please. Make a popup "<b>YOUR PASSWORD IS PROBABLY INSECURE - PLEASE TYPE IN AT LEAST 16 LETTERS</b>" or something.</span><br>
+<span><br></span>
+<span>If you HAVE to make that form, if someone is pointing a gun to your head and telling you "MAKE A FREAKING LOGIN FORM", then do it properly. It's not that hard.</span><br>
+<span><br></span>
+<span>But it would be better if right after that, you get a gun back to that someone and say "<b>I WILL NOW USE OPENID, FUCKER</b>", and delete the whole thing.</span>
+<hr>
+<small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/05/are-you-programmer-do-you-want-to.html">http://www.cregox.com/blog/2014/05/are-you-programmer-do-you-want-to.html</a></small>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72/1</link>
+        <pubDate>Sun, 10 Aug 2014 14:03:17 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-72-1</guid>
+        <source url="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72.rss">Are you a programmer? Do you want to create a *login* registration form? Do you want it to be good?</source>
+      </item>
+  </channel>
+</rss>

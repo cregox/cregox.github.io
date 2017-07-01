@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Squarespace&#39;d</title>
+    <link>http://talk.cregox.com/t/squarespaced/604</link>
+    <description>&lt;a href=&quot;http://squarespace.com&quot;&gt;
+			
+				
+					&lt;img class=&quot;thumb-image&quot; alt=&quot;Transient&quot; data-image=&quot;http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050a7ae4b01b550b3eea8c/1409616569776/&quot; data-image-dimensions=&quot;100x100&quot; data-image-focal-point=&quot;0.5,0.5&quot; data-load=&quot;false&quot; data-image-id=&quot;54050a7ae4b01b550b3eea8c&quot; data-type=&quot;image&quot; src=&quot;http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050a7ae4b01b550b3eea8c/1409616569776/?format=500w&quot;&gt;
+				
+			
+				&lt;/a&gt;
+			
+
+			
+
+		
+	
+	
+&lt;p&gt;So, I finally decided to move away from blogger and into &lt;a href=&quot;http://squarespace.com&quot;&gt;squarespace&lt;/a&gt;. Actually, away from wordpress as well (the old site was dreadful), about 2 months ago.&lt;/p&gt;
+&lt;p&gt;This isn&#39;t the perfect platform, much to the opposite... Even migrating from blogger wasn&#39;t as &lt;a href=&quot;http://help.squarespace.com/guides/importing-content-from-blogger&quot;&gt;straight forward as squarespace tools lead us to believe&lt;/a&gt;. But I now think it&#39;s the best &lt;strong&gt;cost benefit&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It&#39;s hard to really customize the layout without injecting code, and there&#39;s &lt;a href=&quot;http://answers.squarespace.com/questions/9349/can-i-backup-my-site&quot;&gt;no true backup&lt;/a&gt;. If you want to move away to another platform, it is limited to exporting an XML to Wordpress, which I haven&#39;t even tested myself. All that&#39;s &lt;a href=&quot;http://help.squarespace.com/guides/how-is-my-site-data-backed-up&quot;&gt;pretty scary stuff&lt;/a&gt; if you&#39;re used with &quot;&lt;em&gt;freedom&lt;/em&gt;&quot; and &quot;&lt;em&gt;ownership&lt;/em&gt;&quot;. There&#39;s no FTP for dog&#39;s sake!&lt;/p&gt;
+&lt;p&gt;It&#39;s also nearly impossible to edit anything on the site if you&#39;re not at your computer (i.e. using a smartphone or tablet). You can post on the blog using emails, though.&lt;/p&gt;
+&lt;p&gt;While customer support is super responsive, in my experience half the time it won&#39;t be as technical and as knowledgable as I&#39;d like, and they easily can be misleading. Like everything else around squarespace, it&#39;s not perfect, but it&#39;s darn good. You just have to learn to use it, and it&#39;s quite a small learning curve.&lt;/p&gt;
+	
+	
+		
+			
+				
+					&lt;img class=&quot;thumb-image&quot; data-image=&quot;http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050b46e4b0897ca33daffb/1409616712104/&quot; data-image-dimensions=&quot;800x600&quot; data-image-focal-point=&quot;0.5,0.5&quot; data-load=&quot;false&quot; data-image-id=&quot;54050b46e4b0897ca33daffb&quot; data-type=&quot;image&quot; src=&quot;http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050b46e4b0897ca33daffb/1409616712104/?format=500w&quot;&gt;
+				
+			
+
+			
+
+		
+	
+	
+
+&lt;p id=&quot;yui_3_17_2_1_1409611536125_126407&quot;&gt;Now, for the good side...&lt;/p&gt;
+&lt;p id=&quot;yui_3_17_2_1_1409611536125_125707&quot;&gt;U$8 / month with a free domain name (on the yearly plan), great analytics, contributors, image handling, responsive design, worry free updates and security, virtually unlimited traffic handling, and even a somewhat limited (us banks only, thanks to stripe) ecommerce built-in.&lt;/p&gt;
+&lt;p id=&quot;yui_3_17_2_1_1409611536125_125708&quot;&gt;Those and other little good details on squarespace are so awesome that even the big failures are overlookable.&lt;/p&gt;
+&lt;p id=&quot;yui_3_17_2_1_1409611536125_125709&quot;&gt;As for the backup, well, supposedly there&#39;s always &lt;a data-cke-saved-href=&quot;http://www.websitetooltester.com/en/blog/create-a-backup-of-your-website-httrack/&quot; href=&quot;http://www.websitetooltester.com/en/blog/create-a-backup-of-your-website-httrack/&quot;&gt;HTTrack and SiteSucker&lt;/a&gt;. Depending on your site, you may find that&#39;s enough. For me, using Marquee template, it didn&#39;t work so well, but most of the site is backed up.&lt;/p&gt;
+&lt;p id=&quot;yui_3_17_2_1_1409611536125_125710&quot;&gt;All those restrictions are quite understandable. It&#39;s not easy to keep a webserver so smooth and secure if everyone is able to easily inject code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;small&gt;This is a companion discussion topic for the original entry at &lt;a href=&quot;http://www.cregox.com/blog/2014/9/1/squarespaced&quot;&gt;http://www.cregox.com/blog/2014/9/1/squarespaced&lt;/a&gt;&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Jan 2015 08:27:59 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/squarespaced/604.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Squarespace&#39;d</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <a href="http://squarespace.com">
+			
+				
+					<img class="thumb-image" alt="Transient" data-image="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050a7ae4b01b550b3eea8c/1409616569776/" data-image-dimensions="100x100" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="54050a7ae4b01b550b3eea8c" data-type="image" src="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050a7ae4b01b550b3eea8c/1409616569776/?format=500w" width="100" height="100">
+				
+			
+				</a>
+			
+
+			
+
+		
+	
+	
+<p>So, I finally decided to move away from blogger and into <a href="http://squarespace.com">squarespace</a>. Actually, away from wordpress as well (the old site was dreadful), about 2 months ago.</p>
+<p>This isn't the perfect platform, much to the opposite... Even migrating from blogger wasn't as <a href="http://help.squarespace.com/guides/importing-content-from-blogger">straight forward as squarespace tools lead us to believe</a>. But I now think it's the best <strong>cost benefit</strong>.</p>
+<p>It's hard to really customize the layout without injecting code, and there's <a href="http://answers.squarespace.com/questions/9349/can-i-backup-my-site">no true backup</a>. If you want to move away to another platform, it is limited to exporting an XML to Wordpress, which I haven't even tested myself. All that's <a href="http://help.squarespace.com/guides/how-is-my-site-data-backed-up">pretty scary stuff</a> if you're used with "<em>freedom</em>" and "<em>ownership</em>". There's no FTP for dog's sake!</p>
+<p>It's also nearly impossible to edit anything on the site if you're not at your computer (i.e. using a smartphone or tablet). You can post on the blog using emails, though.</p>
+<p>While customer support is super responsive, in my experience half the time it won't be as technical and as knowledgable as I'd like, and they easily can be misleading. Like everything else around squarespace, it's not perfect, but it's darn good. You just have to learn to use it, and it's quite a small learning curve.</p>
+	
+	
+		
+			
+				
+					<img class="thumb-image" data-image="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050b46e4b0897ca33daffb/1409616712104/" data-image-dimensions="800x600" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="54050b46e4b0897ca33daffb" data-type="image" src="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/54050b46e4b0897ca33daffb/1409616712104/?format=500w" width="500" height="375">
+				
+			
+
+			
+
+		
+	
+	
+
+<p id="yui_3_17_2_1_1409611536125_126407">Now, for the good side...</p>
+<p id="yui_3_17_2_1_1409611536125_125707">U$8 / month with a free domain name (on the yearly plan), great analytics, contributors, image handling, responsive design, worry free updates and security, virtually unlimited traffic handling, and even a somewhat limited (us banks only, thanks to stripe) ecommerce built-in.</p>
+<p id="yui_3_17_2_1_1409611536125_125708">Those and other little good details on squarespace are so awesome that even the big failures are overlookable.</p>
+<p id="yui_3_17_2_1_1409611536125_125709">As for the backup, well, supposedly there's always <a data-cke-saved-href="http://www.websitetooltester.com/en/blog/create-a-backup-of-your-website-httrack/" href="http://www.websitetooltester.com/en/blog/create-a-backup-of-your-website-httrack/">HTTrack and SiteSucker</a>. Depending on your site, you may find that's enough. For me, using Marquee template, it didn't work so well, but most of the site is backed up.</p>
+<p id="yui_3_17_2_1_1409611536125_125710">All those restrictions are quite understandable. It's not easy to keep a webserver so smooth and secure if everyone is able to easily inject code.</p>
+<hr>
+<small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/9/1/squarespaced">http://www.cregox.com/blog/2014/9/1/squarespaced</a></small>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespaced/604/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespaced/604/1</link>
+        <pubDate>Tue, 02 Sep 2014 00:25:10 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-604-1</guid>
+        <source url="http://talk.cregox.com/t/squarespaced/604.rss">Squarespace&#39;d</source>
+      </item>
+  </channel>
+</rss>

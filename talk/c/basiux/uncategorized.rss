@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>uncategorized - cregox talk</title>
+    <link>http://talk.cregox.com/c/basiux/uncategorized</link>
+    <description>Topics in the &#39;uncategorized&#39; category Any topic about basiux that&#39;s not about the newsletter should come here!</description>
+    <language>en</language>
+      <lastBuildDate>Wed, 18 Nov 2015 15:37:24 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/basiux/uncategorized.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>About the uncategorized category</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Any topic about basiux that's not about the newsletter should come here!</p>
+
+<p>At least while we don't have a dedicated discourse forums.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-basiux-meta-category/7756">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-basiux-meta-category/7756</link>
+          <pubDate>Wed, 18 Nov 2015 15:37:24 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7756</guid>
+          <source url="http://talk.cregox.com/t/about-the-basiux-meta-category/7756.rss">About the uncategorized category</source>
+        </item>
+        <item>
+          <title>A.S.I. ? Or job hunting?</title>
+          <dc:creator><![CDATA[@BesseB]]></dc:creator>
+          <category>uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/besseb">@BesseB</a> wrote:</p>
+            <blockquote>
+              <p>Hey,</p>
+
+<p>I stumbled over a super interesting article by you on Quora. <br>Then I clicked the link, and BOOM: Basiux. I was sold at the very first sentence.</p>
+
+<p>But here's the thing:<br>- So hard to get in touch with you<br>- No clear message on website on how you plan to attain your goal (ASI)<br>- And when you eventually pass the pain-in-the-ass'ish process of signing up to cregox etc... what do we see? Job hunting. Design. Q&amp;A's about your job. <br>Dude, that's disappointing.</p>
+
+<p>On one of your posts you (early posts I believe) you say they're only 3 people on your mailing list. Don't wonder why.</p>
+
+<p>So all that to say that it's really a shame. Your article on Quora was brilliant. Your wordpress just makes people want for more or be a part of the big adventure. But looks like you don't really take care of this (maybe I'm wrong and you do, but it really doesn't look like you do, and that's a huge communication mistake), and it's hardto get the clear message, so even harder to actually engage your audience to your project.</p>
+
+<p>Anyway, just a point of view from someone interested by ASI that found your comment awesome (and quite into marketing and communication..). </p>
+
+<p>Cheers,</p>
+
+<p>Seb</p>
+
+<p>EDIT:<br>Re-read my post and realized it can be understood in a wrong way. So don't get me wrong, this post is about improving your idea/plan. I get the fact that you need to work/eat/live/sleep, but you should definitely separate that from Basiux.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/a-s-i-or-job-hunting/7717">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/a-s-i-or-job-hunting/7717</link>
+          <pubDate>Mon, 12 Oct 2015 11:39:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7717</guid>
+          <source url="http://talk.cregox.com/t/a-s-i-or-job-hunting/7717.rss">A.S.I. ? Or job hunting?</source>
+        </item>
+  </channel>
+</rss>

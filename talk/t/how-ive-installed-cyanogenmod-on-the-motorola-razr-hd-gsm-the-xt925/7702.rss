@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</title>
+    <link>http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702</link>
+    <description>&lt;img src=&#39;/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg&#39;&gt;
+
+### Disclaimers
+
+- First of all: if you want to use clockwork or have the latest android releases, do yourself a favor and get a Nexus phone. Or, maybe, a OnePlus. In worst case scenario, go for freaking Samsung. Don&#39;t think Motorola, LG or anything else will make things easier. It won&#39;t.
+
+- Well, I just spent a whole freaking day stuck in a few points which could have been made much simpler if there was a few points better explained in a lot of good other tutorials I&#39;ve found along the way.
+
+- [Here&#39;s the same guide][1] in XDA.
+
+# A &quot;bad guide&quot;, with no revisions
+
+The main reference to me was, as one might expect, [URL=&quot;https://wiki.cyanogenmod.org/w/Install_CM_for_xt925&quot;]from cyanogen mod wiki[/URL].
+
+The real steps needed are very similar:
+
+1. Unlock device
+2. Install recovery using fastboot
+3. Wipe every single thing
+4. Install CyanogenMod from recovery
+
+All steps but 3 can be found on that wiki. Step 3 can actually become really big. Making it as clean as possible could be very complicated. Or [URL=&quot;http://forum.xda-developers.com/showpost.php?p=63028848&amp;postcount=7&quot;]very simple[/URL].
+
+The most important thing is understanding the concepts of what&#39;s being done and knowing how long each step can actually take. Specially the ones that give no feedback. Such as that [URL=&quot;https://www.reddit.com/r/MotoG/comments/34b9dc/help_flashing_cm_121_error/&quot;]terrible horrible loading screen[/URL], which I&#39;ve learned to hate. [B]The &quot;spinning CM robot&quot; should appear for 1 or 2 minutes at most[/B], but that&#39;s way too far from clear and that info is nowhere to be found.
+
+I won&#39;t repeat the tutorial, rather I&#39;ll explain it and correct it.
+
+## Unlocking Device
+
+This is for allowing your Razr to be tweaked. And it&#39;s not rooting the device as it may appear (being somewhat a newbie and not too interested in rooting, I&#39;ve mixed up the concepts).
+
+Other than this, the steps on the wiki are pretty clear and complete here, I don&#39;t see how anything could go wrong if you just follow it.
+
+I&#39;ve got no screen that would be more than a few seconds without a feedback.
+
+## Recovery and fastboot
+
+This starts to present apparently minor issues.
+
+It says to use Clockwork Mod but all newest files to download on the other wiki page itself already bring a Recovery Image. Now, CWM is well established and used, but the versions linked there didn&#39;t work on my device. Only the new Cyanogen Recovery works. And it&#39;s not as complete as, although I really appreciate the higher simplicity there. Anyway, in the end CWM is just not needed, a version I could find that loads can&#39;t install any ZIP and it ends up just holding back because it offers a lot of useless options.
+
+And &quot;Volume Down + Power&quot; doesn&#39;t work to boot into recovery. At all. You need to hold Volume Up + Power, or some sort of combination from Vol Up &amp; Down &amp; Power. It&#39;s easier to just look for videos of how it&#39;s done. I can do it quickly most of the times using Vol Down &amp; holding Power to boot into fastboot, and then just hold Vol Down and  quickly hold power for 1 second, release, and keep holding Vol Up until a menu opens up in which you can choose to boot to Recovery (or back to Fastmode as well).
+
+Those misleading things there held me back 1 hour at first... But the CWM really screwed me up big, wasting time trying to use it to fix stuff. It&#39;s just not enough. [B]I guess[/B].
+
+Maybe, however, there&#39;s one thing it could prove to be important. Backing up. Install it for this, if you&#39;re worried about trying to recover data without using google&#39;s own backups, after android is installed. To me, that was more than enough.
+
+I&#39;ve got no screen that would be more than a half a minute without a feedback.
+
+## Wipe every single thing
+
+`fastboot -w`. That&#39;s all that took me, although it did give errors and I still saw many warnings through the whole process, if only I knew this command before, it would have saved me 20 hours or so.
+
+Maybe it was the sum of cleaning up stuff with CWM, but I doubt it.
+
+I really don&#39;t want to get into more details here, right now.
+
+I&#39;ve got no screen that would be more than a few seconds without a feedback for anything I&#39;ve done in this step.
+
+## Recovery for CM
+
+You probably also want to install google apps. Just take the [URL=&quot;http://opengapps.org/?api=5.1&amp;variant=nano&quot;]nano OpenGApps[/URL]. And if you&#39;re trying to use CM stable and it bricks, just get the nightly build.
+
+If you&#39;re lucky, installing with sideload should be enough. All those options are just means to getting the zip files into the device for recovery installation and if you&#39;d only have to use sideload once it&#39;s perfect. Having to use it again eventually is a pain, because it doesn&#39;t save local copies on the device.
+
+Another 2 options: You could also have a SD card to USB adapter, or use CWM mounting SD card and transfer everything through the USB cable.
+
+The biggest missing information in this step, however, is this: the loading CM robot screen, which appears after you boot, when that wiki guide is over and it thinks &quot;everything is fine&quot;. It should be not more than 2 minutes, from my experience.
+
+But google says otherwise. You might be led to believe it could take many minutes, maybe as much as 10. Which can easily be extrapolated by &quot;well, maybe it takes 15&quot;. Before you know it, you&#39;re easily wasting hours waiting for it.
+
+So, there you go. Hope this might have been of any help to you! ;P
+
+
+  [1]: http://forum.xda-developers.com/droid-razr-hd/help/how-ive-installed-cyanogenmod-motorola-t3212631</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2015 06:19:19 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg" width="480" height="480"></p>
+
+<h3>Disclaimers</h3>
+
+<ul>
+<li><p>First of all: if you want to use clockwork or have the latest android releases, do yourself a favor and get a Nexus phone. Or, maybe, a OnePlus. In worst case scenario, go for freaking Samsung. Don't think Motorola, LG or anything else will make things easier. It won't.</p></li>
+<li><p>Well, I just spent a whole freaking day stuck in a few points which could have been made much simpler if there was a few points better explained in a lot of good other tutorials I've found along the way.</p></li>
+<li><p><a href="http://forum.xda-developers.com/droid-razr-hd/help/how-ive-installed-cyanogenmod-motorola-t3212631">Here's the same guide</a> in XDA.</p></li>
+</ul>
+
+<h1>A "bad guide", with no revisions</h1>
+
+<p>The main reference to me was, as one might expect, <a href="https://wiki.cyanogenmod.org/w/Install_CM_for_xt925">from cyanogen mod wiki</a>.</p>
+
+<p>The real steps needed are very similar:</p>
+
+<ol>
+<li>Unlock device</li>
+<li>Install recovery using fastboot</li>
+<li>Wipe every single thing</li>
+<li>Install CyanogenMod from recovery</li>
+</ol>
+
+<p>All steps but 3 can be found on that wiki. Step 3 can actually become really big. Making it as clean as possible could be very complicated. Or <a href="http://forum.xda-developers.com/showpost.php?p=63028848&amp;postcount=7">very simple</a>.</p>
+
+<p>The most important thing is understanding the concepts of what's being done and knowing how long each step can actually take. Specially the ones that give no feedback. Such as that <a href="https://www.reddit.com/r/MotoG/comments/34b9dc/help_flashing_cm_121_error/">terrible horrible loading screen</a>, which I've learned to hate. <span class="bbcode-b">The "spinning CM robot" should appear for 1 or 2 minutes at most</span>, but that's way too far from clear and that info is nowhere to be found.</p>
+
+<p>I won't repeat the tutorial, rather I'll explain it and correct it.</p>
+
+<h2>Unlocking Device</h2>
+
+<p>This is for allowing your Razr to be tweaked. And it's not rooting the device as it may appear (being somewhat a newbie and not too interested in rooting, I've mixed up the concepts).</p>
+
+<p>Other than this, the steps on the wiki are pretty clear and complete here, I don't see how anything could go wrong if you just follow it.</p>
+
+<p>I've got no screen that would be more than a few seconds without a feedback.</p>
+
+<h2>Recovery and fastboot</h2>
+
+<p>This starts to present apparently minor issues.</p>
+
+<p>It says to use Clockwork Mod but all newest files to download on the other wiki page itself already bring a Recovery Image. Now, CWM is well established and used, but the versions linked there didn't work on my device. Only the new Cyanogen Recovery works. And it's not as complete as, although I really appreciate the higher simplicity there. Anyway, in the end CWM is just not needed, a version I could find that loads can't install any ZIP and it ends up just holding back because it offers a lot of useless options.</p>
+
+<p>And "Volume Down + Power" doesn't work to boot into recovery. At all. You need to hold Volume Up + Power, or some sort of combination from Vol Up &amp; Down &amp; Power. It's easier to just look for videos of how it's done. I can do it quickly most of the times using Vol Down &amp; holding Power to boot into fastboot, and then just hold Vol Down and  quickly hold power for 1 second, release, and keep holding Vol Up until a menu opens up in which you can choose to boot to Recovery (or back to Fastmode as well).</p>
+
+<p>Those misleading things there held me back 1 hour at first... But the CWM really screwed me up big, wasting time trying to use it to fix stuff. It's just not enough. <span class="bbcode-b">I guess</span>.</p>
+
+<p>Maybe, however, there's one thing it could prove to be important. Backing up. Install it for this, if you're worried about trying to recover data without using google's own backups, after android is installed. To me, that was more than enough.</p>
+
+<p>I've got no screen that would be more than a half a minute without a feedback.</p>
+
+<h2>Wipe every single thing</h2>
+
+<p><code>fastboot -w</code>. That's all that took me, although it did give errors and I still saw many warnings through the whole process, if only I knew this command before, it would have saved me 20 hours or so.</p>
+
+<p>Maybe it was the sum of cleaning up stuff with CWM, but I doubt it.</p>
+
+<p>I really don't want to get into more details here, right now.</p>
+
+<p>I've got no screen that would be more than a few seconds without a feedback for anything I've done in this step.</p>
+
+<h2>Recovery for CM</h2>
+
+<p>You probably also want to install google apps. Just take the <a href="http://opengapps.org/?api=5.1&amp;variant=nano">nano OpenGApps</a>. And if you're trying to use CM stable and it bricks, just get the nightly build.</p>
+
+<p>If you're lucky, installing with sideload should be enough. All those options are just means to getting the zip files into the device for recovery installation and if you'd only have to use sideload once it's perfect. Having to use it again eventually is a pain, because it doesn't save local copies on the device.</p>
+
+<p>Another 2 options: You could also have a SD card to USB adapter, or use CWM mounting SD card and transfer everything through the USB cable.</p>
+
+<p>The biggest missing information in this step, however, is this: the loading CM robot screen, which appears after you boot, when that wiki guide is over and it thinks "everything is fine". It should be not more than 2 minutes, from my experience.</p>
+
+<p>But google says otherwise. You might be led to believe it could take many minutes, maybe as much as 10. Which can easily be extrapolated by "well, maybe it takes 15". Before you know it, you're easily wasting hours waiting for it.</p>
+
+<p>So, there you go. Hope this might have been of any help to you! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1</link>
+        <pubDate>Mon, 28 Sep 2015 06:19:19 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7702-1</guid>
+        <source url="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss">How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</source>
+      </item>
+  </channel>
+</rss>

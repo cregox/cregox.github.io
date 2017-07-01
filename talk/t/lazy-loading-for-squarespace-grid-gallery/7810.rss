@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lazy loading for squarespace grid gallery</title>
+    <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810</link>
+    <description>[quote=&quot;Roberto Pansolli&quot;]
+Subject: lazy loading for squarespace grid gallery
+
+Message: Hello,
+
+I have found some work you made for a squarespace ecommerce shop and I
+thought you might be able help me.
+
+I am going crazy with finding a way to implement lazy loading/infinite
+scrolling on my wedding website without going into developer mode.
+
+Could you provide some script for me? obviously, I am happy to pay for your
+time.
+
+Here is the gallery i am dealing with :
+http://www.melanieandroberto.com/test
+
+Without lazy loading it takes ages to load.
+
+Thanks,
+
+Roberto.
+
+(Sent via cregox &lt;http://www.cregox.com&gt; )
+[/quote]
+
+&lt;small&gt;(post can&#39;t be empty discourse bug)&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Jan 2016 18:25:07 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Lazy loading for squarespace grid gallery</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>If you're going to build one from scratch on wordpress, you might want to take a look at jekyll and github pages. I find it way superior even without all the plugins. It's also considerably harder to get started, though.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/4</link>
+        <pubDate>Thu, 14 Jan 2016 18:25:07 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7810-4</guid>
+        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+      </item>
+      <item>
+        <title>Lazy loading for squarespace grid gallery</title>
+        <dc:creator><![CDATA[@roberto_pansolli roberto_pansolli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/roberto_pansolli">@roberto_pansolli</a> wrote:</p>
+          <blockquote>
+              <p>Thanks. I might just build it from scratch on WP, as it is much easier using plugins. Thanks for the reply anyway.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/3</link>
+        <pubDate>Thu, 14 Jan 2016 18:21:59 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7810-3</guid>
+        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+      </item>
+      <item>
+        <title>Lazy loading for squarespace grid gallery</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Sorry, I don't think this can work. At all.</p>
+
+<p>The <a href="http://talk.cregox.com/t/pagination-for-shop-page-and-pages-width/7581/82?u=cregox">last gig I've done on lazy loading and infinite scrolling was <strong>the worst project I've taken</strong></a> - under the <a>Your Home biz</a> - and a big factor why I decided to close it. It was, above everything, my mistake on how I was selling my services.</p>
+
+<p><strong>I doubt way too much</strong> anyone could want to develop a great infinite scrolling with me. It will be expensive and probably not worth it. There must be lots of folks out there capable of doing more for cheaper. I just didn't have the luck to find their product.</p>
+
+<p>As for the script I've done there and that's <a href="http://www.outstyled.com/">not even being used any longer ("We are taking some time to redesign our site. See you next year.")</a>, if you really want to go with that, by all means, just <a href="http://talk.cregox.com/t/pagination-for-shop-page-and-pages-width/7581/79?u=cregox">take it, use it and abuse it</a>.</p>
+
+<hr>
+
+<p>However</p>
+
+<p>If by any chance you're crazy enough to still want to do this with me, do tell. Below there are 2 references of what we could negotiate, with approximate values. Always with <strong>open scope</strong>, and it needs to be better than what's done in discourse, seo friendly, every single thing done right. I can't settle for any less.</p>
+
+<ul>
+<li><p>first week for € 1,984. Again, it doesn't mean I'd be able to do it in 1 week, although that could happen.</p></li>
+<li><p>first month for € 3,876. I'd take 2 weeks to find someone else to code, 1 week to orient them and pay them half, then 1 week to do any adjustments on my own. Of course, in this I'm basically "working" 3 weeks for "free" because that's something I'd really enjoy doing and got <strong>little</strong> experience with.</p></li>
+</ul>
+
+<p>None of them have any guarantees. The only thing I can guarantee is I'll be working my ass off 24/7 to make it work, and probably stop everything else I'm doing, during the time I'm enjoying something and, all other times, I'll make at least the 40 hours per week fully dedicated.</p>
+
+<p>I'm not a company, I can't be one right now. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/2</link>
+        <pubDate>Thu, 14 Jan 2016 17:42:35 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7810-2</guid>
+        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+      </item>
+      <item>
+        <title>Lazy loading for squarespace grid gallery</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>Roberto Pansolli:</div>
+<blockquote>
+<p>Subject: lazy loading for squarespace grid gallery</p>
+<p>Message: Hello,</p>
+<p>I have found some work you made for a squarespace ecommerce shop and I<br>thought you might be able help me.</p>
+<p>I am going crazy with finding a way to implement lazy loading/infinite<br>scrolling on my wedding website without going into developer mode.</p>
+<p>Could you provide some script for me? obviously, I am happy to pay for your<br>time.</p>
+<p>Here is the gallery i am dealing with :<br><a href="http://www.melanieandroberto.com/test" class="onebox" target="_blank">http://www.melanieandroberto.com/test</a></p>
+<p>Without lazy loading it takes ages to load.</p>
+<p>Thanks,</p>
+<p>Roberto.</p>
+<p>(Sent via cregox <a href="http://www.cregox.com">http://www.cregox.com</a> )</p>
+</blockquote></aside>
+
+<p><small>(post can't be empty discourse bug)</small></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/1</link>
+        <pubDate>Thu, 14 Jan 2016 15:17:42 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7810-1</guid>
+        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+      </item>
+  </channel>
+</rss>

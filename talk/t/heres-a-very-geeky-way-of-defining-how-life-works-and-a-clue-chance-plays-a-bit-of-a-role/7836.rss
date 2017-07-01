@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Here&#39;s a very geeky way of defining how life works and a clue: chance plays a bit of a role</title>
+    <link>http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836</link>
+    <description>https://www.dropbox.com/s/q5tsoo3t9yay46n/2016-02-02%2018.18.37.jpg?dl=1
+
+[Chance](http://talk.cregox.com/t/why-so-many-people-have-the-illusion-chance-plays-no-role-in-life/69)?
+
+I just wrote this on [another topic](http://talk.cregox.com/t/thank-you-for-the-warning-about-crossover/7829/4?u=cregox), and here I bring it as a wiki:
+
+[quote=&quot;cregox, post:4, topic:7829&quot;]
+:heart: :chaos: 7 :four_leaf_clover:
+[/quote]
+
+```
+illusion = 0
+
+async choice:
+    result = 0.34 * random * illusion
+    delay 8  # seconds
+    return result
+
+Life:
+    born = 0.33 * random  # either 0 or 1
+    happy = random
+    dead = random
+ 
+    while not dead:
+        illusion = random  # perception
+        luck = 0.33 * random * illusion
+        happy = (born + luck + choice) &gt; 0.5 # is the glass half full?
+        dead = random
+```</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Feb 2016 14:04:39 +0000</lastBuildDate>
+    <category>tech</category>
+    <atom:link href="http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Here&#39;s a very geeky way of defining how life works and a clue: chance plays a bit of a role</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <a href="https://dl.dropboxusercontent.com/s/q5tsoo3t9yay46n/2016-02-02%2018.18.37.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/q5tsoo3t9yay46n/2016-02-02%2018.18.37.jpg?dl=1" width="500" height="500"></a>
+
+<p><a href="http://talk.cregox.com/t/why-so-many-people-have-the-illusion-chance-plays-no-role-in-life/69">Chance</a>?</p>
+
+<p>I just wrote this on <a href="http://talk.cregox.com/t/thank-you-for-the-warning-about-crossover/7829/4?u=cregox">another topic</a>, and here I bring it as a wiki:</p>
+
+<aside class="quote" data-post="4" data-topic="7829"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="http://talk.cregox.com/t/thank-you-for-the-warning-about-crossover/7829/4">Thank you for the warning about Crossover</a>
+</div>
+<blockquote><p><img src="//talk-cdn.cregox.com/images/emoji/emoji_one/heart.png?v=1" title=":heart:" class="emoji" alt=":heart:"> :chaos: 7 <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/four_leaf_clover.png?v=1" title=":four_leaf_clover:" class="emoji" alt=":four_leaf_clover:"></p></blockquote></aside>
+
+<p></p><pre><code class="lang-auto">illusion = 0
+
+async choice:
+    result = 0.34 * random * illusion
+    delay 8  # seconds
+    return result
+
+Life:
+    born = 0.33 * random  # either 0 or 1
+    happy = random
+    dead = random
+ 
+    while not dead:
+        illusion = random  # perception
+        luck = 0.33 * random * illusion
+        happy = (born + luck + choice) &gt; 0.5 # is the glass half full?
+        dead = random</code></pre>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836/1</link>
+        <pubDate>Wed, 03 Feb 2016 13:27:53 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7836-1</guid>
+        <source url="http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836.rss">Here&#39;s a very geeky way of defining how life works and a clue: chance plays a bit of a role</source>
+      </item>
+  </channel>
+</rss>

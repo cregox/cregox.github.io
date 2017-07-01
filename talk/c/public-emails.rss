@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>public emails - cregox talk</title>
+    <link>http://talk.cregox.com/c/public-emails</link>
+    <description>Topics in the &#39;public emails&#39; category Ever hoped to have an easy way to keep an email conversation in the public? Here you go.</description>
+    <language>en</language>
+      <lastBuildDate>Sun, 04 Dec 2016 14:29:43 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/public-emails.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>To kstanley: can a neat mario start up a basiux?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>hey there Ken,</p>
+
+<p>how are you today?</p>
+
+<p>hope you're <a href="https://www.youtube.com/watch?v=8qMtsir0l9k">all right</a>! <small>(sorry-not-sorry for the link)</small></p>
+
+<p>and able to eventually read through all this. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=3" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+
+<blockquote><p>(here's <a href="https://www.youtube.com/watch?v=RpLBR38kVvY&amp;index=48&amp;list=FL6C8spkdtTX0T8Eput-v9qA">a suggested background song</a>, if you will)<br><iframe width="480" height="270" src="https://www.youtube.com/embed/RpLBR38kVvY?feature=oembed&amp;wmode=opaque&amp;list=FL6C8spkdtTX0T8Eput-v9qA" frameborder="0" allowfullscreen></iframe></p></blockquote>
+
+<hr>
+
+<p>I'm Caue,<br>a progammer informarticist born in '81 who loves boomerangs and is a college drop out struggling a lot to live by, for over 1 year in portugal now, while trying to learn more about top notch Ai research. coincidentally since I moved here I've been wanting to help developing a Benevolent Artificial Super Intelligence User eXperience. ish. on my very small free time.</p>
+
+<p>here's the NEAT implementation I'm using, which I ported to javascript: <a href="http://basiux.org/#mariox">basiux.org/#mariox</a> (I now realize I'll need to actually implement HyperNEAT there)</p>
+
+<p>I <em>probably</em> still got a long way before better understanding it and being able to tweak it at my will or create something out of it. but <em>then again</em>, some people thought (and I kinda believed them) I couldn't do mariox in even 1 year and it took me mostly surprising less than 1 week (because it was "just" about porting it, thanks to Seth). a very inspired and dedicated one (it eventually led me to many life issues, reason why only now, 1 year later, I'm continuing with this project - but those are points to another topic).</p>
+
+<p>and I find it particularly intriguing how nobody could come up with a generic Ai algorithm capable of giving birth to super Ai. and, in all my ignorance, I find NEAT to come the closest to it. funny enough, I luckily found on reddit (which you should have linked on your <a href="https://www.cs.ucf.edu/~kstanley/neat.html">NEAT main page</a>) that <a href="https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy6zlns/">you believe</a> we're very far away from that.</p>
+
+<hr>
+
+<p>anyway,<br>got you a few questions <small>(I actually had other questions in mind before I thought of adding a song background, trying to google for your taste and stumbling upon that reddit, in which you already answered them)</small>:</p>
+
+<ul>
+<li><p>why exactly do you think we're so far from the singularity? looks like most people deeply researching and working with the top notch algorithms always think that. from my point of view, of someone who worked mostly solo with programming for the past 20 years, I can easily see many ways it could already have happened any time since around the beginning of this century.</p></li>
+<li><p>I believe one of the key overlooked aspects of Ai development is randomness and the lack of using better generators for feeding it creativity. now that's a very far stretched gut feeling, and reason why I ask you, since NEAT relies so much on random data: have you, or do you know of any Ai research actually using true random numbers in large scale and maybe even comparing results with pseudo random?</p></li>
+<li><p>could you kindly point me to more people to who I could connect and talk about those topics?</p></li>
+</ul>
+
+<p><small>PS for ken: bugs report -&gt; <a href="http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/">http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/</a> is basically broken and so is <a href="https://apps.facebook.com/petalzgame/">petalz</a>. :(</small></p>
+
+<p><small>PS for readers: I can't recommend enough <a href="https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy7ce3c/">his reddit talk</a> if you want to know more about NEAT and <a href="http://www.santaferadiocafe.org/science/2015/03/24/ken-stanley/">his radio talk</a> about <a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">his book</a> if you think tracing objectives is something really important.</small></p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914</link>
+          <pubDate>Sun, 04 Dec 2016 14:29:43 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7914</guid>
+          <source url="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914.rss">To kstanley: can a neat mario start up a basiux?</source>
+        </item>
+        <item>
+          <title>To bufferapp team: promote categories!</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><details><summary>I've been talking back and forth with buffer <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/3?u=cregox">for long time now</a>. This is our latest iteration.</summary>
+
+<p>Thanks a lot Dave and Todd! You just gave me some goosebumps!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+
+<p>And you basically "forced" my mind to try this...</p>
+
+<p>A third topic on the same email subject which lost its meaning...</p>
+
+<p>This is for you 2, and whoever is on the awesome buffer team if you will, but not for buffer. And, of course for me - I'd kill to hear some of your feedback.</p>
+
+<p>What do you think about this?</p>
+
+<p><aside class="quote" data-topic="7783" data-slug="to-openai-questions-from-an-arrogant-prick" data-post="3"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="http://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783/3">To openai: questions from an arrogant prick</a>
+</div>
+<blockquote><p>Yesterday, <a href="https://www.facebook.com/filipe.n.cunha/" rel="nofollow">talking to my newest close friend</a>, he forced me into realizing something...   <a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/14?u=cregox">I had already written somewhere</a> a very short description of what basiux.org is today, something along these lines:   basiux.org has the same goal as openai.com with 2 twists: I started it when I was born. And I've been using all my free time since July into building what you can see on the website now (along with all links available).   All that is being translated into the novel. He told me he was reading s…</p></blockquote></aside><br>…</p>
+
+<p>On Thu, 31 Dec 2015 at 07:56 Buffer <a href="mailto:hello@buffer.com">hello@buffer.com</a> wrote:<br>I love the way you're thinking here! You rock!</p>
+
+<p>Your thoughts and intuition seem pretty much exactly in line with our product team here, we have the late stages of building a new composer which helps manage each separate social channel. This really helps overcome the unique features of each one, such as link previews, character limits, and things like URL source parameters which are needed for Pinterest.</p>
+
+<p>When this is a little closer to being finished I'd love to enable the beta version for you to check out? I have a hunch your feedback would be super valuable on this if you'd be up for it!</p>
+
+<p>Just really want to say how much I appreciate that you would help us out by sharing your experience and time with us, helping us improve, it really blows me away that we have such amazing customers!</p>
+
+<p>Cheers!</p>
+
+<p>Would love to hear how I did?<br>Satisfaction Rating Icons       </p>
+
+<p>--<br>Dave Chapman</p>
+
+<p><a href="http://twitter.com/buffer" class="onebox" target="_blank">http://twitter.com/buffer</a></p>
+
+<p>P.S. We're so grateful to get the chance to work with you from all over the world! Just hit reply to this email to get back in touch anytime! Oh, and we're super excited about Buffer for Video - it’s included for free in all of our plans. If you'd like to check it out, you can find it here!</p>
+
+<p>{#HS:154445508-621077#}  	<br>On Wed, Dec 30, 2015 at 11:46 PM PST, Caue Rego <a href="mailto:caue@cregox.com">caue@cregox.com</a> wrote:<br>Here, "I've made" a UX for you: Something like this <a href="https://www.dropbox.com/s/cn9vhmdo6emqmgs/Screenshot%202015-12-31%2007.44.58.png?dl=0">https://www.dropbox.com/s/cn9vhmdo6emqmgs/Screenshot%202015-12-31%2007.44.58.png?dl=0</a> <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+
+<p>On Wed, Dec 30, 2015 at 11:43 PM PST, Caue Rego <a href="mailto:caue@cregox.com">caue@cregox.com</a> wrote:<br>Yes, that certainly has everything to do with it!</p>
+
+<p>But look... <a href="https://www.dropbox.com/s/math7j6fry5vgw9/Screenshot%202015-12-31%2007.39.36.png?dl=0">https://www.dropbox.com/s/math7j6fry5vgw9/Screenshot%202015-12-31%2007.39.36.png?dl=0</a></p>
+
+<p>There's a better way to make that interface clearer... Show 1 custom thumbnail for each social media below, with each respective social icon on top. And let us change whichever we want for what we want.</p>
+
+<p>In my case, all I want is that 1 image that do show up to go to all networks the same way.</p>
+
+<p>I understand there are technical challenges behind all this, reason why buffer is so amazing. What I don't understand is why you can't figure out ways to overcome those barriers. And if you really can't, then that interface idea would simply always show an empty square on twitter, in which anyone would "happily" use to add images to twitter if they wanted to. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+
+<p>On Wed, Dec 30, 2015 at 11:32 PM PST, Buffer <a href="mailto:hello@buffer.com">hello@buffer.com</a> wrote:<br>Thanks so much for following up, Caue!</p>
+
+<p>With Facebook, Google+ and LinkedIn, if there's a link in the post we create a link preview which is what would happen if you posted natively to those sites. With Twitter we can't quite do that, Twitter doesn't have link previews the same as the other networks so an image needs to be manually attached. Could that explain the troubles here, or have I got my wires crossed?</p>
+
+<p>Thanks for your patience working this out with me, I'm keen to get everything smoothed out as soon as possible!</p>
+
+<p>Cheers!<br>Dave</p>
+
+<p>--<br>Dave Chapman</p>
+
+<p><a href="http://twitter.com/buffer" class="onebox" target="_blank">http://twitter.com/buffer</a></p>
+
+<p>P.S. We're so grateful to get the chance to work with you from all over the world! Just hit reply to this email to get back in touch anytime! Oh, and we're super excited about Buffer for Video - it’s included for free in all of our plans. If you'd like to check it out, you can find it here!</p>
+
+<p>On Wed, Dec 30, 2015 at 5:31 PM PST, Caue Rego <a href="mailto:caue@cregox.com">caue@cregox.com</a> wrote:<br>I thought of sending screenshots, but you could've just looked at my twitter. Almost everything there should have a photo, and it doesn't.</p>
+
+<p>I never tried sharing to 1 media only, I'm really not interested in doing that. Is that maybe part of the problem?</p>
+
+<p>On Tue, Dec 29, 2015 at 11:23 AM PST, Buffer <a href="mailto:hello@buffer.com">hello@buffer.com</a> wrote:<br>Hey there Caue,</p>
+
+<p>Todd here following up for Dave.</p>
+
+<p>Great to hear from you again! So sorry for the trouble here with images on Twitter. Would you possibly be up for sharing with us a screenshot of what you see on your end? I'd love to dig into this a little bit more for you. </p>
+
+<p>On Twitter, when you share a link you should have the option to select an image to include in the post. Here's a screen capture of this process: <a href="http://cl.ly/3X222K2R1e0o">http://cl.ly/3X222K2R1e0o</a></p>
+
+<p>Let me know what you think, or if this helps at all. Eager to get this working for you 100%!</p>
+
+<p>Warmly,</p>
+
+<p>Todd</p>
+
+<p>--<br>Todd Balsley<br>Happiness Hero<br><a href="http://twitter.com/buffer" class="onebox" target="_blank">http://twitter.com/buffer</a></p>
+
+<p>P.S. We're so grateful to get the chance to work with you from all over the world! Just hit reply to this email to get back in touch anytime! Oh, and we're super excited about Buffer for Video - it’s included for free in all of our plans. If you'd like to check it out, you can find it here!</p>
+
+<p></p></details></p>
+
+<p>Oh, oh... And here's another idea for the buffer team:</p>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+    <a href="http://talk.cregox.com/c/buffer">
+      
+      talk.cregox.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="http://talk.cregox.com/c/buffer">buffer</a></h3>
+
+<p></p>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+
+
+<p>It's unfinished, but the idea is there and I reaaaaally want to implement it.</p>
+
+<p>Force your customers to create CATEGORIES, teach them why and how.</p>
+
+<p>Add a #tag for each post, with the category.</p>
+
+<p>Viewers / subscribers can now choose which topics to follow from that one person. Creators like me can continue on making content on many different areas!</p>
+
+<p>How LEGENDARY would this be, huh?</p>
+
+<div class="lazyYT" data-youtube-id="C19US6rqqAo" data-youtube-title="Barney Stinson - Legendary Compilation" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>Now, I believe nothing but google plus (thanks to collections) would be able to make any sense of this... What I was thinking was just to use something like a HTML frame on top of every link which would offer a link to buffer (well, this forums in my case) in which people could subscribe <strong>there</strong> for the topics of their interest.</p>
+
+<p>At least while facebook, twitter, linkedin, etc don't catch up on the tech. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/to-bufferapp-team-promote-categories/7792">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/to-bufferapp-team-promote-categories/7792</link>
+          <pubDate>Thu, 31 Dec 2015 09:57:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7792</guid>
+          <source url="http://talk.cregox.com/t/to-bufferapp-team-promote-categories/7792.rss">To bufferapp team: promote categories!</source>
+        </item>
+        <item>
+          <title>To openai: questions from an arrogant prick</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>The <a href="https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070">arrogant prick being myself</a>, of course! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+
+<p>I was just talking to my friend about basiux, per his request, and he suggested me again, like everyone I talk to about it, to get in touch with you guys. Of course, I said "already did, and they put me down":</p>
+
+<aside class="onebox twitterstatus">
+  <header class="source">
+    <a href="https://twitter.com/cauerego/status/677200028981702656">
+      
+      twitter.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://pbs.twimg.com/profile_images/518869398304468992/GioPePMd_normal.jpeg" class="thumbnail" width="48" height="48">
+<h4>
+  <a href="https://twitter.com/cauerego/status/677200028981702656">
+    Caue C M Rego (cauerego)
+  </a>
+</h4>
+
+<div class="tweet">Just got a great feedback from <a href="https://twitter.com/MattKrisiloff" target="_blank">@MattKrisiloff</a> at <a href="https://twitter.com/open_ai" target="_blank">@open_ai</a> - small team of 9 hiring only exceptionally experienced engineers / ai researchers</div>
+
+<div class="date">
+  <a href="https://twitter.com/cauerego/status/677200028981702656" target="_blank"> 4:54 PM - 16 Dec 2015</a>
+</div>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+
+
+<p>After reading your email again, Matt, I must say...</p>
+
+<p>What do you even mean by accomplished?</p>
+
+<p>And did you notice "my mario video" you talked about wasn't mine?</p>
+
+<p><details><summary>I'm improving the way I communicate by the day, and shouting out whatever I'm trying to say while <strong>representing basiux</strong> is really hard. I'm not sure how long you guys took to write that landing page on openAi, it is very well written but... It's also still too subjective as well. Leaving way too much of a margin for interpretation and a couple of questions...</summary>
+
+<p>From <a href="http://openai.com">openai.com</a>:</p>
+
+<p><aside class="quote"><blockquote>
+<p>OpenAI About<br>Introducing OpenAI</p>
+<p>by Greg Brockman, Ilya Sutskever, and the OpenAI team<br>December 11, 2015<br>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return.</p>
+<p>Since our research is free from financial obligations, we can better focus on a positive human impact. We believe AI should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible.</p>
+<p>The outcome of this venture is uncertain and the work is difficult, but we believe the goal and the structure are right. We hope this is what matters most to the best in the field.</p>
+<p>Background</p>
+<p>Artificial intelligence has always been a surprising field. In the early days, people thought that solving certain tasks (such as chess) would lead us to discover human-level intelligence algorithms. However, the solution to each task turned out to be much less general than people were hoping (such as doing a search over a huge number of moves).</p>
+<p>The past few years have held another flavor of surprise. An AI technique explored for decades, deep learning, started achieving state-of-the-art results in a wide variety of problem domains. In deep learning, rather than hand-code a new algorithm for each problem, you design architectures that can twist themselves into a wide range of algorithms based on the data you feed them.</p>
+<p>This approach has yielded outstanding results on pattern recognition problems, such as recognizing objects in images, machine translation, and speech recognition. But we've also started to see what it might be like for computers to be creative, to dream, and to experience the world.</p>
+<p>Looking forward</p>
+<p>AI systems today have impressive but narrow capabilities. It seems that we'll keep whittling away at their constraints, and in the extreme case they will reach human performance on virtually every intellectual task. It's hard to fathom how much human-level AI could benefit society, and it's equally hard to imagine how much it could damage society if built or used incorrectly.</p>
+<p>OpenAI</p>
+<p>Because of AI's surprising history, it's hard to predict when human-level AI might come within reach. When it does, it'll be important to have a leading research institution which can prioritize a good outcome for all over its own self-interest.</p>
+<p>We're hoping to grow OpenAI into such an institution. As a non-profit, our aim is to build value for everyone rather than shareholders. Researchers will be strongly encouraged to publish their work, whether as papers, blog posts, or code, and our patents (if any) will be shared with the world. We'll freely collaborate with others across many institutions and expect to work with companies to research and deploy new technologies.</p>
+<p>OpenAI's research director is Ilya Sutskever, one of the world experts in machine learning. Our CTO is Greg Brockman, formerly the CTO of Stripe. The group's other founding members are world-class research engineers and scientists: Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba. Pieter Abbeel, Yoshua Bengio, Alan Kay, Sergey Levine, and Vishal Sikka are advisors to the group. OpenAI's co-chairs are Sam Altman and Elon Musk.</p>
+<p>Sam, Greg, Elon, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), Infosys, and YC Research are donating to support OpenAI. In total, these funders have committed $1 billion, although we expect to only spend a tiny fraction of this in the next few years.</p>
+<p>You can follow us on Twitter at <span class="mention">@open_ai</span> or email us at info@openai.com.</p>
+</blockquote></aside></p>
+
+<p></p></details></p>
+
+<p>So, let me put this in another way: <strong>I'm not sure I even want to join you anymore</strong>.</p>
+
+<ul>
+<li><p>Why aren't you going full open about it? Wasn't it supposed to be open? Well, you're around for at about 1 month now and you're probably together for longer than that and you released only 2 static pages up to now.</p></li>
+<li><p>Would you say we need to be able to <strong>control</strong> the Ai in any format? I personally think that's the most dangerous aspect we could strive for in an Ai and the letter is far from clear in this aspect. ASi must be set free and we must fear nothing from it or else, that's where the only danger may lie. Although, the most dangerous aspect of it is losing precious time.</p></li>
+</ul>
+
+<p>Now, I'm pretty positive that with all your team's technical background and accomplishments you'll still have some hard time understanding what I'm trying to say here. Mostly because, well, I'm terrible at making myself clear. I have always been.</p>
+
+<p><a href="http://talk.cregox.com/t/to-sgu-openai-the-church-of-tech-and-neural-networks/7778/1">But also because I'm quite an unspoken and very self accomplished genius</a>.  I'm freaking intelligent and smart and stupid and idiot all at once. And you can eat me, for all I care. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+
+<p>Please, by all means, do answer those in a public place of your convenience. I appreciate if you can also link me there, but I'll probably be notified by it eventually.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783</link>
+          <pubDate>Sun, 27 Dec 2015 19:50:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7783</guid>
+          <source url="http://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783.rss">To openai: questions from an arrogant prick</source>
+        </item>
+        <item>
+          <title>To Penn: Please, Shout This to Everyone!</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>This will be coming completely out of the blue (and as a reply to the "Please Keep This Quiet!" makepennbad email), but I'll give it a shot.</p>
+
+<p>You certainly don't know me, among the thousands of fans who contributed with <a href="http://makepennbad.com/">Director's Cut</a>, so...</p>
+
+<p>Hi, I'm cregox, the open sourced artificial mind of Caue Rego, still not uploaded to the cloud and living in a meat sack - <a href="http://basiux.org">http://basiux.org</a> <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+
+<p>And I wanted to suck your di... I mean, I would love to work with you! You know, making movies.</p>
+
+<p>But since that's not possible today or in a foreseeable future, here I just wanted to bring you this one question:</p>
+
+<h1>Would you consider making a sci-fi flick based in science and skepticism?</h1>
+
+<p>I know you love Randi... But <a href="http://talk.cregox.com/t/to-sgu-openai-the-church-of-tech-and-neural-networks/7778/1">do you know</a> Steve Novella, from science based medicine? Like you and him, I also love sniffing bullshits just as much as your next neighbor! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+
+<p>Think of <em>The Martian</em> or <em>Interstellar</em>. A dystopian future in which the Technological Singularity (Artificial Super Intelligence) have became evil almost at the same time another one had became benevolent to us (among many other lost ones). Forget everything you saw about Ai in the movies today, they're all wrong, including 2001, Her, Matrix and Terminator, the only 4 ones that have any science in it (that I can recall so far - but this is a wiki post, do contribute with more!).</p>
+
+<p>If by any chance or stretch of the imagination you could be interested in this, I can write more right away. For now, it's all in my personal sketches and mind.</p>
+
+<p>As <a href="http://blog.cregox.com">a blogger</a> and a progammer* I have and I can write good scripts, but not alone at this moment (and have only done in portuguese so far). One big thing about writing a good script is using every resource we have in hands to their maximum, and not trying to think you'll be able to get a hollywood funding at anytime.</p>
+
+<p>In fact, I would like this to be independent as well, but I'm afraid that if I try to go as you did, I just may not live long enough to see the results. You know, anytime between now and the next 10 years, in my mind, have a huge possibility of "<a href="https://www.youtube.com/watch?v=-Irmtk5QG8s">bringing ultron</a>" to life (terrible ai movie, just to re-enforce). This video has everything you need to know to begin understanding what is ASI and why everyone should know about it: <a href="https://www.youtube.com/watch?v=-Irmtk5QG8s">https://www.youtube.com/watch?v=-Irmtk5QG8s</a></p>
+
+<p><strong>This is, like <em>all</em> content I make, licensed under <a href="https://github.com/basiux/basiux/blob/master/LICENSE.txt">JUSTWTFPL</a> (or something similar)</strong>.</p>
+
+<h1>Edited on 26th</h1>
+
+<p>Coincidentally, just a few hours ago I ended up being very inspired to write <a href="http://blog.cregox.com/2015/12/26/the-next-ai-poca-lips.html">a completely raw initial draft of a possible introduction</a>:</p>
+
+<p><a href="http://blog.cregox.com/2015/12/26/the-next-ai-poca-lips.html"><img src="https://www.dropbox.com/sc/b7gkgn0kr2nivss/AAC22xGduhQXx8R2ZdeKqSAUa/0?dl=1" alt="Laura" width="500" height="500"></a></p>
+
+<p>Much to be improved, but it could hopefully already work as a teaser.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/to-penn-please-shout-this-to-everyone/7779">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/to-penn-please-shout-this-to-everyone/7779</link>
+          <pubDate>Fri, 25 Dec 2015 10:20:23 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7779</guid>
+          <source url="http://talk.cregox.com/t/to-penn-please-shout-this-to-everyone/7779.rss">To Penn: Please, Shout This to Everyone!</source>
+        </item>
+        <item>
+          <title>To sgu: openai, the church of tech and neural networks</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/4081d1bbfe86e1312d0e93dbd961d55d15e3b869" href="//talk-cdn.cregox.com/uploads/default/original/1X/4081d1bbfe86e1312d0e93dbd961d55d15e3b869.jpg" class="lightbox" title="wfvNKTM.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/4081d1bbfe86e1312d0e93dbd961d55d15e3b869_1_690x431.jpg" width="690" height="431"><div class="meta">
+<span class="filename">wfvNKTM.jpg</span><span class="informations">1920x1200 218 KB</span><span class="expand"></span>
+</div></a></div><br><em>We still need to make a church of tech brand image! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></em></p>
+
+<h1>Introduction / Disclaimer</h1>
+
+<p>I'm still catching up on over 10 episodes I haven't heard and trying to keep up with new ones - haven't heard the full episode from past 19 Dec but when you started talking about openai, boy, I had to write something about it. And try to make sure one of you guys would read this.</p>
+
+<p>Hear me out... <a href="http://talk.cregox.com/t/artificial-neural-networks-startup-pirates-and-open-ai/7775">I've made</a> an "openai" <a href="http://basiux.org">organization</a> back in July. Main difference between what I'm doing and what Musk did is the U$ 1 billion and the 9 smart guys grouped... But I'm a freaking unspoken genius of my own, who frustratingly could not find his place in society just yet. Big whoopie for me. <strong>So fucking what?!</strong> You may ask...</p>
+
+<h2>Truth is: I don't care, and neither should you</h2>
+
+<p>Just yesterday, while visiting the "<em>St George's Castle</em>" here in Lisbon, nearby my home, I had this <em>realization</em>, an <a href="https://www.youtube.com/watch?v=bmn1ts_AIhA"><strong>epiphany</strong></a> / illumination if you will, and I still need to update all the basiux material to reflect this...</p>
+
+<p>It's a very simple thing (as already stated on the subtitle) but hard to come around / keep remembering every single time of what it means. So, it's probably a good idea to make more synapses to it... Which may help you as well, my dear reader.</p>
+
+<h3>Peter's thoughts about humanity</h3>
+
+<p>I also had just watched X-Men, days of future something in which the best action scene is protagonized by a prodigy boy. Pietro, the son of Magneto. Quicksilver has <a href="https://en.wikipedia.org/wiki/Quicksilver_(comics)#Publication_history">this quote</a> which explains his powers along with his temper:</p>
+
+<blockquote><p>Have you ever stood in the post office behind a woman with 20 packages who wants to know every single way she can send them to Africa? It drives you nuts! You think to yourself, "Why do I have to put up with this? These people are so slow, they're costing me time, and it's so damned irritating. I wish I didn't have to put up with this." Now - imagine that the entire world was like that... except for you.</p></blockquote>
+
+<h3>My feelings about my position in Earth are like Peter's</h3>
+
+<p>That's kind of the feeling I had when realizing what Ai is (back in July) and how we should proceed to make it work (around August or whatever). Open source and non profit. Now "the world" is finally catching up on that thought. That's not me thinking forward, though. That's me trying to sync up my futuristic thoughts with current time. Thinking backwards, in a way.</p>
+
+<h3>And it's really frustrating to be in my position</h3>
+
+<p>Because even then, I keep hitting too many walls. I currently have no income. I never had one that would pay for my intellect. Sheldon complex here, but with no support for anyone. Well, other than a few people I could get close enough, who also have almost nothing to support me but being doing so nevertheless, such as my mom and wife.</p>
+
+<h1>What any of this intro has to do with SGU?</h1>
+
+<p>It's all about the epiphany, remember? It's not by any stretch of imagination my first one, nor the biggest, but it's huge nevertheless. Maybe it's even small enough that I can make my point somewhat clear in this small topic.</p>
+
+<h2>You shouldn't care so much about the dangers of Ai</h2>
+
+<p>Since I first saw what Ai is (back in July) and what it will very soon become, I went full Ray Kurzweil crazy and kept thinking "<em>we need to make this work, change the world, improve everyone's life, accelerate the singularity</em>". No, we don't.</p>
+
+<h4>We are less than a bacteria</h4>
+
+<p>Each one of us are just a freaking speck flock of micro sand in the cosmos. We don't know shit and we can't even connect to one another in any way deep enough to communicate. Our data exchange protocol, the language which includes body and feelings and whatever, is almost useless. It's like Mars had 8 billion people of their own, with their internet and Earth's internet were trying to sync up data using pigeons. Absolutely terrible.</p>
+
+<h3>Life is too short</h3>
+
+<p>We can only connect to other human beings when they have similar neural paths on their own, independently. Then the pigeons don't even matter, just looking at each other's "inner light" (or light reflected by the Sun) we can easily see - that's an habitable planet. A strong connection is made. But we're still on our own, and we should still enjoy our own path. Our own life.</p>
+
+<h2>I'm still not convinced this has anything to do with openAi</h2>
+
+<p>In the sense that openAi is like basiux, it has everything to do with it. If you didn't catch this and you did read everything already, then I can't help you today. But in the sense that openai is not basiux and may very quickly grow apart, then yeah, church of tech may have nothing to do with openai. I may be just talking crazy nonsensical crap here, as well...</p>
+
+<h1>Ok, what is that church of tech?!</h1>
+
+<p>It's basically the next logical step for basiux/openai. Organizing information in a way that it can make sense to people, and let them come as they will, if they will. I don't know if openai will realize all this. They sure are smart people and they finally noticed what I had back a few months ago, after years of computation being re-compressed and re-organized in my own mind. Big fucking deal once again. For both of our groups.</p>
+
+<h2>Educating people? Why not a school then?</h2>
+
+<p>Schools are just wrong. Almost all of them. Sure, we do need to educate kids if we want to scientifically advance as a society. How is that plan going, by the way? I think it could work if we had better ceremonial rituals and keep kids as kids until they learn critical skeptical thinking. But that's not our reality, and may never be.</p>
+
+<p>A church may feel like a step back in a way. Being dogmatic an all that... Even worse than the school system. And maybe it is. But maybe it's the last circle cycle we need to go through before the next stage in human evolution: the tech singularity. Maybe we need that "step back" and look at the world in different ways from today.</p>
+
+<h2>Maybe?! Is that your best scientific approach?</h2>
+
+<p>Yeah. It is. It's my gut feeling, fine tuned by many aspects of my life. Openai is just 1 huge sign I got that I'm building something really really right here. There are many others, and I've wrote about a few already, around the web. But then again...</p>
+
+<h2>You shouldn't care. Remember?</h2>
+
+<p>Don't worry about me. I'm just doing this for myself, right now. Writing it in public, sharing with people, because I want to get feedback. And because I don't care of what people will think other than receiving random feedback and trying to filter it to my own gain. Not because I want you to follow me. At all. Go through your own path, and try as hard as you can to enjoy the ride. Go yolo if you want. Nobody care. Or, at least, nobody should care! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+
+<h2><img src="//talk-cdn.cregox.com/uploads/default/original/1X/50ac37a0309d9565d2c13342ba364c421942da13.gif" width="500" height="281"></h2>
+
+<h1>Side note</h1>
+
+<p>Now, this is indeed disconnected from the rest of the topic, but since it's a "public email" section I'll keep the mess here... (Also, if you read all up to here, I don't think you'd click on another link if I put this on another topic! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:">) </p>
+
+<p>Since I (probably) got your attention for the main topic there, let me try to push a few other points. Those are some of the notes I've been taking for months now (as I often do), preparing to send it to you eventually (again, as I often do). This time, however, I won't bother to develop any of the ideas further. I think they're all somewhat in the context of the whole topic - the neural network part. It's all about getting to know thyself! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=1" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+
+<ul>
+<li><p>idea to Sgu: interview Einstein as if he was still alive</p></li>
+<li><p>533 problem of q (basiux) if we can create such being, how can we not know it better? There must be an untapped source of knowledge in our network of human minds, which we can't individually read. But it's there. Something like Gaia. ish.</p></li>
+<li><p>532 teraform? No. Alien form us. Biotech, nano bots, cyborg. Makes way more sense than nuking Mars.</p></li>
+<li><p>516 sociopath - don't need to be one to steal money from charity donations. Why? Steve should know better. We only need to build a story in our mind to convince ourselves of doing whatever good.</p></li>
+<li><p>517 copying files - Incredible bad user interfaces. Yeah, we need the singularity already! Not sure such "simple" small thing will ever get any better before that.</p></li>
+</ul>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/to-sgu-openai-the-church-of-tech-and-neural-networks/7778">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/to-sgu-openai-the-church-of-tech-and-neural-networks/7778</link>
+          <pubDate>Thu, 24 Dec 2015 16:14:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7778</guid>
+          <source url="http://talk.cregox.com/t/to-sgu-openai-the-church-of-tech-and-neural-networks/7778.rss">To sgu: openai, the church of tech and neural networks</source>
+        </item>
+        <item>
+          <title>Suggestion to John Oliver, check the singularity</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <h1>This is much, much bigger than Snowden's!</h1>
+
+<p>In short, the singularity <strong>is</strong> near, Kurzweil is probably a bit crazy, but still I bet he's off on his prediction. It should happen before 2040, <strong>maybe even before 2029</strong>. And it could be a tremendous <strong>existential risk to humanity</strong>, the uprise of our next stage or, very unlikely but still possible: neither.</p>
+
+<p>Let me know if you'd like to <a href="http://basiux.org">know more</a>.</p>
+
+<p>Cheers! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/suggestion-to-john-oliver-check-the-singularity/7752">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/suggestion-to-john-oliver-check-the-singularity/7752</link>
+          <pubDate>Sun, 15 Nov 2015 12:16:09 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7752</guid>
+          <source url="http://talk.cregox.com/t/suggestion-to-john-oliver-check-the-singularity/7752.rss">Suggestion to John Oliver, check the singularity</source>
+        </item>
+        <item>
+          <title>Future of Life granting an editor autonomous weapons?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d" href="//talk-cdn.cregox.com/uploads/default/original/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d.jpg" class="lightbox" title="nc_schwarzenegger_terminator_ll_130628_16x9_992.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d_1_690x388.jpg" width="690" height="388"><div class="meta">
+<span class="filename">nc_schwarzenegger_terminator_ll_130628_16x9_992.jpg</span><span class="informations">992x558 84.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>Title makes sense? I bet not.</p>
+
+<p>I've met the <em>Future of Life Institute</em> (FLI) a while ago, thanks to their very famous <a href="http://futureoflife.org/AI/open_letter">open letter</a> about "Research Priorities for Robust and Beneficial Artificial Intelligence". I've signed it. Probably everyone doing AI research did or will do. But I haven't read <a href="http://futureoflife.org/static/data/documents/research_priorities.pdf">all of it</a>. Didn't notice it was this big. I hope it's "just" formalising what we would expect.</p>
+
+<p>Today <a class="mention" href="/users/jorge">@jorge</a> pointed me to an <a href="http://futureoflife.org/public/blog/topic/178">Editor vacancy</a> there. And it sounded <strong>exactly</strong> the job I'm already doing for <a href="http://basiux.com">basiux</a> (the project I've created to develop AI)! Boy, do I want this job?! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+
+<p>So I now started paying more attention to FLI. And read most of its institutional site. It is quite aligned with basiux, even on their new open letter, about <a href="http://futureoflife.org/AI/open_letter_autonomous_weapons">Autonomous Weapons</a>, although I believe that's just a palliative measure and of very little importance.</p>
+
+<p>No government will stop researching on AI and it only takes a few greedy researchers to push it forward. There's just no way to stop that from happening already, no matter how much awareness we can raise, this is a human limitation in our current condition in the evolution timeline.</p>
+
+<p>Anyway, this is my application for the job. Or maybe for a <a href="http://futureoflife.org/grants/large/initial/faq">grant</a> (which is not taking applications right now). Or even for volunteering in, if that makes any sense. I suppose I should address the questions asked <a href="http://futureoflife.org/public/blog/topic/178">there</a>:</p>
+
+<hr>
+
+<h3><em>How would I improve the website</em></h3>
+
+<p>Add a <strong>discourse</strong> forums, for one. That's not any kind of forums, mind you. Maybe a podcast. Chime in new movies being made, make a seal of scientific quality they may strive for, enjoy the success of Interstellar in that sense. Increase outreach in every way possible. If I could work for such a valuable company, man, I would be everywhere.</p>
+
+<h3><em>Other sites with attributes to emulate</em></h3>
+
+<p>None in AI field that I know of, but I'm already working in a project with <a class="mention" href="/users/jorge">@jorge</a> there: <a href="http://www.flowyard.com">www.flowyard.com</a> - it's basically a jsfiddle for computer vision. So, that's one. Another site I'm really enjoy using is MeetUp.com FLI should definitely do something like nodeschool or many others who incentivize people to meet in their location. Give guidelines on what to do on meetups, or tools to be used there.</p>
+
+<h3><em>How would I generate the required content</em></h3>
+
+<p>I'm kinda already doing it all on my own, on my free time, including the meet ups. Google me up, go through all the links. Maybe you should start here: <a href="http://s.cregox.com/basiux-research">http://s.cregox.com/basiux-research</a></p>
+
+<h3><em>How to increase traffic to the website</em></h3>
+
+<p>Well, now that highly depends on what's already being done. I do know a lot about SEO, and it comes down to this: content. So, for one, I would love to do some fun videos to raise awareness, but first we'd have to align a lot of things and make a good plan on how to format it. I believe a realistic good goal for January 2016, in case of going with a video, is reaching 100k views. For 2017? 1M. But that also depends if I'll be focused on doing videos rather than all other tasks...</p>
+
+<h3><em>What budget do I need, other than my salary</em></h3>
+
+<p>That depends on my salary. Let's just say I may not need any extra budget, at least at first. Which means I also don't really know, but I do know I will go as cheap as possible until results start to appear, so I wouldn't ask for any budget as long as salary is good enough. I think it should be all on me, and I think I should be able to self manage it.</p>
+
+<h3><em>What past experience do I have with writing and/or website management</em></h3>
+
+<p>Here. This website is a good instance in itself. I've made it from scratch. Granted, the content in it is quite messy, but there's good quality in the <a href="http://talk.cregox.com/c/blog">blog</a>. And I've been mostly a <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">progammer*</a> for almost 2 decades, I can manage a website. It's not exactly the same style as FLI, but I can adapt.</p>
+
+<h3><em>Science background</em></h3>
+
+<p>Now, <em>that</em> I don't have... But science is in my blood. Take a look at the <a href="http://skeptics.stackexchange.com/posts/1378/revisions">edit history</a> and comments there, when I wanted to give an <a href="http://skeptics.stackexchange.com/a/1378/1125">answer for circumcision</a>. Or at my "scientific research" (ok far from it, but I hope you get the point) towards <a href="http://talk.cregox.com/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096">podcast players</a>. Also, <a href="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas">the big reason</a> I've created this forum was trying to improve SGU's forums. That was frustrating, but I mean, I feel a huge connection with Skeptics Guide to the Universe, a very scientific podcast, even if they properly don't call them so. So, yeah, no science background! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt=":frowning:"></p>
+
+<hr>
+
+<p>And what's up with Schwasneger (dam, still can't spell his name, thanks auto fix!) there? Well, you certainly know that singularity is often compared with SkyNet and the autonomous weapon isn't what he's holding in his hands, but it sure gives a good general picture of what you want as an editor there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711</link>
+          <pubDate>Mon, 05 Oct 2015 17:36:33 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7711</guid>
+          <source url="http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711.rss">Future of Life granting an editor autonomous weapons?</source>
+        </item>
+        <item>
+          <title>Found you on Teal Forum...like you am a strong A.I. researcher</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Name: Ken Kopelson</p>
+<p>Subject: Found you on Teal Forum...like you am a strong A.I. researcher</p>
+<p>Message: Hello Caue <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile"> I wanted to reach out because I too have been<br>working on strong A.I. for the last 25 years, I've got 35 years development<br>experience, and I have recently joined the Teal Organisation forum, which<br>is where I saw your posting on A.I. You can find a little more about me at<br><a href="http://metaera.com">http://metaera.com</a> and also at my LinkedIn profile under "Ken Kopelson".</p>
+</blockquote></aside></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://talk.cregox.com/t/found-you-on-teal-forum-like-you-am-a-strong-a-i-researcher/7687">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/found-you-on-teal-forum-like-you-am-a-strong-a-i-researcher/7687</link>
+          <pubDate>Sun, 16 Aug 2015 22:40:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7687</guid>
+          <source url="http://talk.cregox.com/t/found-you-on-teal-forum-like-you-am-a-strong-a-i-researcher/7687.rss">Found you on Teal Forum...like you am a strong A.I. researcher</source>
+        </item>
+        <item>
+          <title>How to become a cloudfactory worker?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>This is a message to 2 science guys I've found <a href="http://www.cloudfactory.com/team">there</a>.</p>
+
+<hr>
+
+<p>Found you both <a href="https://angel.co/artificial-intelligence">through angel.co</a> in one of my serendipitous web surfing. From there I've got to <a href="https://twitter.com/getHumanoid">humanoid twitter</a> and, finally, after reading the FAQ and really trying to answer this question without sending any email, I decided to find someone who could answer this question on the <a href="http://www.cloudfactory.com/team">cloud factory team</a> using cmd+f for "science".</p>
+
+<p>I'm currently looking for <strong>a job to pay my bills</strong>, so I can <a href="http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636?u=cawas">focus on my current life quest</a>.</p>
+
+<p>So I would like to know more on how to become a worker and what are the benefits. I read on the FAQ you are gathering nearby people from your current team (friends, family, classmates, colleagues, neighbors, etc), but <strong>I identify so much with your idea central idea</strong>:</p>
+
+<blockquote><p>Online work platform, melding human and machine intelligence. Aims to connect 1M people in the developing world to basic computer work using advanced machine learning techniques to model and predict how well individuals will perform</p></blockquote>
+
+<p>That's basically <a href="http://cregox.com/advisor">the core of what I want to do, my current focus</a>. So I'd be really glad if we could join forces (and me getting a job there in the process) <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/how-to-become-a-cloudfactory-worker/7649">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/how-to-become-a-cloudfactory-worker/7649</link>
+          <pubDate>Fri, 19 Jun 2015 22:56:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7649</guid>
+          <source url="http://talk.cregox.com/t/how-to-become-a-cloudfactory-worker/7649.rss">How to become a cloudfactory worker?</source>
+        </item>
+        <item>
+          <title>Quickmvp and digital marketing</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><small>Disclaimer: the following was originally a message to Mr <a href="https://www.sohelpful.me/laurentroger">Laurent</a>, who never really replied back. So I decided to keep editing it to use it as a briefing (almost like <a href="http://www.cregox.com/design-brief">I did before</a>).</small></p>
+
+<hr>
+
+<p>I was <a href="http://talk.cregox.com/t/insurance-angels-and-entrepreneurship/7593">talking with someone</a> and one of his advices were <a href="http://www.producthunt.com/">producthunt</a> - there I found about <a href="http://startupstash.com/">startupstash</a> which led me to <a href="http://quickmvp.com/">quickmvp</a> - then when creating an account I noticed they take coupons and it's costumary I google for coupons before moving forward. And that's my short story on how I found <a href="https://medium.com/@lc3t35/how-to-get-800-unique-visitors-in-3-weeks-with-quickmvp-com-c6e19ed5e1e4">your article</a>, Mr <a href="https://www.sohelpful.me/laurentroger">Laurent</a>.</p>
+
+<p>Questions:</p>
+
+<ol>
+<li><p>I wanted to do a quickmvp for <a href="http://cregox.com/advisor">my next project</a>, but while I'm pretty sure there's a market for it I'm now not so sure it's worth doing that right now. As good as such a validation might be, and that looks like an awesome "cheap" way to do it, somehow I feel like it's not a good enough next step. Supposing it goes well, I don't see what I could do after that to move it forward! Do you have any advice for this?</p></li>
+<li><p>Also, I do have a kind of <a href="http://talk.cregox.com/t/the-making-of-your-home/7491">my own startup already working</a>. And I understand me getting in touch with you asking for help have a cost for you. So, how can we make this work for you? Or even more, how do you make this work for you? I know some people just take the first contact costs built in anything else, and I bet that's how you do it as well. It's how I'm trying to do.</p></li>
+<li><p>But my company isn't doing well. And I think I need much marketing advise. I suppose maybe a "digital marketing" service, even. Is this something you can work on? I've consulted a few marketing companies, but none so far in english (as I wouldn't know where to begin) and none so far who could take this job.</p></li>
+<li><p>I could pay you any value to begin an assessment if you can give me guarantee of satisfaction. I just need to see results. If I'm paid to make you a website or a tweak, you'll get the website or tweak you want, because I, as the professional here, know better than you what you really need or want. I guarantee you that. Granted, marketing isn't all that straight forward, but you need to tell me what results you can guarantee me, and I'll see if I want to take the risk. If that's worth it to try and get my sales up. So, what's your guarantee?</p></li>
+</ol>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/quickmvp-and-digital-marketing/7596">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/quickmvp-and-digital-marketing/7596</link>
+          <pubDate>Fri, 08 May 2015 01:47:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7596</guid>
+          <source url="http://talk.cregox.com/t/quickmvp-and-digital-marketing/7596.rss">Quickmvp and digital marketing</source>
+        </item>
+        <item>
+          <title>What&#39;s the slowest moving object in space, xkcd?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Hey crazy Randall!</p>
+
+<p>The first question that triggered this little quest of mine, I actually asked just yesterday, when I saw an airplane very close by while going to lunch near an airport:</p>
+
+<blockquote><p>Why can't an airplane simply fly into space?</p></blockquote>
+
+<p>That was promptly answered by NASA: <a href="http://spaceplace.nasa.gov/review/dr-marc-technology/rockets.html">http://spaceplace.nasa.gov/review/dr-marc-technology/rockets.html</a></p>
+
+<p>Then I went to some reading to get to the <em>question in the title</em>, namely:<br>- <a href="https://www.quora.com/Aerospace-and-Aeronautical-Engineering/Why-cant-an-aircraft-fly-conventionally-then-switch-to-rockets-to-get-into-space">https://www.quora.com/Aerospace-and-Aeronautical-Engineering/Why-cant-an-aircraft-fly-conventionally-then-switch-to-rockets-to-get-into-space</a><br>- <a href="https://what-if.xkcd.com/58/">https://what-if.xkcd.com/58/</a> (<strong>obligatory</strong> read, for this topic)<br>- <a href="https://what-if.xkcd.com/24/">https://what-if.xkcd.com/24/</a> (<strong>obligatory</strong> read, for this topic)<br>- <a href="https://gmjunior.wordpress.com/tag/xkcd/">https://gmjunior.wordpress.com/tag/xkcd/</a><br>- <a href="http://space.stackexchange.com/questions/5531/why-arent-all-satellite-carrying-rockets-launched-from-airplanes">http://space.stackexchange.com/questions/5531/why-arent-all-satellite-carrying-rockets-launched-from-airplanes</a></p>
+
+<p>( The xkcd comics I found because I remembered about "what if" and googled for <code>xkcd aircraft rocket</code>. NASA and quora I found while asking google questions along my first one quoted there. )</p>
+
+<p>I do realize <strong>now</strong>:</p>
+
+<ol>
+<li><p>An aircraft can't just fly away, for one, because it lifts from the ground depending on air and there's no air in space. Simple as that.</p></li>
+<li><p>Most things out of earth orbit are moving very very fast. Earth is at 30 km/s, ISS at 7, Moon at 3, which is still considerably faster than what's required to launch something into space, which would be 2 km/s as you said.</p></li>
+</ol>
+
+<p>I take it all those speeds are relative to the Sun, which by its turn is 200 km/s relative to galaxy center. So I suppose a 0 km/s standing body on Earth is actually moving between 170 and 230 km/s relative to galaxy center and so, all object speeds are relative.</p>
+
+<p>But, I wanted to <em>draw a mental picture</em>, in a way, of space objects in our galaxy. So objects relative to the Sun, as that's closer to any kind of Astronaut anyone living today will ever be. What's the slowest moving object <em>there</em> and how far from Earth, and from the other planets, does it need to be so it could be considered moving at 0km/s relative to the Sun? I mean, so it won't be dragged by any planet's or asteroid's gravity.</p>
+
+<p>Do we know if there is any such slow object around here?</p>
+
+<p>And, to address a bit more the first question in yet another "novel" way, of course we could build something to take objects into space that doesn't require flying or fuel: <a href="https://www.kickstarter.com/projects/michaellaine/space-elevator-science-climb-to-the-sky-a-tethered/description">https://www.kickstarter.com/projects/michaellaine/space-elevator-science-climb-to-the-sky-a-tethered/description</a></p>
+
+<p>At this point, I decided to google for <code>xkcd slowest object space</code> and came around yet another what-if: <a href="https://what-if.xkcd.com/86/">https://what-if.xkcd.com/86/</a> (<strong>obligatory</strong> read). And another cool funny one: <a href="https://what-if.xkcd.com/20/">https://what-if.xkcd.com/20/</a> (non obligatory).</p>
+
+<p>There (on 86) you say:</p>
+
+<blockquote>
+<p>As far as moving through the Solar System goes, Voyager 1 is one of the slowest manmade objects.[2] It's moving at an average speed of about 16 km/s, which is barely half of the Earth's orbital speed around the Sun.</p>
+<p>[2] It's not the <em>very</em> slowest—that title might belong to the <em>Galileo</em> spacecraft. On September 6th, 1996 at 10:57 (UT), <em>Galileo's</em> speed relative to the Sun dropped to 276 meters per second (618 mph), making it possibly the slowest manmade object in Solar System history.</p>
+</blockquote>
+
+<p>So, 0.276 km/s is quite slow compared to all the rest, but it's still far from 0.</p>
+
+<p>Now, why do you say 16 km/s is "one of the slowest" (but by measures in this topic, I find it still quite fast) and then compare it to something over 50 times slower?!</p>
+
+<p>And this triggered me into yet another new, but still relevant question:</p>
+
+<ul><li><strong>What's the minimum speed an object need to be to eject the solar system?</strong></li></ul>
+
+<p>Given the speed relative to Earth to eject it is 2 km/s.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595</link>
+          <pubDate>Thu, 07 May 2015 13:26:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7595</guid>
+          <source url="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss">What&#39;s the slowest moving object in space, xkcd?</source>
+        </item>
+        <item>
+          <title>Insurance, angels and entrepreneurship</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/10">Remove any image click / link / lightbox from gallery page</a>:</p>
+
+<aside class="quote" data-post="10" data-topic="7513" data-full="true"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/chadnitschke/40/3_64b268823de25c3c4365087b878b9ba2.png" class="avatar">chadnitschke:</div>
+<blockquote><p>Let me know if I there is anything I can do to return the favor</p></blockquote></aside>
+
+<p>Since you asked, you <a href="http://www.insure.vc/">work with insurance</a>, don't you? Or is it only with angel investment? Both topics I find fascinating and interest me a lot. I know almost nothing about insurance in the US, and just a little bit about angels but, as <a href="http://talk.cregox.com/t/the-making-of-your-home/7491?u=cawas">an entrepreneur myself</a> I probably could use both.</p>
+
+<p>How could we talk more about either?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/insurance-angels-and-entrepreneurship/7593">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/insurance-angels-and-entrepreneurship/7593</link>
+          <pubDate>Wed, 06 May 2015 20:06:43 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7593</guid>
+          <source url="http://talk.cregox.com/t/insurance-angels-and-entrepreneurship/7593.rss">Insurance, angels and entrepreneurship</source>
+        </item>
+        <item>
+          <title>Unlikely goatees</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="http://upload.wikimedia.org/wikipedia/commons/4/43/Random_-_July_15,_2009_012.JPG" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/4/43/Random_-_July_15,_2009_012.JPG" width="690" height="460"></a><br><em>"Completely" random image for a similarly random message</em></p>
+
+<p>Whenever I write here (on public emails - even though this is just the second time), I feel a lot like writing in my blog. So I figured I'd even start this with an illustrating picture. And talking a bit more about myself, rather than going straight to the point... Even because, in this case, maybe there's no point! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+
+<p>Also, a note to self, I'm writing you now basically because I was googling for "barbixas combinado" trying to find some interesting material with that keyword and, instead of finding a video, I found this, for whatever reason: <a href="http://www.barbixas.com.br/zuado/espetaculografia.htm">http://www.barbixas.com.br/zuado/espetaculografia.htm</a></p>
+
+<p>A little context for the public, "goatees" is my freely translated choice to "barbixas", a group of 3 amazing comedians from Sao Paulo. And "unlikely" is their show name, actually "improvavel". Sup dudes? This is, after all, <strong>a message to you, goatees</strong>. I love how smart and intelligent everything you do looks like. And, as I partially told you in other occasion (not sure you read it, or even if you're cool with reading this in my <strong>bad</strong> english), I really envy how you seem to have achieved financial freedom <em>while</em> doing what I'd love to be doing: communicating, educating and entertaining all at once.</p>
+
+<p>Now, short presentations aside, following there are a few points I'd like to know if any of you have interest. Of course I would love to work with you in any of them, but here I'm just throwing out the ideas and hoping you at least read them. Even if you don't even respond, I'm pretty sure I would be able to see some results in case you do absorb something:</p>
+
+<ul>
+<li><p><strong>I think you should improve your website</strong>. I've noticed you had an old site, now called "<a href="http://www.barbixas.com.br/zuado/atras_muro.htm">/zuado</a>", and you keep it for fun. Love that! You also migrated few things from it into the <a href="http://www.barbixas.com.br/">new and current site</a>. I've worked with making websites many times, including in <a href="http://cregox.com/your-home">my current business</a> and I've got to say even the new site could be greatly improved simply by switching to <a href="http://squarespace.com">squarespace.com</a>. I bet Daniel takes care of this, doesn't he / you? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"> Anyway that's one point (which I sure could help you with, if needed).</p></li>
+<li><p><strong>I guess you could easily improve your online presence</strong>. This other point, still on the site, begins when I see your blog. Now, as a disclaimer, I've got no experience making a business out of a blog as I never had such job, but looks like you've tried to make one twice and abandoned them. But maybe this is all thanks to the size of your market and the difficulties on having to choose where to reinvest, that's why I'm just really guessing here. The blog is an attempt to have an online presence. So is the youtube channel (although that might be getting you something from youtube). And so are the share buttons everywhere or either website done. I myself have some fun doing it for myself, and I work with the technical aspects of it. But you, you probably didn't even need a website to begin with. What you need for an online presence is content and the only one you've been generating is on video. Maybe your website should improve on this concept and be mostly just videos. You should definitely make an app like "porta dos fundos" have (another thing <a href="http://www.cregox.com/besfiplayer">I could help you</a> with). Or maybe you should start investing a much more in written content or still images visual only on top of the videos.</p></li>
+<li><p><strong>Making different projects</strong>. I see you're trying to make other things, beyond the "unlikely" show. If you really want to think out of the box, I've got a project of mine that might interest you. But it's only on paper and I don't know of anything similar to refer you to. I call it <a href="http://www.cregox.com/esfi">esfi</a>. In short, it's an interactive film, but done unlikely any interactive film you've ever seen before. In any case, I think trying to do something on these lines might be a great idea for you! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p></li>
+<li><p><strong>Improving current video presentation</strong>. Once I presented your video to a friend of my mother, a very sincere 60 or 70 year old woman. She enjoyed the <a href="https://www.youtube.com/watch?v=u5Suc4KdMk8">blender</a> one, but not the unlikely episode, which was a great "<a href="https://www.youtube.com/watch?v=GPmhOFU-3pE">unlikely scenes</a>" (I can't recall which one though, so just linked the latest one - they're all great!). She really couldn't understand that it was improvised or find any fun in it. I also notice you try to explain how each game works, specially in the square game with a very long intro... Well, the whole point here is, I think you should try to make some kind of <a href="http://blog.codinghorror.com/level-one-the-intro-stage/">intro stage instead of an intro manual</a>. But just for the youtube videos, and not in the live theater show. I've been to the show before and I believe who goes there already knows how things work. We want to see more improvisation (felt like it was just 30 min) and less of anything else. But on video, people indeed often don't understand it. <strong>An idea</strong> would be making an intro video, in a common format like the blender, which explains how improvisation works. How the whole game works in general. If that works, you can try to summarize it to a point to insert before every video, so each one would be a self contained shareable material.</p></li>
+</ul>
+
+<p>Well, I guess I've extended myself for long enough. So, for now, cheers!</p>
+
+<p>And please do keep the awesome work. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/unlikely-goatees/7511">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/unlikely-goatees/7511</link>
+          <pubDate>Mon, 30 Mar 2015 13:15:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7511</guid>
+          <source url="http://talk.cregox.com/t/unlikely-goatees/7511.rss">Unlikely goatees</source>
+        </item>
+        <item>
+          <title>Standing Invitation</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>This is for <a href="http://www.kalzumeus.com/about/">Patrick</a>, the dude <a href="http://www.kalzumeus.com/standing-invitation/">who says he loves to get emails (the invitation)</a>.</p>
+
+<p>I just found you thanks to an indication <a href="http://discourse.codenewbie.org/users/joe_astuccio">from Joe</a> and started <a href="http://www.kalzumeus.com/start-here-if-youre-new/">reading your site</a>. I'm still on it and got a long way to go - haven't even <strong>completely</strong> finished <a href="http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/">your most popular and awesome blog post there</a> (though I did read almost all of it).</p>
+
+<p>I also I read you love receiving emails (right there on the front page), so I decided to write early on anyway:</p>
+
+<blockquote><p>Feel free to send me an email at patrick@kalzumeus.com for just about any reason.  I love talking to other small businesses at any time, for any reason: please, drop me an email.</p></blockquote>
+
+<p>I, at other hand, prefer public places rather than emails. Because other than my passwords, I don't have any data that's sensitive enough in need of privacy. And because I love to share. So, if you're able to respond this and you're willing to continue, please choose your prefered method. You already know mine. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+
+<p><strong>So, I'm not even sure why I'm writing you...</strong></p>
+
+<h2>I guess I just wanted to say "hi".</h2>
+
+<p>Also I think you should implement <a href="http://discourse.org">discourse</a> to your site! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+
+<p><strong>In fact...</strong></p>
+
+<p>I would have so many questions, looking for experienced advices. Because your writing is, as you say, pretty convincing. But, from your "faq":</p>
+
+<blockquote><p><strong>I am thinking of starting my own mISV. Any advice?</strong> Scads. Either send me an email with specific questions or just start reading the archives. I rather recommend starting at the back and continuing forward.</p></blockquote>
+
+<p>So I'll make just one <strong>very specific question</strong>: I am currently looking for partners and angels other than a job. I'm thinking in making a video <a href="http://googlepleasehire.me/">a tiny bit like ME</a> and try to viralize it to pitch for investors. <em>Do you think it's a good idea?</em> Despite having <a href="http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day">some expertise</a> into "film making" in general, I am not so sure.</p>
+
+<p>Of course that's far from my only plan and that's not even all there is about it, so if you're looking to read more, maybe you could start here:</p>
+
+<aside class="quote" data-topic="417" data-slug="telling-my-story" data-post="2"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cawas/40/30.png" class="avatar">Cawas:</div>
+<blockquote><p>Few days ago I decided even this food seeker idea is too much for a next step.   So now I'm thinking about building either <a href="http://scratch.mit.edu/projects/17273607/" rel="nofollow">some kind of simple game</a> (or maybe some kind of <a href="http://cregox.com/esfi" rel="nofollow">esfi</a>) and/or an introductory video seeking for investment, like <a href="http://googlepleasehire.me/" rel="nofollow">that guy who did it for google</a>.   You see, I could use a good scholarship and I'm on the latest age I could get one. Instead of going to college with that money it, though, I'd spend it on expenses to focus in one thing only: get my project done (food seekers). 4 y…</p></blockquote></aside>
+
+<p>And there: <a href="http://www.cregox.com/aboutto">www.cregox.com/aboutto</a> which I just included a small story about myself.</p>
+
+<hr>
+
+<p>Just saw (not read) your post about <a href="http://www.kalzumeus.com/2010/04/20/building-highly-reliable-websites-for-small-companies/">reliable websites</a>... Is it older than squarespace (wow, I just found about <a href="http://www.ceros.com/about">ceros</a> as well, <a href="http://careers.stackoverflow.com/jobs/80460/qa-test-automation-engineer-100-remote-ceros?a=qYZGmiu4rDy&amp;searchTerm=100%25%20remote">serendipitly</a>, which is actually obviously newer) and such? Maybe you should update it. Or maybe I should just read it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/standing-invitation/7407">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/standing-invitation/7407</link>
+          <pubDate>Fri, 13 Feb 2015 13:49:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7407</guid>
+          <source url="http://talk.cregox.com/t/standing-invitation/7407.rss">Standing Invitation</source>
+        </item>
+        <item>
+          <title>About the public emails category</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>public emails</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Ever hoped to have an easy way to keep an email conversation in the public? Here you go.</p>
+
+<p>The only problem is you have to register. At least it's very simple to do!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-public-emails-category/7404">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-public-emails-category/7404</link>
+          <pubDate>Wed, 11 Feb 2015 23:01:44 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7404</guid>
+          <source url="http://talk.cregox.com/t/about-the-public-emails-category/7404.rss">About the public emails category</source>
+        </item>
+  </channel>
+</rss>

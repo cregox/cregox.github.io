@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>We need to accelerate the singularity!</title>
+    <link>http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681</link>
+    <description>We just need to do it, before general intelligence gets dangerous!
+
+Artificial Super Intelligence is our current Holy Grail. It may be unattainable, it may not exist. But it may also be like going to the Moon! Although, unlike the main cold war escape device, it would possibly be reached only once and with more benefits that we could ever even imagine.
+
+There&#39;s too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, [enough have already been said][1]. By [many people][2].
+
+What about the dangers [many experts and smart people have about AI][3]? It&#39;s actually about AGI.
+
+If you&#39;ve got no clue what are all those acronyms, do read the links.
+
+Here, i want to briefly talk about a possible next practical step...
+
+---
+
+&lt;img src=&#39;/uploads/default/original/1X/6c28518e0c95679ab3d6348856998f1da61a0c0f.gif&#39;&gt;
+
+As a first step towards [basiux][4], I want to develop an *Artificial Neural Network*, probably in node.js and using jasmine, able to take some parameters to keep on *Deep Learning* a very specific task: to compress data. Like never before.
+
+If completed, this solution can easily pay for our bills (starting with [this contest][5]) and yield us **huge visibility**.
+
+The problem is we&#39;re on our own expenses, and we&#39;ve currently got zero.
+
+Being a [progammer*][6] myself I like to believe I could *probably* build this if I had more time at hands. Maybe I&#39;ll still be able to do it by finding most of that work done, [somewhere][7].
+
+Meanwhile, it would be great finding someone who can engage us in this quest. Ideally looking for friends who could slowly join in ([not a cofounder][8]).
+
+&gt; **Can you take this challenge?**
+
+That is, [if you&#39;ve got the idea][9]! ;P (if you didn&#39;t, do ask away below, [on gitter][10] or any nice public places)
+
+Or maybe, and *just maybe*, it&#39;s time to [start thinking on crowdsourcing][11].
+
+
+  [1]: http://talk.cregox.com/t/what-is-the-basiux/7675/1
+  [2]: http://s.cregox.com/basiux-research
+  [3]: http://futureoflife.org/AI/open_letter
+  [4]: http://basiux.com
+  [5]: http://prize.hutter1.net/
+  [6]: http://talk.cregox.com/t/yeah-im-also-a-progammer/7676
+  [7]: http://neuralnetworksanddeeplearning.com/sai.html
+  [8]: https://www.americanexpress.com/us/small-business/openforum/articles/stop-looking-for-a-co-founder/
+  [9]: https://www.quora.com/What-is-the-likelihood-of-a-good-idea-being-stolen/answer/Sramana-Mitra-1
+  [10]: https://gitter.im/basiux/square
+  [11]: https://xkcd.com/1060/</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Aug 2015 03:32:48 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>We need to accelerate the singularity!</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>We just need to do it, before general intelligence gets dangerous!</p>
+
+<p>Artificial Super Intelligence is our current Holy Grail. It may be unattainable, it may not exist. But it may also be like going to the Moon! Although, unlike the main cold war escape device, it would possibly be reached only once and with more benefits that we could ever even imagine.</p>
+
+<p>There's too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, <a href="http://talk.cregox.com/t/what-is-the-basiux/7675/1">enough have already been said</a>. By <a href="http://s.cregox.com/basiux-research">many people</a>.</p>
+
+<p>What about the dangers <a href="http://futureoflife.org/AI/open_letter">many experts and smart people have about AI</a>? It's actually about AGI.</p>
+
+<p>If you've got no clue what are all those acronyms, do read the links.</p>
+
+<p>Here, i want to briefly talk about a possible next practical step...</p>
+
+<hr>
+
+<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/6c28518e0c95679ab3d6348856998f1da61a0c0f.gif" width="173" height="173"></p>
+
+<p>As a first step towards <a href="http://basiux.com">basiux</a>, I want to develop an <em>Artificial Neural Network</em>, probably in node.js and using jasmine, able to take some parameters to keep on <em>Deep Learning</em> a very specific task: to compress data. Like never before.</p>
+
+<p>If completed, this solution can easily pay for our bills (starting with <a href="http://prize.hutter1.net/">this contest</a>) and yield us <strong>huge visibility</strong>.</p>
+
+<p>The problem is we're on our own expenses, and we've currently got zero.</p>
+
+<p>Being a <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">progammer*</a> myself I like to believe I could <em>probably</em> build this if I had more time at hands. Maybe I'll still be able to do it by finding most of that work done, <a href="http://neuralnetworksanddeeplearning.com/sai.html">somewhere</a>.</p>
+
+<p>Meanwhile, it would be great finding someone who can engage us in this quest. Ideally looking for friends who could slowly join in (<a href="https://www.americanexpress.com/us/small-business/openforum/articles/stop-looking-for-a-co-founder/">not a cofounder</a>).</p>
+
+<blockquote><p><strong>Can you take this challenge?</strong></p></blockquote>
+
+<p>That is, <a href="https://www.quora.com/What-is-the-likelihood-of-a-good-idea-being-stolen/answer/Sramana-Mitra-1">if you've got the idea</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"> (if you didn't, do ask away below, <a href="https://gitter.im/basiux/square">on gitter</a> or any nice public places)</p>
+
+<p>Or maybe, and <em>just maybe</em>, it's time to <a href="https://xkcd.com/1060/">start thinking on crowdsourcing</a>.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681/1</link>
+        <pubDate>Tue, 04 Aug 2015 01:07:21 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7681-1</guid>
+        <source url="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681.rss">We need to accelerate the singularity!</source>
+      </item>
+  </channel>
+</rss>

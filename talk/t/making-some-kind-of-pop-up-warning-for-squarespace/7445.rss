@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Making some kind of Pop Up Warning for Squarespace</title>
+    <link>http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445</link>
+    <description>[quote]
+*organicfarmerian@gmail.com* wrote:
+
+Hey there, 
+
+I was wondering if you are able to design a pop up for our current squarespace site www.scottriverlodge.com? I just need a simple pop up that asks for the visitors email upon arriving at the site (in exchange to be notified of upcoming promotions). Let me know if this is something you can take on? And if so, how much would the project cost? Just so you know exactly what I’m looking for, I have attached a screen shot of the J. Crew website pop up, which is essentially (change a couple of words) what we want.
+
+
+Sincerely,
+
+https://cregox.zendesk.com/attachments/token/LMQL5bgfR4xlkwaoMC5ceT2Oz/?name=SRL_Signature_thumb.png
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 May 2015 00:25:53 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Making some kind of Pop Up Warning for Squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Before anything, please take a read: <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a></p>
+
+<p>I can see no link to screenshot or file attached, but I imagine you might want something like this: </p>
+
+<p><a href="http://www.cregox.com/shop/ninety-one">www.cregox.com/shop/ninety-one</a> -&gt; press "add to cart" and try to checkout. You'll see a pop up.</p>
+
+<p>Ignore the rest, this is an old test page. I can make a popup just like that and add a "lightbox" layout to make all the website dim out. Additionally, I could add a cookie to prevent it from appearing multiple times if you enter the website again on the same browser for 1 hour, for instance.</p>
+
+<p>If you want to move forward, this should cost me less than U$175.</p>
+
+<p>That being said, I like much better the way your site is right now and I think there is no popup needed there.</p>
+
+<p>Finally, if you're willing to join, I'm starting with an experimental new ticketing system here. This (and any further tickets) are public discussions!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445/3</link>
+        <pubDate>Mon, 02 Mar 2015 16:36:09 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7445-3</guid>
+        <source url="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445.rss">Making some kind of Pop Up Warning for Squarespace</source>
+      </item>
+      <item>
+        <title>Making some kind of Pop Up Warning for Squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p><em>organicfarmerian@gmail.com</em> wrote:</p>
+<p>Hey there, </p>
+<p>I was wondering if you are able to design a pop up for our current squarespace site <a href="http://www.scottriverlodge.com">www.scottriverlodge.com</a>? I just need a simple pop up that asks for the visitors email upon arriving at the site (in exchange to be notified of upcoming promotions). Let me know if this is something you can take on? And if so, how much would the project cost? Just so you know exactly what I’m looking for, I have attached a screen shot of the J. Crew website pop up, which is essentially (change a couple of words) what we want.</p>
+<p>Sincerely,</p>
+<a href="https://cregox.zendesk.com/attachments/token/LMQL5bgfR4xlkwaoMC5ceT2Oz/?name=SRL_Signature_thumb.png" target="_blank"><img src="https://cregox.zendesk.com/attachments/token/LMQL5bgfR4xlkwaoMC5ceT2Oz/?name=SRL_Signature_thumb.png"></a>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445/1</link>
+        <pubDate>Mon, 02 Mar 2015 14:10:13 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7445-1</guid>
+        <source url="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445.rss">Making some kind of Pop Up Warning for Squarespace</source>
+      </item>
+  </channel>
+</rss>

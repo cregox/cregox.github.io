@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>tech - cregox talk</title>
+    <link>http://talk.cregox.com/c/buffer/tech</link>
+    <description>Topics in the &#39;tech&#39; category &lt;span class=&quot;spoiler&quot;&gt;&lt;small&gt;  &lt;/small&gt;&lt;/span&gt;</description>
+    <language>en</language>
+      <lastBuildDate>Thu, 11 Feb 2016 23:08:50 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/buffer/tech.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>How making an app to win the lottery and building up the super Ai are related? Enter: true randomness! O_o</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://dl.dropboxusercontent.com/s/xzlszqpnu26tnit/2016-02-06%2017.14.43%20random%20cracks%20on%20the%20wall.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/xzlszqpnu26tnit/2016-02-06%2017.14.43%20random%20cracks%20on%20the%20wall.jpg?dl=1" width="500" height="500"></a><br><em>truly real random cracks on the wall</em></p>
+
+<p>Just refer to <a href="http://talk.cregox.com/t/true-randomness-app-why-it-could-help-winning-the-lottery-and-building-up-the-basiux/7845">True randomness app, why it could help winning the lottery and building up the basiux</a>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/how-making-an-app-to-win-the-lottery-and-building-up-the-super-ai-are-related-enter-true-randomness-o-o/7846">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/how-making-an-app-to-win-the-lottery-and-building-up-the-super-ai-are-related-enter-true-randomness-o-o/7846</link>
+          <pubDate>Thu, 11 Feb 2016 23:08:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7846</guid>
+          <source url="http://talk.cregox.com/t/how-making-an-app-to-win-the-lottery-and-building-up-the-super-ai-are-related-enter-true-randomness-o-o/7846.rss">How making an app to win the lottery and building up the super Ai are related? Enter: true randomness! O_o</source>
+        </item>
+        <item>
+          <title>Should we use google keep, evernote or something else? whatever, use all of &#39;em and then some more! ;P</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><div class="lightbox-wrapper"><a data-download-href="https://talk-cdn.cregox.com/uploads/default/ecc616d6deb3a65d7aa3b79e52454c546a569649" href="https://talk-cdn.cregox.com/uploads/default/original/1X/ecc616d6deb3a65d7aa3b79e52454c546a569649.png" class="lightbox" title="keep vs evernote vs github.png"><img src="https://talk-cdn.cregox.com/uploads/default/optimized/1X/ecc616d6deb3a65d7aa3b79e52454c546a569649_1_601x500.png" width="601" height="500"><div class="meta">
+<span class="filename">keep vs evernote vs github.png</span><span class="informations">800x665 30.3 KB</span><span class="expand"></span>
+</div></a></div><br><em>not the first time I talk <a href="http://talk.cregox.com/t/why-novels-dont-convince-as-much-as-real-stories/7789?u=cregox">about keep</a></em></p>
+
+<p><strong>keep</strong> is, imho, extremely superior to <strong>evernote</strong> for a single reason: it just works. everywhere and fast. no installation even needed.</p>
+
+<p>both have a huge problem: no automated local backups. not even with ifttt or whatever. both can recover from a time machine backup, but it's not all that reliable and it wouldn't really survive the product being pulling off. they both <em>think</em> they'll exist forever and the web is at least 99.999%.</p>
+
+<p>keep probably don't work offline as good as evernote as well, and the elephant has an awesome OCR. but keep have notes colors, an awesome grid view, easy to take simple or complex notes and blazing fast to search them, etc. you know, it's a google product.</p>
+
+<p>google's have a bigger problem: it's <strong>google</strong>. <a href="https://gigaom.com/2013/03/20/sorry-google-you-can-keep-it-to-yourself/">who knows what's going to be the next reader shut down</a>?</p>
+
+<p>the simple solution would be making independent teams within google, who could easily be their own company if google feels the need to pull the plug. also people can follow products by the people, which is what should matter most. sorry apple, jobs less apple is another company. and it will "die", at very least, like ibm and microsoft did.</p>
+
+<p>the ideal candidate to win over both? <strong>github</strong>. but it's not there yet, as well... funny enough, for GitHub I'm only missing a simple unified gui experience in every single platform, which is much easier to overcome than any other problem from the concurrents.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/should-we-use-google-keep-evernote-or-something-else-whatever-use-all-of-em-and-then-some-more-p/7844">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/should-we-use-google-keep-evernote-or-something-else-whatever-use-all-of-em-and-then-some-more-p/7844</link>
+          <pubDate>Tue, 09 Feb 2016 00:34:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7844</guid>
+          <source url="http://talk.cregox.com/t/should-we-use-google-keep-evernote-or-something-else-whatever-use-all-of-em-and-then-some-more-p/7844.rss">Should we use google keep, evernote or something else? whatever, use all of &#39;em and then some more! ;P</source>
+        </item>
+        <item>
+          <title>[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>CNAi 2w stands for "codenewbie artificial intelligence biweekly", but that might change soon...</p>
+
+<div class="lazyYT" data-youtube-id="GT_EXzpvwo0" data-youtube-title="AI Friday 2-5-2016" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>when I join in around minute 11 everything slows down for a while, I was already sleepy and trying to figure out why it was so slow, and it was obviously thanks to my terrible non-fiber 0.5 mbps upstream internet here at historical lisbon center. <strong>I promise the broadcast gets better</strong> later on, if you enjoy artificial intelligence, science and / or philosophy.</p>
+
+<p>topics touched:</p>
+
+<ul>
+<li>autonomous cars and tesla ( <a href="https://www.teslamotors.com/models">https://www.teslamotors.com/models</a> )</li>
+<li>tesla and elon musk ( <a href="https://www.teslamotors.com/models">https://www.teslamotors.com/models</a> )</li>
+<li>academia Ai</li>
+<li>net neutrality</li>
+<li>golf bot and tiger woods</li>
+<li>chicken or the egg ( <a href="http://www.basiux.org/#mariox">www.basiux.org/#mariox</a> )</li>
+<li>reinforced mixed learning</li>
+<li>bitcoins</li>
+<li>universe determinism</li>
+</ul>
+
+<p>I participate in those since the first one (but unfortunately not in all of them) and I think anyone can join. this is the first one I'm aware that's being broadcast, but just near the ending. <code>Moe</code> does a great job <a href="http://timezone.io/team/codenewbieai">organizing</a> 'em and putting things together, along with <a href="https://codenewbie.slack.com/archives/ai/p1454713220000253">the slack channel</a>.</p>
+
+<p>now, this is just in: <a href="https://codenewbie.slack.com/archives/basiux">that hangout may</a> soon become <a href="http://talk.cregox.com/t/lets-make-a-podcast/7753">the podcast</a>!!</p>
+
+<p><em>(as always, to be further edited)</em></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841</link>
+          <pubDate>Sat, 06 Feb 2016 09:58:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7841</guid>
+          <source url="http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841.rss">[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</source>
+        </item>
+        <item>
+          <title>Here&#39;s a very geeky way of defining how life works and a clue: chance plays a bit of a role</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <a href="https://dl.dropboxusercontent.com/s/q5tsoo3t9yay46n/2016-02-02%2018.18.37.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/q5tsoo3t9yay46n/2016-02-02%2018.18.37.jpg?dl=1" width="500" height="500"></a>
+
+<p><a href="http://talk.cregox.com/t/why-so-many-people-have-the-illusion-chance-plays-no-role-in-life/69">Chance</a>?</p>
+
+<p>I just wrote this on <a href="http://talk.cregox.com/t/thank-you-for-the-warning-about-crossover/7829/4?u=cregox">another topic</a>, and here I bring it as a wiki:</p>
+
+<aside class="quote" data-post="4" data-topic="7829"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="http://talk.cregox.com/t/thank-you-for-the-warning-about-crossover/7829/4">Thank you for the warning about Crossover</a>
+</div>
+<blockquote><p><img src="//talk-cdn.cregox.com/images/emoji/emoji_one/heart.png?v=1" title=":heart:" class="emoji" alt=":heart:"> :chaos: 7 <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/four_leaf_clover.png?v=1" title=":four_leaf_clover:" class="emoji" alt=":four_leaf_clover:"></p></blockquote></aside>
+
+<p></p><pre><code class="lang-auto">illusion = 0
+
+async choice:
+    result = 0.34 * random * illusion
+    delay 8  # seconds
+    return result
+
+Life:
+    born = 0.33 * random  # either 0 or 1
+    happy = random
+    dead = random
+ 
+    while not dead:
+        illusion = random  # perception
+        luck = 0.33 * random * illusion
+        happy = (born + luck + choice) &gt; 0.5 # is the glass half full?
+        dead = random</code></pre>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836</link>
+          <pubDate>Wed, 03 Feb 2016 13:27:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7836</guid>
+          <source url="http://talk.cregox.com/t/heres-a-very-geeky-way-of-defining-how-life-works-and-a-clue-chance-plays-a-bit-of-a-role/7836.rss">Here&#39;s a very geeky way of defining how life works and a clue: chance plays a bit of a role</source>
+        </item>
+        <item>
+          <title>Making of IMRS - a great sex film led me to finally move my ass into making a raw version of &quot;the advisor&quot;</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <aside class="quote" data-post="1" data-topic="7815">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/making-of-cregoxs-international-movie-rating-scale/7815">[RFC] cregox's International Movie Rating Scale</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title="A lot of cregox" s ramblings and somewhat incoherent thoughts very much shaped by the brazilian culture. are more posts on portuguese category>blog</span></a>
+  </div>
+  <blockquote>
+<a href="https://dl.dropboxusercontent.com/s/g45jgedhl4umlov/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0" target="_blank">[image]</a>
+
+Movies are all about storytelling. 
+
+Disclaimer about The Rating Scale
+
+For the longest time, <a href="http://www.imdb.com/user/ur1256176/?ref_=nv_usr_prof_2">my IMDB profile</a> says something like this: 
+
+ 
+
+Also for the longest time, I wished to make a better <a href="http://talk.cregox.com/t/anything-advisor/7426">rating system</a> in general. Maybe <a href="http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox">the first manifestation</a> of that wish happened almost 1 year ago. Something like <a href="http://slant.co">slant.co</a> but maybe even simpler and even better. 
+
+After (re)watching [Strictly Sexual] yesterday, finding it a 10, and having to re-scale it from 7, I've decided to finally starting do…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+
+<p><small>This was hard to summarize in such a small space, but it's also not that big of a buffer. I would normally add this to <a href="/c/buffer/fun">fun</a> but, being an RFC, I guess tech suits better.</small></p>
+
+<p>No photos in this post (as I try to always do in buffer) because the link has it all and this is a lot of reading material.</p>
+
+<p>The links with deeper explanations are all there, including for "the advisor", on the right side. The explanation is also there, on the Disclaimer. So, I guess the only thing left to say is: <strong>could</strong> you <strong>please <em>read it all</em></strong> and then <strong>comment</strong>? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/making-of-imrs-a-great-sex-film-led-me-to-finally-move-my-ass-into-making-a-raw-version-of-the-advisor/7816">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/making-of-imrs-a-great-sex-film-led-me-to-finally-move-my-ass-into-making-a-raw-version-of-the-advisor/7816</link>
+          <pubDate>Fri, 15 Jan 2016 08:02:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7816</guid>
+          <source url="http://talk.cregox.com/t/making-of-imrs-a-great-sex-film-led-me-to-finally-move-my-ass-into-making-a-raw-version-of-the-advisor/7816.rss">Making of IMRS - a great sex film led me to finally move my ass into making a raw version of &quot;the advisor&quot;</source>
+        </item>
+        <item>
+          <title>The sound of your own voice does influence your emotions, just like smiling can make you happy! 😍😂😡😱😆</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://dl.dropboxusercontent.com/s/2y965uuylg2jmvg/2015-10-15%2008.41.59%20cregox%20on%20porto%20beach%20wall.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/2y965uuylg2jmvg/2015-10-15%2008.41.59%20cregox%20on%20porto%20beach%20wall.jpg?dl=0" width="667" height="500"></a><br><em>yet another random and mostly unrelated photo <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></em></p>
+
+<aside class="onebox twitterstatus">
+  <header class="source">
+    <a href="https://twitter.com/newscientist/status/686940011330142208">
+      
+      twitter.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://pbs.twimg.com/profile_images/464088830509731840/e92TpMR9_normal.png" class="thumbnail" width="48" height="48">
+<h4>
+  <a href="https://twitter.com/newscientist/status/686940011330142208">
+    New Scientist (newscientist)
+  </a>
+</h4>
+
+<div class="tweet">The sound of your own voice may help you understand your emotions 😈😡😍😤😱😭 <a target="_blank" href="http://ow.ly/2bwNLR">ow.ly/2bwNLR</a> <a href="https://t.co/UrOtty4jvO" target="_blank">https://t.co/UrOtty4jvO</a>
+</div>
+
+<div class="date">
+  <a href="https://twitter.com/newscientist/status/686940011330142208" target="_blank"> 3:57 PM - 12 Jan 2016</a>
+</div>
+
+  </article>
+  <div style="clear: both">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/the-sound-of-your-own-voice-does-influence-your-emotions-just-like-smiling-can-make-you-happy/7808">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/the-sound-of-your-own-voice-does-influence-your-emotions-just-like-smiling-can-make-you-happy/7808</link>
+          <pubDate>Wed, 13 Jan 2016 13:10:32 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7808</guid>
+          <source url="http://talk.cregox.com/t/the-sound-of-your-own-voice-does-influence-your-emotions-just-like-smiling-can-make-you-happy/7808.rss">The sound of your own voice does influence your emotions, just like smiling can make you happy! 😍😂😡😱😆</source>
+        </item>
+        <item>
+          <title>How to tweet 101 spoiler: “Don’t tweet all about you: tweet all about them.”</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://dl.dropboxusercontent.com/s/vv5u9t5d5gd113y/2016-01-04%2023.10.33%20chapito.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/vv5u9t5d5gd113y/2016-01-04%2023.10.33%20chapito.jpg?dl=0" width="500" height="500"></a><br><em>Random pic, a view from <a href="http://www.chapito.org/">chapito</a>.</em></p>
+
+<p>A short guide to social media in general (even while focused on twitter) for newbies like me.</p>
+
+<p>This is just my humble opinion main points summed up from <a href="https://blog.bufferapp.com/twitter-tips-for-beginners?utm_content=bufferd5efc&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">yet another great buffer post</a>:</p>
+
+<ul>
+<li>A good bio sells. Be descriptive. Add:<ul>
+<li>accuracy. One professional description.</li>
+<li>excitement. One word that is not boring.</li>
+<li>target. One niche descriptor.</li>
+<li>flattering. One accomplishment.</li>
+<li>human element. Such as 01 hobby.</li>
+<li>intrigue. One interesting fact or feature about yourself.</li>
+<li>connection. Your company or another social profile.</li>
+</ul>
+</li>
+<li><p>Respond to everyone. Engage.</p></li>
+<li><p><a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">Follow everyone. Spread the love.</a></p></li>
+<li><p>Once again, from the title: <strong>Be social. Talk about everyone, not you</strong>. And, by all means, do it from your point of view! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p></li>
+</ul>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/how-to-tweet-101-spoiler-don-t-tweet-all-about-you-tweet-all-about-them/7801">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/how-to-tweet-101-spoiler-don-t-tweet-all-about-you-tweet-all-about-them/7801</link>
+          <pubDate>Mon, 11 Jan 2016 17:51:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7801</guid>
+          <source url="http://talk.cregox.com/t/how-to-tweet-101-spoiler-don-t-tweet-all-about-you-tweet-all-about-them/7801.rss">How to tweet 101 spoiler: “Don’t tweet all about you: tweet all about them.”</source>
+        </item>
+        <item>
+          <title>Ray Kurzweil Nobel prize talk on Ai and tech singularity</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://youtu.be/dfq96KjA80I">https://youtu.be/dfq96KjA80I</a> I'll probably need to add this video to <a href="http://www.basiux.org">www.basiux.org</a> but maybe only after finishing Mariox and making my own video about it + all of this.</p>
+
+<p>Probably worth noting here 3 other pieces of literature I've wrote about the singularity, one of which is still ongoing. Guess which one? Anyway, I just updated a <em>very long chain</em> of posts from the links below.</p>
+
+<aside class="quote" data-post="1" data-topic="7713">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713">"The Singularity" is it just silly?</a> <a class="badge-wrapper  bullet" href="/c/spoilers"><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title="It" s all a matter of organizing data anyway.>spoilers</span></a>
+  </div>
+  <blockquote>
+<a href="http://www.ai-forum.org/topic.asp?forum_id=1&amp;topic_id=6493">Necromancing 12 years topic</a>! [:stuck_out_tongue:] 
+
+What you guys think about it today? 
+
+I just started studying AI on my own few months ago and maybe the gold post for the global consciousness / archetype about it moved a lot, but I can see easy answers to all your questions there. I could only see 2 main themes. 
+
+(1) Singularity based on Moore still looks quite possible to happen as Moore continues to be reliable even today. To me it only means that computers will get faster and at some poin…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+
+<aside class="quote" data-post="1" data-topic="7719">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/explaining-the-basiux-road-to-singularity-to-a-6-year-old-in-a-few-minutes/7719">Trying to explain the basiux road to Singularity to a 6 year old!</a> <a class="badge-wrapper  bullet" href="/c/basiux"><span class="badge-category-bg" style="background-color: #008080;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title="Benevolent Artificial Super Intelligence User eXperience.">basiux</span></a>
+  </div>
+  <blockquote>Almost 1 month ago, while <a href="http://talk.cregox.com/t/a-s-i-or-job-hunting/7717?u=cregox">talking to @BesseB</a>, I was challenged to do this. So, here we go... 
+
+What is "The Singularity"?
+
+There will be a time in the near future, within this century, where computers will become much, much smarter than humans. Most specialists agree it will come. Nobody knows what it will be like. When it does come, everything that everyone were planning to do the next day shall change! 
+
+It may not come as sudden as overnight, though. It may even take a few years. 
+
+And what i…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+
+<aside class="quote" data-post="1" data-topic="7806">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">Two weeks I haven't updated the novel... Any ideas or feedback anyone?</a> <a class="badge-wrapper  bullet" href="/c/buffer/social"><span class="badge-category-parent-bg" style="background-color: #51a093;"></span><span class="badge-category-bg" style="background-color: #F7C666;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge">social</span></a>
+  </div>
+  <blockquote>
+<a href="https://dl.dropboxusercontent.com/s/yovj9edwawqc66y/2015-10-16%2018.43.50%20sleeping%20at%20church.jpg?dl=0" target="_blank">[image]</a>
+
+<a href="http://blog.cregox.com/2015/12/26/the-next-ai-poca-lips.html">This is the first release</a> and then I <a href="http://blog.cregox.com/2015/12/27/making-of-the-next-ai-poca-lips.html">announced</a> moving it to the <a href="https://github.com/cauerego/cauerego.github.io/wiki/a-novel">wiki, where it now stays</a>. 
+
+Although I haven't touched the novel in 2 weeks, <a href="https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel">the making of</a> have been a bit updated in just little more than 1 week and I have written 2 stories since then as well, <a href="http://blog.cregox.com/2015/12/31/cregox-navigator-around-the-world.html">one about traveling</a> and the other one <a href="http://blog.cregox.com/2016/01/05/what-s-wrong-with-bars-and-drinks.html">trying to make comedy</a>, which should also be done in the novel. 
+
+I think I can't find any more inspiration / energy right now with the almost zero amount of feedback I'm getting - other than th…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/ray-kurzweil-nobel-prize-talk-on-ai-and-tech-singularity/7795">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/ray-kurzweil-nobel-prize-talk-on-ai-and-tech-singularity/7795</link>
+          <pubDate>Sun, 10 Jan 2016 15:20:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7795</guid>
+          <source url="http://talk.cregox.com/t/ray-kurzweil-nobel-prize-talk-on-ai-and-tech-singularity/7795.rss">Ray Kurzweil Nobel prize talk on Ai and tech singularity</source>
+        </item>
+        <item>
+          <title>About the tech category</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>tech</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><span class="spoiler"><small>  </small></span></p>
+
+<p>Short posts (with descriptive long titles) about <strong>computer tech</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, around computer tech! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/telephone_receiver.png?v=1" title=":telephone_receiver:" class="emoji" alt=":telephone_receiver:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-tech-category/7781">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-tech-category/7781</link>
+          <pubDate>Sun, 27 Dec 2015 12:02:06 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7781</guid>
+          <source url="http://talk.cregox.com/t/about-the-tech-category/7781.rss">About the tech category</source>
+        </item>
+  </channel>
+</rss>

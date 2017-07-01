@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>cregox talk Search</ShortName>
+  <Description>Search for posts on cregox talk</Description>
+  <Tags>discourse forum</Tags>
+  <Image type="image/png">https://talk.cregox.com/uploads/default/26/774ff9172e02cb85.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://talk.cregox.com/opensearch.xml"/>
+  <Url type="text/html" template="http://talk.cregox.com/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

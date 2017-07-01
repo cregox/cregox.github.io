@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the closing category</title>
+    <link>http://talk.cregox.com/t/about-the-closing-category/7634</link>
+    <description>[Supporting &quot;tickets&quot;][1] that are already basically finished and will be automatically closed 2 months after latest reply.
+
+
+  [1]: http://talk.cregox.com/c/support</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 May 2015 13:59:05 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/about-the-closing-category/7634.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the closing category</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://talk.cregox.com/c/support">Supporting "tickets"</a> that are already basically finished and will be automatically closed 2 months after latest reply.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/about-the-closing-category/7634/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/about-the-closing-category/7634/1</link>
+        <pubDate>Fri, 22 May 2015 13:59:05 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7634-1</guid>
+        <source url="http://talk.cregox.com/t/about-the-closing-category/7634.rss">About the closing category</source>
+      </item>
+  </channel>
+</rss>

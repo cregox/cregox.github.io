@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s the slowest moving object in space, xkcd?</title>
+    <link>http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595</link>
+    <description>Hey crazy Randall!
+
+The first question that triggered this little quest of mine, I actually asked just yesterday, when I saw an airplane very close by while going to lunch near an airport:
+
+&gt; Why can&#39;t an airplane simply fly into space?
+
+That was promptly answered by NASA: http://spaceplace.nasa.gov/review/dr-marc-technology/rockets.html
+
+Then I went to some reading to get to the *question in the title*, namely:
+- https://www.quora.com/Aerospace-and-Aeronautical-Engineering/Why-cant-an-aircraft-fly-conventionally-then-switch-to-rockets-to-get-into-space
+- https://what-if.xkcd.com/58/ (**obligatory** read, for this topic)
+- https://what-if.xkcd.com/24/ (**obligatory** read, for this topic)
+- https://gmjunior.wordpress.com/tag/xkcd/
+- http://space.stackexchange.com/questions/5531/why-arent-all-satellite-carrying-rockets-launched-from-airplanes
+
+( The xkcd comics I found because I remembered about &quot;what if&quot; and googled for `xkcd aircraft rocket`. NASA and quora I found while asking google questions along my first one quoted there. )
+
+I do realize **now**:
+
+1. An aircraft can&#39;t just fly away, for one, because it lifts from the ground depending on air and there&#39;s no air in space. Simple as that.
+
+2. Most things out of earth orbit are moving very very fast. Earth is at 30 km/s, ISS at 7, Moon at 3, which is still considerably faster than what&#39;s required to launch something into space, which would be 2 km/s as you said.
+
+I take it all those speeds are relative to the Sun, which by its turn is 200 km/s relative to galaxy center. So I suppose a 0 km/s standing body on Earth is actually moving between 170 and 230 km/s relative to galaxy center and so, all object speeds are relative.
+
+But, I wanted to *draw a mental picture*, in a way, of space objects in our galaxy. So objects relative to the Sun, as that&#39;s closer to any kind of Astronaut anyone living today will ever be. What&#39;s the slowest moving object *there* and how far from Earth, and from the other planets, does it need to be so it could be considered moving at 0km/s relative to the Sun? I mean, so it won&#39;t be dragged by any planet&#39;s or asteroid&#39;s gravity.
+
+Do we know if there is any such slow object around here?
+
+And, to address a bit more the first question in yet another &quot;novel&quot; way, of course we could build something to take objects into space that doesn&#39;t require flying or fuel: https://www.kickstarter.com/projects/michaellaine/space-elevator-science-climb-to-the-sky-a-tethered/description
+
+At this point, I decided to google for `xkcd slowest object space` and came around yet another what-if: https://what-if.xkcd.com/86/ (**obligatory** read). And another cool funny one: https://what-if.xkcd.com/20/ (non obligatory).
+
+There (on 86) you say:
+
+&gt; As far as moving through the Solar System goes, Voyager 1 is one of the slowest manmade objects.[2] It&#39;s moving at an average speed of about 16 km/s, which is barely half of the Earth&#39;s orbital speed around the Sun.
+
+&gt; [2] It&#39;s not the &lt;em&gt;very&lt;/em&gt; slowest—that title might belong to the &lt;em&gt;Galileo&lt;/em&gt; spacecraft. On September 6th, 1996 at 10:57 (UT), &lt;em&gt;Galileo&#39;s&lt;/em&gt; speed relative to the Sun dropped to 276 meters per second (618 mph), making it possibly the slowest manmade object in Solar System history.&lt;/span&gt;
+
+So, 0.276 km/s is quite slow compared to all the rest, but it&#39;s still far from 0.
+
+Now, why do you say 16 km/s is &quot;one of the slowest&quot; (but by measures in this topic, I find it still quite fast) and then compare it to something over 50 times slower?!
+
+And this triggered me into yet another new, but still relevant question:
+
+- **What&#39;s the minimum speed an object need to be to eject the solar system?**
+
+Given the speed relative to Earth to eject it is 2 km/s.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 May 2015 13:48:08 +0000</lastBuildDate>
+    <category>public emails</category>
+    <atom:link href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s the slowest moving object in space, xkcd?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Hey crazy Randall!</p>
+
+<p>The first question that triggered this little quest of mine, I actually asked just yesterday, when I saw an airplane very close by while going to lunch near an airport:</p>
+
+<blockquote><p>Why can't an airplane simply fly into space?</p></blockquote>
+
+<p>That was promptly answered by NASA: <a href="http://spaceplace.nasa.gov/review/dr-marc-technology/rockets.html">http://spaceplace.nasa.gov/review/dr-marc-technology/rockets.html</a></p>
+
+<p>Then I went to some reading to get to the <em>question in the title</em>, namely:<br>- <a href="https://www.quora.com/Aerospace-and-Aeronautical-Engineering/Why-cant-an-aircraft-fly-conventionally-then-switch-to-rockets-to-get-into-space">https://www.quora.com/Aerospace-and-Aeronautical-Engineering/Why-cant-an-aircraft-fly-conventionally-then-switch-to-rockets-to-get-into-space</a><br>- <a href="https://what-if.xkcd.com/58/">https://what-if.xkcd.com/58/</a> (<strong>obligatory</strong> read, for this topic)<br>- <a href="https://what-if.xkcd.com/24/">https://what-if.xkcd.com/24/</a> (<strong>obligatory</strong> read, for this topic)<br>- <a href="https://gmjunior.wordpress.com/tag/xkcd/">https://gmjunior.wordpress.com/tag/xkcd/</a><br>- <a href="http://space.stackexchange.com/questions/5531/why-arent-all-satellite-carrying-rockets-launched-from-airplanes">http://space.stackexchange.com/questions/5531/why-arent-all-satellite-carrying-rockets-launched-from-airplanes</a></p>
+
+<p>( The xkcd comics I found because I remembered about "what if" and googled for <code>xkcd aircraft rocket</code>. NASA and quora I found while asking google questions along my first one quoted there. )</p>
+
+<p>I do realize <strong>now</strong>:</p>
+
+<ol>
+<li><p>An aircraft can't just fly away, for one, because it lifts from the ground depending on air and there's no air in space. Simple as that.</p></li>
+<li><p>Most things out of earth orbit are moving very very fast. Earth is at 30 km/s, ISS at 7, Moon at 3, which is still considerably faster than what's required to launch something into space, which would be 2 km/s as you said.</p></li>
+</ol>
+
+<p>I take it all those speeds are relative to the Sun, which by its turn is 200 km/s relative to galaxy center. So I suppose a 0 km/s standing body on Earth is actually moving between 170 and 230 km/s relative to galaxy center and so, all object speeds are relative.</p>
+
+<p>But, I wanted to <em>draw a mental picture</em>, in a way, of space objects in our galaxy. So objects relative to the Sun, as that's closer to any kind of Astronaut anyone living today will ever be. What's the slowest moving object <em>there</em> and how far from Earth, and from the other planets, does it need to be so it could be considered moving at 0km/s relative to the Sun? I mean, so it won't be dragged by any planet's or asteroid's gravity.</p>
+
+<p>Do we know if there is any such slow object around here?</p>
+
+<p>And, to address a bit more the first question in yet another "novel" way, of course we could build something to take objects into space that doesn't require flying or fuel: <a href="https://www.kickstarter.com/projects/michaellaine/space-elevator-science-climb-to-the-sky-a-tethered/description">https://www.kickstarter.com/projects/michaellaine/space-elevator-science-climb-to-the-sky-a-tethered/description</a></p>
+
+<p>At this point, I decided to google for <code>xkcd slowest object space</code> and came around yet another what-if: <a href="https://what-if.xkcd.com/86/">https://what-if.xkcd.com/86/</a> (<strong>obligatory</strong> read). And another cool funny one: <a href="https://what-if.xkcd.com/20/">https://what-if.xkcd.com/20/</a> (non obligatory).</p>
+
+<p>There (on 86) you say:</p>
+
+<blockquote>
+<p>As far as moving through the Solar System goes, Voyager 1 is one of the slowest manmade objects.[2] It's moving at an average speed of about 16 km/s, which is barely half of the Earth's orbital speed around the Sun.</p>
+<p>[2] It's not the <em>very</em> slowest—that title might belong to the <em>Galileo</em> spacecraft. On September 6th, 1996 at 10:57 (UT), <em>Galileo's</em> speed relative to the Sun dropped to 276 meters per second (618 mph), making it possibly the slowest manmade object in Solar System history.</p>
+</blockquote>
+
+<p>So, 0.276 km/s is quite slow compared to all the rest, but it's still far from 0.</p>
+
+<p>Now, why do you say 16 km/s is "one of the slowest" (but by measures in this topic, I find it still quite fast) and then compare it to something over 50 times slower?!</p>
+
+<p>And this triggered me into yet another new, but still relevant question:</p>
+
+<ul><li><strong>What's the minimum speed an object need to be to eject the solar system?</strong></li></ul>
+
+<p>Given the speed relative to Earth to eject it is 2 km/s.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1</link>
+        <pubDate>Thu, 07 May 2015 13:26:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7595-1</guid>
+        <source url="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss">What&#39;s the slowest moving object in space, xkcd?</source>
+      </item>
+  </channel>
+</rss>

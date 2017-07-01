@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Squarespace custom css help - urgent</title>
+    <link>http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447</link>
+    <description>[quote=&quot;seppa346@newschool.edu&quot;]
+Hi,
+I was wondering if you could help me with a few small styllistic changes
+that need to be done using custom css. I need to get it done today though.
+
+Problems:
+1. making elements center up on landing page  (embedded code video and
+image)
+2. bring in helvetica ultra light to headings
+3. make content scalable -- responsive in size but static in layout
+
+Can you help me?
+Thanks,
+Amber
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jan 2015 18:34:14 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Squarespace custom css help - urgent</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Oh well, sorry I couldn't answer in time!</p>
+
+<p>2 days ago a thunderstorm brought my internet down for the first time in 3 years, I had canceled my then useless backup internet which became double the price for no good reason and my third backup internet on 3G is just not working as it used to. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/open_mouth.png?v=0" title=":open_mouth:" class="emoji" alt="open_mouth" width="20" height="20"> </p>
+
+<p>Anyway, all your problems look to be simple enough to fit my minimum charge of U$91. I would just need access to your site to be as quick as possible. If you think there's still time, just reply here. I'm still without internet at home but for today I'm somewhere else! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+
+<p>In any case, here are a few pointers in case you want to do it yourself:</p>
+
+<p>(1) <a href="http://answers.squarespace.com/questions/2147/how-can-i-center-an-image-block-on-a-blank-page">Centering element (from squarespace answers)</a>:</p>
+
+<p>Here is a <em>CodePen</em> that shows a javascript function Squarespace template developers use to vertically center content.</p>
+
+<iframe id="cp_embed_cvIir" src="https://codepen.io/foleyatwork/embed/cvIir?height=300&amp;slug-hash=cvIir&amp;default-tab=result&amp;host=http%3A%2F%2Fcodepen.io" scrolling="no" frameborder="0" height="300" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;"></iframe>
+
+<p>This works with no library dependencies. All you've got to do is find the container around your content and add that to line two of the script as the selector. (Note: in this case the selector is <code>#canvas</code>)</p>
+
+<pre><code>var elems = document.querySelectorAll('#canvas');</code></pre>
+
+<p>(2) Custom fonts: <a href="http://answers.squarespace.com/questions/4434/why-am-i-having-difficulty-adding-custom-fonts">http://answers.squarespace.com/questions/4434/why-am-i-having-difficulty-adding-custom-fonts</a></p>
+
+<p>(3) I'm not sure what you mean by that. Squarespace is made to be responsive in the most awesome way possible. But you can customize the layout, each template offers different options: <a href="http://help.squarespace.com/guides/making-style-changes">http://help.squarespace.com/guides/making-style-changes</a> and, <a href="http://help.squarespace.com/guides/using-the-css-editor">using CSS</a>, you can pretty much change anything indeed, but I need to better understand what you mean.</p>
+
+<p>And if you feel this have helped you in some way, please remember to <a href="http://cregox.com/pay">make me a contribution</a>.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447/2</link>
+        <pubDate>Wed, 14 Jan 2015 18:34:14 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-6447-2</guid>
+        <source url="http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447.rss">Squarespace custom css help - urgent</source>
+      </item>
+      <item>
+        <title>Squarespace custom css help - urgent</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>seppa346@newschool.edu:</div>
+<blockquote>
+<p>Hi,
+I was wondering if you could help me with a few small styllistic changes
+that need to be done using custom css. I need to get it done today though.</p>
+<p>Problems:
+1. making elements center up on landing page  (embedded code video and
+image)
+2. bring in helvetica ultra light to headings
+3. make content scalable -- responsive in size but static in layout</p>
+<p>Can you help me?
+Thanks,
+Amber</p>
+</blockquote></aside>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447/1</link>
+        <pubDate>Tue, 13 Jan 2015 15:11:35 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-6447-1</guid>
+        <source url="http://talk.cregox.com/t/squarespace-custom-css-help-urgent/6447.rss">Squarespace custom css help - urgent</source>
+      </item>
+  </channel>
+</rss>

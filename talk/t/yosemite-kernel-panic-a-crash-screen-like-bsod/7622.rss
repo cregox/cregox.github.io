@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Yosemite kernel panic, a crash screen like BSoD</title>
+    <link>http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622</link>
+    <description>&lt;img src=&#39;/uploads/default/127/8201eed9b4a93da4.png&#39;&gt;
+
+I remember last time I had such issues with a Blue Screen of Death was back in 2000. At that time, believe it or not, I&#39;ve resolved it by replacing my power cord. There were many PCs (my brother&#39;s) connected to the same wall and only when we replaced the benjamin with did the [BSoD][1] stopped showing up. Almost every day.
+
+I know that&#39;s probably not exactly how it happened, and I&#39;m a bit sorry for not documenting it before, after all memories are reconstructed frequently, at least daily, and at each time it will suffer issues from brain malfunctioning, as it does get deceived so often. But I&#39;m still pretty confident that power line prevented BSoD from happening and [**it is plausible**][2]!
+
+[quote=&quot;Cawas, post:1, topic:7471&quot;]
+the brain&#39;s main function is movement. In fact, it malfunctions a fucking lot and it&#39;s in general a much worse tool than we like to admit. It is very limited indeed, more the reason why so many of us hope for the machine overlords to come up soon.
+[/quote]
+
+Now it&#39;s back, in my macbook pro and I feel it&#39;s going to be a bit harder to resolve without a clean install (a.k.a. formatting, back in last century). This time it&#39;s just about 2 times per week. And I&#39;m pretty confident it started at some point after I&#39;ve upgraded to Yosemite (a.k.a. OSX 10.10, although that&#39;s quite redundant)
+
+&lt;img src=&#39;/uploads/default/128/92a00037cf4fc590.png&#39;&gt;
+
+&gt; Your computer restarted because of a problem. Press a key or wait a few seconds to continue starting up.
+
+After some googling around for `yosemite bsod` on google images, I finally found that exact message, which then led me to [what apple has to say about it][3]:
+
+&gt; In most cases, kernel panics are not caused by an issue with the Mac itself. They are usually caused by software that was installed, or a problem with connected hardware. 
+
+&gt; To help avoid kernel panics, install all available software updates until Software Update reports, &quot;Your software is up to date.&quot; OS X updates help your Mac handle the kinds of issues that can cause kernel panics, such as malformed network packets, or third party software issues. For most kernel panics, updating your software is all you have to do.
+
+Maybe that&#39;s true, but I doubt it it&#39;s not OS&#39;s fault. And I always keep it up to date (except I don&#39;t always upgrade to newest releases, I prefer to wait until .2 or so, but that&#39;s a different topic).
+
+I also don&#39;t get all the other expected behaviors after the screen. The computer restarts twice. The first time it goes way too fast to the login screen, even for an SSD machine. Then it reboots, takes a little bit longer and I finally can log back in, which promptly brings a loading bar that takes longer than the whole 2 boots process themselves. And I don&#39;t get any warning asking me to open up applications that were open - they just open up straight away. Maybe because that&#39;s my default setting.
+
+Anyway, I guess the point here is just reporting a bit on this failure. I intend to update this if I get a video recording of how it happens and eventually if I fix it one way or another. But, as bad as it may be, thanks to such a fast boot I&#39;m not so worried about it! I guess I can live with it for a bit longer, until I update my machine and start a fresh install just because I never did one in the past 3 to 4 years or so (thanks to Time Machine). :P
+
+
+  [1]: http://en.wikipedia.org/wiki/Blue_Screen_of_Death
+  [2]: http://superuser.com/a/915385/28411
+  [3]: https://support.apple.com/en-is/HT200553</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Dec 2015 23:43:50 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Yosemite kernel panic, a crash screen like BSoD</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Since August I'm on a clean OS install and this problem was still happening before then... But never again since the clean install. Plus, my new machine have 16gb RAM. Everything was "perfect". Up to now.</p>
+
+<p>This time the reboot was so fast I couldn't even see any BSoD. Just the login twice thing. Enter password, reboot again. Second time brings the loading bar. Same as usual Yosemite weird crash reported above.</p>
+
+<p>Maybe it's finally time to upgrade OS to Captain... It is even already on <code>.2</code>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/3</link>
+        <pubDate>Tue, 22 Dec 2015 23:43:50 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7622-3</guid>
+        <source url="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622.rss">Yosemite kernel panic, a crash screen like BSoD</source>
+      </item>
+      <item>
+        <title>Yosemite kernel panic, a crash screen like BSoD</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>As promised, here's the video (easier than using youtube):</p>
+
+<p><a href="https://plus.google.com/+CaueRego/posts/CjqHK2rEuXM" class="onebox" target="_blank">https://plus.google.com/+CaueRego/posts/CjqHK2rEuXM</a></p>
+
+<p>And this is the message I always get once I log back (to which I <em>usually</em> report, like in this last time):</p>
+
+<a href="https://dl.dropboxusercontent.com/s/67i13bpym3rs53h/Screen%20Shot%202015-05-21%20at%2015.01.29.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/67i13bpym3rs53h/Screen%20Shot%202015-05-21%20at%2015.01.29.png?dl=0" width="573" height="268"></a>
+
+<p>Not only the boot is fast (although the login is slow), it also always recovers almost everything I had open, almost at all the right places. Few apps won't go to the right space / desktop / screen, others won't minimize as they were, etc, but all in all the whole process isn't <em>that</em> troublesome.</p>
+
+<p>It's still quite an annoyance and maybe a sign of worse crashes yet to come! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/open_mouth.png?v=0" title=":open_mouth:" class="emoji" alt="open_mouth" width="64" height="64"></p>
+
+<p>Well, now May 26 it happened 7 times total. Once on 22 (right after I unplugged the second monitor), and once per day (at the exact time of this post editing) for no apparent reason, as usual.. Twice today. It's already a huge issue, and I'm about to format my mac for the first time ever!</p>
+
+<p>On May 27 I tried formatting by simply installing yosemite on top. It didn't work, I got all my stuff as they were, <strong>but</strong> the crash stopped happening daily. Until now. Jun 3rd, first time it's back. Same as usual. I'll keep reporting back if it comes around again and next time it starts to strike as often as last one, I'll be sure to go on with a complete wipe.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/2</link>
+        <pubDate>Thu, 21 May 2015 18:58:53 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7622-2</guid>
+        <source url="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622.rss">Yosemite kernel panic, a crash screen like BSoD</source>
+      </item>
+      <item>
+        <title>Yosemite kernel panic, a crash screen like BSoD</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><img src="//talk-cdn.cregox.com/uploads/default/127/8201eed9b4a93da4.png" width="640" height="480"></p>
+
+<p>I remember last time I had such issues with a Blue Screen of Death was back in 2000. At that time, believe it or not, I've resolved it by replacing my power cord. There were many PCs (my brother's) connected to the same wall and only when we replaced the benjamin with did the <a href="http://en.wikipedia.org/wiki/Blue_Screen_of_Death">BSoD</a> stopped showing up. Almost every day.</p>
+
+<p>I know that's probably not exactly how it happened, and I'm a bit sorry for not documenting it before, after all memories are reconstructed frequently, at least daily, and at each time it will suffer issues from brain malfunctioning, as it does get deceived so often. But I'm still pretty confident that power line prevented BSoD from happening and <a href="http://superuser.com/a/915385/28411"><strong>it is plausible</strong></a>!</p>
+
+<aside class="quote" data-post="1" data-topic="7471"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cawas/40/60.png" class="avatar">Cawas:</div>
+<blockquote><p>the brain's main function is movement. In fact, it malfunctions a fucking lot and it's in general a much worse tool than we like to admit. It is very limited indeed, more the reason why so many of us hope for the machine overlords to come up soon.</p></blockquote></aside>
+
+<p>Now it's back, in my macbook pro and I feel it's going to be a bit harder to resolve without a clean install (a.k.a. formatting, back in last century). This time it's just about 2 times per week. And I'm pretty confident it started at some point after I've upgraded to Yosemite (a.k.a. OSX 10.10, although that's quite redundant)</p>
+
+<p><img src="//talk-cdn.cregox.com/uploads/default/128/92a00037cf4fc590.png" width="460" height="285"></p>
+
+<blockquote><p>Your computer restarted because of a problem. Press a key or wait a few seconds to continue starting up.</p></blockquote>
+
+<p>After some googling around for <code>yosemite bsod</code> on google images, I finally found that exact message, which then led me to <a href="https://support.apple.com/en-is/HT200553">what apple has to say about it</a>:</p>
+
+<blockquote>
+<p>In most cases, kernel panics are not caused by an issue with the Mac itself. They are usually caused by software that was installed, or a problem with connected hardware. </p>
+<p>To help avoid kernel panics, install all available software updates until Software Update reports, "Your software is up to date." OS X updates help your Mac handle the kinds of issues that can cause kernel panics, such as malformed network packets, or third party software issues. For most kernel panics, updating your software is all you have to do.</p>
+</blockquote>
+
+<p>Maybe that's true, but I doubt it it's not OS's fault. And I always keep it up to date (except I don't always upgrade to newest releases, I prefer to wait until .2 or so, but that's a different topic).</p>
+
+<p>I also don't get all the other expected behaviors after the screen. The computer restarts twice. The first time it goes way too fast to the login screen, even for an SSD machine. Then it reboots, takes a little bit longer and I finally can log back in, which promptly brings a loading bar that takes longer than the whole 2 boots process themselves. And I don't get any warning asking me to open up applications that were open - they just open up straight away. Maybe because that's my default setting.</p>
+
+<p>Anyway, I guess the point here is just reporting a bit on this failure. I intend to update this if I get a video recording of how it happens and eventually if I fix it one way or another. But, as bad as it may be, thanks to such a fast boot I'm not so worried about it! I guess I can live with it for a bit longer, until I update my machine and start a fresh install just because I never did one in the past 3 to 4 years or so (thanks to Time Machine). <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="64" height="64"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622/1</link>
+        <pubDate>Fri, 15 May 2015 21:16:10 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7622-1</guid>
+        <source url="http://talk.cregox.com/t/yosemite-kernel-panic-a-crash-screen-like-bsod/7622.rss">Yosemite kernel panic, a crash screen like BSoD</source>
+      </item>
+  </channel>
+</rss>

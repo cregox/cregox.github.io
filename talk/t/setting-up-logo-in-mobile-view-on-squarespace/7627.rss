@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Setting up logo in mobile view on squarespace</title>
+    <link>http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627</link>
+    <description>[quote]
+Hi there,
+
+I&#39;m a graphic designer working with a client on a squarespace site http://www.judiththompson.co using the &quot;five&quot; template.
+
+Unfortunately we are unable to view the site logo on the mobile view. This link has been referenced to me for some possible answers but I would prefer it to be done by a coder. http://answers.squarespace.com/questions/9651/add-a-logo-in-the-mobile-menu-for-five-template
+
+Are you able to help?
+
+Thanks
+Rachael
+
+
+Rachael Clark
+Graphic Design
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 May 2015 16:24:52 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Setting up logo in mobile view on squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Hello Rachel, and thanks for contacting me. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+
+<p>Please do read <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> in case you haven't.</p>
+
+<p>Looks like the approaches from that link are indeed overkilling.</p>
+
+<p>Do you mean you want it to look something like this?</p>
+
+<a href="https://dl.dropboxusercontent.com/s/ma9cziynwziak6m/Screenshot%202015-05-18%2013.11.57.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/ma9cziynwziak6m/Screenshot%202015-05-18%2013.11.57.png?dl=0" width="478" height="447"></a>
+
+<p>In your case, that there's no menu, you can get it with this simple CSS line:</p>
+
+<p></p><pre><code class="lang-auto">div#page-header div.horizontal-navigation-bar.with-logo {
+  display: block;
+}</code></pre>
+
+<p>But it also won't look good on screens smaller than <code>438px</code>, I could just verify.</p>
+
+<p>If you want me to dig deeper, and this is all you need me to do, I can do it for U$123.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627/2</link>
+        <pubDate>Mon, 18 May 2015 16:24:52 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7627-2</guid>
+        <source url="http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627.rss">Setting up logo in mobile view on squarespace</source>
+      </item>
+      <item>
+        <title>Setting up logo in mobile view on squarespace</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi there,</p>
+<p>I'm a graphic designer working with a client on a squarespace site <a href="http://www.judiththompson.co">http://www.judiththompson.co</a> using the "five" template.</p>
+<p>Unfortunately we are unable to view the site logo on the mobile view. This link has been referenced to me for some possible answers but I would prefer it to be done by a coder. <a href="http://answers.squarespace.com/questions/9651/add-a-logo-in-the-mobile-menu-for-five-template">http://answers.squarespace.com/questions/9651/add-a-logo-in-the-mobile-menu-for-five-template</a></p>
+<p>Are you able to help?</p>
+<p>Thanks<br>Rachael</p>
+<p>Rachael Clark<br>Graphic Design</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627/1</link>
+        <pubDate>Mon, 18 May 2015 05:42:47 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7627-1</guid>
+        <source url="http://talk.cregox.com/t/setting-up-logo-in-mobile-view-on-squarespace/7627.rss">Setting up logo in mobile view on squarespace</source>
+      </item>
+  </channel>
+</rss>

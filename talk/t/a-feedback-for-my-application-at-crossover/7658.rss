@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A feedback for my application at crossover</title>
+    <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658</link>
+    <description>https://www.dropbox.com/s/flkma4908enla97/Screenshot%202015-07-02%2018.48.01.png?dl=0
+
+#what is this?
+this is a readme file I&#39;ve sent over to a tech trial application I was assigned while applying for a job at [crossover](https://www.crossover.com/). they asked me to deliver a complex dummy application made from scratch within 3 days, and I simply couldn&#39;t do it in such short and surprising notice. in retrospect I probably could have predicted it before I pressed the `start process` button, but I didn&#39;t.
+
+so, below, there&#39;s the file at its integrity. picture you&#39;re the examiner getting basically this single file instead of sources and screen recordings as requested and, like the examiner probably will, just ignore it. ;P
+
+
+
+#disclaimer
+&lt;spoiler&gt;maybe I&#39;m being too verbose here, I’m writing most phrases first letters with lower case to kind of separate what I’m personally writing now from anything else and make a writing style.&lt;/spoiler&gt;
+
+**my whole delivery here is not meant to be evaluated.**
+
+I’ve contacted support early on and decided I’ll apply later for another position.
+
+right below, quoted, there is my reasoning for giving up on the process this time. I’ve sent it to support yesterday, when there was little more than 2 days still left, on Wednesday July 1st 12:34 gmt. Unedited and adapted to markdown:
+
+&gt; There was just not enough information before starting the tech trial 3 days period.
+
+&gt; And I&#39;ve got enough experience to know I won&#39;t be able to finish it in a good manner within that timeframe. But that&#39;s not to say I couldn&#39;t do it. At all. It&#39;s just a combination of many factors, including that lack of information. Had I knew before hand what I would need (windows, visual studio, sql, etc), I would&#39;ve postponed the beginning to next Monday.
+
+&gt; I&#39;m way too flooded with many things going on.
+
+&gt; For one, I&#39;m on a mac, with no access to a windows machine and it&#39;s been a while since I&#39;ve used .NET with MVC (so I would really need to use all the time given to get to a good result).
+
+&gt; If you really want me to give me a new assignment for Monday (maybe just switch me to Java) I could make a commitment... But, since we&#39;ve got to this point, I rather ask you to consider my different application. I will upload a clever solution, later on.
+
+&gt; Another thing is I only ever intended applying for this job to start in September, when I&#39;ll be finished moving from Brazil to Portugal. Yeah, next week I may have no good internet access at home, as part of this moving process. This is one big reason why I rushed a bit trying to finish this process now.
+
+&gt; Finally, I really want to invest all my time until then with a very important [personal project](http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653). Right now I&#39;m choosing to codename it either **cregox sam** or **sargix**, which you&#39;ll soon be able to google for if you really want to know more.
+
+&gt; In any case, I&#39;m still quite interested in this opportunity so please let me know if we can move forward! ;)
+
+
+
+#honestly
+
+I’ve got over 20 years of deep computer experience. It have been over 15 years I started as a professional programmer, before I was even 18, in a country where computers are still quite rare in schools.
+
+I know how to do every single thing asked there, but I’ve got no current experience with any of it. Regardless, I could certainly get something working, and probably complete the full task with some excellence, if I had the environment ready. sometimes such trivial things can become surprisingly and increasingly difficult, and I already knew that as well.
+
+I haven’t *completely* gave up on trying, I just could find no good solution for getting me a windows machine through those 3 days. that’s how difficult things are in my current position.
+
+
+
+#analysis
+
+
+here are some parts from the request, followed by my comments.
+
+
+&gt; ## Preconditions
+&gt; 1. You should work on your local machine.
+&gt; 2. You may use Visual Studio 2010 to 2013.
+&gt; 3. You may use SQL Server 2008 to 2014 (Main or Express edition).
+
+I believe this should have been said before we need to accept the challenge. the whole process wasn’t asking anything from my local machine so far, and this is basically what threw me off the process.
+
+
+
+&gt; - Create the architecture and design of a custom XXX system. Implement the system&#39;s services and applications.
+
+sounds fair.
+
+useless work to be thrown away, since you expect 3 days of work, but **fair**.
+
+here’s the problem, though: you’re throwing away your best candidates unless they make less money than you offer. and you’re letting it pass the worst ones, who already had something similar ready.
+
+why not using the candidates expertise instead? check the work the candidate have done already! why trying to make the candidate convey with your standards? you’re not really going after the 20% top people this way, imho.
+
+this is a big reason I keep feeling I shouldn’t even bother wasting my time applying, honestly. I’m not even sure why I bother, I probably shouldn’t. and probably nobody is reading this far anyway. maybe the bigger reason I’m trying is I’m still very lost in my career positioning, although that will change soon enough.
+
+not sorry if I’m being too bluntly honest, even if mostly with criticisms! I really do love transparency. ;P
+
+
+
+&gt; - It cannot use any 3rd party XXX frameworks, not even open source ones.
+
+also fair. after all, that’s exactly what you’re asking to build.
+
+
+
+&gt; - Do not use any existing JavaScript framework. 
+
+that doesn’t make any sense. in reality it’s more important knowing if the candidate can use frameworks and libraries and every resource available to their advantage.
+
+
+
+&gt; - Even if you are not able to complete all the tasks, try to achieve a working system.
+&gt; - Add missing requirements to the implementation, according to your experience.
+
+best and most reasonable rules in the whole request.
+
+
+
+&gt; - Design.doc with needed diagrams
+
+please, don’t ever ask of top 20% engineers to use DOC! most will probably hate you for this. this is way unnecessary for the task required here.
+
+
+
+#bottom line
+
+I understand this whole process exists both to filter and qualify candidates, and I haven’t even got to talk with a human being yet. that part makes a lot of sense to be able to find the top candidates, from an HR and its resources point of view. but not so much from the candidate point of view.
+
+this conflict of interests makes the whole proposition behind crossover a bit dubious to me, but I still found the process appealing enough to try. maybe I shouldn’t. while I’m confused about it, and got time to try, I’ll keep trying, in hope to be proved wrong! ;P
+
+waiting for talking to a person soon. cheers.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Jan 2017 10:37:24 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@seyfer Oleg Abrazhaev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/seyfer">@seyfer</a> wrote:</p>
+          <blockquote>
+              <p>I'm fully agree with your opinion about application process. TopTal has almost the same, but they are use Codility and test only algorithm problems.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/51">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/51</link>
+        <pubDate>Thu, 26 Jan 2017 10:37:24 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-51</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@raphael_alex Raphael Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/raphael_alex">@raphael_alex</a> wrote:</p>
+          <blockquote>
+              <p>same for me... no detailed answer at all.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/50">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/50</link>
+        <pubDate>Sun, 13 Nov 2016 23:14:58 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-50</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Sunkul_Cadh Sunkul Cadh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/sunkul_cadh">@Sunkul_Cadh</a> wrote:</p>
+          <blockquote>
+              <p>CrossOver for work under the hood is filled with unethical criminals. Stay away from them. They treat people like shit both before and after hiring. They say they hire contractors but treat them as employees internally. Almost all their clients like DevFactory, Versata, Ignite Technologies etc treat their people like employees.  This is illegal as per US laws. No company can treat an independent contractor as an employee which is a serious first degree felony and will bring with it class action. All of CrossOver and it's clients like DevFactory, Versata etc are involved in this scam. That's why they were thrown out of Elance in March 2015. CrossOver was the result of gTeam FZ LLC being thrown out of Elance due to illegal misclassification just because Elance didn't wanted to get into trouble. More than 1000s of contracts with Elance got ended in March 2015 just because Elance became aware of the misclassification and decided to throw them out. Also their tool WorkSmart is a copy of Elance/UpWork tracker. Stay away from CrossOver</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/49">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/49</link>
+        <pubDate>Sat, 12 Nov 2016 05:18:26 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-49</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Michael_Manuel Michael Manuel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/michael_manuel">@Michael_Manuel</a> wrote:</p>
+          <blockquote>
+              <p>Don't waste your time there. They're either complete SCAM or trying to hire so special people that are very rare to find. I guess you will not pass in 99,99 percent. I worked on their task for 3 days and did more than 95 percent of the work, all their required features were matched. Even though it was quite good and it had some extra features, they found something to say against it. They will ALWAYS find something to say against your project and a reason to thank you for your time as say goodbye. It's very unreal to have such high expectations for a project that is done in 72 hours.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/48">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/48</link>
+        <pubDate>Fri, 11 Nov 2016 10:48:35 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-48</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Thao_Quach_Thanh Thao Quach Thanh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/thao_quach_thanh">@Thao_Quach_Thanh</a> wrote:</p>
+          <blockquote>
+              <p>Hello Mr.Punto,</p>
+
+<p>They have all the employees they need. They just hanging a bait for each of us for a FREE 3-day working on the Project-evaluation test. Here is my story.<br>Never bother to applying your CV to this company. Never ever ever.<br>They say they are hiring top 1% talented employees over the world for only half payment as the employees should receive if they are citizens of USA. The big company love this, cut down payment for good. The third world country' employees also love this, big increasing income for good. Ok, that explains the bloody recruitment process as you should prepare yourself before joining the game. Top 1%.</p>
+
+<p>It took me 1 hour for the technical screen test. Passed. On Oct-1st, 2016.<br>Then the 3-days project test. They assigned you a task, only 3 days to complete. As you will see on multiple forums, the candidates all use almost 3 days to work on that assigned project, sleep about 4-5 hours/day, bloody, yes, so was I. 60 hours working for free. Yes, stupid me.<br>After submitting my work to them, 3 days later, ON SUNDAY, Oct-9th, they sent me an email asked for an interview meeting, as I would assume that I passed the 3-day project evaluation test. And request me to "REPLY WITHIN TODAY". Who the hell on Earth should be checking email &amp; working on SUNDAY? And tell me not to reply by email, only adding Skype account of ONLY the interviewer and that's good.</p>
+
+<p>Fortunately, I did, replied 2 hours later from the time they sending that email. And I provided them my available time spot for the interview. For 3 day, Wednesday, Thursday &amp; Friday that week (Oct-12th, Oct-13th, Oct-14th), from 9:00 AM to 6:00 PM. For double checking, I replied by email AND Skype.</p>
+
+<p>What did I get? Silence, no answer from them, no email, no Skype message. The interviewer ignored me all the time she was online.</p>
+
+<p>Until the next Saturday, Oct-15th, when all my available time was run out, she replied to me on Skype asked me to set up another time spot, this time she chose, on Wednesday, Oct-19.<br>But 20 days have passed and I got another project to work on. So I must delay Crossover's job, so I asked her if I could reserve my application status for later. As a big online company, they should save all information and status of their candidates. That's for their own good, right? But she answered me that nope, they will delete all mine and next time I must re-do the bloody 3-days project test. Another free 50-60 hours working. <br>At this point, I start to notice all they love is that FREE 50-60 hours working from their candidates. The more they do that test, the more benefits they’ll get. What, that could be sold for money, big and real project they got us working on as an assignment. If your work is bad, no damage. If yours is good, sold. My assignment is acceptance test for a Beta CRM [Customer Relationship Management] service. After I submitted my work, now most of my reported bugs/defects are fixed.</p>
+
+<p>My interviewer also wanted to get some more. She asked if I no longer interesting in their job, she will cancel my application. After 1 week waiting on her ignoring, this is the first time she be so quickly and good at their job! Then I asked her if she need an confirmation email from me for that, she said nope, just silence (from me or from them?) and they’ll be fine.</p>
+
+<p>At this point what I notice is they don’t need any evidences to disqualified you, just silence from them [might lead to another silence from you], or a failed interviewing report [with no cross-checked from anyone else] from the interviewer and you are gone. If you make further investigation on your interviewer, you might find out that they have no more experience or technical knowledge than you on what you are applying your application for.</p>
+
+<p>I think you might get disqualified by the interviewers themselves [since most of their employees now came from a same country, it’s Indian if anyone from you could checked], as well as, get lost in the long waiting process also caused by the interviewers. OR you could get disqualified by the Crossover company who somehow never need your labour from the beginning, they just want their perfect FREE 50-60 hours working assignment for selling to their customers.</p>
+
+<p>That’s it, I moved on with a SCAM story to telling you, never get this bait as me. I thought about leave in silence but I don't think they should take advantage on any of us like that, not any more.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/47">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/47</link>
+        <pubDate>Thu, 20 Oct 2016 07:57:25 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-47</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Rostow_Gokeng Rostow Gokeng]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/rostow_gokeng">@Rostow_Gokeng</a> wrote:</p>
+          <blockquote>
+              <p>Hi guys, thks you for your deifferent feedback about your experience at Crossover.<br>I applied for Software Engineer -PHP, i did the 3 days project evaluation and i m invited to a technical interview on Skype.<br>Please did someone have ever pass this technical interview? I just want to know what type of questions they ask in order to prepare myself.</p>
+
+<p>Thank you for any feedback.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/45">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/45</link>
+        <pubDate>Fri, 30 Sep 2016 10:39:52 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-45</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Harut_Sargsyan Harut Sargsyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/harut_sargsyan">@Harut_Sargsyan</a> wrote:</p>
+          <blockquote>
+              <p>Hey Guys,</p>
+
+<p>I applied for the Java Software Architect position. I get to step 4 - project evaluation.<br>After spending 3days/nights on redesigning/refactoring/bug fixing of their given project I've<br>successfully uploaded it on time. </p>
+
+<p>So after one day I get an automatically generated email from the crossover saying that my application is rejected because of following issue:<br>"Failed to achieve the minimum score"</p>
+
+<p>So it is quite strange to get feedback on Sunday (I submitted on Saturday). I think that they didn't even review my app.</p>
+
+<p>I have a broad experience in developing java enterprise applications - more than 10 years.<br>So I am more than sure that my test project in the crossover at least is not the worst one to say that I "Failed to achieve the minimum score" <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+
+<p>So I think I just waste my VALUABLE time on this process. Spent nerves and a lot of energy, And get a very unrespectful reply from them. They can even mention WHY it has been rejected?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/44">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/44</link>
+        <pubDate>Sun, 14 Aug 2016 16:51:54 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-44</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@ShaimaMahmoud Shaima Mahmoud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/shaimamahmoud">@ShaimaMahmoud</a> wrote:</p>
+          <blockquote>
+              <p>I wish you the best of luck</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/43">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/43</link>
+        <pubDate>Thu, 14 Jul 2016 12:10:29 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-43</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@ShaimaMahmoud Shaima Mahmoud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/shaimamahmoud">@ShaimaMahmoud</a> wrote:</p>
+          <blockquote>
+              <p>How about the result of the 3-days task,  accepted or rejected ?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/42">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/42</link>
+        <pubDate>Thu, 14 Jul 2016 09:28:41 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-42</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@ShaimaMahmoud Shaima Mahmoud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/shaimamahmoud">@ShaimaMahmoud</a> wrote:</p>
+          <blockquote>
+              <p>I would like to thank you for the detailed full experience and appreciate that you spend that time to write for the people to benefit from.<br>I am a 2 years of experience Software developer, I am intending to apply for a Java developer Job in Cross Over , I just don't know how hard the exams are to be , I have passed a lot of exams before and I studied before in my life and I am ready to do it again even intensively if it requires.<br>I just would like to know how much studying should I do before I start the process, <br>The 3-days task , that you passed successfully, God bless you, I have no clue what level of hardness or easiness or simplicity it might be, I f you don't mind giving us a hint?!!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/41">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/41</link>
+        <pubDate>Thu, 14 Jul 2016 09:25:40 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-41</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Colin_Nickerson Colin Nickerson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/colin_nickerson">@Colin_Nickerson</a> wrote:</p>
+          <blockquote>
+              <p>I recently did the 3-day programming challenge.</p>
+
+<p>To me, it was much longer than 3-days but I did my best with it.  I had to design a web back end, a front end, and a desktop client.  This had to be secure, it needed complete docs, a dummy database, and a video overview.</p>
+
+<p>3 days</p>
+
+<p>This is nuts.  No one can reasonable do this unless they have previous work they can reference.  I pretty much did not sleep for 2 days in order to just get the three software systems working.  I had about 1 hour for the design doc.  They also wanted complete unit testing and said I would be rejected if I didn't use it.</p>
+
+<p>I like unit testing ... but setting it up for a 3 day throw-away project doesnt make any sense to me.</p>
+
+<p>Ayways, I did my best and worked as hard I could for me.  I don't think I will get through this portion of the phase, but am proud that I did mange to get something functional within that period of time.</p>
+
+<p>I wish I had more time to put into the design doc because I built some interesting systems and wanted someone to see that.</p>
+
+<p>So, my experience is that they need to either scope down their projects or give more time.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/40">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/40</link>
+        <pubDate>Thu, 30 Jun 2016 20:41:25 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-40</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Pavy_Bez pavybez]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/pavy_bez">@Pavy_Bez</a> wrote:</p>
+          <blockquote>
+              <p>Thanks all for the great feedback. I just applied to crossover and was invited to complete the 3 day project. I am now thinking if it is even worth it after seeing all these comments. Thanks for the heads-up.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/39">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/39</link>
+        <pubDate>Tue, 03 May 2016 06:34:24 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-39</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@guest guest]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/guest">@guest</a> wrote:</p>
+          <blockquote>
+              <p>Hi, these guys gave me a call to me invite me to an interview. I decided to do some investigation about this company and your comments are really helpful.I don't know why they give tasks for 3 days, but I think to skip this part. Life is too short for the wrong interview to say. Thank you again for providing this useful information and wish you luck with the company.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/38">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/38</link>
+        <pubDate>Sat, 16 Apr 2016 21:18:46 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-38</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Lanqu Lanqu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/lanqu">@Lanqu</a> wrote:</p>
+          <blockquote>
+              <p>Thats funny. Have you contacted with their HR on that issue?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/37">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/37</link>
+        <pubDate>Tue, 05 Apr 2016 15:58:21 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-37</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Leo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/leo">@Leo</a> wrote:</p>
+          <blockquote>
+              <p>I had a very surprising and uneasy experience with crossover. They did send me an e-mail stating that my application was rejected 6 hours before my trial period would end.  I was just wrapping my project up for delivering. I would say I lost a precious time (time that I had to split with my full-time job, family and resting) if I didn't believe that working and studying are <strong>almost</strong> never lost time.</p>
+
+<p>Quoting the e-mail:</p>
+
+<blockquote><p>After carefully considering your application (though you are clearly talented), we are sorry to inform you that the hiring manager decided to pursue another direction.</p></blockquote>
+
+<p>That would be fair if they could have seen my project, which didn't happen. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/confused.png?v=2" title=":confused:" class="emoji" alt=":confused:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/36">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/36</link>
+        <pubDate>Fri, 01 Apr 2016 19:23:35 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-36</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Lanqu Lanqu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/lanqu">@Lanqu</a> wrote:</p>
+          <blockquote>
+              <p>Hi guys!</p>
+
+<p>My update goind here.<br>Ive been on Crossover party they invited me on. There was 1 more candidate besides me!!!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"> So we've got presentation by CIS CrossOver top manager Petr Tarasevich and asked lots of questions. There were also some of current employees. Some of them are really earning 100k $ / year .... at least they've said that.<br>Also each of them pointed out that the trial is the most awful and the hardest part of application process. They said timing is so strict that you must plan to sleep a few hours a day to get in time. But thats ok for such salary opportunity))<br>Ive completed my first step on Software Manager Engineer. Though Ive thought im gonna be called something like TeamLeader...but manager.. ok np. <br>Test was not the easiest one in my life. Some questions were about hijacking and man-in-the-middle, and others were just like in IQ tests and some were pure managers questions like what are you gonna to do if you cant get in touch with collegues and so on and so force.. Well rather different questions were answered.<br>Now Im required to complete my profile and then the trial will arrive <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"> im a bit afraid of getting into it.. But everything still looks real.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/35">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/35</link>
+        <pubDate>Mon, 28 Mar 2016 16:59:17 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-35</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Such awful commitment capacity indeed. It happened to me <em>at least</em> a couple times from couple different people from crossover as well. I also find it highly disrespectful. There are no excuses for that, specially when they're the ones to pick the date and time.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/34">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/34</link>
+        <pubDate>Fri, 18 Mar 2016 18:12:56 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-34</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Claudio_Fernando_Mac Claudio Fernando Maciel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/claudio_fernando_mac">@Claudio_Fernando_Mac</a> wrote:</p>
+          <blockquote>
+              <p>So, as I promissed, here is the final output of the interview with this company's hiring manager who's a client of Crossover...</p>
+
+<p>I had accepted the interview invitation and chose it to be scheduled for last Tuesday at 4pm (my time). I was ready and very nervous about it for the entire weekend, as I had said many times here that Crossover had already taken all my nerves, and here I was again, set, again for another coding-along interview. </p>
+
+<p>I wonder why in this world a company would want to double check if I was programming capable, knowing that Crossover is already supposed to be this top notch filtering company which sets apart only (as they like to say) their top 1% of the applicants. But well. </p>
+
+<p>So there was I, nervous, shaking like hell, awaiting for an interview that never happened. I waited for two hours almost, and nobody really came to talk to me, although a couple of people from the company did add me to their skype (this interview was supposed to be over skype). </p>
+
+<p>During this waiting process, a contact from Crossover was at skype asking me if they had already contacted me. So, after these two hours waiting, we both agreed it wouldn't happen anymore and she set a commitment to have it rescheduled, which was nice of her.</p>
+
+<p>It didn't take more than an hour and the hiring manager from this company sent me another interview invitation, which I promptly accepted and scheduled it for yesterday at 3pm (my time). Same thing, almost two hours waiting and nothing happened. This time the contact from Crossover never got back to me, neither did she follow up on anything. </p>
+
+<p>Feeling pretty fed up of being the one who has always to give everyone guarantees, who has to waste one's time in order to receive any sort of agreement that won't render me any type of guarantees should I ever start working for them, I sent Crossover's hiring manager this email:</p>
+
+<blockquote>
+<p>Hi Rebecca,</p>
+<p>The interview was rescheduled for today at 3pm my time. I think it's 1pm at Austin Texas' time.</p>
+<p>I waited for over an hour and they hadn't gotten in touch with me at all, once more.</p>
+<p>Now I'm once more left with too small a window to attend any technical programming interview,  should they attempt to contact me from this time on.</p>
+<p>Please, don't hold it against me, but I'm done with it. This entire application process has required way more than I have psychologically. I've been putting my best efforts<br>for almost two months and it has been quite difficult, although I did make it to this point of being part of the Crossover Market.</p>
+<p>That said, I do not wish to be part of this application process anymore. If you could please, remove my name from it, I'd greatly appreciate it.</p>
+<p>Thank you for being there during the last failed interview and rearanging this second opportunity for me. But I need now to move on, to - hopefully - something<br>that will render me some results.</p>
+<p>Best regards</p>
+</blockquote>
+
+<p>So, I guess, I'm done with Crossover. </p>
+
+<p>BTW, I just received an offer from this company from Utah, USA, to work as a remote programmer in RoR. Like I said, I was going to spend some time now with something that is worth it!</p>
+
+<p>I know some of you will argue that this is not Crossover's fault. I put the fault on them, as they always fail to be organized and to provide their "top notch 1%" a good care, treating them like trash, underworld scum, as they never really bothered to send me any sort of feedback on the twice failed interview arrangement. Not over skype or email. So, yeah, they are just a bunch of disrespectful people and I do keep my word that it's a complete waste of time. </p>
+
+<p>Take care!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/33">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/33</link>
+        <pubDate>Fri, 18 Mar 2016 17:39:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-33</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="31" data-topic="7658"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar_proxy/v2/letter/c/bbce88/40.png" class="avatar">Claudio_Fernando_Mac:</div>
+<blockquote><p>after a lot of stress</p></blockquote></aside>
+
+<p>word.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/32">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/32</link>
+        <pubDate>Mon, 14 Mar 2016 20:16:09 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-32</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Claudio_Fernando_Mac Claudio Fernando Maciel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/claudio_fernando_mac">@Claudio_Fernando_Mac</a> wrote:</p>
+          <blockquote>
+              <p>Hi cregox, I just formatted it. I'm not sure why the text was written like that, I swear I didn't see it until today as <a class="mention" href="/users/lanqu">@Lanqu</a> posted his message here.</p>
+
+<p>Now, one update on things...</p>
+
+<p>I did send a message to Crossover requiring them to give my old status of "in for the ball" as a Senior Full Stack Developer. After a couple of days I received this email from Crossover stating that I was still a Senior Full Stack Developer at their Market and that all the Hiring Managers were still able to see my Profile there as such. Then said it was a bug at their system and I couldn't set the status back. </p>
+
+<p>A few days ago I received an invitation for an interview, actually the interview is for the company I initially applied for. The interview is going to be on this wednesday. It was written in the email that there is going to be some pair-coding in the interview. That had made me very very uneasy for the past 3 days, for as I stated, I'm already through with coding interviews that lead to just more coding interviews. But yesterday I came to the resolution that I'm going to take part in the interview, for the good or the bad. Then, if things do change, if everything I wrote here is not what it seemed to be, I will then be fair and tell that it does work, ... er.... after a lot of stress and frustrations. </p>
+
+<p>Stay put</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/31">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/31</link>
+        <pubDate>Mon, 14 Mar 2016 19:43:50 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-31</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Thanks both for contributing!</p>
+
+<p>I'm still on my own saga to get in.  I've applied to 2 vacancies and got replies only from one of them. Also the $50 per hour probably for same management role but I wasn't ready for a coding test (management role requiring hands on coding is quite unexpected) and although I've failed that part miserably they wanted me to try again within 1 month rather than the default 6 (maybe because I delivered everything else, maybe because of my history maybe because it's all a mess, no clue) so I decided to go for other things in life on the meanwhile.</p>
+
+<p>As already stated I still want to get in regardless of staying so I'll update this again once I do.</p>
+
+<p><a class="mention" href="/users/claudio_fernando_mac">@Claudio_Fernando_Mac</a> man, you should better format your text dude! Such cool story but so hard to read. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=2" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+
+<p><a class="mention" href="/users/lanqu">@Lanqu</a> I've got no clue where you're standing in the process. Did you pass it, are you in the market? If so, congratulations. It is a difficult test (although not so much if you happened to be lucky enough to have <span class="spoiler"> knowledge in java or csharp and an environment ready to go </span> - or previous knowledge of just that <strong>precious hint</strong>).</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/30">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/30</link>
+        <pubDate>Mon, 14 Mar 2016 19:16:02 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-30</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Lanqu Lanqu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/lanqu">@Lanqu</a> wrote:</p>
+          <blockquote>
+              <p>Thats so cool response! I've laughed so hard after a.l.g.o.r.y.t.h.m .... Well, now my start of the story.<br>I've contacted 2 days ago about being able to pass that process to apply <em>Team Lead Position</em>. <strong>50$</strong> per hour is rather great salary for me, you know. HR said that I shoud be able to guide 4-5 teams at once with my remote skills. That sounds pretty unbelievable because Im already working as Team Lead and its so hard to guide the only team, what can I do with 5 at once? But im strong person and I want to grow. So no problem, lets try. I've googled all day long to check if it is good idea to apply that <em>"marked"</em> and found that blog as well as some responses on glassdoor. I dont beleive glassdoor reviews, 75% of them are paid, im 100% sure. But some of reviews seemed rather ok.<br>By the way, I was told by HR that at Saturday "some high person" will visit my town to have a close look on candidates so Im invited to that party. <strong>Gonna see</strong> whats going on there. I have a bad experience of wasting large amount of time and nervous while applying some other companies that made me to send 3-7 days developing the apps <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=2" title=":frowning:" class="emoji" alt=":frowning:"> . That time Ill be smarter and wont tear my ass, cz im already tearing my ass going into production this week. But Im gonna try.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/29">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/29</link>
+        <pubDate>Mon, 14 Mar 2016 18:36:48 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-29</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@Claudio_Fernando_Mac Claudio Fernando Maciel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/claudio_fernando_mac">@Claudio_Fernando_Mac</a> wrote:</p>
+          <blockquote>
+              <p>Just to contribute to this topic, here's my experience with Crossover:</p>
+
+<p>As many people here mentioned, the application process is composed of many steps, first of them,  a dull, unpractical online test full of brainteasers. After that, I was directed to another process that was the challenge. It required me three days to have the challenge ready, but I took only too. </p>
+
+<p>On a Saturday prior to my starting the whole challenge work, somebody from Crossover called me "just to check when I was intending to start the challenge", but I guess the person on the phone just wanted to make sure I could speak English. </p>
+
+<p>I was supposed to build this prettifier routine, and to provide documentation, UML, a readme.txt file with installation howtos, a video and best practices along with that. So I did it. It took me a lot of my nerves just to figure out how to make a decent proposition out of such a small project that barely reflected the real world. A couple of days after that, I received a notification to carry on with the process, so I was scheduled an interview with a Technical reviewer. </p>
+
+<p>The interviewer was a very very nice person ( and I can't emphasize enough how nice he was ). I had some quirks with my internet connection which he was very understanding. He even mentioned a couple of times during the screening that he had liked a lot my project and that he was "rooting" for me.Now, I wasn't aware that this technical screening interview was about asking a lot more technical questions and evaluating further on my technical knowledge for the job offer. But although I was very nervous and the questions where tricky ones sometimes, </p>
+
+<p>I did manage to pass that phase as well. Up to that point I had spent two entire weeks of both my time and my nerves. The next day I received this automatic email stating that I had passed the entire challenge process, and that I was now part of this "marked" as they called. I received another email stating that somebody from Crossover would call me, it took a couple of days to receive the phone call.</p>
+
+<p>A nice person called me to congratulate me for now being part of the Crossover Market and he asked if I had any questions. I did have and he did answer my questions. He then said that I was now "in for the ball" as he said. Or in other words, I was still subject to evaluation from the hiring manager and it could happen that he refused my resume and never requested my services or even an interview. Well, that didn't happen, the hiring manager requested me an interview which happened a few days ago. </p>
+
+<p>I'm from Southern Brazil, this hiring manager was from Poland. So I got very nervous as I'm not used to dealing with eastern Europeans. I was afraid to say something that he could hold against me, which he totally did.So, again, the job offer was for a Senior Full Stack Developer, which up to that point I had totally nailed it. Although it was a very very stressful process and in my opinion, full of unnecessary challenges that could have been evaluated in a completely different way, I did manage to get approved, and as they like to say, I was then part of their top 1% ( big deal, huh?! ).</p>
+
+<p>Back the the hiring manager. He was a polite person, but very strict to his technicalities, which seemed to be pretty much focused on someone who had a previous experience with this paid library for graph mapping routines, which I didn't have. </p>
+
+<p>He started the interview by stating that he liked a lot the fact that my resume wasn't focused on just one set of technology, as it's still common to find programmers who are still only .NET or Java programmers; in my case I had this whole lot of "tools" ( as he said ), which reinforced the fact that I was a Senior Full Stack Developer. Up to that point I was feeling pretty confident about myself. He then asked if I had a prior experience with this specific paid library, which I didn't. </p>
+
+<p>Confusingly enough he then changed his conversation by stating that I wasn't then a (sic) full fledged Full Stack Dev. He proceeded the interview by asking if I felt comfortable with instead of working with backend routines, working then with front end. He asked me a lot of questions about AngularJS, Javascript and he then asked me a very confusing question, which was: "have you ever programmed an algorithm?".</p>
+
+<p>Now, I got very confused and nervous about that question! I mean, I have been working as a programmer for 15 years already. I'm currently a Software Engineer, with easily verifiable credentials. Not to boast, I have been hired overseas, worked in The USA and Germany as part of a huge team of development, with very advanced tasks that where required from both my overseas jobs, but he was asking me if I was able to program an a.l.g.o.r.i.t.h.m? What in this world did that mean? Was he implying that I was a web designer? Not to bring down the worth of my designer colleagues, but they do have clearly different working routines than a Software Engineer has. I wasn't sure what he meant, </p>
+
+<p>I got so nervous that I do not even remember what I answered to him. Everything I can recall was the confusion I was feeling. After that he ended the interview by stating that he would interview a few other people and he would get back to me should he have an answer, positive or negative. But one can easily tell when he didn't perform well with something. And I knew I was out.Yesterday I got the automatic email stating that I was "unfortunately" out. </p>
+
+<p>The email stated that I was (sic) "still in for the ball" for any other hiring manager that might get interested in my resume. Today, as I got back to the "market" just to check the other "opportunities", I clicked onto this one for Android Developer position, if I'm correct. Which COMPLETELY erased my history of ALREADY having passed the ENTIRE EXTREMELY PAINFUL selection process, and now I must take all the way again all the process, including the stupid brainteasers, 3 days development challenge, screenings, interviews and everything. Just to be able to apply to a LOWER RANK position than the one I was already selected. Now, there's nothing left from my previously approved position in their market, and I'm as good as somebody who had NEVER EVER gone through their stinking evaluation process.If I can be of any help here with whoever might be reading this review. It's a complete waste of time! </p>
+
+<p>Their entire chain is not capable of truly evaluating a professional by their background and by setting real life challenges. It's all about brainteasers and inventing these humongous requisites with nicely adorned job titles just to as easily as pie, dismiss your entire working history and experience just because you do not know about this expensive stinking library. From all the reviews I read here ( and elsewhere ) all the people who failed in their selection process failed in earlier stages than mine. </p>
+
+<p>Should you ever be in my position, that is: not good for this certain job vacancy, but still in the open for any other you might want. It's not worth it! For should you attempt to apply for a different position, not only you will have to go through the ENTIRE ordeal again, as many times you wish to apply for a position, but your entire history will be erased and you are back to nothing again. Complete waste of time, resources, nerves and money. Please, spend them with something that is worth it!Now I'm left with my nerves in pieces. </p>
+
+<p>I'll have to put all my pieces together again, a little wiser yes, but a LOT more exhausted, in order to be able to pass another application process, this time with something - hopefully - that is worth it.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/28">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/28</link>
+        <pubDate>Sun, 06 Mar 2016 14:55:09 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-28</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="21" data-topic="7658" data-full="true"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar_proxy/v2/letter/a/6bbea6/40.png" class="avatar">Andy_Tryba:</div>
+<blockquote><p>Ah - thanks for the tip!  And I'm happy to chat on Skype if you think the Software Engineering Manager role isn't the right fit and you think you'd be more interested in a Chief Architect position or something else along those lines.</p></blockquote></aside>
+
+<p>As I've told you on skype chat <a class="mention" href="/users/andy_tryba">@Andy_Tryba</a> (and got a bit sad we couldn't talk over voice), I was preparing myself. And just now, while I'm writing this, I can see <em>I had read you way too wrongly</em> - "<strong>Chief Architect position or something (...) along those lines</strong>" as some "<strong>CTO or something</strong>". And, after the brief skype conversation, I've assumed you read my reply there, which you probably didn't. So it was some miscommunication there.</p>
+
+<p>Fuck my arrogance and stupidity.</p>
+
+<p>In any case, I'll continue as if that was the case, for now. You see, I figured I'd have to do an extraordinary application in every single way to prove my point, and now I believe I'm ready to. I'll even share the whole preparation story right here, right now, and then I'll start rushing to apply. I hope you will read and enjoy! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+
+<h1>What I will do next and asap</h1>
+
+<p>I've already studied 2 different applications. The obvious 30k one up there in the first post and a new one, just yesterday, with a friend. Yes, you heard me right, I'm partially confessing I had someone to apply together with me, so I could see the application process and get prepared to do it.</p>
+
+<p>You see, I'm not saying anything you don't know it's possible.</p>
+
+<h1>My application</h1>
+
+<p>I'll apply to all positions I think I can perform well on the first stages, and I'll only continue on the one I think I can finish until the end.</p>
+
+<p>I also bet you'll be surprised on how much I can accomplish there, if you take a close look. Instead of wasting a whole week to do something good, I can do it in 2 days, you see? Then, you should be able to realize I don't need to do the last time consuming automated test stage. But even if you don't, I'll complete it as soon as possible.</p>
+
+<h1>Wtf?! why?!</h1>
+
+<p>Don't ask <em>why</em>. Ask, <em>how</em>.</p>
+
+<p>What <strong>triggered</strong> me to this <strong>whole</strong> idea was <a href="http://talk.cregox.com/t/old-internet-they-imply-yet-thats-a-huge-flat-screen-there/7796">@Sandra_Cavalheiro liking this boy on top of this goat</a>. I was watching that post when the idea came to me, so I don't know why.</p>
+
+<p>I would continue to go on explaining, but got not enough time right now.</p>
+
+<p>My point is, I guess: I'll get in one way or another! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/26">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/26</link>
+        <pubDate>Mon, 18 Jan 2016 11:02:10 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-26</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+      <item>
+        <title>A feedback for my application at crossover</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Just added this link from another post to that one.</p>
+
+<aside class="quote" data-topic="7783" data-slug="to-openai-questions-from-an-arrogant-prick" data-post="3"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="http://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783/3">To openai: questions from an arrogant prick</a>
+</div>
+<blockquote><p>Yesterday, <a href="https://www.facebook.com/filipe.n.cunha/" rel="nofollow">talking to my newest close friend</a>, he forced me into realizing something...   <a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/14?u=cregox">I had already written somewhere</a> a very short description of what basiux.org is today, something along these lines:   basiux.org has the same goal as openai.com with 2 twists: I started it when I was born. And I've been using all my free time since July into building what you can see on the website now (along with all links available).   All that is being translated into the novel. He told me he was reading s…</p></blockquote></aside>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/25">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658/25</link>
+        <pubDate>Thu, 31 Dec 2015 08:05:01 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7658-25</guid>
+        <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+      </item>
+  </channel>
+</rss>

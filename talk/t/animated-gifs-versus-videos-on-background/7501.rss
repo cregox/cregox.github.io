@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Animated GIFs versus videos on background</title>
+    <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501</link>
+    <description>Continuing the discussion from [Using a gallery instead of the template banner](http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/26):
+
+[quote=&quot;Kate, post:26, topic:7476, full:true&quot;]
+what would it take to get a longer loop on my new GIF banner? Right now I can only upload a 5 second GIF to SS it seems-  anything larger than that gets cut off.
+https://kate-bosse-1pyu.squarespace.com
+
+Would love to know what you would think of for a solution
+[/quote]
+
+[quote=&quot;Kate, post:28, topic:7476&quot;]
+You think there&#39;s any way around it? Would it be worth trying javascript to tell the browser to replace these gifs with new ones every 5 seconds after preloading them, so it looks seamless to add in more?
+[/quote]
+
+I can&#39;t think of any good way that would be worth the trouble.
+
+Squarespace [limits images to 20mb][1], even if GIFs could be much bigger.
+
+For your actually pretty good idea, you&#39;d need at least 2 complicated things done:
+
+- Script to precisely change one gif for another. It might be quite hard to sync and it can easily lose sync because there&#39;s no control over the gif playback.
+- Make the many GIFs properly synced. You probably have the files in video format first.
+
+Maybe the best bet if you want to insist on going GIF would be using a smaller size, even much smaller than 320x200
+
+Meanwhile...
+
+When using a video there&#39;s no sync needed and no gif making process. And the script to use the video is also much simpler than a script to properly and quickly change gifs with precision.
+
+I&#39;d say the only real downside on going video is uploading it to vimeo, youtube or some good streaming service.
+
+[quote=&quot;Kate, post:30, topic:7476&quot;]
+could you tell me the cost to put up a video instead?
+[/quote]
+
+That&#39;s generally [a tricky question][2]. It could be as simple as less than 1h and just adding this script:
+
+```
+&lt;div style=&quot;position: fixed; z-index: 1000; width: 100%; height: 100%&quot;&gt;
+&lt;iframe frameborder=&quot;0&quot; height=&quot;100%&quot; width=&quot;100%&quot; 
+src=&quot;https://www.youtube.com/embed/aQsy17K84Ls?
+autoplay=1&amp;controls=0&amp;showinfo=0&amp;autohide=1&quot;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+```
+
+Or quite complicated, while still being less than 2 hours, such as adding it as a full background with a text overlay on top, as seen [in gravity][3] or [the one you had][4] for instance.
+
+And then for costs, you know [the drill][5]. As I promised you, I can keep ya on the old table [up to April 18th][6]. Summing it up, it should cost no more than U$ 84.
+
+
+  [1]: http://help.squarespace.com/guides/how-should-i-format-my-images-for-display-on-the-web
+  [2]: http://answers.squarespace.com/questions/28211/adding-a-video-background
+  [3]: http://gravitymovie.warnerbros.com/
+  [4]: http://www.dynamo6.com/
+  [5]: http://cregox.com/your-home
+  [6]: http://talk.cregox.com/t/the-making-of-your-home/7491/2</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Apr 2015 20:28:33 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Easter was good, thanks. Looks like you've had a nice one yourself as well. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>I'm not sure what you want to do there. Simplest way to get to that screenshot from what you currently have is simply making a big image including tumbly life and the colored triangles in one big logo, and simply <a href="http://help.squarespace.com/guides/adding-a-site-logo">adding it</a>.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/18">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/18</link>
+        <pubDate>Mon, 06 Apr 2015 20:28:33 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-18</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Hi Caue,</p>
+
+<p>Hope you are well and had a happy Easter!</p>
+
+<p>I am talking with this client (the Tek Five one) about the hover icons and will likely start that project with you this week.
+I have another project for this site: <a href="https://kate-bosse-xbs6.squarespace.com" rel="nofollow">https://kate-bosse-xbs6.squarespace.com</a> <a href="https://kate-bosse-xbs6.squarespace.com/" rel="nofollow">https://kate-bosse-xbs6.squarespace.com/</a> where the client wants the home page to look like the screen shot attached.</p>
+
+<p>Can you tell me the cost to do this? (I would provide you with the updated logo that would be needed as well as files for the colored pattern in whatever format you need).</p>
+
+<p>Thanks so much,
+Kate Bosse
+<div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/aa076e2a84a8d468e35ed3d136f49341921b3996" href="//talk-cdn.cregox.com/uploads/default/90/ea3e063c10cb2254.png" class="lightbox" title="Screen Shot 2015-04-03 at 6.05.43 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/9f4/e19/09b2856fd5_690x429.png" width="690" height="429"><div class="meta">
+<span class="filename">Screen Shot 2015-04-03 at 6.05.43 PM.png</span><span class="informations">1280x796 1.33 MB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/17">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/17</link>
+        <pubDate>Mon, 06 Apr 2015 14:23:00 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-17</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>let me talk with them and get back to you- thanks caue!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/16">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/16</link>
+        <pubDate>Tue, 24 Mar 2015 23:05:50 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-16</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>So, they basically want a movable window / frame, although maybe not necessarily movable looks like they wouldn't interject if it were. Or maybe placing the video on the page, like on youtube, then we can scroll down even while the video is running... In either case, I wouldn't have requested a "lightbox" to begin with. The first option I gave already allowed for that last one, it was just a matter of resizing the video.</p>
+
+<p>Making it an actual small browser window would be a bad idea, I trust that's not it. Making it a movable frame is much more complicated than simply "removing the background" ( which you can already do with the code I provided, at least visually ).</p>
+
+<p>I think this case is getting complicated enough that it would be better if you can either sketch exactly what the client wants or find a reference of something that's working exactly as the client wants. Else I fear we'll keep walking in circles.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/15">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/15</link>
+        <pubDate>Tue, 24 Mar 2015 19:26:57 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-15</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Well. they don’t want the black screen behind it at all- they want people to be able to click on another part of the screen if they want while the video is still up.</p>
+
+<p>If you can give me an explanation as to why this is not a good idea, I will send it back to the client</p>
+
+<p>thanks
+kate</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/14">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/14</link>
+        <pubDate>Tue, 24 Mar 2015 18:47:16 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-14</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>It was by design. You never said you wanted to get rid of the black screen. It's there for a good reason, bringing focus to whatever the lightbox is showing up.</p>
+
+<p>That's about same deal as before, though, depending what you want. I guess changing its opacity should be enough for you but without knowing why would you want to do this I'm not so sure:</p>
+
+<p></p><pre><code class="lang-auto">.sqs-lightbox-overlay {
+  opacity: 0.07 !important;
+}</code></pre>
+
+<p>Beware that at around 0.15 the button X kinda disappears because it's about the same color.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/13">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/13</link>
+        <pubDate>Tue, 24 Mar 2015 18:33:29 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-13</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Thanks Caue! All things are possible! lol</p>
+
+<p>I added the CSS, however, a little hang up- it reduces the video size, but does not get rid of the black screen overlay to see the remainder of the page, see here: <a href="https://kate-bosse-87i3.squarespace.com/our-products-1/" rel="nofollow">https://kate-bosse-87i3.squarespace.com/our-products-1/</a></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/12">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/12</link>
+        <pubDate>Mon, 23 Mar 2015 22:08:18 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-12</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>You're welcome. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"> And nope, no interviews for me. I believe Rebecca had her hands full and although she had set an appointment with me twice we never managed to talk. At least I got the 20% coupon! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>When is anything not possible?</p>
+
+<p>We could easily reduce all lightbox contents with this custom css:</p>
+
+<p></p><pre><code class="lang-auto">.sqs-lightbox-slide {
+    width: 70% !important;
+    height: 70% !important;
+    top: 15% !important;
+    left: 15% !important;
+}</code></pre>
+
+<p>But to do it in anything more specific I may need working on some complex jquery coding. Hopefully, if you don't use lightbox for anything else, that should be enough.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/11">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/11</link>
+        <pubDate>Mon, 23 Mar 2015 21:50:12 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-11</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>HI Caue!</p>
+
+<p>Thanks for the updated link on G+! Do you have a SS interview as well? I’d love to see!</p>
+
+<p>The client is requesting that the video-pop ups we made be featured somewhat smaller on the page so that some of the other content on the page is still visible. I’m thinking if you could reduce the size of the video pop up by about 25% (so it is not full screen) they would be happy.
+<a href="https://kate-bosse-87i3.squarespace.com/our-products-1/" rel="nofollow">https://kate-bosse-87i3.squarespace.com/our-products-1/</a></p>
+
+<p>Is this possible?</p>
+
+<p>Thnaks so much
+Kate</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/10</link>
+        <pubDate>Mon, 23 Mar 2015 21:13:29 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-10</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Coding is basically always more complicated and complex than it may seem.</p>
+
+<p><em>Adding</em> a button to click to play, for any background video, is actually harder than having it on autoplay. Removing the youtube autoplay is simple enough, but then the button will also stay on the background and can be overlaid or hard to click.</p>
+
+<p>For looping or "auto playing" will also depend where it's hosted and how it's embedded. That first code is made for youtube and using page injection (which makes more sense than a code block or global injection). It's already on autoplay but without loop. Making it loop on that setting is <a href="https://developers.google.com/youtube/player_parameters#loop">simple enough</a>, just a <code>&amp;loop=1&amp;playlist=[SAME-ID]</code> on that url...</p>
+
+<p>But that loop won't work very well as it will only loop while you have the page on focus. If you leave it open, go somewhere and get back you may find that dreadful end of youtube video with more options to play. I'm not satisfied with this loop solution, offered by youtube, so maybe I'd have to find yet another way, personally.</p>
+
+<p>For instance, muting the volume at other hand is <a href="http://stackoverflow.com/questions/24868226/how-do-you-mute-an-embedded-youtube-player">much more complex</a>. So, since it's your video, it's easier to just upload a soundless video. Here's a demo with a slightly modified code: <a href="http://www.cregox.com/bg-video">www.cregox.com/bg-video</a> - instead of using a loop, I just used a <a href="https://youtu.be/GquEnoqZAK0">huge video</a>. 9 minutes before it loops. Nobody will stay there for that long anyway. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/8</link>
+        <pubDate>Sun, 22 Mar 2015 02:29:17 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-8</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Will the video play automatically when someone visits the site, or will they have to click play? I would like to have it on a loop</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/7</link>
+        <pubDate>Sat, 21 Mar 2015 21:29:26 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-7</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>In practice, it loads faster because videos have better compression and so files are smaller. The biggest bottleneck for loading a website is still the downstream... But, since it loads so much faster, we usually make videos resolution much bigger and the result might seem like a slower loading while, in fact, we're just loading so much more content (through resolution quality).</p>
+
+<p>GIF is a very old standard (never really meant to play videos, it can never contain audio) and it's only still around because of its simplicity through limitations. It's almost like twitter for videos. It limits how much you can put in a file so it has to be small and it then becomes easier to share. Then it also became a standard recognizable in many different medias but... Even still not as much as some true video formats such as MPEG.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/6</link>
+        <pubDate>Sat, 21 Mar 2015 20:33:44 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-6</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Is there any draw back with making but a video instead of a GIF? Will it load slower?</p>
+
+<p>Thanks!
+Kate</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/5</link>
+        <pubDate>Sat, 21 Mar 2015 20:13:27 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-5</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Awesome, thanks!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/4</link>
+        <pubDate>Sat, 21 Mar 2015 19:43:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-4</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>If you need me to make it, raise it up to 4 hours maximum. Because if you can't make it using the code below, means I probably will have to do something different.</p>
+
+<p>I actually have already done precisely that <a href="http://talk.cregox.com/t/contentchecked-website-design-modifications/7460">for a client before</a>. He used exactly that very same screenshot (file named <code>Capture d’écran 2015-02-12 à 11.20.37</code>) on his request. I guess you found it on the same web place, maybe on squarespace answers, but I couldn't find it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+
+<p>Also, maybe I can come up with a better and less hackish way of doing it... Maybe using a gallery block... Anyway...</p>
+
+<p>Feel free to just use that script:</p>
+
+<p></p><pre><code class="lang-auto">&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script author="cregox.com"&gt;
+  // mouse hover image
+  // - put in a squarespace image element next to each other
+  // - the first one has to have a link (clickthrough url)
+  $(document).ready(function(){
+    $(sqsimg).has('a').has('img').each(function(){
+      var $this = $(this);
+      var $next = $this.next(sqsimg).has('img');
+      if ($next.length &gt; 0) {
+        $next.hide();
+        
+        // copy a from this into next
+        $this.find('a').clone().appendTo($next.find('img').parent('div').parent());
+        $next.find('a').children().remove();
+        $next.find('img').parent('div').appendTo($next.find('a'));
+        
+        // make toggling by using hide and show
+        var toggleNext = function(){
+          $next.toggle();
+          $this.toggle();
+          swapNodes($next[0], $this[0]);
+        };
+        $this.find('img').parent('div').mouseenter(toggleNext);
+        $next.find('img').parent('div').mouseleave(toggleNext);
+      }
+    });
+  });
+  
+  function swapNodes(a, b) {
+    if (!a || !b) {
+      console.warn("Some node was null or empty");
+      return;
+    }
+    var aparent = a.parentNode;
+    var asibling = a.nextSibling === b ? a : a.nextSibling;
+    b.parentNode.insertBefore(a, b);
+    aparent.insertBefore(b, asibling);
+  }
+&lt;/script&gt;</code></pre>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/3</link>
+        <pubDate>Sat, 21 Mar 2015 17:18:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-3</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <blockquote>
+              <p>Excellent solution Caue.</p>
+
+<p>I will clear this with the client and then get back with you. Additionally on this same site I want to make the three icons on the top of the "company" page into buttons that change when scrolled over (I would provide you the two image files for each button). This is kind of like that one project we both looked at before (image attached of what I mean by scroll over/changing buttons)</p>
+
+<p>When you have a moment, please let me know the cost of this and we will probably just have you do both projects (the video and the scroll over buttons) at once.</p>
+
+<p>Thanks so much!
+Kate
+<div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/ddfc490828e3a3313c556bb1f647baf8675dced6" href="//talk-cdn.cregox.com/uploads/default/81/353f770d47c294f9.png" class="lightbox" title="image.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/5ab/4f5/e36e592f7b_690x404.png" width="690" height="404"><div class="meta">
+<span class="filename">image.png</span><span class="informations">1205x706 459 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/2</link>
+        <pubDate>Sat, 21 Mar 2015 16:48:25 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-2</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+      <item>
+        <title>Animated GIFs versus videos on background</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/26">Using a gallery instead of the template banner</a>:</p>
+
+<aside class="quote" data-post="26" data-topic="7476" data-full="true"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote>
+<p>what would it take to get a longer loop on my new GIF banner? Right now I can only upload a 5 second GIF to SS it seems-  anything larger than that gets cut off.<br><a href="https://kate-bosse-1pyu.squarespace.com" class="onebox" target="_blank">https://kate-bosse-1pyu.squarespace.com</a></p>
+<p>Would love to know what you would think of for a solution</p>
+</blockquote></aside>
+
+<aside class="quote" data-post="28" data-topic="7476"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote><p>You think there's any way around it? Would it be worth trying javascript to tell the browser to replace these gifs with new ones every 5 seconds after preloading them, so it looks seamless to add in more?</p></blockquote></aside>
+
+<p>I can't think of any good way that would be worth the trouble.</p>
+
+<p>Squarespace <a href="http://help.squarespace.com/guides/how-should-i-format-my-images-for-display-on-the-web">limits images to 20mb</a>, even if GIFs could be much bigger.</p>
+
+<p>For your actually pretty good idea, you'd need at least 2 complicated things done:</p>
+
+<ul>
+<li>Script to precisely change one gif for another. It might be quite hard to sync and it can easily lose sync because there's no control over the gif playback.</li>
+<li>Make the many GIFs properly synced. You probably have the files in video format first.</li>
+</ul>
+
+<p>Maybe the best bet if you want to insist on going GIF would be using a smaller size, even much smaller than 320x200</p>
+
+<p>Meanwhile...</p>
+
+<p>When using a video there's no sync needed and no gif making process. And the script to use the video is also much simpler than a script to properly and quickly change gifs with precision.</p>
+
+<p>I'd say the only real downside on going video is uploading it to vimeo, youtube or some good streaming service.</p>
+
+<aside class="quote" data-post="30" data-topic="7476"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote><p>could you tell me the cost to put up a video instead?</p></blockquote></aside>
+
+<p>That's generally <a href="http://answers.squarespace.com/questions/28211/adding-a-video-background">a tricky question</a>. It could be as simple as less than 1h and just adding this script:</p>
+
+<p></p><pre><code class="lang-auto">&lt;div style="position: fixed; z-index: 1000; width: 100%; height: 100%"&gt;
+&lt;iframe frameborder="0" height="100%" width="100%" 
+src="https://www.youtube.com/embed/aQsy17K84Ls?
+autoplay=1&amp;controls=0&amp;showinfo=0&amp;autohide=1"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;</code></pre>
+
+<p>Or quite complicated, while still being less than 2 hours, such as adding it as a full background with a text overlay on top, as seen <a href="http://gravitymovie.warnerbros.com/">in gravity</a> or <a href="http://www.dynamo6.com/">the one you had</a> for instance.</p>
+
+<p>And then for costs, you know <a href="http://cregox.com/your-home">the drill</a>. As I promised you, I can keep ya on the old table <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/2">up to April 18th</a>. Summing it up, it should cost no more than U$ 84.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501/1</link>
+        <pubDate>Sat, 21 Mar 2015 16:15:22 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7501-1</guid>
+        <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+      </item>
+  </channel>
+</rss>

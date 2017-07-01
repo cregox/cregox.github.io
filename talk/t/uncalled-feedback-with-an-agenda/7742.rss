@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Uncalled feedback with an agenda</title>
+    <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742</link>
+    <description>*(supposed to be a public email, actually. not sure if I&#39;ll ever send it though)*
+
+To: [Chris Nicholson][1], about [his and my answer on quora][2].
+
+In fact, my feedback is just lots of criticism, as I often enjoy doing and then sometimes regret later.
+
+Right off the bat, I think making dl4j makes absolutely no sense from the name and definition: &quot;written for java and scala&quot;. DL should be platform agnostic and, if any one should be chosen, it should be a (much) faster one such as node or python (I won&#39;t get into debate vs assembly or C because they are not as fast considering the whole development stack) because, well, processing speed is crucial for Ai.
+
+Also [I hate paypal&#39;s Ai][3], currently and personally. Paypal have this huge potential to being the world&#39;s bank, and it would be amazing to see it using bitcoins, but it doesn&#39;t seem to be taking it too seriously - in part - because of that Ai. Customer support have not enough levels of depth to help customers when they really need their money. As it is, it&#39;s simply a bank that can&#39;t be trusted and they do say this so if you go deep enough in your needs. Mostly because they are trusting on their Ai to do their security and that Ai is failing enough to hit me hard.
+
+I was initially marked as fraudulent, many times, ended up talking with probably a few of their human detectives, they identified me as legit and told me &quot;There&#39;s nothing we can do. The Ai has the last word and you have to wait for a few days&quot;. That went on for about 2 weeks, and their solution was basically &quot;use your money from elsewhere, sorry&quot;.
+
+As for my agenda...
+
+Despite my bad first impressions on briefly going to both your websites, I sure identify a lot with maybe the most relevant part of your projects, which I&#39;ve [found in one of them][4]:
+
+&gt; open-source, distributed deep-learning library (...) aims to be cutting-edge plug and play, more convention than configuration, which allows for fast prototyping for non-researchers. DL4J is customizable at scale.
+
+That&#39;s mostly what basiux will be or die trying!
+
+
+  [1]: https://www.quora.com/profile/Chris-Nicholson-1
+  [2]: https://www.quora.com/What-is-a-simple-explanation-of-how-artificial-neural-networks-work-1/answer/Caue-Rego
+  [3]: http://www.skymind.io/2015/03/08/how-paypal-uses-deep-learning-and-detective-work-to-fight-fraud/
+  [4]: http://deeplearning4j.org/</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2015 20:35:48 +0000</lastBuildDate>
+    <category>spoilers</category>
+    <atom:link href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Uncalled feedback with an agenda</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><em>(supposed to be a public email, actually. not sure if I'll ever send it though)</em></p>
+
+<p>To: <a href="https://www.quora.com/profile/Chris-Nicholson-1">Chris Nicholson</a>, about <a href="https://www.quora.com/What-is-a-simple-explanation-of-how-artificial-neural-networks-work-1/answer/Caue-Rego">his and my answer on quora</a>.</p>
+
+<p>In fact, my feedback is just lots of criticism, as I often enjoy doing and then sometimes regret later.</p>
+
+<p>Right off the bat, I think making dl4j makes absolutely no sense from the name and definition: "written for java and scala". DL should be platform agnostic and, if any one should be chosen, it should be a (much) faster one such as node or python (I won't get into debate vs assembly or C because they are not as fast considering the whole development stack) because, well, processing speed is crucial for Ai.</p>
+
+<p>Also <a href="http://www.skymind.io/2015/03/08/how-paypal-uses-deep-learning-and-detective-work-to-fight-fraud/">I hate paypal's Ai</a>, currently and personally. Paypal have this huge potential to being the world's bank, and it would be amazing to see it using bitcoins, but it doesn't seem to be taking it too seriously - in part - because of that Ai. Customer support have not enough levels of depth to help customers when they really need their money. As it is, it's simply a bank that can't be trusted and they do say this so if you go deep enough in your needs. Mostly because they are trusting on their Ai to do their security and that Ai is failing enough to hit me hard.</p>
+
+<p>I was initially marked as fraudulent, many times, ended up talking with probably a few of their human detectives, they identified me as legit and told me "There's nothing we can do. The Ai has the last word and you have to wait for a few days". That went on for about 2 weeks, and their solution was basically "use your money from elsewhere, sorry".</p>
+
+<p>As for my agenda...</p>
+
+<p>Despite my bad first impressions on briefly going to both your websites, I sure identify a lot with maybe the most relevant part of your projects, which I've <a href="http://deeplearning4j.org/">found in one of them</a>:</p>
+
+<blockquote><p>open-source, distributed deep-learning library (...) aims to be cutting-edge plug and play, more convention than configuration, which allows for fast prototyping for non-researchers. DL4J is customizable at scale.</p></blockquote>
+
+<p>That's mostly what basiux will be or die trying!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742/1</link>
+        <pubDate>Sun, 01 Nov 2015 20:35:48 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7742-1</guid>
+        <source url="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
+      </item>
+  </channel>
+</rss>

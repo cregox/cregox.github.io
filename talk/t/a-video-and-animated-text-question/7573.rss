@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A video and animated text question</title>
+    <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573</link>
+    <description>Hi, 
+
+Please look at this page: https://clockworkstudio.squarespace.com
+
+I have embedded the video from WISTIA (Wistia.com) based on a tip from Squarefront
+
+&gt;     Step 1: Pick a template with an Index.
+&gt;     Step 2: Add a Gallery to the Index, move it to the top-most page of the folder.
+&gt;     Step 3: Add a &quot;Video&quot; to the Gallery and nothing else.
+&gt;     Step 4: Upload your video to Wistia.com. Embed your video using Wistia.
+
+This solution works ok. But can you make it so when opening a page on tablets and smartphones, this video is disabled and a &quot;static&quot; image with logo is shown?
+
+If you have a better solution to embed video, that does not need the service from Wistia, but have the same capabilities (autoplay on load, loop, not showing any videoplayer controls etc.)
+
+The second request is animated text. There are some lines that should be animated.
+Here is a &quot;demo&quot; which is quite similar what I am looking for: codyhouse.co/demo/animated-headlines/index.html
+The &quot;type&quot; example is nice.
+
+The text that should be animated is:
+1) &quot;produserer over 1500 unike filmer i året&quot;
+2) &quot;5700 sendemastere&quot;
+3) 21 dedikerte medarbeidere&quot;
+4) 2 avdelinger
+5) et stort effektivt internasjonalt nettverk
+6) 1 effektivt studio
+
+The whole sentence should be animated in and out, and we also need the flexibility of changing the sentence.
+
+This animated text should appear on the site (Clockwork), just below &quot;clockwork er norges største og mest effektive reklamefilmstudio&quot;
+
+Can you do this, and what is the estimated time?
+
+Best regards, 
+Tor Martin</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Oct 2015 07:40:32 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Thank you very much <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/63">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/63</link>
+        <pubDate>Fri, 23 Oct 2015 07:40:32 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-63</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Indeed it <strong>looks like</strong> it's something on the script, but not only my fault at all. Their gallery script have something to blame too...</p>
+
+<p>And it's again thanks to that same <code>.sqs-gallery-container</code> script <a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54?u=cregox">there</a>. Just those 4 lines of code mess up the gallery, for whatever reason.</p>
+
+<p>In any case, since I could quickly debug this after finding it, I've just removed them, and <a href="https://github.com/cauerego/cregox-scripts/commit/044996bdb1cb40917e33881196a85ee8e3297272">done the hiding in another way</a>. Hope this will be more "bug" proof in the future! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/62">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/62</link>
+        <pubDate>Thu, 22 Oct 2015 21:47:51 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-62</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi again, </p>
+
+<p>I have some "bugs" on this site caused by one of your script. <a href="https://clockworkstudio.squarespace.com/#produksjoner-cw-section" rel="nofollow">https://clockworkstudio.squarespace.com/#produksjoner-cw-section</a></p>
+
+<p>The gallery should be shown as a 3 x 3 grid, and not as a vertical list. If you resize your browser window, the gallery works nice again.</p>
+
+<p>I asked Squarespace support about this, and they answered:</p>
+
+<p>Hey again Tor,</p>
+
+<p>Thanks for your patience while we took a closer look at this on our end. Let me explain what we found so far.</p>
+
+<p>In this case, it seems one of the code block added into the page content for the 'Folk' page is currently causing this issue. We have been able to reproduce this on one of our test sites. I've attached a video of this for your reference to this email.</p>
+
+<p>That means, removing the code blocks within the site should allow the Summary block to work normally.</p>
+
+<p>Could you please look at your script to see if its interferring with the galley.</p>
+
+<p>Here is a video from squarespace support: <a href="http://we.tl/nzmOJQEbhv" rel="nofollow">http://we.tl/nzmOJQEbhv</a></p>
+
+<p>Thank you in advance.</p>
+
+<p>Tor Martin Norvik</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/61">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/61</link>
+        <pubDate>Thu, 22 Oct 2015 11:40:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-61</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi, </p>
+
+<p>You know, I figured it out. I just forgot the Gallery-block that is below one of your scrips. Now its working nicely.</p>
+
+<p>Have a nice day!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/60">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/60</link>
+        <pubDate>Mon, 28 Sep 2015 18:00:49 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-60</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>You mean <a href="https://github.com/cauerego/cregox-scripts/tree/7c60b23dcc2103a9fc2b3e4f68d738b640605937/squarespace/gallery%20hover%20click%20title">those files already on github</a>?</p>
+
+<p>Sorry, I couldn't quickly find anything too obvious there. I'll try to look again later on.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/59">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/59</link>
+        <pubDate>Mon, 28 Sep 2015 17:26:52 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-59</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi again Caue, </p>
+
+<p>I invited you as an administrator to this page: schjarvenfilm.squarespace.com</p>
+
+<p>It is identical (almost) to clockworkstudio.squarespace.com.</p>
+
+<p>But I cant get the gallery-function that you made to work. I have copied every script, and used the same name on folders and galleries. Could you take a quick peek just to see if there are som obvious errors?</p>
+
+<p>Regards, <br>Tor Martin</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/58">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/58</link>
+        <pubDate>Mon, 28 Sep 2015 13:27:43 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-58</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+
+<p>I am trying to recreate the gallery on another page, and I wonder if you can share the .png files (cross105.png &amp; magnifier52.png)</p>
+
+<p>I reckon I dont need the magnifier, but It could be useful to have.</p>
+
+<p>Thanks in advance!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/57">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/57</link>
+        <pubDate>Mon, 28 Sep 2015 12:40:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-57</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the feedback! Really appreciate it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>In fact my work here is meant to be with any technology. It just happened so far my marketing only brought me squarespace work, by chance. So I haven't really got an opportunity to play much with wordpress recently.</p>
+
+<p>That being said, the way I'm working now, the cost would probably be <em>about the same</em> <code>(*)</code>, but I could take about double the time to adapt. Except...</p>
+
+<p><code>(*)</code> I must now admit one caveat: you were my first paying customer since I raised my price table, and I had had a few requests for a whole month without anyone willing to move forward... So I was eager to please (plus I had some extra time in hands). Meaning it's a price I probably won't be able to keep because it didn't really covered my costs. So, unfortunatelly, I'm <em>still</em> <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/4?u=cawas">struggling</a> on how to make the whole business work.</p>
+
+<p>Right now what I would have done is I'd take the upfront payment, analyze if I had made a proper first judgement, realize I haven't, then charge more to adjust to what I would need to do or give a full refund. And after analyzing, I should either have known it would cost around U$690 (if I properly recall, I don't really keep all my calculations around) or at least have said I wouldn't be able to move forward unless we reached an agreement to "pay as it goes".</p>
+
+<p>And if you're wondering about moving away from squarespace in the future, there's at least one more option to consider:</p>
+
+<aside class="quote" data-post="1" data-topic="6518">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/talk.cregox.com/cawas/40/60.png" class="avatar">
+    <a href="http://talk.cregox.com/t/the-grid-artificial-intelligence-making-web-design/6518">The Grid - Artificial Intelligence making web design</a> <a class="badge-wrapper  bar" href="http://talk.cregox.com/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+  </div>
+  <blockquote>You probably heard of <a href="http://thegrid.io">The Grid</a> by now: 
+
+
+
+<a href="http://startupbeat.com/2015/01/07/the-grid-qa-id4948/">From the CEO</a>: 
+
+
+So basically, you throw content in—images, videos, text—and the output is an elegant website that’s as easy to update as your Facebook page. But it’s constantly evolving and improving itself, trying to figure out the best possible layout—to go beyond what’s possible with drag-and-drop builders. 
+Our technical innovation is in the application of machine learning, constraint solvers and other Computer Science gems to web design. 
+
+
+I've h…
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+
+<p>Anyway, thank you again as well for choosing me! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/56">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/56</link>
+        <pubDate>Tue, 19 May 2015 20:34:41 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-56</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi, <br>Just want to thank you on behalf on my client. They are really happy with the website, and appreciate all the tweaks you have made to the site.</p>
+
+<p>I hope that I can bring you more work in the near future.<br>I´ll end with a bit strange question, but is comes from my client: "how much time and cost will it be to build <strong>exactly</strong> the same page in wordpress? Is that something you could do if this is a road my client want to take?</p>
+
+<p>Only reason for this is that they may want to host it themselves, and not be locked with a proprietary Squarespace solution.</p>
+
+<p>Thanks again for your fast and great service!</p>
+
+<p>Regards, <br>Tor Martin</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/55">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/55</link>
+        <pubDate>Tue, 19 May 2015 20:02:04 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-55</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, it's because of these lines:</p>
+
+<p></p><pre><code class="lang-auto">  .sqs-gallery-container {
+    display: none;
+  }</code></pre>
+
+<p>I've put them there to <em>make sure</em> the galleries for the folks page, that should never be shown, would in fact never show. Then, when all script is done, the very last command line is this, which shows galleries that had nothing to do with it:</p>
+
+<pre><code>    $('.sqs-gallery-container').show();</code></pre>
+
+<p>Since the editor disables the scripts, it never brings the galleries back while on edit mode.</p>
+
+<p>There's little I could do to go around this, if you feel it's needed... That is, short of trying to think of novel ways to achieve that or simply removing this little touch. Most people will probably never notice if the browser even ever renders the gallery. It would only show for a very brief period, which might only happen if I remove that.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54</link>
+        <pubDate>Mon, 18 May 2015 02:05:24 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-54</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>This is looking good now, you have done great. I am going to have a "sit-down" with the client tomorrow to walk through the site. </p>
+
+<p>One little observation though, </p>
+
+<p>Look at the pictures that is at the bottom of the page:<br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/26e13cac860b38c1153054daea8863225c63aea4" href="//talk-cdn.cregox.com/uploads/default/129/6433787356bfd734.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.03.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/79d/f8c/4c7284e7ce_690x293.png" width="690" height="293"><div class="meta">
+<span class="filename">Skjermbilde 2015-05-17 kl. 22.24.03.png</span><span class="informations">1431x608 380 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>And if I go into "edit mode", I cannot longer see the Gallery.<br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/96159964730737477b44014a292af87dd8121707" href="//talk-cdn.cregox.com/uploads/default/130/e8c162255c0974fd.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.23.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/770/638/7a15b8d987_690x375.png" width="690" height="375"><div class="meta">
+<span class="filename">Skjermbilde 2015-05-17 kl. 22.24.23.png</span><span class="informations">1250x680 65.5 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>The "gallery block" is there, but the preview is gone. Do you know why?</p>
+
+<p>Thank you!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/53">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/53</link>
+        <pubDate>Sun, 17 May 2015 20:28:43 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-53</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <ol>
+<li><p>Oh yeah, forgot markdown can't align and we need CSS there. <a href="https://github.com/cauerego/cregox-scripts/commit/7c60b23dcc2103a9fc2b3e4f68d738b640605937">Done</a>.</p></li>
+<li><p>My fault. It's really not working with 2 galleries on the same page. Working on it.<br>And (couple moments later) <a href="https://github.com/cauerego/cregox-scripts/commit/b5d89117041ad3be8da193afe01dc260f6440a4f">done</a>.</p></li>
+</ol>
+
+<p>I've put the main code inside a Code Block on the top of the page, that way it will work only for that page, regardless if you open it <a href="http://clockworkstudio.squarespace.com/folk">directly</a> or inside an <a href="http://clockworkstudio.squarespace.com">index</a>. That code block could go into global Code Injection if you prefer. And now each gallery just need a Code Block like this before them to be activated:</p>
+
+<p></p><pre><code class="lang-auto">&lt;span class="gallery-hover-click" id="gallery-people"&gt;
+  Loading next gallery found below...
+&lt;/span&gt;</code></pre>
+
+<p><em>( The <code>id="gallery-people"</code> there should be unique, but it's not really being used anyway. )</em></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/52">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/52</link>
+        <pubDate>Thu, 14 May 2015 17:18:44 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-52</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>You are doing great work, squashing the bugs <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>Two things:</p>
+
+<p>1) Animated text need to be centered (not left aligned)</p>
+
+<p>Guess the code below does the trick, but I am not sure how to use it correctly.</p>
+
+<blockquote><p>div.sqs-block-content h3, h3#animated {<br>  text-align: center;<br>}</p></blockquote>
+
+<p>2 ) Two people gallery:</p>
+
+<blockquote>
+<p>Another question regarding People Bio. How can I differentiate between employees at Clockwork and employees at Schjærven film?</p>
+<p>You see, there at two lists with people, Clockwork and Schjærven. Could you make a new "people gallery" that has only Schjærven film employees.</p>
+<p>I.e.<br>People gallery Clockwork - only people working at Clockwork</p>
+<p>and</p>
+<p>People galley Schjærven - only people working at Clockwork</p>
+<p>I guess this would need a new code block targeting the new gallery?</p>
+</blockquote>
+
+<p>Could you help me with this?</p>
+
+<p>I think we are close to an end now <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/51">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/51</link>
+        <pubDate>Thu, 14 May 2015 13:27:02 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-51</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>All right, now <a href="https://github.com/cauerego/cregox-scripts/commit/743f848f7d2bec0ddc6cfa126e05d916e45eb0fe">all the text alignment is fixed</a>!</p>
+
+<p>It was a few bad CSS codes sneaking in Code Injection through Styles. And this fix made that last piece of code to align <code>h3</code> there also bad and unnecessary, so I removed it as well.</p>
+
+<p>I hope we're nearing an end here! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/50">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/50</link>
+        <pubDate>Thu, 14 May 2015 03:04:57 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-50</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://github.com/cauerego/cregox-scripts/commit/475b5b268aaea3a000fb346a99d1f697f14f984f">Fixed the issue</a> with using squarespace to write the text... Now we're going to use <a href="http://help.squarespace.com/guides/using-the-markdown-block">markdown</a>! That way there's no mistake or funky HTML sqsp might generate. It is a bit more limited than squarespace regular <a href="http://help.squarespace.com/guides/using-the-text-block">text block</a> in some senses, and it does have more options in other senses. But we can style it more with Custom CSS, such as this one used to align it center:</p>
+
+<p></p><pre><code class="lang-auto">div.sqs-block-content h3, h3#animated {
+  text-align: center;
+}</code></pre>
+
+<p>Also added more text to it and reduced the deletion delay so it's faster, as you asked.</p>
+
+<p>I haven't touched people click alignment, nor have I noticed if it was left aligned before. That's weird. I've added <a href="https://github.com/cauerego/cregox-scripts/commit/c7853b1fdbac07b1e6e15410aa43a06b817e503b">a code to do it</a> anyway.</p>
+
+<p>As for not being able to align anything else other than center (and sometimes right), this isn't happening only on <code>video_sbs</code> at all (a page I've never touched either). It's everywhere! Even on a new page. This is so much weirder than the people click alignment there... But maybe they're related. I tried removing all Custom CSS, which might be causing something, but as expected it wasn't. Quite a new bug to me and I don't think it's related to anything I've done because it looks like it appeared when I wasn't doing anything! In any case, I'll keep on investigating this.  <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+
+<p>And since you've already added everyone into people gallery, I went ahead and changed the one being used before on the main page's gallery block to that one.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/49">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/49</link>
+        <pubDate>Wed, 13 May 2015 23:36:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-49</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>I'm not at my home office now, but I'll check those later today. Squarespace admin doesn't work on mobile, unfortunately.</p>
+
+<p>There should be no problem adding more list of people. The new one I've created the gallery inside the page, so I wasn't using the same gallery. You can, however, create a gallery and just choose it, and it could be the same gallery.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/48">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/48</link>
+        <pubDate>Wed, 13 May 2015 14:25:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-48</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Aha, I see that the newly added people <strong>does show up</strong>, but not under "folk". They appear under "People Click".<br>How can I make sure that they are visible on the "correct" page?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/47">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/47</link>
+        <pubDate>Wed, 13 May 2015 12:51:25 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-47</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>I have also added more people under "people gallery", but none of them shows up.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/46">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/46</link>
+        <pubDate>Wed, 13 May 2015 12:49:05 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-46</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Another question regarding People Bio. How can I differentiate between employees at Clockwork and employees at Schjærven film?</p>
+
+<p>You see, there at two lists with people, Clockwork and Schjærven. Could you make a new "people gallery" that has only Schjærven film employees. </p>
+
+<p>I.e.<br>People gallery Clockwork - only people working at Clockwork</p>
+
+<p>and</p>
+
+<p>People galley Schjærven - only people working at Clockwork</p>
+
+<p>I guess this would need a new code block targeting the new gallery?</p>
+
+<p>Regards, <br>Tor M</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/45">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/45</link>
+        <pubDate>Wed, 13 May 2015 11:36:22 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-45</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hmm, please look at the "video_sbs" located under "produksjoner" in Not linked. It seems that you have done something to make sure that you can't left align normal text? I can left align H3 text, but not normal?</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/44">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/44</link>
+        <pubDate>Wed, 13 May 2015 11:31:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-44</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>I also see that the text that pops up when you click on Andre De Young need to be left aligned. Now its centred.</p>
+
+<p>Thanks <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/43">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/43</link>
+        <pubDate>Wed, 13 May 2015 06:51:41 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-43</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>I am looking at the page through a iPhone and I see that the text animation just based on two sentences?</p>
+
+<p>Could you change it so it begins with clockwork is norges mest effektive reklamestudio" and that stands for 5 seconds, then the rest of the sentences stands in two seconds?</p>
+
+<p>And maybe double the "delete speed"?</p>
+
+<p>Thank you <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/42">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/42</link>
+        <pubDate>Wed, 13 May 2015 05:37:16 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-42</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Here's what's happening with the animated text...</p>
+
+<p>I'm quite surprised to realize squarespace code handling behind the curtains is not quite reliable. Depending on how you write that text you can have many different results.</p>
+
+<p>So, for now, I've just copied the text from the other page, and it's working.</p>
+
+<p>I also tweaked a bit with the script, but that was not the issue at all. The text currently working at studio is not tweaked. But this is: <a href="http://clockworkstudio.squarespace.com/studio-weird-bug">http://clockworkstudio.squarespace.com/studio-weird-bug</a></p>
+
+<p>Trying to explain in short technical terms, the squarespace-generated-code that do work, split each line using <code>&lt;span&gt;</code>. This weird behaviour there, however, is also code generated by squarespace but it contains no <code>&lt;span&gt;</code>. Just <code>&lt;br&gt;</code>, which makes it harder to identify different paragraphs, code wise, for my code to inject text into <em>typed.js</em>.</p>
+
+<p>All that means that to get reliable results we'll probably need to do it in another way because by keeping it this way whenever you modify the text (which you should be able to do) there's a risk it won't work. Even if I'd go ahead and write more code to account for this, I fear there might be even more issues to arise.</p>
+
+<p>Any <a href="http://en.wikipedia.org/wiki/WYSIWYG">wysiwyg</a> code generator have this kind of problem, I just never realized sqsp one did have it this big.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/41">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/41</link>
+        <pubDate>Tue, 12 May 2015 22:58:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-41</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Cool.</p>
+
+<p><a href="http://clockworkstudio.squarespace.com/#folk-section">Done people click for Andre</a>.</p>
+
+<p>Taking a look at studio text animation now... I think that's getting way more buggy than it should be. I can already see it's something related to the previous bug.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/40">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/40</link>
+        <pubDate>Tue, 12 May 2015 22:22:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-40</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+      <item>
+        <title>A video and animated text question</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Yes, lets try <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> I will present the site to the client tomorrow.<br>Can you help me with implementing the people click gallery also? You could just do Andre De Young, I´ll do the rest.</p>
+
+<p>Could you also take another look at the "studio" text animation? I tried to add another sentence, "Clockwork er norges mest effektive reklamestudio^2000" But it would not animate the new sentence, it only respected the "^2000" pause.</p>
+
+<p>And when I removed the sentence, the text animation stopped. I may have messed something up..</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/39">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/39</link>
+        <pubDate>Tue, 12 May 2015 21:58:00 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7573-39</guid>
+        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+      </item>
+  </channel>
+</rss>

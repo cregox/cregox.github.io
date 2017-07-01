@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Focus on mario, forget the rest of universe</title>
+    <link>http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919</link>
+    <description>wow, this is being a long hiatus!
+probably it will still stay like [this](http://talk.cregox.com/t/a-s-i-or-job-hunting/7717/2) for a while. :cry: 
+
+anyway, back to topic.
+
+https://openai-sci-demonstrations.s3.amazonaws.com/site-assets/karpathy/flashgames_6x11.mp4
+*a sample of Universe game environments played by human demonstrators.*
+
+one day before openai newest release [I was officially starting to try getting basiux back up](http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/5?u=cregox). I saw the news and left it on my &quot;read later&quot; list. then, a few hours after replying to mr Stanley there, I finally got to see what [openai universe](https://universe.openai.com/) was all about. and...
+
+yet again, they have a lot of similar aspects from what I want to do / see being done. it surprised me, as I wasn&#39;t expecting they would continue on going through such a related route at all. plus, the work there is **amazing**!
+
+still, and yet again (again), it doesn&#39;t come without its flaws, at least the way I see.
+
+the main issue might also be their biggest win: it&#39;s not easy enough to contribute. you do need to install docker, universe and at least toy with python to get in the boat. of course this easily can prove to be beneficial for their goals or even for basiux as a whole, but I&#39;m pretty positive this is a bad choice for bringing it as soon as possible.
+
+making it so generic and, at the same time, focusing on game learning, doesn&#39;t rub me in a good way as well. it&#39;s a great plan for helping us in figuring out better algorithms, which we still need to do. but not so much for improving a good algorithm or making it grow in the most beneficial way. for all we currently know today, we might already have good enough algorithms and they&#39;d just be lacking a proper tweak along with combined hardware power. if we limit its inputs to keyboard and pixels from games, probably no algorithm today would have enough resources to raise up as a basiux.
+
+and what does all this means to us?
+
+I guess not much.
+
+we still gotta build something to showcase basiux&#39;s value. maybe it can now incorporate this universe, maybe it can&#39;t, doesn&#39;t really matter. if we can&#39;t easily use it, it&#39;ll probably be better to stick with the plan for now: make a hyper neat mariox so anyone can play with it and effortlessly &quot;share Ai benchmarks for transfer learning&quot; (as they put it).
+
+in another hand, if you want to better understand basiux current efforts, well, now we can simply say:
+
+&gt; we want to build a kind of openai universe for any user, focused on making it fun and social
+
+controversially, if this helps us explaining our plan, in itself is already quite a lot! (in opposite to &quot;not much&quot;)
+
+also, maybe [their forums](http://discuss.openai.com/) (also using discourse - regardless of [how &quot;terrible&quot;](http://blog.cregox.com/2015/12/25/new-blog-platform-once-again.html) it is, [we&#39;re still using it](http://talk.cregox.com/t/welcome-to-cregox-talk/6/1) too) can bring us much value as well.
+
+as for the [latest plan about randomness](http://talk.cregox.com/t/true-randomness-app-why-it-could-help-winning-the-lottery-and-building-up-the-basiux/7845?u=cregox), well, it&#39;s obviously too bold of a bet for this stage. hopefully later, supposing it eventually pins out. :)
+
+&lt;small&gt;ps: read [this manifesto](http://talk.cregox.com/t/yeah-im-also-a-progammer/7676) if you&#39;re wondering what happened with my grammar.&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Dec 2016 14:51:31 +0000</lastBuildDate>
+    <category>basiux</category>
+    <atom:link href="http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Focus on mario, forget the rest of universe</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>wow, this is being a long hiatus!<br>probably it will still stay like <a href="http://talk.cregox.com/t/a-s-i-or-job-hunting/7717/2">this</a> for a while. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/cry.png?v=3" title=":cry:" class="emoji" alt=":cry:"> </p>
+
+<p>anyway, back to topic.</p>
+
+<p><video width="100%" height="100%" controls><source src="https://openai-sci-demonstrations.s3.amazonaws.com/site-assets/karpathy/flashgames_6x11.mp4"><a href="https://openai-sci-demonstrations.s3.amazonaws.com/site-assets/karpathy/flashgames_6x11.mp4">https://openai-sci-demonstrations.s3.amazonaws.com/site-assets/karpathy/flashgames_6x11.mp4</a></source></video><br><em>a sample of Universe game environments played by human demonstrators.</em></p>
+
+<p>one day before openai newest release <a href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/5?u=cregox">I was officially starting to try getting basiux back up</a>. I saw the news and left it on my "read later" list. then, a few hours after replying to mr Stanley there, I finally got to see what <a href="https://universe.openai.com/">openai universe</a> was all about. and...</p>
+
+<p>yet again, they have a lot of similar aspects from what I want to do / see being done. it surprised me, as I wasn't expecting they would continue on going through such a related route at all. plus, the work there is <strong>amazing</strong>!</p>
+
+<p>still, and yet again (again), it doesn't come without its flaws, at least the way I see.</p>
+
+<p>the main issue might also be their biggest win: it's not easy enough to contribute. you do need to install docker, universe and at least toy with python to get in the boat. of course this easily can prove to be beneficial for their goals or even for basiux as a whole, but I'm pretty positive this is a bad choice for bringing it as soon as possible.</p>
+
+<p>making it so generic and, at the same time, focusing on game learning, doesn't rub me in a good way as well. it's a great plan for helping us in figuring out better algorithms, which we still need to do. but not so much for improving a good algorithm or making it grow in the most beneficial way. for all we currently know today, we might already have good enough algorithms and they'd just be lacking a proper tweak along with combined hardware power. if we limit its inputs to keyboard and pixels from games, probably no algorithm today would have enough resources to raise up as a basiux.</p>
+
+<p>and what does all this means to us?</p>
+
+<p>I guess not much.</p>
+
+<p>we still gotta build something to showcase basiux's value. maybe it can now incorporate this universe, maybe it can't, doesn't really matter. if we can't easily use it, it'll probably be better to stick with the plan for now: make a hyper neat mariox so anyone can play with it and effortlessly "share Ai benchmarks for transfer learning" (as they put it).</p>
+
+<p>in another hand, if you want to better understand basiux current efforts, well, now we can simply say:</p>
+
+<blockquote><p>we want to build a kind of openai universe for any user, focused on making it fun and social</p></blockquote>
+
+<p>controversially, if this helps us explaining our plan, in itself is already quite a lot! (in opposite to "not much")</p>
+
+<p>also, maybe <a href="http://discuss.openai.com/">their forums</a> (also using discourse - regardless of <a href="http://blog.cregox.com/2015/12/25/new-blog-platform-once-again.html">how "terrible"</a> it is, <a href="http://talk.cregox.com/t/welcome-to-cregox-talk/6/1">we're still using it</a> too) can bring us much value as well.</p>
+
+<p>as for the <a href="http://talk.cregox.com/t/true-randomness-app-why-it-could-help-winning-the-lottery-and-building-up-the-basiux/7845?u=cregox">latest plan about randomness</a>, well, it's obviously too bold of a bet for this stage. hopefully later, supposing it eventually pins out. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+
+<p><small>ps: read <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">this manifesto</a> if you're wondering what happened with my grammar.</small></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919/1</link>
+        <pubDate>Sun, 11 Dec 2016 14:51:31 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7919-1</guid>
+        <source url="http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919.rss">Focus on mario, forget the rest of universe</source>
+      </item>
+  </channel>
+</rss>

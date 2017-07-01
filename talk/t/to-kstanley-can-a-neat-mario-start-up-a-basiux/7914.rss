@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>To kstanley: can a neat mario start up a basiux?</title>
+    <link>http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914</link>
+    <description>hey there Ken,
+
+how are you today?
+
+hope you&#39;re [all right](https://www.youtube.com/watch?v=8qMtsir0l9k)! &lt;small&gt;(sorry-not-sorry for the link)&lt;/small&gt;
+
+and able to eventually read through all this. :P
+
+&gt; (here&#39;s [a suggested background song](https://www.youtube.com/watch?v=RpLBR38kVvY&amp;index=48&amp;list=FL6C8spkdtTX0T8Eput-v9qA), if you will)
+&gt; https://www.youtube.com/watch?v=RpLBR38kVvY&amp;index=48&amp;list=FL6C8spkdtTX0T8Eput-v9qA
+
+---
+
+I&#39;m Caue,  
+a progammer informarticist born in &#39;81 who loves boomerangs and is a college drop out struggling a lot to live by, for over 1 year in portugal now, while trying to learn more about top notch Ai research. coincidentally since I moved here I&#39;ve been wanting to help developing a Benevolent Artificial Super Intelligence User eXperience. ish. on my very small free time.
+
+here&#39;s the NEAT implementation I&#39;m using, which I ported to javascript: [basiux.org/#mariox](http://basiux.org/#mariox) (I now realize I&#39;ll need to actually implement HyperNEAT there)
+
+I _probably_ still got a long way before better understanding it and being able to tweak it at my will or create something out of it. but _then again_, some people thought (and I kinda believed them) I couldn&#39;t do mariox in even 1 year and it took me mostly surprising less than 1 week (because it was &quot;just&quot; about porting it, thanks to Seth). a very inspired and dedicated one (it eventually led me to many life issues, reason why only now, 1 year later, I&#39;m continuing with this project - but those are points to another topic).
+
+and I find it particularly intriguing how nobody could come up with a generic Ai algorithm capable of giving birth to super Ai. and, in all my ignorance, I find NEAT to come the closest to it. funny enough, I luckily found on reddit (which you should have linked on your [NEAT main page](https://www.cs.ucf.edu/~kstanley/neat.html)) that [you believe](https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy6zlns/) we&#39;re very far away from that.
+
+---
+
+anyway,  
+got you a few questions &lt;small&gt;(I actually had other questions in mind before I thought of adding a song background, trying to google for your taste and stumbling upon that reddit, in which you already answered them)&lt;/small&gt;:
+
+- why exactly do you think we&#39;re so far from the singularity? looks like most people deeply researching and working with the top notch algorithms always think that. from my point of view, of someone who worked mostly solo with programming for the past 20 years, I can easily see many ways it could already have happened any time since around the beginning of this century.
+
+- I believe one of the key overlooked aspects of Ai development is randomness and the lack of using better generators for feeding it creativity. now that&#39;s a very far stretched gut feeling, and reason why I ask you, since NEAT relies so much on random data: have you, or do you know of any Ai research actually using true random numbers in large scale and maybe even comparing results with pseudo random?
+
+- could you kindly point me to more people to who I could connect and talk about those topics?
+
+&lt;small&gt;PS for ken: bugs report -&amp;gt; [http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/](http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/) is basically broken and so is [petalz](https://apps.facebook.com/petalzgame/). :(&lt;/small&gt;
+
+&lt;small&gt;PS for readers: I can&#39;t recommend enough [his reddit talk](https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy7ce3c/) if you want to know more about NEAT and [his radio talk](http://www.santaferadiocafe.org/science/2015/03/24/ken-stanley/) about [his book](https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237) if you think tracing objectives is something really important.&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2016 12:15:15 +0000</lastBuildDate>
+    <category>public emails</category>
+    <atom:link href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>To kstanley: can a neat mario start up a basiux?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>those are good insights. thank you! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+
+<p>maybe one of the main points I'm actually trying to evolve here is eventually getting more people interested in doing things like mariox.</p>
+
+<p>just posted <a href="https://groups.yahoo.com/neo/groups/neat/conversations/messages/6703">a random-ish message there</a>. here's a quote:</p>
+
+<blockquote><p>I'd like to get this (mariox) to a point where people want to play with it like a tamagotchi and, with that, we could have a huge network of Ai trainers/players for multiple experiments and faster development of algorithms!</p></blockquote>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/5</link>
+        <pubDate>Sat, 10 Dec 2016 12:15:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7914-5</guid>
+        <source url="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914.rss">To kstanley: can a neat mario start up a basiux?</source>
+      </item>
+      <item>
+        <title>To kstanley: can a neat mario start up a basiux?</title>
+        <dc:creator><![CDATA[@kstanley kstanley]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/kstanley">@kstanley</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="1" data-topic="7914"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
+<blockquote><p>Caue</p></blockquote></aside>
+
+<p>Hi Caue, I liked your javascript NEAT demo in Mario - very nice!  To answer your questions:</p>
+
+<p>Knowing how far we are from the singularity is about knowing what we don't know.  People often are comfortable with knowing what we DO know, but it can be difficult to comprehend what we don't know.  Yet if you gain sufficient experience in a field like AI, you do come to some level of appreciation for what is unknown.  And in the case of intelligence, it's clear at present that the unknown is vast.  What we know right now is likely a tiny sliver of everything we hope to understand.  And when there are many things you don't know, you are looking at a situation where it could take decades for enough brilliant people to aggregate the ideas that it would take to really break through.</p>
+
+<p>People have indeed looked at the rule of randomness in stochastic algorithms, though I am not an expert on it.  You can find some work on this topic through Google.  That said, the question of what is "true" random is pretty complicated and the bigger question is why it matters?  Is only true random sufficient fuel for exploration?  I don't know of a reason that has to be the case.</p>
+
+<p>Regarding more people to talk to, you could join the NEAT Users Group at <a href="https://groups.yahoo.com/neo/groups/neat/info" rel="nofollow">https://groups.yahoo.com/neo/groups/neat/info</a></p>
+
+<p>And thanks for the bug reports!</p>
+
+<p>Best,</p>
+
+<p>ken</p>
+
+<p>Thanks for the bug reports.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/4</link>
+        <pubDate>Thu, 08 Dec 2016 08:17:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7914-4</guid>
+        <source url="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914.rss">To kstanley: can a neat mario start up a basiux?</source>
+      </item>
+      <item>
+        <title>To kstanley: can a neat mario start up a basiux?</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>hey there Ken,</p>
+
+<p>how are you today?</p>
+
+<p>hope you're <a href="https://www.youtube.com/watch?v=8qMtsir0l9k">all right</a>! <small>(sorry-not-sorry for the link)</small></p>
+
+<p>and able to eventually read through all this. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=3" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+
+<blockquote><p>(here's <a href="https://www.youtube.com/watch?v=RpLBR38kVvY&amp;index=48&amp;list=FL6C8spkdtTX0T8Eput-v9qA">a suggested background song</a>, if you will)<br><iframe width="480" height="270" src="https://www.youtube.com/embed/RpLBR38kVvY?feature=oembed&amp;wmode=opaque&amp;list=FL6C8spkdtTX0T8Eput-v9qA" frameborder="0" allowfullscreen></iframe></p></blockquote>
+
+<hr>
+
+<p>I'm Caue,<br>a progammer informarticist born in '81 who loves boomerangs and is a college drop out struggling a lot to live by, for over 1 year in portugal now, while trying to learn more about top notch Ai research. coincidentally since I moved here I've been wanting to help developing a Benevolent Artificial Super Intelligence User eXperience. ish. on my very small free time.</p>
+
+<p>here's the NEAT implementation I'm using, which I ported to javascript: <a href="http://basiux.org/#mariox">basiux.org/#mariox</a> (I now realize I'll need to actually implement HyperNEAT there)</p>
+
+<p>I <em>probably</em> still got a long way before better understanding it and being able to tweak it at my will or create something out of it. but <em>then again</em>, some people thought (and I kinda believed them) I couldn't do mariox in even 1 year and it took me mostly surprising less than 1 week (because it was "just" about porting it, thanks to Seth). a very inspired and dedicated one (it eventually led me to many life issues, reason why only now, 1 year later, I'm continuing with this project - but those are points to another topic).</p>
+
+<p>and I find it particularly intriguing how nobody could come up with a generic Ai algorithm capable of giving birth to super Ai. and, in all my ignorance, I find NEAT to come the closest to it. funny enough, I luckily found on reddit (which you should have linked on your <a href="https://www.cs.ucf.edu/~kstanley/neat.html">NEAT main page</a>) that <a href="https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy6zlns/">you believe</a> we're very far away from that.</p>
+
+<hr>
+
+<p>anyway,<br>got you a few questions <small>(I actually had other questions in mind before I thought of adding a song background, trying to google for your taste and stumbling upon that reddit, in which you already answered them)</small>:</p>
+
+<ul>
+<li><p>why exactly do you think we're so far from the singularity? looks like most people deeply researching and working with the top notch algorithms always think that. from my point of view, of someone who worked mostly solo with programming for the past 20 years, I can easily see many ways it could already have happened any time since around the beginning of this century.</p></li>
+<li><p>I believe one of the key overlooked aspects of Ai development is randomness and the lack of using better generators for feeding it creativity. now that's a very far stretched gut feeling, and reason why I ask you, since NEAT relies so much on random data: have you, or do you know of any Ai research actually using true random numbers in large scale and maybe even comparing results with pseudo random?</p></li>
+<li><p>could you kindly point me to more people to who I could connect and talk about those topics?</p></li>
+</ul>
+
+<p><small>PS for ken: bugs report -&gt; <a href="http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/">http://www.aigameresearch.org/portfolio-item/infinite-tower-defense/</a> is basically broken and so is <a href="https://apps.facebook.com/petalzgame/">petalz</a>. :(</small></p>
+
+<p><small>PS for readers: I can't recommend enough <a href="https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/cy7ce3c/">his reddit talk</a> if you want to know more about NEAT and <a href="http://www.santaferadiocafe.org/science/2015/03/24/ken-stanley/">his radio talk</a> about <a href="https://www.amazon.com/Why-Greatness-Cannot-Planned-Objective/dp/3319155237">his book</a> if you think tracing objectives is something really important.</small></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914/1</link>
+        <pubDate>Sun, 04 Dec 2016 14:29:44 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7914-1</guid>
+        <source url="http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914.rss">To kstanley: can a neat mario start up a basiux?</source>
+      </item>
+  </channel>
+</rss>

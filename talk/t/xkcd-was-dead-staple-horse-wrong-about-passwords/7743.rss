@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Xkcd was dead staple horse wrong about passwords</title>
+    <link>http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743</link>
+    <description># xkcd is freaking awesome!
+
+[I love xkcd](http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595). What&#39;s not to love about [Randall](http://xkcd.com/about/)&#39;s [brilliant work](https://what-if.xkcd.com/)?
+
+&lt;img src=&#39;/uploads/default/original/1X/0d8c458f17313331468cb45f233d38acae2b1262.png&#39;&gt;
+The fan base is so huge, and his witty so obscure, he got [this fanbased site explaining his comics. Do click here to read the very funny Bobby Tables](https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom). At least I think any progammer[*](http://talk.cregox.com/t/yeah-im-also-a-progammer/7676) would find it funny. Certainly you need to know more than a bit about coding software to get it anyway.
+
+# But...
+
+While he does spread very witty and intelligent comments, I should have been more careful about taking his wise words for granted.
+
+---
+
+Authentication in general [have always bothered me](http://talk.cregox.com/t/passwords/7760). So much I just started making a [wiki about this topic](http://talk.cregox.com/t/passwords/7760) (and this is how the cregox&#39;s wiki category was born!).
+
+
+And even today we are still lagging behind finding good ways of properly implementing it with computers. In general, anyway - of course ssh keys have been around for a long time, but *not even* most DevOps use it as often as they should. Or would anyone bother to argue otherwise?
+
+My LastPass security challenge says I&#39;ve got at least 800 sites with some password issue. Digital passwords should be something to worry programmers, not users.
+
+# Digressing some more...
+
+Here&#39;s how all this was brought to my attention:
+
+https://discuss.howtogeek.com/t/u2f-explained-how-google-and-other-huge-companies-are-creating-a-universal-security-token/36946/20?u=cawas
+
+[@wilsontp](https://discuss.howtogeek.com/users/wilsontp)&#39;s message also made me realize the importance of keep changing passwords often even if you have one that you&#39;ll never tell anyone and nobody can guess. A password which is stored somewhere (if it&#39;s digital, it is stored) can be leaked and most likely unscrambled due to our amazing computational power today (which is unfortunately never used to create a strong hash).
+
+Now, allow me to rationalize it a little, because there is a lot more to be said there...
+
+Dictionary attacks are indeed very relevant, even if only when databases are leaked or access to it is easily compromisable, which I&#39;d guess is the case for 99% of all computers. If you have access somehow to whatever the machine uses to check your password against, it is only a matter of computational time to crack the password, and then all your calculations do make sense.
+
+Reason why brute forcing (it is still brute forcing) do make digital passwords mostly an outdated concept adapted from the non-computational world, but... I still think **pass words** can and should still be staple horsed. And free to be a big as you want. Make it a phrase filled with words (harder to have them in dictionaries if it&#39;s complex enough for complexity usually doesn&#39;t organically spread well among humans), or a paragraph. Characters length isn&#39;t the point.
+
+I guess the real point is if you want it to be a ***good*** one it should be one that only you can easily remember.
+
+In my vision of an &quot;ideal world that would be possible today&quot; we would have OS&#39;es which were password managers for everything themselves, only to handle legacy web services that still use passwords (instead of openID and, yes, [I was confusing it with oAuth up to now](http://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth)), so the only place your only password would be stored is locally in your machine (much harder to leak, very easy to set a really strong hash) and you would only need to type it after you lock your machine somehow. It could be easily remotely locked through another machine of yours or by sending in a message with a secondary password to lock. And it could be easily unlocked with U2F, of course. Lost your phone which have no lock? Ask for anyone&#39;s phone to send in an SMS with your lockin code and done. If it has no internet for over 5 minutes or so, auto lock, request your local password.
+
+Maybe the technical aspects of solving this whole thing isn&#39;t really the issue, though.
+
+On a side note, one big still unstated reason I&#39;m in favor of xkcd there is swype - the only keyboard on android that allows you to swype over password fields. Makes typing passwords on smartphone a breeze (unlike with the 127bits ASCII table 16+ digit long pass that I also do use myself).
+
+# My current rule of thumb
+
+Ok, so **&quot;correct horse battery staple&quot; is all wrong.** Then what?
+
+Basically, and ideally, have 1 central place with 1 huge unique passphrase only you can remember, which could go unchanged for a long time, **and 2 factor auth**. Store all your passwords and authentication methods there. That &quot;simple&quot;.
+
+In more detail:
+
+- This should go without saying: use **ssh keys** (or equivalents such as oAuth, openid, etc) always.
+- For *everything else* (which are still most things out there) use at least 1 password manager (mine is LastPass, but 1Password or KeePass are equally fine) and as many **random** characters as possible.
+- By all means, go on using weak / whatever passwords where data won&#39;t matter to you. Keep it practical.
+- Pray for iOS or Android developers to better realize how authentication should be done there.
+
+Not much can be done on mobile today. BioMetrics are just wrong, even that [cardio id](http://www.cardio-id.com/) thing. [There are many smarter approaches](talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689).</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2015 12:07:28 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Xkcd was dead staple horse wrong about passwords</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <h1>xkcd is freaking awesome!</h1>
+
+<p><a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595">I love xkcd</a>. What's not to love about <a href="http://xkcd.com/about/">Randall</a>'s <a href="https://what-if.xkcd.com/">brilliant work</a>?</p>
+
+<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/0d8c458f17313331468cb45f233d38acae2b1262.png" width="440" height="345"><br>The fan base is so huge, and his witty so obscure, he got <a href="https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom">this fanbased site explaining his comics. Do click here to read the very funny Bobby Tables</a>. At least I think any progammer<a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">*</a> would find it funny. Certainly you need to know more than a bit about coding software to get it anyway.</p>
+
+<h1>But...</h1>
+
+<p>While he does spread very witty and intelligent comments, I should have been more careful about taking his wise words for granted.</p>
+
+<hr>
+
+<p>Authentication in general <a href="http://talk.cregox.com/t/passwords/7760">have always bothered me</a>. So much I just started making a <a href="http://talk.cregox.com/t/passwords/7760">wiki about this topic</a> (and this is how the cregox's wiki category was born!).</p>
+
+<p>And even today we are still lagging behind finding good ways of properly implementing it with computers. In general, anyway - of course ssh keys have been around for a long time, but <em>not even</em> most DevOps use it as often as they should. Or would anyone bother to argue otherwise?</p>
+
+<p>My LastPass security challenge says I've got at least 800 sites with some password issue. Digital passwords should be something to worry programmers, not users.</p>
+
+<h1>Digressing some more...</h1>
+
+<p>Here's how all this was brought to my attention:</p>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+    <a href="https://discuss.howtogeek.com/t/u2f-explained-how-google-and-other-huge-companies-are-creating-a-universal-security-token/36946/20?u=cawas">
+      
+      discuss.howtogeek.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    <img src="http://cdn8.howtogeek.com/thumbcache/550/180/7989dcb23154b21158a7c9517e7dc9e3/wp-content/uploads/2015/10/img_562c20e4d3503.jpg" class="thumbnail" width="550" height="180">
+
+<h3><a href="https://discuss.howtogeek.com/t/u2f-explained-how-google-and-other-huge-companies-are-creating-a-universal-security-token/36946/20?u=cawas">U2F Explained: How Google and Other Huge Companies Are Creating a Universal Security Token</a></h3>
+
+<p>Ouch. It's true, and I didn't realize that. I love to stand corrected (even if it does bring me some disturbing thoughts)! [:smile:]   Your message also made me realize the importance of keep changing passwords often even if you have one that you'll never tell anyone and nobody can guess. A password which is stored somewhere (if it's digital, it is stored) can be leaked and most likely unscrambled due to our amazing computational power today (which is unfortunately never used to create a stron...</p>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+
+
+<p><a href="https://discuss.howtogeek.com/users/wilsontp">@wilsontp</a>'s message also made me realize the importance of keep changing passwords often even if you have one that you'll never tell anyone and nobody can guess. A password which is stored somewhere (if it's digital, it is stored) can be leaked and most likely unscrambled due to our amazing computational power today (which is unfortunately never used to create a strong hash).</p>
+
+<p>Now, allow me to rationalize it a little, because there is a lot more to be said there...</p>
+
+<p>Dictionary attacks are indeed very relevant, even if only when databases are leaked or access to it is easily compromisable, which I'd guess is the case for 99% of all computers. If you have access somehow to whatever the machine uses to check your password against, it is only a matter of computational time to crack the password, and then all your calculations do make sense.</p>
+
+<p>Reason why brute forcing (it is still brute forcing) do make digital passwords mostly an outdated concept adapted from the non-computational world, but... I still think <strong>pass words</strong> can and should still be staple horsed. And free to be a big as you want. Make it a phrase filled with words (harder to have them in dictionaries if it's complex enough for complexity usually doesn't organically spread well among humans), or a paragraph. Characters length isn't the point.</p>
+
+<p>I guess the real point is if you want it to be a <strong><em>good</em></strong> one it should be one that only you can easily remember.</p>
+
+<p>In my vision of an "ideal world that would be possible today" we would have OS'es which were password managers for everything themselves, only to handle legacy web services that still use passwords (instead of openID and, yes, <a href="http://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth">I was confusing it with oAuth up to now</a>), so the only place your only password would be stored is locally in your machine (much harder to leak, very easy to set a really strong hash) and you would only need to type it after you lock your machine somehow. It could be easily remotely locked through another machine of yours or by sending in a message with a secondary password to lock. And it could be easily unlocked with U2F, of course. Lost your phone which have no lock? Ask for anyone's phone to send in an SMS with your lockin code and done. If it has no internet for over 5 minutes or so, auto lock, request your local password.</p>
+
+<p>Maybe the technical aspects of solving this whole thing isn't really the issue, though.</p>
+
+<p>On a side note, one big still unstated reason I'm in favor of xkcd there is swype - the only keyboard on android that allows you to swype over password fields. Makes typing passwords on smartphone a breeze (unlike with the 127bits ASCII table 16+ digit long pass that I also do use myself).</p>
+
+<h1>My current rule of thumb</h1>
+
+<p>Ok, so <strong>"correct horse battery staple" is all wrong.</strong> Then what?</p>
+
+<p>Basically, and ideally, have 1 central place with 1 huge unique passphrase only you can remember, which could go unchanged for a long time, <strong>and 2 factor auth</strong>. Store all your passwords and authentication methods there. That "simple".</p>
+
+<p>In more detail:</p>
+
+<ul>
+<li>This should go without saying: use <strong>ssh keys</strong> (or equivalents such as oAuth, openid, etc) always.</li>
+<li>For <em>everything else</em> (which are still most things out there) use at least 1 password manager (mine is LastPass, but 1Password or KeePass are equally fine) and as many <strong>random</strong> characters as possible.</li>
+<li>By all means, go on using weak / whatever passwords where data won't matter to you. Keep it practical.</li>
+<li>Pray for iOS or Android developers to better realize how authentication should be done there.</li>
+</ul>
+
+<p>Not much can be done on mobile today. BioMetrics are just wrong, even that <a href="http://www.cardio-id.com/">cardio id</a> thing. <a>There are many smarter approaches</a>.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743/1</link>
+        <pubDate>Tue, 03 Nov 2015 09:30:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7743-1</guid>
+        <source url="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743.rss">Xkcd was dead staple horse wrong about passwords</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Daniel Cabral&#39;s architect portfolio squarespace issues</title>
+    <link>http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797</link>
+    <description>[quote=&quot;Daniel Cabral&quot;]
+Subject: Help with multiple issues on a Squarespace project
+
+Message: First, a little context: the website is the portfolio for an
+architect. It starts with a cover page that links to the portuguese and the
+english version of the website. The english version is actually a second
+squarespace project, identical to the first and pointing to a subdomain.
+
+The issues I need to fix are the following:
+
+COVER PAGE
+
+- Logo on cover page is not centrally aligned on mobile. It is always a
+little to the right, and depending on the screen size, a lot to the right.
+
+
+SITE IN PORTUGUESE
+
+- The site is not loading properly on mobile (smartphones or ipads). The
+layout is rendered too different from what the template is supposed to look
+like (http://flatiron-demo.squarespace.com/).
+
+- on the page “projetos”, the name of each project is not showing up on top
+of the picture, as it should do.
+
+- On a project’s page, images should occupy the whole screen, but are
+actually rather small and aligned to the right. In some smartphones, the
+images simply don’t load.
+
+
+SITE IN ENGLISH
+
+- For some reason, it seems like on mobile devices, the website is not
+loading the same visual template as the portuguese site.
+
+- On a project’s page, images should occupy the whole screen, but are
+actually rather small and aligned to the right. In some smartphones, the
+images simply don’t load.
+
+- The website is supposed to appear under the subdomain
+“english.semerene.com”, but it is not working very well. If I click in any
+link, even for another website, it keeps showing on the URL address the
+same “english.semerene.com”. Try clicking on the logo, for example. It
+leads you to the same page hosted on “semerene.com”, but the address bar
+shows “english.semerene.com”.
+
+
+INSTAGRAM BLOCK
+
+- On page “diario visual” or “visual journal”: for some reason, there is a
+“hole” on the grid of instagram images.
+[/quote]
+
+&lt;small&gt;&quot;post can&#39;t be empty&quot; due to discourse bug. message to be removed&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Jan 2016 14:07:04 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Daniel Cabral&#39;s architect portfolio squarespace issues</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Dear Daniel, </p>
+
+<p>It just so happen I'm in between jobs right now or else I would simply say I couldn't take this gig. Also I don't do this kind of work since June past year for many reasons I've already talked about.</p>
+
+<p>So, before I even try to analyze anything here I want to ask you:</p>
+
+<ul>
+<li><p>Have you read <a href="http://www.cregox.com/your-home">the (discontinued) "your home" page</a>?</p></li>
+<li><p>Given the number of issues alone, this will be at least a 1 day project, at U$984. Should we proceed talking business?</p></li>
+</ul>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797/2</link>
+        <pubDate>Mon, 11 Jan 2016 14:07:04 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7797-2</guid>
+        <source url="http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797.rss">Daniel Cabral&#39;s architect portfolio squarespace issues</source>
+      </item>
+      <item>
+        <title>Daniel Cabral&#39;s architect portfolio squarespace issues</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>Daniel Cabral:</div>
+<blockquote>
+<p>Subject: Help with multiple issues on a Squarespace project</p>
+<p>Message: First, a little context: the website is the portfolio for an<br>architect. It starts with a cover page that links to the portuguese and the<br>english version of the website. The english version is actually a second<br>squarespace project, identical to the first and pointing to a subdomain.</p>
+<p>The issues I need to fix are the following:</p>
+<p>COVER PAGE</p>
+<p>- Logo on cover page is not centrally aligned on mobile. It is always a<br>little to the right, and depending on the screen size, a lot to the right.</p>
+<p>SITE IN PORTUGUESE</p>
+<p>- The site is not loading properly on mobile (smartphones or ipads). The<br>layout is rendered too different from what the template is supposed to look<br>like (http://flatiron-demo.squarespace.com/).</p>
+<p>- on the page “projetos”, the name of each project is not showing up on top<br>of the picture, as it should do.</p>
+<p>- On a project’s page, images should occupy the whole screen, but are<br>actually rather small and aligned to the right. In some smartphones, the<br>images simply don’t load.</p>
+<p>SITE IN ENGLISH</p>
+<p>- For some reason, it seems like on mobile devices, the website is not<br>loading the same visual template as the portuguese site.</p>
+<p>- On a project’s page, images should occupy the whole screen, but are<br>actually rather small and aligned to the right. In some smartphones, the<br>images simply don’t load.</p>
+<p>- The website is supposed to appear under the subdomain<br>“english.semerene.com”, but it is not working very well. If I click in any<br>link, even for another website, it keeps showing on the URL address the<br>same “english.semerene.com”. Try clicking on the logo, for example. It<br>leads you to the same page hosted on “semerene.com”, but the address bar<br>shows “english.semerene.com”.</p>
+<p>INSTAGRAM BLOCK</p>
+<p>- On page “diario visual” or “visual journal”: for some reason, there is a<br>“hole” on the grid of instagram images.</p>
+</blockquote></aside>
+
+<p><small>"post can't be empty" due to discourse bug. message to be removed</small></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797/1</link>
+        <pubDate>Mon, 11 Jan 2016 00:25:02 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7797-1</guid>
+        <source url="http://talk.cregox.com/t/daniel-cabrals-architect-portfolio-squarespace-issues/7797.rss">Daniel Cabral&#39;s architect portfolio squarespace issues</source>
+      </item>
+  </channel>
+</rss>

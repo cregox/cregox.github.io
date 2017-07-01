@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Video play button on homepage</title>
+    <link>http://talk.cregox.com/t/video-play-button-on-homepage/7651</link>
+    <description>[quote]
+Hi Caue,
+
+Do you have or can you create a code for a video play button on a home page
+like this: https://www.bigcartel.com/
+
+Thanks in advance.
+
+Jan-Paul
+
+(Sent via cregox &lt;http://www.cregox.com&gt; )
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jun 2015 14:52:42 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/video-play-button-on-homepage/7651.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Video play button on homepage</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, sure can do. I've got a lot of video handling requests so, depending on the very specifics of what you want, you may be able to use one of the two codes I ended up refining:</p>
+
+<ul>
+<li><a href="http://www.cregox.com/full-video/">http://www.cregox.com/full-video/</a></li>
+<li><a href="http://www.cregox.com/bg-video/">http://www.cregox.com/bg-video/</a></li>
+</ul>
+
+<p>It'd be easy enough to mix those two up together.</p>
+
+<p>What you won't find there is that minimalistic video playback control, which would be very difficult to do. Even having any video playback control <strong>and</strong> such a fullscreen video might be currently impossible, unless we'd host the video somewhere proprietary. But <a href="http://help.squarespace.com/guides/using-the-video-block">squarespace can't host videos</a>, so it will depend if that's your case or not (I'm just assuming you're probably using squarespace because 100% of my clients so far were there).</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/video-play-button-on-homepage/7651/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/video-play-button-on-homepage/7651/2</link>
+        <pubDate>Mon, 29 Jun 2015 14:52:42 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7651-2</guid>
+        <source url="http://talk.cregox.com/t/video-play-button-on-homepage/7651.rss">Video play button on homepage</source>
+      </item>
+      <item>
+        <title>Video play button on homepage</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi Caue,</p>
+<p>Do you have or can you create a code for a video play button on a home page<br>like this: <a href="https://www.bigcartel.com/">https://www.bigcartel.com/</a></p>
+<p>Thanks in advance.</p>
+<p>Jan-Paul</p>
+<p>(Sent via cregox <a href="http://www.cregox.com">http://www.cregox.com</a> )</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/video-play-button-on-homepage/7651/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/video-play-button-on-homepage/7651/1</link>
+        <pubDate>Sat, 27 Jun 2015 09:45:40 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7651-1</guid>
+        <source url="http://talk.cregox.com/t/video-play-button-on-homepage/7651.rss">Video play button on homepage</source>
+      </item>
+  </channel>
+</rss>

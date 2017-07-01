@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</title>
+    <link>http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584</link>
+    <description>[quote=&quot;outstyledonline@gmail.com&quot;]
+Hi Caue
+
+I’m not sure I understand, can you add pagination? If so, how would it function? Older/newer buttons? Numbered pages?
+
+I have seen those answers before but do not know how to implement the code. I also don’t really know if it will work. Are you suggesting I add it myself?
+
+Thanks,
+Cass
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 May 2015 04:08:14 +0000</lastBuildDate>
+    <category>uncategorized</category>
+    <atom:link href="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>I moved a post to an existing topic: <a href="http://talk.cregox.com/t/pagination-for-shop-page-and-pages-width/7581">Pagination for shop page and pages width</a></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584/2</link>
+        <pubDate>Sun, 03 May 2015 13:30:44 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7584-2</guid>
+        <source url="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584.rss">Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</source>
+      </item>
+      <item>
+        <title>Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>outstyledonline@gmail.com:</div>
+<blockquote>
+<p>Hi Caue</p>
+<p>I’m not sure I understand, can you add pagination? If so, how would it function? Older/newer buttons? Numbered pages?</p>
+<p>I have seen those answers before but do not know how to implement the code. I also don’t really know if it will work. Are you suggesting I add it myself?</p>
+<p>Thanks,
+Cass</p>
+</blockquote></aside>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584/1</link>
+        <pubDate>Sun, 03 May 2015 04:08:14 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7584-1</guid>
+        <source url="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584.rss">Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</source>
+      </item>
+  </channel>
+</rss>

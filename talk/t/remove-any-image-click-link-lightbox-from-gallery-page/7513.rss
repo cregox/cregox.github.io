@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Remove any image click / link / lightbox from gallery page</title>
+    <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513</link>
+    <description>[quote=&quot;no-reply@squarespace.com&quot;]
+Name: Tjaart Lehmacher
+
+Email Address: tjaart@helpingbrands.care
+
+Subject: Custom coding assistance with a Squarespace site required, please
+
+Message: Caue,
+
+As you can see from this email&#39;s subject I&#39;m in need of some custom CSS
+support and here&#39;s hoping you will be able to come to my aid.
+
+I have chosen the Wexley template for my Squarespace site and there&#39;s a
+couple of changes I would like to make on this template however I don&#39;t
+have ANY coding experience whatsoever. I&#39;ve asked the following question on
+the Squarespace Answers forum with no luck so far and I&#39;m amazed that no
+one their can support me with this because I don&#39;t feel that this one
+change presents itself as a worthy challenge for someone to resolve with
+CSS knowledge.
+
+Anyway, here&#39;s the one question:
+
+How do I disable the lightbox slideshow feature in the Wexley template&#39;s
+gallery grid with custom CSS?
+
+In other words one would NOT be able to click on any image (b/w teen
+photos) in the gallery grid (to open a lightbox slideshow) I want the
+images on the home page&#39;s gallery to display as is in the grid only without
+them being clickable – I want the images to display-only WITHOUT the
+clickthrough to the lightbox.
+
+My site&#39;s URL (which is still a work-in-progress): helpingbrands.care
+
+On the forum I was able to find some code suggestions similar to my
+predicament which I had to customise somewhat to fit my site however with
+no coding knowledge, no luck was on the horizon. Have a look at:
+
+http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block
+
+And:
+
+http://answers.squarespace.com/questions/35218/disable-grid-views-lightbox
+
+Anyway, here&#39;s hoping you can help me.
+
+With optimism.
+Tjaart L.
+
+PS. There could be more custom CSS I might require with this site and I
+have no problem remunerating you for your time.
+
+(Sent via cregox &lt;http://www.cregox.com&gt; )
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 May 2015 19:47:23 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@chadnitschke Chad Nitschke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/chadnitschke">@chadnitschke</a> wrote:</p>
+          <blockquote>
+              <p>Brilliant, it worked -- thanks a million!  Let me know if I there is
+anything I can do to return the favor --</p>
+
+<p><em>US</em>: <em>+1 (415) 662.8586</em> (<em>Please note, this number has recently changed</em>)
+<em>Ireland</em>: <em>+353 (83) 480.1680</em></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/10</link>
+        <pubDate>Wed, 06 May 2015 19:47:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-10</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>You should try it then.</p>
+
+<p>For any code you try, worst case that can happen is you add the code, something gets broken, you remove the code. Probably nothing will happen, though. As for the code in this page, I can guarantee you it can <strong>not</strong> break anything.</p>
+
+<p>But, from what I can see, I don't think it will work without customizing it for your page indeed. Here's my shot at it:</p>
+
+<p></p><pre><code class="lang-auto">div.summary-block-collection-type-gallery div.summary-item-list div.summary-item {
+  cursor: default;
+  pointer-events: none;
+}</code></pre>
+
+<p>You see, finding out that specific set of CSS rules, the selectors, for your page, is just about learning how to use the very basic things of Inspector, in (almost) any desktop browser.</p>
+
+<p>Here's a how to for that, which I found on first hit from google <code>inspector how to find css selector</code>:</p>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+    <a href="https://dailypost.wordpress.com/2013/07/25/css-selectors/">
+      dailypost.wordpress.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://dailypost.files.wordpress.com/2013/06/coffee.jpg?w=1200" class="thumbnail" width="104" height="96">
+
+<h3><a href="https://dailypost.wordpress.com/2013/07/25/css-selectors/">An Intro to CSS: Finding CSS&amp;nbsp;Selectors</a></h3>
+
+<p></p>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+
+
+<p>If that works for you, lucky you I got it on the first shot (like I did for <a class="mention" href="/users/tjaart">@tjaart</a>) <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/9">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/9</link>
+        <pubDate>Wed, 06 May 2015 19:07:29 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-9</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@chadnitschke Chad Nitschke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/chadnitschke">@chadnitschke</a> wrote:</p>
+          <blockquote>
+              <p>Thank you!  My site is Insure.VC.  I'm trying to shut the links off on both
+pages - '<em>About Us</em>' and '<em>Portfolio</em>'.  Those are the only two places I've
+used gallery/lightbox.  Any help is hugely appreciated.  I actually haven't
+tried inserting any code yet -- was a little cautious about doing so as I
+wanted to be sure I was doing it correctly first.</p>
+
+<p>Chad</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/8</link>
+        <pubDate>Wed, 06 May 2015 07:07:31 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-8</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Hi <a class="mention" href="/users/chadnitschke">@chadnitschke</a>, and welcome!</p>
+
+<p>Usually codes need to be tailored a lot and if just copying it from here didn't work, there's a chance that's the case.</p>
+
+<p>Another thing that could have gone wrong is if you haven't added it to a right place. There are few places you could add it without anything extra, such as <a href="http://help.squarespace.com/guides/using-the-css-editor">Custom CSS</a> and a <a href="http://help.squarespace.com/guides/using-the-code-block#toc-add-html-code-to-display-content">Code Block (if you change the display content to CSS)</a>.</p>
+
+<p>It will be easier to analyze if you post a link to your website.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/7</link>
+        <pubDate>Tue, 05 May 2015 23:05:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-7</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@chadnitschke Chad Nitschke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/chadnitschke">@chadnitschke</a> wrote:</p>
+          <blockquote>
+              <p>I'm interested in this fix as well, but wasn't sure if I insert the code exactly as it was presented in this thread, or if it needed to be tailored to my pages?  Any help?  Similar to the initial request, I'm just looking to turn off the links entirely from the lightbox/gallery page - so users wouldn't be able to click on the image or text.  Any help is hugely appreciated - thanks!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/6</link>
+        <pubDate>Tue, 05 May 2015 21:47:29 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-6</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>I'm interested, of course! All steps on how I work are listed on <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> - basically I need you to do what you just did: ask providing as much details (such as the great research you did, eventhough that much wasn't necessary) as possible.</p>
+
+<p>Glad you could find the pay button. I had also linked it on my post, and I'd link it again here if you didn't... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>But you know what would've help me so much more? If you could indicate me to your marketing specialist. I'm in high needs of improving mine, as I had to fire myself from that role. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sweat.png?v=0" title=":sweat:" class="emoji" alt="sweat" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/5</link>
+        <pubDate>Wed, 01 Apr 2015 13:59:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-5</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@tjaart tjaart]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tjaart">@tjaart</a> wrote:</p>
+          <blockquote>
+              <p>Caue, I noticed the 'Pay' button at the top of this page and donated $25.</p>
+
+<p>I've picked up one-or-two more amendments I would like to make in my website's Wexley template, would you be interested?</p>
+
+<p>THANKS AGAIN!</p>
+
+<p>With optimism.<br>Tjaart L.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/4</link>
+        <pubDate>Wed, 01 Apr 2015 13:25:08 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-4</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@tjaart tjaart]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tjaart">@tjaart</a> wrote:</p>
+          <blockquote>
+              <p>Caue, </p>
+
+<p>First, thanks a mil, for getting back to me...</p>
+
+<p>Dude, you rock, it worked!</p>
+
+<p>How do I make right with you? I mean, I live in SA, how can I pay you? Banking details and such?</p>
+
+<p>There's one-or-two more issues I've picked up in the Wexley template would you be interested?</p>
+
+<p>With optimism.<br>Tjaart L.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/3</link>
+        <pubDate>Wed, 01 Apr 2015 12:42:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-3</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>You're right, it is quite simple indeed.</p>
+
+<p>Here's how I've solved it in a few minutes:</p>
+
+<p>Googled for "<em>css disable click</em>" and found:</p>
+
+<aside class="onebox stackexchange">
+  <header class="source">
+    <a href="http://stackoverflow.com/questions/2091168/disable-a-link-using-css">
+      stackoverflow.com
+    </a>
+  </header>
+  <article class="onebox-body">
+      <a href="http://stackoverflow.com/users/250470/rsk" target="_blank">
+    <img alt="RSK" src="https://www.gravatar.com/avatar/2e844d88873b759f691242276c7b58d7?s=128&amp;d=identicon&amp;r=PG" class="thumbnail" width="128" height="128">
+  </a>
+<h4>
+  <a href="http://stackoverflow.com/questions/2091168/disable-a-link-using-css" target="_blank">Disable a link using css</a>
+</h4>
+
+<div class="date">
+  asked by <a href="http://stackoverflow.com/users/250470/rsk" target="_blank">
+    RSK
+  </a>
+  on <a href="http://stackoverflow.com/questions/2091168/disable-a-link-using-css" target="_blank">04:55AM - 19 Jan 10</a>
+</div>
+
+<div>
+  <strong>html, css</strong>
+</div>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+
+
+<p>Which basically confirms your second link's idea. I don't like how he solved it using collection ID though, that doesn't seem right.</p>
+
+<p>Then use Inspector to find where's the click event on your page. Can't really teach this in a few lines, although I could have gone finding a link for you about it (short time right now).</p>
+
+<p>Finally make a very specific CSS to it, and there's no need of <code>!important</code>:</p>
+
+<p></p><pre><code class="lang-auto">body.collection-type-gallery section#page div.thumb-list span.thumb {
+  cursor: default;
+  pointer-events: none;
+}</code></pre>
+
+<p>Since you've mentioned "remunerating" and if this did help you, I do appreciate any <a href="http://cregox.com/pay">contributions</a>. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/2</link>
+        <pubDate>Wed, 01 Apr 2015 12:30:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-2</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+      <item>
+        <title>Remove any image click / link / lightbox from gallery page</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>no-reply@squarespace.com:</div>
+<blockquote>
+<p>Name: Tjaart Lehmacher</p>
+<p>Email Address: tjaart@helpingbrands.care</p>
+<p>Subject: Custom coding assistance with a Squarespace site required, please</p>
+<p>Message: Caue,</p>
+<p>As you can see from this email's subject I'm in need of some custom CSS<br>support and here's hoping you will be able to come to my aid.</p>
+<p>I have chosen the Wexley template for my Squarespace site and there's a<br>couple of changes I would like to make on this template however I don't<br>have ANY coding experience whatsoever. I've asked the following question on<br>the Squarespace Answers forum with no luck so far and I'm amazed that no<br>one their can support me with this because I don't feel that this one<br>change presents itself as a worthy challenge for someone to resolve with<br>CSS knowledge.</p>
+<p>Anyway, here's the one question:</p>
+<p>How do I disable the lightbox slideshow feature in the Wexley template's<br>gallery grid with custom CSS?</p>
+<p>In other words one would NOT be able to click on any image (b/w teen<br>photos) in the gallery grid (to open a lightbox slideshow) I want the<br>images on the home page's gallery to display as is in the grid only without<br>them being clickable – I want the images to display-only WITHOUT the<br>clickthrough to the lightbox.</p>
+<p>My site's URL (which is still a work-in-progress): helpingbrands.care</p>
+<p>On the forum I was able to find some code suggestions similar to my<br>predicament which I had to customise somewhat to fit my site however with<br>no coding knowledge, no luck was on the horizon. Have a look at:</p>
+<p><a href="http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block" class="onebox" target="_blank">http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block</a></p>
+<p>And:</p>
+<p><a href="http://answers.squarespace.com/questions/35218/disable-grid-views-lightbox" class="onebox" target="_blank">http://answers.squarespace.com/questions/35218/disable-grid-views-lightbox</a></p>
+<p>Anyway, here's hoping you can help me.</p>
+<p>With optimism.<br>Tjaart L.</p>
+<p>PS. There could be more custom CSS I might require with this site and I<br>have no problem remunerating you for your time.</p>
+<p>(Sent via cregox <a href="http://www.cregox.com">http://www.cregox.com</a> )</p>
+</blockquote></aside>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513/1</link>
+        <pubDate>Wed, 01 Apr 2015 07:27:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7513-1</guid>
+        <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+      </item>
+  </channel>
+</rss>

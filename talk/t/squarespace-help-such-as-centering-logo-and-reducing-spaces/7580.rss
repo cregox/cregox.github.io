@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Squarespace Help such as Centering Logo and Reducing Spaces</title>
+    <link>http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580</link>
+    <description>[quote]
+Hi!  I run a small web design company using Squarespace templates and found
+you when looking for Squarespace specialists.
+
+I am looking for a developer who can help me institute features that aren&#39;t
+standard on Squarespace templates.  For example, 2 things I&#39;d like help
+with are:
+
++ How to center the logo in the Bedford template, with page links on either
+side, like the Pacific Template &lt;http://pacific-demo.squarespace.com&gt;.
+
++How to reduce spaces between images, so they can be closer together, like
+the social media icons attached below.  (The first image is the site, and
+the second is how I&#39;d like the social media icons arranged.  Squarespace
+automatically pads the images so you can&#39;t get them closer to each other
+and I need to find a way around this.)
+
+Are you available to take on this kind of work?
+
+Ideally, it would be a working relationship where I could use your
+development expertise, and occasionally even refer you clients for more
+complicated projects.
+
+Thank you so much and hope to hear from you!
+
+Courtney
+[/quote]
+&lt;img src=&#39;/uploads/default/98/b03311679090587c.png&#39; width=&#39;690&#39; height=&#39;441&#39;&gt;
+
+&lt;img src=&#39;/uploads/default/99/255c84b825166c01.png&#39; width=&#39;690&#39; height=&#39;142&#39;&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 May 2015 22:12:31 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Squarespace Help such as Centering Logo and Reducing Spaces</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Hey Courtney, thanks for getting in touch! I'm sure available for this kind of work and specially the more complicated ones. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"> If you haven't, please do read <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a></p>
+
+<p>I'm not sure what you mean by "page links on either side". On <a href="http://pacific-demo.squarespace.com/">Pacific</a> I can see just page links centered right below the logo: </p>
+
+<a href="https://dl.dropboxusercontent.com/s/45p5vtow9ct6jii/Screenshot%202015-05-01%2018.44.14.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/45p5vtow9ct6jii/Screenshot%202015-05-01%2018.44.14.png?dl=0" width="690" height="178"></a>
+
+<p>That is something <a href="https://css-tricks.com/centering-css-complete-guide/">quite simple</a> to do. Maybe as simple as this (works in my end):</p>
+
+<p></p><pre><code class="lang-auto">h1.site-title {
+  display: table-caption;
+  text-align: center;
+  width: inherit;
+}
+#desktopNav ul {
+  text-align: center;
+}</code></pre>
+
+<p>But if you mean something like what happens on some <a href="http://squarespace.com/templates/?q=fulton">Fulton</a> sites, for instance:</p>
+
+<a href="https://dl.dropboxusercontent.com/s/i1bwb7xbuj9rwfg/Screenshot%202015-05-01%2018.48.47.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/i1bwb7xbuj9rwfg/Screenshot%202015-05-01%2018.48.47.png?dl=0" width="504" height="117"></a>
+
+<p>Then it can be very tricky, but certainly still possible. <em>Anything</em> that's just tweaking the layout like this (as opposed as to adding elements) is possible.</p>
+
+<p>And so, as for "reducing spaces between images", it would probably be something also as <em>simple</em> as tweaking on the CSS. For instance, maybe something like this could help (it would work on my site):</p>
+
+<p></p><pre><code class="lang-auto">nav.sqs-svg-icon--list {
+  a.sqs-svg-icon--wrapper {
+    margin-right: 1em !important;
+  }
+}</code></pre>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580/2</link>
+        <pubDate>Fri, 01 May 2015 22:12:31 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7580-2</guid>
+        <source url="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580.rss">Squarespace Help such as Centering Logo and Reducing Spaces</source>
+      </item>
+      <item>
+        <title>Squarespace Help such as Centering Logo and Reducing Spaces</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi!  I run a small web design company using Squarespace templates and found<br>you when looking for Squarespace specialists.</p>
+<p>I am looking for a developer who can help me institute features that aren't<br>standard on Squarespace templates.  For example, 2 things I'd like help<br>with are:</p>
+<p>+ How to center the logo in the Bedford template, with page links on either<br>side, like the Pacific Template <a href="http://pacific-demo.squarespace.com">http://pacific-demo.squarespace.com</a>.</p>
+<p>+How to reduce spaces between images, so they can be closer together, like<br>the social media icons attached below.  (The first image is the site, and<br>the second is how I'd like the social media icons arranged.  Squarespace<br>automatically pads the images so you can't get them closer to each other<br>and I need to find a way around this.)</p>
+<p>Are you available to take on this kind of work?</p>
+<p>Ideally, it would be a working relationship where I could use your<br>development expertise, and occasionally even refer you clients for more<br>complicated projects.</p>
+<p>Thank you so much and hope to hear from you!</p>
+<p>Courtney</p>
+</blockquote></aside></p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/7485a2f5b2f45093c9b53f98f2aa159da3de297a" href="//talk-cdn.cregox.com/uploads/default/98/b03311679090587c.png" class="lightbox" title="Screen Shot 2015-04-29 at 1.36.37 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/ac9/043/ffb6aadd7e_690x441.png" width="690" height="441"><div class="meta">
+<span class="filename">Screen Shot 2015-04-29 at 1.36.37 PM.png</span><span class="informations">1705x1092 1010 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/b608bc2ab1df340fd149bff47bba6d3c6820db07" href="//talk-cdn.cregox.com/uploads/default/99/255c84b825166c01.png" class="lightbox" title="Screen Shot 2015-04-28 at 6.28.26 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/ac6/2c2/1bce960db0_690x142.png" width="690" height="142"><div class="meta">
+<span class="filename">Screen Shot 2015-04-28 at 6.28.26 PM.png</span><span class="informations">1063x220 581 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580/1</link>
+        <pubDate>Fri, 01 May 2015 14:06:47 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7580-1</guid>
+        <source url="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580.rss">Squarespace Help such as Centering Logo and Reducing Spaces</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>(2009 oct) File copy</title>
+    <link>http://talk.cregox.com/t/2009-oct-file-copy/7524</link>
+    <description>
+&lt;div&gt;&lt;div&gt;Computers have the distinct ability to keep information, not losing a tiny bit (or byte) of it. At least of what it can record, or recognize. A photo image is unique when printed in a piece of paper, or in a film. It has way more information than any single computer could save in a file. But, most of it doesn&#39;t matter to our eyes anyway and so just a little part of it is enough to store, and reproduce, and keep it recognizable for us.&lt;p&gt;To be able to do what I believe they do best, and store information for fast and fine tuned recovery, computers need to copy files. Make backups, spread the same info all over to make it redundant and therefore safe from losing.&lt;/p&gt;
+&lt;p&gt;This post is a question for every developer out there: why keep making copy applications based in anything else than &lt;a href=&quot;http://en.wikipedia.org/wiki/Rsync&quot;&gt;rsync&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Still today, decades after computers started doing their thing, copying files is a hassle! Slow, conflicting, and untrusted whenever I try to copy anything that may take more than 10 seconds, from any given point A to point B, be it inside my own hard disk, to a pen drive, over the air, through the internet, etc, I will eventually get a corrupted file, a broken connection, or just unexplained slowness where there should be none.&lt;/p&gt;
+&lt;p&gt;Nothing of that ever happened when I&#39;ve used rsync.&lt;/p&gt;
+&lt;p&gt;And it can be used for any kind of file copying. If a connection is broken, you can just continue from where it stopped, auto-magically. It never slows down for no reason, in fact you can choose to auto-compress files just to go through a slow connection a lot faster, using processor capabilities from both sides, which is a breeze for any PC/mac nowadays.&lt;/p&gt;
+&lt;p&gt;There&#39;s just one problem... There&#39;s no simple and good interface for it yet! The only one that works fine is the command line, and it&#39;s more limited than it could. It gets hard when you want to copy more than just one file or directory/folder.&lt;/p&gt;
+&lt;p&gt;So why, oh why even today is still so hard to just copy a file? Seems like computers may still have a long way to go.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;small&gt;This is a companion discussion topic for the original entry at &lt;a href=&quot;http://www.cregox.com/blog/2009/10/file-copy.html&quot;&gt;http://www.cregox.com/blog/2009/10/file-copy.html&lt;/a&gt;&lt;/small&gt;</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Apr 2015 23:32:54 +0000</lastBuildDate>
+    <category>blog</category>
+    <atom:link href="http://talk.cregox.com/t/2009-oct-file-copy/7524.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>(2009 oct) File copy</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              
+<div><div>Computers have the distinct ability to keep information, not losing a tiny bit (or byte) of it. At least of what it can record, or recognize. A photo image is unique when printed in a piece of paper, or in a film. It has way more information than any single computer could save in a file. But, most of it doesn't matter to our eyes anyway and so just a little part of it is enough to store, and reproduce, and keep it recognizable for us.<p>To be able to do what I believe they do best, and store information for fast and fine tuned recovery, computers need to copy files. Make backups, spread the same info all over to make it redundant and therefore safe from losing.</p>
+<p>This post is a question for every developer out there: why keep making copy applications based in anything else than <a href="http://en.wikipedia.org/wiki/Rsync">rsync</a>?</p>
+<p>Still today, decades after computers started doing their thing, copying files is a hassle! Slow, conflicting, and untrusted whenever I try to copy anything that may take more than 10 seconds, from any given point A to point B, be it inside my own hard disk, to a pen drive, over the air, through the internet, etc, I will eventually get a corrupted file, a broken connection, or just unexplained slowness where there should be none.</p>
+<p>Nothing of that ever happened when I've used rsync.</p>
+<p>And it can be used for any kind of file copying. If a connection is broken, you can just continue from where it stopped, auto-magically. It never slows down for no reason, in fact you can choose to auto-compress files just to go through a slow connection a lot faster, using processor capabilities from both sides, which is a breeze for any PC/mac nowadays.</p>
+<p>There's just one problem... There's no simple and good interface for it yet! The only one that works fine is the command line, and it's more limited than it could. It gets hard when you want to copy more than just one file or directory/folder.</p>
+<p>So why, oh why even today is still so hard to just copy a file? Seems like computers may still have a long way to go.</p>
+</div></div>
+
+<hr>
+<small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2009/10/file-copy.html">http://www.cregox.com/blog/2009/10/file-copy.html</a></small>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/2009-oct-file-copy/7524/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/2009-oct-file-copy/7524/1</link>
+        <pubDate>Mon, 06 Apr 2015 16:58:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7524-1</guid>
+        <source url="http://talk.cregox.com/t/2009-oct-file-copy/7524.rss">(2009 oct) File copy</source>
+      </item>
+  </channel>
+</rss>

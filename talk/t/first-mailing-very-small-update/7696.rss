@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>First &quot;mailing&quot;, very small update</title>
+    <link>http://talk.cregox.com/t/first-mailing-very-small-update/7696</link>
+    <description>We&#39;ve got 3 members on the list! Yay!! :dancers: 
+
+Okay, one of them is my mom, but it still makes the number bigger than zero. :smiley:
+
+I just wanted to say I have halted my work on basiux due to lots of personal life changes. Namely, moving with my wife from Brazil to Portugal.
+
+But my will to continue have never been bigger. Mostly I&#39;ll still [continue researching somehow][1] and trying to position myself. I&#39;ve stumbled on a few rocks for that last part.
+
+There&#39;s really nothing to be said except that the project is still alive and unmatched. Found nobody else clearly pursuing this same goal and specially none being vocal enough for me to hear it.
+
+Also, I&#39;ve [changed][2] the mailing list away from mailchimp. It means it&#39;s a bit harder to sign up as you now have to choose a name and a password or use a single sign on (in which case it might become easier if you already got it set up), but it&#39;s much more worth it as it prevents spammers and creates a sense of community. It also facilitates posting news for me and to whoever else wants to participate.
+
+To finish up this *first &quot;mailing&quot;*, the quotes are there to sign this probably won&#39;t be emailed to anyone yet, as nobody is [watching the category][3]. So, if you&#39;re interested, go ahead and sign up. Then watch it up. :)
+
+Bigger news are yet to come!
+
+
+  [1]: http://s.cregox.com/basiux-research
+  [2]: https://github.com/basiux/basiux.github.io/commit/ca5709ac4050ee6d23de04960d241a9ad540b672
+  [3]: https://github.com/discourse/discourse/wiki/Basic-Usage-Guide#category-notifications</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Sep 2015 13:53:04 +0000</lastBuildDate>
+    <category>basiux</category>
+    <atom:link href="http://talk.cregox.com/t/first-mailing-very-small-update/7696.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>First &quot;mailing&quot;, very small update</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>We've got 3 members on the list! Yay!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/dancers.png?v=0" title=":dancers:" class="emoji" alt=":dancers:"> </p>
+
+<p>Okay, one of them is my mom, but it still makes the number bigger than zero. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt=":smiley:"></p>
+
+<p>I just wanted to say I have halted my work on basiux due to lots of personal life changes. Namely, moving with my wife from Brazil to Portugal.</p>
+
+<p>But my will to continue have never been bigger. Mostly I'll still <a href="http://s.cregox.com/basiux-research">continue researching somehow</a> and trying to position myself. I've stumbled on a few rocks for that last part.</p>
+
+<p>There's really nothing to be said except that the project is still alive and unmatched. Found nobody else clearly pursuing this same goal and specially none being vocal enough for me to hear it.</p>
+
+<p>Also, I've <a href="https://github.com/basiux/basiux.github.io/commit/ca5709ac4050ee6d23de04960d241a9ad540b672">changed</a> the mailing list away from mailchimp. It means it's a bit harder to sign up as you now have to choose a name and a password or use a single sign on (in which case it might become easier if you already got it set up), but it's much more worth it as it prevents spammers and creates a sense of community. It also facilitates posting news for me and to whoever else wants to participate.</p>
+
+<p>To finish up this <em>first "mailing"</em>, the quotes are there to sign this probably won't be emailed to anyone yet, as nobody is <a href="https://github.com/discourse/discourse/wiki/Basic-Usage-Guide#category-notifications">watching the category</a>. So, if you're interested, go ahead and sign up. Then watch it up. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+
+<p>Bigger news are yet to come!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/first-mailing-very-small-update/7696/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/first-mailing-very-small-update/7696/1</link>
+        <pubDate>Thu, 10 Sep 2015 12:23:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7696-1</guid>
+        <source url="http://talk.cregox.com/t/first-mailing-very-small-update/7696.rss">First &quot;mailing&quot;, very small update</source>
+      </item>
+  </channel>
+</rss>

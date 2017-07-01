@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Removing links from gallery/summary in squarespace</title>
+    <link>http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735</link>
+    <description>Hi there,
+
+I saw this post http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513 
+
+But I&#39;m still stuck and was wondering if you would be able to help me? 
+
+I want to remove the links on two pages which have summary galleries on them, one is here http://www.insigniamedical.co.uk/our-team/ and one isnt live yet. 
+
+However I don&#39;t want this to effect any other blocks on other pages.
+
+Any advice very much appreciated 
+
+Clare</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Oct 2015 13:03:10 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Removing links from gallery/summary in squarespace</title>
+        <dc:creator><![CDATA[@Clare_Carpenter Clare ]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/clare_carpenter">@Clare_Carpenter</a> wrote:</p>
+          <blockquote>
+              <p>Hi Cregox,</p>
+
+<p>Thanks for coming back to me, not to worry though, found someone who could help out. </p>
+
+<p>Thanks though,</p>
+
+<p>Clare</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/3</link>
+        <pubDate>Thu, 22 Oct 2015 13:03:10 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7735-3</guid>
+        <source url="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735.rss">Removing links from gallery/summary in squarespace</source>
+      </item>
+      <item>
+        <title>Removing links from gallery/summary in squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Maybe next week I'll have time to take a look.</p>
+
+<p>As for affecting other pages, either inject code on the page configuration or as a Code Block.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/2</link>
+        <pubDate>Wed, 21 Oct 2015 13:27:15 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7735-2</guid>
+        <source url="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735.rss">Removing links from gallery/summary in squarespace</source>
+      </item>
+      <item>
+        <title>Removing links from gallery/summary in squarespace</title>
+        <dc:creator><![CDATA[@Clare_Carpenter Clare ]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/clare_carpenter">@Clare_Carpenter</a> wrote:</p>
+          <blockquote>
+              <p>Hi there,</p>
+
+<p>I saw this post <a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513">http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513</a> </p>
+
+<p>But I'm still stuck and was wondering if you would be able to help me? </p>
+
+<p>I want to remove the links on two pages which have summary galleries on them, one is here <a href="http://www.insigniamedical.co.uk/our-team/" rel="nofollow">http://www.insigniamedical.co.uk/our-team/</a> and one isnt live yet. </p>
+
+<p>However I don't want this to effect any other blocks on other pages.</p>
+
+<p>Any advice very much appreciated </p>
+
+<p>Clare</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735/1</link>
+        <pubDate>Wed, 21 Oct 2015 10:31:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7735-1</guid>
+        <source url="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735.rss">Removing links from gallery/summary in squarespace</source>
+      </item>
+  </channel>
+</rss>

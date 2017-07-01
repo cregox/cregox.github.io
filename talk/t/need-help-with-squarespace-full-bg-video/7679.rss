@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Need Help with Squarespace Full BG video</title>
+    <link>http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679</link>
+    <description>[quote]
+Hi!
+
+I found your tutorial http://www.cregox.com/full-video/ and I&#39;ve been
+trying to figure out how to DIY the codes into my squarespace site.
+
+I&#39;ve been doing my best in following your instructions but I still couldn&#39;t
+get it to work. It would be extremely helpful if you could point me in the
+right direction and tell me what I&#39;m doing wrong.
+
+Here&#39;s a screenshot of my page so far. I&#39;m using a sample video from Vimeo
+as the video I want to use is not done yet.
+
+![image: Screen Shot 2015-08-02 at 4.03.57 pm.png](/uploads/default/original/1X/bfbcf4a11367bc8d6a858021f5599351e63fcc2a.png)
+
+![image: Screen Shot 2015-08-02 at 4.04.08 pm.png](/uploads/default/original/1X/2ee7b305879f4c5003034eeeeb451ee2dd5d7859.png)
+
+![image: Screen Shot 2015-08-02 at 4.04.17 pm.png](/uploads/default/original/1X/50ace4406507610424e9b06d66d6e20b075a2a19.png)
+​
+
+I&#39;m trying to place a button on the homepage that plays a full screen video
+in a lightbox. As you can see, I&#39;ve already done the following:
+
+1. Added a gallery block (set to Grid and open in lightbox)
+2. Added a button above the gallery block (Add the jquery code into it)
+3. Added a code block below the video and pasted the long code that you
+provided
+
+I can&#39;t figure out what I&#39;m doing wrong and I hope you can help me out.
+
+Your help would be greatly appreciated!
+
+Yours sincerely,
+
+Zulhilmy
+
+From Singapore
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Aug 2015 14:46:12 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Need Help with Squarespace Full BG video</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, you probably didn't include the full code. The very first line isn't in your website source:</p>
+
+<pre><code>&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"&gt;&lt;/script&gt;</code></pre>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/4</link>
+        <pubDate>Thu, 27 Aug 2015 14:46:12 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7679-4</guid>
+        <source url="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679.rss">Need Help with Squarespace Full BG video</source>
+      </item>
+      <item>
+        <title>Need Help with Squarespace Full BG video</title>
+        <dc:creator><![CDATA[@Alex_Dobrenko Alex Dobrenko]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/alex_dobrenko">@Alex_Dobrenko</a> wrote:</p>
+          <blockquote>
+              <p>Hi There! </p>
+
+<p>I'm experiencing the same issues here - <a href="http://www.distancefornow.com/watch-the-pilot-2-1" rel="nofollow">http://www.distancefornow.com/watch-the-pilot-2-1</a> (pw: 3000miles). </p>
+
+<p>The youtube video is <a href="https://www.youtube.com/watch?v=daZmCFVTmi0" rel="nofollow">https://www.youtube.com/watch?v=daZmCFVTmi0</a></p>
+
+<p>and the code I've added to the image block is below.</p>
+
+<p>javascript:jqueryLightbox('daZmCFVTmi0');</p>
+
+<p>Can you point me in the direction of what I'm perhaps doing wrong?</p>
+
+<p>Thanks a ton for your help!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/3</link>
+        <pubDate>Sat, 22 Aug 2015 21:28:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7679-3</guid>
+        <source url="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679.rss">Need Help with Squarespace Full BG video</source>
+      </item>
+      <item>
+        <title>Need Help with Squarespace Full BG video</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for reaching out and pointing me a possible error on my tutorial there, among other few things I should probably fix.</p>
+
+<p>You see, I'm no longer working with my now dead "<a href="http://talk.cregox.com/t/the-making-of-your-home/7491">your-home</a>" project (although <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661">I am currently looking for a job</a>), and these tutorials were part of it.</p>
+
+<p>There's also only so much I can do without at least a link to the website.</p>
+
+<p>That being said...</p>
+
+<blockquote><p>jQuery not loaded</p></blockquote>
+
+<p>This means the script couldn't find your link. Probably you didn't use your own video id there:</p>
+
+<p></p><pre><code class="lang-auto">javascript:jqueryLightbox('&lt;your video id comes here&gt;');</code></pre>
+
+<p>Everything in red there, within the quotes, should be replaced by your own unique video id. And that will be different if you're using youtube, vimeo, wistia or whatever.</p>
+
+<p>I've just updated a couple pages accordingly, with a few things fixed.</p>
+
+<p>Good luck! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/2</link>
+        <pubDate>Sun, 02 Aug 2015 12:07:54 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7679-2</guid>
+        <source url="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679.rss">Need Help with Squarespace Full BG video</source>
+      </item>
+      <item>
+        <title>Need Help with Squarespace Full BG video</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi!</p>
+<p>I found your tutorial <a href="http://www.cregox.com/full-video/">http://www.cregox.com/full-video/</a> and I've been<br>trying to figure out how to DIY the codes into my squarespace site.</p>
+<p>I've been doing my best in following your instructions but I still couldn't<br>get it to work. It would be extremely helpful if you could point me in the<br>right direction and tell me what I'm doing wrong.</p>
+<p>Here's a screenshot of my page so far. I'm using a sample video from Vimeo<br>as the video I want to use is not done yet.</p>
+<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/bfbcf4a11367bc8d6a858021f5599351e63fcc2a.png" alt="image: Screen Shot 2015-08-02 at 4.03.57 pm.png"></p>
+<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/2ee7b305879f4c5003034eeeeb451ee2dd5d7859.png" alt="image: Screen Shot 2015-08-02 at 4.04.08 pm.png"></p>
+<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/50ace4406507610424e9b06d66d6e20b075a2a19.png" alt="image: Screen Shot 2015-08-02 at 4.04.17 pm.png"><br>​</p>
+<p>I'm trying to place a button on the homepage that plays a full screen video<br>in a lightbox. As you can see, I've already done the following:</p>
+<p>1. Added a gallery block (set to Grid and open in lightbox)<br>2. Added a button above the gallery block (Add the jquery code into it)<br>3. Added a code block below the video and pasted the long code that you<br>provided</p>
+<p>I can't figure out what I'm doing wrong and I hope you can help me out.</p>
+<p>Your help would be greatly appreciated!</p>
+<p>Yours sincerely,</p>
+<p>Zulhilmy</p>
+<p>From Singapore</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679/1</link>
+        <pubDate>Sun, 02 Aug 2015 11:36:12 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7679-1</guid>
+        <source url="http://talk.cregox.com/t/need-help-with-squarespace-full-bg-video/7679.rss">Need Help with Squarespace Full BG video</source>
+      </item>
+  </channel>
+</rss>

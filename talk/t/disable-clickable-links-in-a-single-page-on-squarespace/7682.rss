@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Disable clickable links in a single page on Squarespace</title>
+    <link>http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682</link>
+    <description>[quote]
+Dear Caue,
+
+Currently building a site (offline) on squarespace, and have a question
+that you seemed to have answered for others:
+
+How to disable clickable links (on both images and captions) inside a
+Summary Gallery.
+
+I would like to do this on only one single page of the site, and of course
+do not want to disturb the rest. Could I ask you for your advice?
+
+Richard Beaudoin
+
+-
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2015 23:35:16 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Disable clickable links in a single page on Squarespace</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>I suppose you're talking about <a href="http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block">that</a> or this:</p>
+
+<aside class="quote" data-post="1" data-topic="7513">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/system/40/29_1.png" class="avatar">
+    <a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513">Remove any image click / link / lightbox from gallery page</a> <a class="badge-wrapper  bullet" href="/c/support/closing"><span class="badge-category-parent-bg" style="background-color: #3AB54A;"></span><span class="badge-category-bg" style="background-color: #652D90;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Supporting "tickets" that are already basically finished and will be automatically closed 2 months after latest reply.'>closing</span></a>
+  </div>
+  <blockquote>
+    <div class="topic-info">
+    </div>
+  </blockquote>
+</aside>
+
+
+<p>From there, to limit it to a single page you could simply apply the code inside that page, rather than globally. Two ways of doing it, using a <a href="https://support.squarespace.com/hc/en-us/articles/206543167-Using-the-Code-Block">Code Block</a> or <a href="https://support.squarespace.com/hc/en-us/articles/205815908-Using-Code-Injection#toc-per-page-code-injection">Code Injection per Page</a>, then just wrap the CSS code into <a href="http://www.w3schools.com/tags/tag_style.asp">HTML tags</a>:</p>
+
+<p></p><pre><code class="lang-auto">&lt;style&gt;
+  your-css-goes-here
+&lt;/style&gt;</code></pre>
+
+<p>Now, I'm no longer working with any kind of support, so I won't be able to help you further. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682/2</link>
+        <pubDate>Tue, 04 Aug 2015 23:35:16 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7682-2</guid>
+        <source url="http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682.rss">Disable clickable links in a single page on Squarespace</source>
+      </item>
+      <item>
+        <title>Disable clickable links in a single page on Squarespace</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Dear Caue,</p>
+<p>Currently building a site (offline) on squarespace, and have a question<br>that you seemed to have answered for others:</p>
+<p>How to disable clickable links (on both images and captions) inside a<br>Summary Gallery.</p>
+<p>I would like to do this on only one single page of the site, and of course<br>do not want to disturb the rest. Could I ask you for your advice?</p>
+<p>Richard Beaudoin</p>
+<p>-</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682/1</link>
+        <pubDate>Tue, 04 Aug 2015 22:52:06 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7682-1</guid>
+        <source url="http://talk.cregox.com/t/disable-clickable-links-in-a-single-page-on-squarespace/7682.rss">Disable clickable links in a single page on Squarespace</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>spoilers - cregox talk</title>
+    <link>http://talk.cregox.com/c/spoilers</link>
+    <description>Topics in the &#39;spoilers&#39; category It&#39;s all a matter of organizing data, anyway.</description>
+    <language>en</language>
+      <lastBuildDate>Thu, 07 Jul 2016 20:22:36 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/spoilers.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>I kinda envy Snowden, but privacy isn&#39;t that important, nope</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>This is a very early draft!</p>
+
+<div class="lazyYT" data-youtube-id="dJQi8sufzv0" data-youtube-title="'Não há um império do mal nos Estados Unidos', afirma Edward" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>It is true we have no liberty to be whatever we want to be if we know we're being watched because we do act differently under new realizations of the present.</p>
+
+<p>But the same could be said in a world where there was no privacy ever and suddenly we'd know we're not being watched. Can you imagine it? It's not that hard to imagine. Take someone who believed there's a God watching and suddenly that person became atheist. Nobody is watching. We will act differently... But was the liberty taken away or given?</p>
+
+<p>There's no relationship that can be proved between privacy / lack of it with liberty. It's all a subjective construction in our minds. And it is constructed in a lot of people minds, I'd bet that probably in most of us, including myself as a product of my own culture, even on times I'd like to deny it.</p>
+
+<p>The right to liberty isn't the same as right to privacy, those are terrible grounds to be in. That's not to say we shouldn't have both rights - after all if you have the liberty to choose you should be able to choose privacy for you. But I argue the first, and maybe only right that should be enforced is precisely that freedom of choice. And if you choose no privacy for you, that's up to you.</p>
+
+<p>Or is it? Maybe there's a fallacy here...</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871</link>
+          <pubDate>Thu, 07 Jul 2016 20:22:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7871</guid>
+          <source url="http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871.rss">I kinda envy Snowden, but privacy isn&#39;t that important, nope</source>
+        </item>
+        <item>
+          <title>Why books are way too outdated</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/f9e90d92c54dd658726d2b0fc038e67586f7ea4c.jpg" width="468" height="309"><br><em>Other than this image, I won't even dig into the whole ecological killing trees aspect of books! Just had to mention it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></em></p>
+
+<p><strong>Kind of</strong> continuing from <a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">From God's Debris to data loss... Why people love forgetting so much?</a>...</p>
+
+<p>I really <strong>hate</strong> books.</p>
+
+<p>I hardly ever read 'em, for the longest time. I think that Debris one could be the only one I've read (from beginning to end) in this century. And only because it was a less than 100 pages <em>pdf</em>. Now, for <a href="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713/3?u=cregox">someone who claims</a> to be able to get a phd in 1 year (given enough resources) and who keeps on writing and <a href="https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070">rambling incoherently</a> about so many topics, how can this make any sense? Do I write for nobody to read? You may ask.</p>
+
+<p>When people write a book, they / we usually have to keep 2 things in mind: reaching out to a significant number of other people (a.k.a. sales) and being as much self contained as possible. In other words, the book should always explain itself for the target audience it wants to be read. As much as possible, it must not rely on any outside concepts.</p>
+
+<p>This makes every single book into an extraordinary effort to fulfill those 2 things, which are widely based on a more than outdated ink on paper technology. Okay, maybe there are uses for it still, both for planning (such as in making UX) or even taking notes, among many other things... But that doesn't mean it's optimal or even desirable.</p>
+
+<p>Even more: we already have so much knowledge to be shared and learned, among with enough people willing to produce content, that who's to say a single author is a better reference than many? Yeah, there are other medias which brings more art than just writing into teaching. Writing is, after all, just a form of art.</p>
+
+<p>For now, let's get back to basics...</p>
+
+<h1>Indexing and referencing</h1>
+
+<p>Or searching and linking, for more modern terms. There's a huge amount of time <strong>wasted</strong> while writing books for making data easy to find in them. The more technical the book, the bigger their index. Does anyone still go through printed mapbooks or do we use gps? Honestly...</p>
+
+<p>As for linking, nobody wants to read a book that have 4 footnotes per page on reference for further reading. It's completely counter productive. Yet, that's how wikipedia works.</p>
+
+<p>You see... Outdated. And those are just two basic points. Here's another one:</p>
+
+<h1>Financing and profiting</h1>
+
+<p>The book must be well structured and have at least some considerable amount of pages, you know, so you can stick them together and make enough weight on its own. Really. Weight. What's important here isn't data, information or content. It's weight. There's a range of accepted size for insightful books. No grown up will take a book with 10 pages seriously - it's a book for kids at best. Specially if it's illustrated. Right?</p>
+
+<p>So, even if the idea you want to pass on is insanely succinct and well written, you won't get anywhere if you don't spend more time developing it. Explaining it. Excruciatingly. Even if you're only using words from the dictionary or your "common sense", which might be broader than whatever is in an encyclopedia, for whatever it's worth.</p>
+
+<p>And after all that work into filling up a book, you have to get a living. Who's going to write a freaking 300 pages book, filled with research and years of production spent without getting something in return? I tell you who. Almost nobody. Even whoever have enough resources to live with nothing else during all that time will not do it because, well, it's not really about the money most of the times. It's about, as I said earlier, reaching out. No money feedback means very little reach. That's all.</p>
+
+<hr>
+
+<p>As for the rest of this post, well, I'll continue later. Eventually.</p>
+
+<h1>Telling a story</h1>
+
+<ul><li>How?</li></ul>
+
+<h2>Collaboratively</h2>
+
+<h2>Solo</h2>
+
+<h1>Technical writing</h1>
+
+<ul><li>Why?</li></ul>
+
+<h1>Keeping content updated and versioning</h1>
+
+<ul><li>What?!</li></ul>
+
+<h1>Too long; Didn't read</h1>
+
+<p>Just go watch good videos. And, when you need to dig deeper, the rest of the written internet is your friend. Podcasts, blogs, forums, IRC channels, audiobooks even. Any kind of printed book (including kindle) is really last outdated resource, if you can't find good summaries / transcriptions of them online nor an audiobook. And that's just something which didn't happen in my humble experience during the XXI century.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/why-books-are-way-too-outdated/7777">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/why-books-are-way-too-outdated/7777</link>
+          <pubDate>Mon, 21 Dec 2015 16:50:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7777</guid>
+          <source url="http://talk.cregox.com/t/why-books-are-way-too-outdated/7777.rss">Why books are way too outdated</source>
+        </item>
+        <item>
+          <title>Manifesto to facebook and why we should befriend everyone</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>I'll be writing this on [spoilers], editing it all first, and then moving it to [blog]...</p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/fd5cbae314377e1defb8f95770908a97617928b8" href="//talk-cdn.cregox.com/uploads/default/original/1X/fd5cbae314377e1defb8f95770908a97617928b8.jpg" class="lightbox" title="imagine.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/fd5cbae314377e1defb8f95770908a97617928b8_1_666x500.jpg" width="666" height="500"><div class="meta">
+<span class="filename">imagine.jpg</span><span class="informations">2592x1944 2.03 MB</span><span class="expand"></span>
+</div></a></div></p>
+
+<h1>Introduction</h1>
+
+<p>This is what I just wrote <a href="https://www.facebook.com/caue.rego/posts/10153184580745868?pnref=story">there</a>, and not on google plus to let bufferapp post it as usual:</p>
+
+<blockquote><p>So, I just watched "Little Prince", cried in one moment and then again near the end when that moment was repeated, like I've never cried before while watching a movie. My first time was 2007, watching erin brokovich when her kid was worried, loving and caring for her sleeping on the couch. Now, because it reminded of my father and Otavio. I'm not sure I was crying over dad's death, back in 2002 or something, or if it was due to his rebirth and how I can't help him out of his 14 ish year old depression + bipolar crisis, which nobody but me and mom currently understand. I don't know.<br>Then I went to sleep.<br>Now, on a subject that may appear completely unrelated, I just tried to befriend as many people as possible on Facebook. On my Mobile phone, at 5:20 in the morning. I've slept for 2 hours or so. I never went this berserk before... And I will explain all this better in a blog post next. For now, I hope it's suffice to say: because Facebook is wrong.<br>We should have no limits in the number of friends. Specially online, where technology can enable us to break that 200ish number of people we can humanly recognize as people. A brain limitation healthy to be aware of and reason why I haven't gone friending every one before.<br>Yes, computers can help us to resolve that problem today, with Facebook even. I just hope Facebook, as a person, will read my manifesto and be open minded about it. At least give us some honest feedback...<br>Next post: the manifesto!</p></blockquote>
+
+<p>Then, soon after, I posted this, now on my mac:</p>
+
+<blockquote><p>Okay, before the "next post" just an update to the previous one, which is much related, I promise...<br>This post was about an advice I gave out on quora, per request. It's all explained there:<br>i.e. "how to stay happy even if lucky bucks don't come your way and you're forever money less" <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">﻿<a href="http://qr.ae/RbMOCD">http://qr.ae/RbMOCD</a> 5 upvotes, 213 views in a question with over 200 answers in just a few hours is not bad! smile emoticon I guess what I'm writing is starting to make sense to people.</p></blockquote>
+
+<h1>How the brain / mind works</h1>
+
+<h2>Neural Networks</h2>
+
+<p>Picture a Tammy with an Ai playing Mario (<a href="http://basiux.org">Mariox there</a>) in which you can watch, feed and learn neural networks. We're building the software to make this possible. Visualizing such a learning process, and being able to interact with it, shall combo into a very powerful learning tool. Eventually, everyone will want to play with and have a better idea on how our brains work.</p>
+
+<h2>Many videos for further reference</h2>
+
+<ul><li><a href="http://s.cregox.com/brain">http://s.cregox.com/brain</a></li></ul>
+
+<p>Pay special attention to the 2 videos under <a href="http://basiux.org">basiux.org</a></p>
+
+<h2>Link between <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">Little Prince</a> and going facebook berzerk</h2>
+
+<p>The link is, of course, only in my mind. But it's a very strong one. I hope by the time I finish this post, it may be clear to a lot of people who actually read it. Maybe first you should see <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">my review of the movie</a>, to get a glimpse of what it meant to me.</p>
+
+<p>Then, realize the size of the art industry, if you haven't. U$ 66 billion just in what people call "art", mostly paintings. Paintings. Plus U$ 32 billion just in US films 2013. And U$ 25 billion for US games in 2010, which was more than double the previous 2 years. Music, U$ 125 billion. Just those sum up to U$ 248 b. It's hard to find a summary of all arts, but if those are the high ones from the top of my mind, we can extrapolate there must be about U$ 500 b.</p>
+
+<p>Oil? That's about U$ 600 billion. Let's say it's U$ 1 trillion. States economy (GDP)? U$ 18 trillion. The world economy (again GDP) is estimated at around U$ 100 trillion.</p>
+
+<p>Now if we could sum all of the Art being done in the world, how much money it's moving and, specially, how much movement it makes <strong>without money</strong> it's easy to speculate it to be much higher than any other interest, imho. I won't get into the Math here, I think my point was made.</p>
+
+<p>Art move people. And it moved me. Big time, this once.</p>
+
+<p>My reasoning about adding everyone in facebook as a friend is already explained in the rest of this post. The idea, well, it came from watching Little Prince. I believe I've switched my mind state to a more love giving one. Hoping to be able to stay at it now. I had previously <a href="http://talk.cregox.com/t/quick-random-thought-about-wtf-contact-requests/7646">stated</a> I would throw wtf images at random people requesting online friendship. Well, I will still do it, but now, I'll also accept it instead.</p>
+
+<h1>Buffer app</h1>
+
+<p>It is hurting my "facebook reputation", something I didn't expect it would do. Nobody was interacting with me anymore there, for quite some time. Weeks or months, can't precise. But as soon as I've changed my profile background picture, just because I thought it was about time, everyone reappeared.</p>
+
+<p>I guess facebook algorithm was filtering me out, above any other reasoning.</p>
+
+<p>Point here is: buffer needs to befriend facebook for me to continue using it, and facebook needs to befriend something like buffer for me to continue posting in it.</p>
+
+<h2>How a serendipitous photo from 2013 helped me</h2>
+
+<p>I've been already using it as a background photo for my profile everywhere... But once it was brought to my attention I wasn't getting any feedback before it, I noticed I was probably doing something wrong. I don't use Buffer to backup my posts, got IFTTT for that (although redundancy doesn't hurt backups). I use it to get people seeing what I produce. Not just getting noticed, but getting involved. And that was not happening...</p>
+
+<p>Of course facebook have interest in making people come in their platform, so they can monetize it, and so it's easy to extrapolate a perception that buffer can hurt their business in that way. But that's just not true. If not for buffer, I would be posting nothing on facebook. And so would many people - without their tools they just don't do any work.</p>
+
+<p>Okay, now I am posting again, for a while, and kinda making it unique and personal. But it's just for this little while. I'll have to either find a tool or forget about it once again... Maybe try to remember posting once in awhile like now.</p>
+
+<p>Just look at the posts there. They're indeed ugly and uninviting.</p>
+
+<p>Anyway, the photo helped me realizing all that, including how broken my buffer integration is.</p>
+
+<h2>What buffer should do</h2>
+
+<p>Remove "default posting" to multiple social networks. Every network is a different channel and must have dedicated posting. Make people understand this. Make it work (getting to many "errors", refused messages to facebook, for instance).</p>
+
+<h1>Befriend everyone</h1>
+
+<p>50 monkey limit vs 200 human limit</p>
+
+<h2>Even my dad, who "cursed" me with science and skepticism</h2>
+
+<p>The usage of "curse" here is sarcastic. Because <a href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754?u=cregox">people say ignorance is bliss</a>. I don't talk to him for months now, and I still want to keep it that way. Blocking him. But we are still friends, and I still love him. Not because he brought me The Little Prince as a Kid, or taught me how to use a video camera when no other kid had one I had all toys I wanted. But because he's my father. And part of our universe, you know, the big bang one.</p>
+
+<h2>More on my previous behavior</h2>
+
+<p>As a kid, can't remember. As a last decision, "sending wtf pictures to friend requests", need links.</p>
+
+<h2>Technical reasons</h2>
+
+<p>Computers are already our bionic brain. See gmail. Think about it.</p>
+
+<h2>Practical reasons</h2>
+
+<p>More transparency among people, as a human race. Less rush for money. Basic income.</p>
+
+<h1>Too Long; Didn't Read!</h1>
+
+<p><a href="http://coroachada.github.io/letras/#imagine">Imagine all the people. Loving every one...</a> Yes, this is all about "spreading the love" and "paying forward". Why limiting ourselves so damn much while we can be so much more together?! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771</link>
+          <pubDate>Wed, 09 Dec 2015 06:10:03 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7771</guid>
+          <source url="http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771.rss">Manifesto to facebook and why we should befriend everyone</source>
+        </item>
+        <item>
+          <title>Reality philosophy time - mostly about education</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>I just <a href="https://discuss.howtogeek.com/t/why-the-idea-of-free-content-can-work-against-you-on-the-internet/37668/7?u=cawas">wrote this</a> on HTG:</p>
+
+<blockquote>
+<p>Some things in life can't be simply learned through analogies.</p>
+<p>It would be really great to have an updated and complete guide of what things are those, though. I have little clue.</p>
+</blockquote>
+
+<p>And, this on a skype chat:</p>
+
+<blockquote><p>If ignorance is bliss, knowledge is gift</p></blockquote>
+
+<p>Not <em>exactly</em> folly to be wise.</p>
+
+<p>By knowledge, in here, I mean deeply understanding how every little single thing <strong>that matters to you</strong> works.</p>
+
+<p>From the technology, through an orgasm, noticing why cockroaches are disgusting or what's farthest away, a planck (1.6 x 10<sup>-35</sup>m) or the length of the universe(8.6e+26m), and what that could even mean (<em>couldn't quantum physics be considered to happen entirely in another universe? what if our universe is indeed virtually "infinite" and in a timespace continuum loop connecting each of a 3 axis'ed time dimension into plancks? - I'm just guessing here</em>).</p>
+
+<p>The more aware we become as an living species, the better life becomes for each one of us. Is this, however, a fact? I sure hope so.</p>
+
+<p>We are moving in erratic ways, always in the brick of extincting ourselves by our own merits. Still, we continue to grow, and evolve, somehow. Wouldn't it be spectacular if we could suddenly change this? Or simply continue on harvesting more magic from the world? Or would it be better if we just get wiped by a meteor or global warming?</p>
+
+<p>The mighty time will surely tell.</p>
+
+<p>Meanwhile, we can make everyone's life more enjoyable by finding other ways of challenging our minds than killing each other, fighting over land or energy, and all else Lennon said, by just acquiring conscious of all this whole fantastic existence.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754</link>
+          <pubDate>Wed, 18 Nov 2015 13:03:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7754</guid>
+          <source url="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754.rss">Reality philosophy time - mostly about education</source>
+        </item>
+        <item>
+          <title>Uncalled feedback with an agenda</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><em>(supposed to be a public email, actually. not sure if I'll ever send it though)</em></p>
+
+<p>To: <a href="https://www.quora.com/profile/Chris-Nicholson-1">Chris Nicholson</a>, about <a href="https://www.quora.com/What-is-a-simple-explanation-of-how-artificial-neural-networks-work-1/answer/Caue-Rego">his and my answer on quora</a>.</p>
+
+<p>In fact, my feedback is just lots of criticism, as I often enjoy doing and then sometimes regret later.</p>
+
+<p>Right off the bat, I think making dl4j makes absolutely no sense from the name and definition: "written for java and scala". DL should be platform agnostic and, if any one should be chosen, it should be a (much) faster one such as node or python (I won't get into debate vs assembly or C because they are not as fast considering the whole development stack) because, well, processing speed is crucial for Ai.</p>
+
+<p>Also <a href="http://www.skymind.io/2015/03/08/how-paypal-uses-deep-learning-and-detective-work-to-fight-fraud/">I hate paypal's Ai</a>, currently and personally. Paypal have this huge potential to being the world's bank, and it would be amazing to see it using bitcoins, but it doesn't seem to be taking it too seriously - in part - because of that Ai. Customer support have not enough levels of depth to help customers when they really need their money. As it is, it's simply a bank that can't be trusted and they do say this so if you go deep enough in your needs. Mostly because they are trusting on their Ai to do their security and that Ai is failing enough to hit me hard.</p>
+
+<p>I was initially marked as fraudulent, many times, ended up talking with probably a few of their human detectives, they identified me as legit and told me "There's nothing we can do. The Ai has the last word and you have to wait for a few days". That went on for about 2 weeks, and their solution was basically "use your money from elsewhere, sorry".</p>
+
+<p>As for my agenda...</p>
+
+<p>Despite my bad first impressions on briefly going to both your websites, I sure identify a lot with maybe the most relevant part of your projects, which I've <a href="http://deeplearning4j.org/">found in one of them</a>:</p>
+
+<blockquote><p>open-source, distributed deep-learning library (...) aims to be cutting-edge plug and play, more convention than configuration, which allows for fast prototyping for non-researchers. DL4J is customizable at scale.</p></blockquote>
+
+<p>That's mostly what basiux will be or die trying!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742</link>
+          <pubDate>Sun, 01 Nov 2015 20:35:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7742</guid>
+          <source url="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
+        </item>
+        <item>
+          <title>Making of MarioxX</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <blockquote><p>This may become a spin off from: <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5</a></p></blockquote>
+
+<div class="lazyYT" data-youtube-id="Ysxz5Ug70G0" data-youtube-title='Julia Sweeney has "The Talk"' data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>Saw this video as the absolute highlight of the latest TEDx Lisbon conference, despite its opening with an Ai expert presenting some cool tech...</p>
+
+<p>Here's John Oliver's take on <a href="https://discuss.howtogeek.com/t/the-emperor-has-no-clothes-and-nobody-cares/36776">how much people care about sex versus snowden</a>:</p>
+
+<div class="lazyYT" data-youtube-id="XEVlyP4_11M" data-youtube-title="Government Surveillance: Last Week Tonight with John Oliver (HBO)" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>All this MarioxX idea actually came from these 2 videos (plus my whole current life context, of course), with nothing specifically related to the whole Ai topic. Ai relates to anything, but not the other way around yet! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=3" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">.</p>
+
+<h1>Watch the videos before continue on reading!</h1>
+
+<p>So the basiux engine could evolve like this: <strong>WhyX -&gt; Mariox -&gt; MarioxX -&gt; Hutter</strong>.</p>
+
+<p>The xX is basically the same basiux engine adapted to be a chatbot for sex education of all ages teach kids about sex (a phun with all the x'es and xxx).</p>
+
+<p>We can be honest without laying out every detail, in a way to clarify it for kids while keeping the porn out. And Mario could be graphic and interactive about it. On a presentation, it could include any kind of "Siri" (speech to text) to identify the loudest words someone say and use it as a question.</p>
+
+<p>For instance, where babies come from? <em>Storks</em> bring them, of course. Or whatever, really:</p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="https://talk-cdn.cregox.com/uploads/default/ac864cc9edd5569675b0b7405d701a07f653c2e5" href="https://talk-cdn.cregox.com/uploads/default/original/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5.gif" class="lightbox" title="where-babies-come-from-3.gif"><img src="https://talk-cdn.cregox.com/uploads/default/optimized/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5_1_690x220.gif" width="690" height="220"><div class="meta">
+<span class="filename">where-babies-come-from-3.gif</span><span class="informations">1343x430 25.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>But how babies are made? Well, now we can say something along the lines of women getting on top of men, with no need for details:</p>
+
+<p><img src="https://talk-cdn.cregox.com/uploads/default/original/1X/7112d19219577c000ceb9fef655329a6cb12490d.gif" width="376" height="485"><br><em>- Aight, we're naked and I'm on top of you ... How long is it until we get to orgasm?</em><br><em>- No idea - but now I know why mama always have headaches ...</em></p>
+
+<p>Kids will soon just be entertained away by Mario anyway, and fade away to other questions / things to do.</p>
+
+<p>The MarioxX chatbot doesn't need to be as awesome as <a href="http://talk.cregox.com/t/t-mobile-jessica-chatbot/7738/1">T-Jessica</a>, although if it can be done from basiux version MarioX that in itself would probably make it way more impressive!</p>
+
+<p>Of course at some point kids will find out "Santa isn't real" and adults might realize . But MarioxX's goal is not to be 100% honest. She (the basiux engine) will want to analyze the audience before giving any sensible information out. Because she will know that language is really complicated and subjective, and that each culture have their own archetypes or sets of beliefs.</p>
+
+<p>Now the beginning of the roadmap is basically ready! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/making-of-marioxx/7741">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/making-of-marioxx/7741</link>
+          <pubDate>Sun, 01 Nov 2015 10:42:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7741</guid>
+          <source url="http://talk.cregox.com/t/making-of-marioxx/7741.rss">Making of MarioxX</source>
+        </item>
+        <item>
+          <title>People curated products and Jobs</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>(maybe this will become a short blog post or edited for a better size and meaning)</p>
+
+<p>Who buys an iPhone or Apple product are buying them not because of Apple and not even because of the awesome Steve Wozniak. It's the other Steve they are looking for. Someone they learned to trust and identify.</p>
+
+<p>Brands are only really valuable when people can humanize them. See them as a friend.</p>
+
+<p>So why don't we simply do just that? Why nobody associates Mc Donald's to Ray Kroc, Coca-Cola to John Pemberton or Rolex to Hans Wilsdorf? Will Apple survive through the icon's death for that long as well?</p>
+
+<p>Maybe that's precisely why. When the company gets big enough, anyone can create an identity in it, identify the pattern and repeat. Make it immortal, so we won't miss it when the actual creator dies. Walt Disney and Elvis still live long after death.</p>
+
+<p>In any case... I'd just like to see more humanised smartphone models / brands so I could find someone to follow... For one because Apple did lose theirs, for two because it was never my ideal and for three because when I do find one, I'd like to be able to follow the person, even if they change brands / companies, until they may become an immortal brand, if I get that lucky! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/people-curated-products-and-jobs/7737">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/people-curated-products-and-jobs/7737</link>
+          <pubDate>Sat, 31 Oct 2015 01:46:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7737</guid>
+          <source url="http://talk.cregox.com/t/people-curated-products-and-jobs/7737.rss">People curated products and Jobs</source>
+        </item>
+        <item>
+          <title>Why you should go visit Iguazu Falls</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>(taking notes, much to edit)</p>
+
+<ul>
+<li>enjoy huge human constructions</li>
+<li>planning to visit / tourism through Brazil, or</li>
+<li>would like to see one of the huge natural wonders of this world</li>
+</ul>
+
+<p>Take from 5 days to Iguazu.</p>
+
+<p>For 2 of those days, you visit the Falls.</p>
+
+<p>For the other 3 days, you visit Itaipu.</p>
+
+<p>Just an amazing place!</p>
+
+<p>Thanks to Irio Valdemir, Franchesco Manneschi, Rafael Junior, Milton and Fernando Nunes.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730</link>
+          <pubDate>Fri, 16 Oct 2015 12:43:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7730</guid>
+          <source url="http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730.rss">Why you should go visit Iguazu Falls</source>
+        </item>
+        <item>
+          <title>&quot;The Singularity&quot; is it just silly?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="http://www.ai-forum.org/topic.asp?forum_id=1&amp;topic_id=6493">Necromancing 12 years topic</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+
+<p>What you guys think about it today?</p>
+
+<p>I just started studying AI on my own few months ago and maybe the gold post for the global consciousness / archetype about it moved a lot, but I can see easy answers to all your questions there. I could only see 2 main themes.</p>
+
+<p>(1) Singularity based on Moore still looks quite possible to happen as Moore continues to be reliable even today. To me it only means that computers will get faster and at some point they must be fast enough for a single personal computer becoming able to emulate the human brain as a whole. That's not when the singularity would happen yet, though. And that's just 1 way it might happen.</p>
+
+<p>(2) If a sentient intelligence would just go away on its ways and completely ignore us, we would just keep trying to create new ones that wouldn't ignore us. So, that's mostly irrelevant to think about. It may have already happened and we wouldn't know.</p>
+
+<p>(4) Since there was no 3rd theme, I'll add one here: what if a conscious software were already possible to be created today? From my perspective, the main reasons it doesn't exist yet is wrong development approaches, such as trying to be too careful.</p>
+
+<p>The internet as a whole is already much more powerful than a single human brain, even if it isn't 1 concise quick organ communicating as fast as neurons.</p>
+
+<p>And trying to control such a powerful weapon can be catastrophic IMHO. We may have only 1 shot of making the SuperIntelligence something that won't destroy us and, from every science project ever made, we know humans don't get it right on the first shot. It should be developed in a way as to not offer us any control.</p>
+
+<p>Now, this is yet just my own theory, but I do have lots of more reasoning as to why, which may still need to be written down.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713</link>
+          <pubDate>Thu, 08 Oct 2015 15:58:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7713</guid>
+          <source url="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713.rss">&quot;The Singularity&quot; is it just silly?</source>
+        </item>
+        <item>
+          <title>Ubuntu is still rocking solid!</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>(Quick?) Nostalgic post.</p>
+
+<p>It's been almost 6 years since I used Ubuntu for at least 1 day. Really using it to accomplish anything for myself. Yesterday, that was working a bit on emails and studying.</p>
+
+<p>Today I've found <a href="http://ubuntuforums.org/showthread.php?p=8241934">this</a>, can't remember how:</p>
+
+<a href="https://dl.dropboxusercontent.com/s/yv79w37458kdpuz/Screenshot%202015-08-16%2001.27.47.png?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/yv79w37458kdpuz/Screenshot%202015-08-16%2001.27.47.png?dl=1" width="690" height="220"></a>
+
+<blockquote>
+<p><strong>things I'm missing in ubuntu</strong><br>this was in my signature since 9.04 and I decided to make a topic out of it and add few items.</p>
+<ul>
+<li>a (yet) better network manager (nm07 is almost there)</li>
+<li>a nicier file copier handler (rsync alike)</li>
+<li>a more compact-looking theme (i want more screen space!)</li>
+<li>a bigger log/cache for <em>system monitor</em> (no geek stuff)</li>
+<li>"<a href="http://ubuntuforums.org/showthread.php?t=1314281">time machine</a>"</li>
+</ul>
+<p>not much more else, ubuntu is great! </p>
+<hr>
+<p>-- me: <a href="http://www.cregox.info">www.cregox.info</a><br><a href="http://ubuntuforums.org/showthread.php?p=8241934">things I'm missing in ubuntu</a></p>
+</blockquote>
+
+<p>Old. And interesting.</p>
+
+<p>Ubuntu now have a great network manager, but none of the other items! Maybe it has a better log system monitor, I haven't checked. But I doubt it.</p>
+
+<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
+
+<p>One of those items keep coming back. <strong>rsync</strong>. I wondered why we still haven't got this right anywhere, <strong>specially</strong> in Ubuntu where it should be easy to implement. Why not?!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686</link>
+          <pubDate>Sun, 16 Aug 2015 04:45:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7686</guid>
+          <source url="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
+        </item>
+        <item>
+          <title>What&#39;s wrong with our education system?</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>(long way to go - draft)</p>
+
+<p>A lot of things. The basic one, for the first 13 years or so, which most people begin around 4 years old, can learn a lot from alternative initiatives. <a href="http://eduontour.weebly.com/">http://eduontour.weebly.com/</a></p>
+
+<p>And certificates are mostly broken. Even the better ones.</p>
+
+<p>But here I want to talk about graduation, because that's what affects me the most.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601</link>
+          <pubDate>Fri, 08 May 2015 22:14:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7601</guid>
+          <source url="http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601.rss">What&#39;s wrong with our education system?</source>
+        </item>
+        <item>
+          <title>Because money isn&#39;t everything</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Not so sure why <a href="http://gmailblog.blogspot.com.br/2015/03/smartbox-by-inbox-mailbox-of-tomorrow.html">I'</a>m writing this whole post...</p>
+
+<p>I'm all in favor of capitalism and looking forward to the next big thing in economy. Maybe the world after the bitcoin apocalypse will be different enough to deserve a brand new name for the then novel economic order. But up to now, money does make some things more complicated than they should be.</p>
+
+<p>And I do think <a href="http://payitforwardday.com/">creating a day for "paying forward"</a> completely destroys the purpose! The <a href="https://www.youtube.com/watch?v=_pCtXRP1edo">original idea</a> is also not that good. Way <strong>too much utopic</strong>! No surprise it didn't work. At least not as clearly and quickly as in the movie. I still think it does have its value and so...</p>
+
+<p>Today I <strong>would</strong>(*) want to pay forward my best customers. Not just 3 of them, all of them. Though I can't say all my paying clients are great customers.</p>
+
+<p>What constitutes a great customer, though? How can I classify you guys? What would happen to the ones left aside? How would I react myself if a supplier of mine would do something similar?</p>
+
+<p>Well, I believe my company can pick and choose, and so I <strong>would</strong>(*). I also like to believe if it was done to me, I would stop and reflect on what I've been doing wrong, and try to improve. Though I might just leave, thinking I could never make it right with such high standards <strong>or</strong> even due to criterias I simply don't agree with. Even worst, I could get emotional and leave in anger, thinking "what a jerk". Of course.</p>
+
+<p>I <strong>would</strong>(*) be choosing the best (argh) ones based on my own biased criteria. And it's very hard to choose how to pay you, because one of my criteria would be getting <strong>the ones who wouldn't really care about all this</strong>. Or at least that I perceive them as such.</p>
+
+<p>Other very subjective criteria (not limited to):</p>
+
+<ul>
+<li>you do your homework, do your research, give your best to help me on helping you.</li>
+<li>show effort in reading since most of our communication happens through text and I've wrote a lot to help you already.</li>
+<li>persuade me you did appreciate my work, because I did my best for every single one of you. People have always been my priority.</li>
+</ul>
+
+<p>I was thinking about the movie, which I didn't watch at full... "<em>What can I do for you, that you couldn't do yourselves?</em>". Well, the answer is pretty obvious. You've already had the trouble to pay me to do it! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+
+<p>So, my plan is getting my free time this month, going through the websites from <a href="http://talk.cregox.com/groups/customers/members">all of you who did register on these forums</a> (plus a few more old ones who never had the chance of doing so) and trying my best to figure out something nice to set up.</p>
+
+<p>I'll probably not be able to do it properly with everyone, and I'm not sure how to proceed after that... But at very least I'll have something done, even if only an unlisted page which you may be able to use it later. If you don't like it, I hope you'll at least realize the value of this attempt. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sweat_smile.png?v=0" title=":sweat_smile:" class="emoji" alt="sweat_smile" width="20" height="20"> </p>
+
+<p>Of course I do have some "hidden" goals with doing this, it's not all that <a href="http://en.wikipedia.org/wiki/Altruism"><em>altruistic</em></a>. <strong>It never is</strong>. It's our nature to fight for our own lives or else we'd be already dead. In the end, I want to help building up a better humanity (for myself including). Maybe the most selfish thing I want from all that is the satisfying feeling in knowing I did help. That I did matter. I guess the human meaning of <em>selflessness</em> could be something like "<em>helping another person more than yourself</em>". Funny thing how important it is to us to be that person.</p>
+
+<h2>Anyway...</h2>
+
+<p>After writing all to this point, reading again, remaking a few parts I did change one point... This point (*). Would. It used to say "will". Not anymore.</p>
+
+<p>Instead of going with only the best customers, I'll just pay forward to all. All paid me and I did participate on the whole negotiation and agreements. If it wasn't a good enough deal for me, I'm to blame as well. But I will still classify the best ones who will still get more. More attention, more dedication. I think it's only fair. There should be some weight there... And there's probably no reason I should pick just a few as I wanted before.</p>
+
+<p>There is much research that shows people might prefer getting a ticket for a huge bonus than sharing it with everyone and getting so little. Lottery probably exists for this very reason. Although maybe it exists because people are just too lazy or busy to think about it. Hey, I even play the lottery myself even if I don't agree with most of its existence! My rationale is:</p>
+
+<blockquote><p>I'm spending much less on lottery than on taxes and I'm at least helping making someone really happy, while taxes, at least in my country, help just a handful of corrupt people. I'd also rather be much more on the other end of the lottery ticket than on a government institution getting paid for doing a service I should be doing for free.</p></blockquote>
+
+<p>Of course main reason I play it is to have a shot at it... But that's just while I don't achieve my own financial freedom. I wonder if it would be actually really possible for everyone in the planet to achieve such a status, and how long it should take. Right now the common sense would tell us, 18-21 year old should be there, without needing to invest any money, but that's obviously not true.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/because-money-isnt-everything/7516">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/because-money-isnt-everything/7516</link>
+          <pubDate>Thu, 02 Apr 2015 00:30:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7516</guid>
+          <source url="http://talk.cregox.com/t/because-money-isnt-everything/7516.rss">Because money isn&#39;t everything</source>
+        </item>
+        <item>
+          <title>More about me (big draft)</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <blockquote><p>In 2014 a friend offered me a gig for $1k to make his web page secure, he was making a simple web game that would be worth some prizes. I told him that was something I never did before, but we agreed I would do it. Then I've abandoned it in the first day, telling him I couldn't do it properly with such a short due date (about 2 weeks). Soon he found someone else who did it. Later on he showed me the final result. I was surprised I couldn't find a breach within 20 minutes, but it still took me less than 1 hour to find it, to which I could have abused and win over $1k in prizes. Instead I just told him what was the glitch, and he thanked me.</p></blockquote>
+
+<p>I think I'll start my old ages early, by telling everyone about little stories like this.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/more-about-me-big-draft/7409">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/more-about-me-big-draft/7409</link>
+          <pubDate>Thu, 19 Feb 2015 18:41:58 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7409</guid>
+          <source url="http://talk.cregox.com/t/more-about-me-big-draft/7409.rss">More about me (big draft)</source>
+        </item>
+        <item>
+          <title>Please, keep the critical thinking always on</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>( picture to be edited in with all big skeptics guys. for now the list is: penn &amp; teller, carl, steven, neil, randi and bill nye )</p>
+
+<p>That's it, for the random advice of the day. Keep thinking on!</p>
+
+<hr>
+
+<p>to do: tweet about this.<br><span class="mention">@alydenisof</span> random internet advice to (anyone actually) random actor I just started to follow: please be #skeptic ( link here ) !</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342</link>
+          <pubDate>Tue, 03 Feb 2015 14:05:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7342</guid>
+          <source url="http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342.rss">Please, keep the critical thinking always on</source>
+        </item>
+        <item>
+          <title>Big wip - A world with true free speech</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="http://9gag.tv/p/a50pYj/would-you-do-it-if-mom-could-hear-you" class="onebox" target="_blank">http://9gag.tv/p/a50pYj/would-you-do-it-if-mom-could-hear-you</a></p>
+
+<div class="lazyYT" data-youtube-id="7FI2LY4dk-s" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque&amp;start=178"></div>
+
+<p>Now imagine those "moms" being catched by their dads while dressed like that.</p>
+
+<p>Society should indeed help each other to better behave within society itself, even enforce it sometimes, but not by apprehending how people express themselves. Free speech might be about govern reprehension but the govern is (or should be) just society ruling. Dressing, moving and talking are simple ways of self expression. You could argue punching in the face should also be covered by free speech rights, so where to draw the line? Well, while we don't change the whole system the line will keep moving. Laws are doomed to be abused, because they will always give a window for a new way of expression. And why people keep abusing it? For attention. Anything new brings attention.</p>
+
+<p>And how can we change a system? "Just" effectively change any of the core variables in the vicious cycle.</p>
+
+<p>people still have way too much sexual repressions. Centuries ago people would react just like that to a kid looking at a girl and smiling. Meanwhile, if it was a gag and there was a camera, they would both laugh. The only reason people get angry is the perceived reason behind it, and that's in the eye of the beholder who thinks the got all the answers to how everyone should behave.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061</link>
+          <pubDate>Tue, 27 Jan 2015 17:26:37 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7061</guid>
+          <source url="http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061.rss">Big wip - A world with true free speech</source>
+        </item>
+        <item>
+          <title>Revolutionizing education</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>I just saw the following video which I found in <a href="http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education?utm_content=bufferc3784&amp;utm_medium=social&amp;utm_source=plus.google.com&amp;utm_campaign=buffer">fucking love science</a>:<br></p><div class="lazyYT" data-youtube-id="GEmuEWjHr5c" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+
+<p>To me, <a href="https://www.youtube.com/user/1veritasium">Veritasium</a> is this cool youtube channel like <a href="https://www.youtube.com/user/Vsauce">Vsauce</a>, which greatly compiles their own <a href="http://www.cregox.com/blog/2014/04/take-at-least-30-minutes-to-read-this.html"><strong>skeptical</strong> research</a> into well explained videos. Unlike Michael (on the few videos I saw from Derek) he takes sides. Very much like I do... Except it's usually a side I wouldn't take.</p>
+
+<p>In this case, he says technology never revolutionized education, <strong>and still won't</strong>. From his point of view, I agree. But I think there's more to it.</p>
+
+<p>For full disclosure, I recently started working in ways to make technology revolutionize education. Different from anything I did before, I feel it in my blood this is my goal in life. I know it's a far stretch goal and there's every chance <a href="http://cauecmrego.blogspot.com.br/2014/05/i-have-failed-now-what.html">I'll fail</a> again, but as of today I think I'll have to keep trying.</p>
+
+<p>Probably not today, but it's very easy to predict eventually there will come an artificial intelligence able to trigger that learning process in the mind of most. A personal teacher. That's not to say it will be needed like that, but that kind of intelligence will arise sooner or later as long as we keep advancing with computers.</p>
+
+<p>And today technology have already revolutionized the way we socialize. Since telephones, which made it possible to talk at great distances and completely changed how diplomacy work, to smartphones, videogames and airplanes, which makes us interact with people we never would otherwise, in ways we would never be able to.</p>
+
+<p>Computer technology (which by the way is just one kind of technology) already makes us interact socially in a completely different way. And who's to say that's not also a learning process? Who's to say we can't be educated in completely different ways with that alone?</p>
+
+<p>Can't we learn how to read, hack google, conduct an orchestra, become a CEO or perform a brain surgery without going to a school? Without a single teacher?</p>
+
+<p>Why not?</p>
+
+<p>In my humble opinion technology can and eventually will be able to teach a born baby how to walk and speak, if needed. If needed. Yes to cyborgs. Like you've never seen one.</p>
+
+<p>To see a revolution it may depend only on what you choose to look at, and at what time frame. What "<a href="http://en.wikipedia.org/wiki/Revolution">revolution</a>" even means, anyway? I rather not go into that etymological hole this time.</p>
+
+<p>The main point is how to enable a new education system which can teach valid data to everyone? Or what would happen if everyone in the planet could be well educated enough to avoid wasting time in so much useless conflicts? Does everyone even want to get there? There is indeed no single technology we could come up with today which would do anything close to that.</p>
+
+<p>But if we set that as a goal, we got to begin somewhere. Where?</p>
+
+<p>Make a group. A small group. Make the goal crystal clear within it. Grow. Spread.</p>
+
+<p>(to be continued)</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/revolutionizing-education/5866">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/revolutionizing-education/5866</link>
+          <pubDate>Thu, 18 Dec 2014 10:05:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-5866</guid>
+          <source url="http://talk.cregox.com/t/revolutionizing-education/5866.rss">Revolutionizing education</source>
+        </item>
+        <item>
+          <title>DOTA counter strike style</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>If you're looking for the next thing to do, title is pretty descriptive enough. But I'll elaborate.</p>
+
+<p>There are a few references to this, and <a href="https://talk.turtlerockstudios.com/t/what-are-you-playing/23904/89?u=cawas">I've posted this in the wrong place, which was properly ignored</a>:</p>
+
+<ul>
+<li>
+<a href="https://www.strife.com/welcome">Strife</a> pretty cool game, lightest of the kind. Best game interface ever. A lot copied from LoL.</li>
+<li>Heroes of Storm from Blizzard, got a lot of things right, but it's slower and heavier than needed to be.</li>
+</ul>
+
+<p>I just wished it would be without all that useless leveling crap. There's already at least one DOTA game (on the iPad) that does this.</p>
+
+<p>I'd also add a <strong>Counter Strike</strong> mode: remove the towers and make it a capture the flag (or destroy the base, whatever) for a short few minutes game. You die, back only in the next game. People would also be able to leave the game and join in at any time, no need for penalties whatsoever.</p>
+
+<p>There could be a Quake mode as well, in which you die and respawn after a few minutes.</p>
+
+<p>And voice talking, of course.</p>
+
+<p>Simple idea. Anyone knows if it's done already?</p>
+
+<p>Biggest advantage over FPS: ping. You can play DOTAs with higher ping than 100. Makes it possible to play it world wide. I'd even add an obligatory 200 ping or some number there (wow does make it around 200 anywhere in the world) to balance things out.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/dota-counter-strike-style/5812">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/dota-counter-strike-style/5812</link>
+          <pubDate>Tue, 16 Dec 2014 14:51:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-5812</guid>
+          <source url="http://talk.cregox.com/t/dota-counter-strike-style/5812.rss">DOTA counter strike style</source>
+        </item>
+        <item>
+          <title>About the spoilers category</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>spoilers</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Originally this would be called "open draft" but I thought it was too big. Fuck closed drafts! Open source everything!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+
+<p>It's all a matter of organizing data, anyway.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-open-draft-category/5811">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-open-draft-category/5811</link>
+          <pubDate>Tue, 16 Dec 2014 14:41:52 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-5811</guid>
+          <source url="http://talk.cregox.com/t/about-the-open-draft-category/5811.rss">About the spoilers category</source>
+        </item>
+  </channel>
+</rss>

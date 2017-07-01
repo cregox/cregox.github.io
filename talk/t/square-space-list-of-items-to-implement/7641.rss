@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Square Space List of Items to Implement</title>
+    <link>http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641</link>
+    <description>[quote]
+Hi -
+
+We are using SquareSpace for our mobile site (Momentum Template).  We have a few custom tweaks we want to make for the page and would like a quote to implement the following items:
+
+-Reduce the space between lines for single items in the mobile menu.
+
+-Compress folders in the mobile menu (plus to expand)
+
+-Move the Nav bar to the bottom of the screen for mobile site only
+
+-Loop gallery (have arrow on last image to loop to the beginning of the gallery)
+
+-Use + sign instead of info sign (i in circle)
+
+-Remove header/header space on pages
+
+-Keep gallery view background opaque with menus still transparent.
+
+ 
+
+Please let me know if these items are possible as well as a quote for how long it would take.
+
+ 
+
+Thank you,
+
+Meghann
+[/quote]</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2015 19:59:34 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Square Space List of Items to Implement</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Thanks!  I will let you know what we decide.</p>
+<p>Best</p>
+<p>Meghann Dubie</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/3</link>
+        <pubDate>Tue, 09 Jun 2015 19:59:00 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7641-3</guid>
+        <source url="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641.rss">Square Space List of Items to Implement</source>
+      </item>
+      <item>
+        <title>Square Space List of Items to Implement</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>For info on how I work, prices and how long it can take, please do read carefully <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> and let me know if it's clear enough.</p>
+
+<p>Most of those items are a matter of implementing <em>CSS</em>, very possible stuff.</p>
+
+<p>The arrow on last image to loop into beginning of gallery is a <em>script for gallery</em>, which I'd do in <em>jQuery</em>. Also possible, but changing any gallery behaviour is always quite complicated, partially because squarespace is still using <em>YUI</em>.</p>
+
+<p>Moving the nav bar could be complex, I'll only know once I try.</p>
+
+<p>The only point I'm not sure what you want is "plus to expand" because you say "compress". I suppose you mean making the mobile menu disappear like it happens in other templates into a compact hamburger menu button. That also could turn to be complex and I'll have to do it to know.</p>
+
+<p>So, I believe I'd spend anything between 1 hour and 3 hours, but that's just an estimate.</p>
+
+<p>Ideally you'd <a href="http://cregox.com/pay">pay</a> me for 3 hours ( U$ 369 ) and we'd go from there.</p>
+
+<p>Let me know if you want a video.</p>
+
+<p>If you want me to work straight on squarespace I'd <a href="http://help.squarespace.com/guides/managing-contributor-permissions">need admin access</a> and can only offer 50% refund.</p>
+
+<p>In other case you either have to implement it yourself or may need to pay extra time for me to do it.</p>
+
+<p>Hope to hear from you! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/2</link>
+        <pubDate>Tue, 02 Jun 2015 22:35:49 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7641-2</guid>
+        <source url="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641.rss">Square Space List of Items to Implement</source>
+      </item>
+      <item>
+        <title>Square Space List of Items to Implement</title>
+        <dc:creator><![CDATA[@system system]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi -</p>
+<p>We are using SquareSpace for our mobile site (Momentum Template).  We have a few custom tweaks we want to make for the page and would like a quote to implement the following items:</p>
+<p>-Reduce the space between lines for single items in the mobile menu.</p>
+<p>-Compress folders in the mobile menu (plus to expand)</p>
+<p>-Move the Nav bar to the bottom of the screen for mobile site only</p>
+<p>-Loop gallery (have arrow on last image to loop to the beginning of the gallery)</p>
+<p>-Use + sign instead of info sign (i in circle)</p>
+<p>-Remove header/header space on pages</p>
+<p>-Keep gallery view background opaque with menus still transparent.</p>
+<p>Please let me know if these items are possible as well as a quote for how long it would take.</p>
+<p>Thank you,</p>
+<p>Meghann</p>
+</blockquote></aside></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641/1</link>
+        <pubDate>Tue, 02 Jun 2015 20:36:20 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7641-1</guid>
+        <source url="http://talk.cregox.com/t/square-space-list-of-items-to-implement/7641.rss">Square Space List of Items to Implement</source>
+      </item>
+  </channel>
+</rss>

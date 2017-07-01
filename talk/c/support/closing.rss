@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>closing - cregox talk</title>
+    <link>http://talk.cregox.com/c/support/closing</link>
+    <description>Topics in the &#39;closing&#39; category &lt;a href=&quot;http://talk.cregox.com/c/support&quot;&gt;Supporting &quot;tickets&quot;&lt;/a&gt; that are already basically finished and will be automatically closed 2 months after latest reply.</description>
+    <language>en</language>
+      <lastBuildDate>Wed, 21 Oct 2015 10:31:06 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/support/closing.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Removing links from gallery/summary in squarespace</title>
+          <dc:creator><![CDATA[@Clare_Carpenter Clare ]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/clare_carpenter">@Clare_Carpenter</a> wrote:</p>
+            <blockquote>
+              <p>Hi there,</p>
+
+<p>I saw this post <a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513">http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513</a> </p>
+
+<p>But I'm still stuck and was wondering if you would be able to help me? </p>
+
+<p>I want to remove the links on two pages which have summary galleries on them, one is here <a href="http://www.insigniamedical.co.uk/our-team/" rel="nofollow">http://www.insigniamedical.co.uk/our-team/</a> and one isnt live yet. </p>
+
+<p>However I don't want this to effect any other blocks on other pages.</p>
+
+<p>Any advice very much appreciated </p>
+
+<p>Clare</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735</link>
+          <pubDate>Wed, 21 Oct 2015 10:31:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7735</guid>
+          <source url="http://talk.cregox.com/t/removing-links-from-gallery-summary-in-squarespace/7735.rss">Removing links from gallery/summary in squarespace</source>
+        </item>
+        <item>
+          <title>About the closing category</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><a href="http://talk.cregox.com/c/support">Supporting "tickets"</a> that are already basically finished and will be automatically closed 2 months after latest reply.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/about-the-closing-category/7634">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/about-the-closing-category/7634</link>
+          <pubDate>Fri, 22 May 2015 13:59:05 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7634</guid>
+          <source url="http://talk.cregox.com/t/about-the-closing-category/7634.rss">About the closing category</source>
+        </item>
+        <item>
+          <title>Multiple buttons on header, with a popup email form</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/banner-images-cut-off/7579/4">Banner images cut off :/</a>:</p>
+
+<aside class="quote" data-post="3" data-topic="7579"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/3_64b268823de25c3c4365087b878b9ba2.png" class="avatar">Kate:</div>
+<blockquote>
+<p>I have a project coming up that I have a question for you on…<br>I am using the Bryant template for a client site. Can you add in multiple buttons on the header image instead of just the one that I can achieve using the site description box?</p>
+<p>If so, what would be the cost to have 4 buttons across the header? Could you make this happen with CSS?</p>
+</blockquote></aside>
+
+<aside class="quote" data-post="4" data-topic="7579" data-full="true"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/3_64b268823de25c3c4365087b878b9ba2.png" class="avatar">Kate:</div>
+<blockquote><p>I am wondering what the cost would be for you to add in 3 buttons on the header of the bryant template that have the ability to “pop up” with a form that says “coming soon” and have a space to leave an email address?</p></blockquote></aside>
+
+<p>Oh boy. This is not good. I'm afraid it'd be more expensive than (I <em>guess</em>) anyone would be willing to pay.</p>
+
+<p>All that sounds to me <strong>way more complicated</strong> than they should. I mean, I I were a squarespace customer who knows nothing about programming or how websites are built, I can easily see how frustrating this can look. "How come we can do all that on the page, but not on the title?" I would ask myself. It's quite an unfortunate limitation indeed! Except maybe for the popup, that is not really provided.</p>
+
+<p>In any case...</p>
+
+<p>Adding a popup message is simple enough, <a href="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445/3?u=cawas">I've done it before</a>. "Building" a form inside it to leave an email addres is <strong>much</strong> more complex and not so trivial, although it's also not <em>too hard</em> to do. The tricky part is how to add content, like with the <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476?u=cawas">video banner</a>. The same for making the 4 buttons across the header.</p>
+
+<p>The total cost would be U$444.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/multiple-buttons-on-header-with-a-popup-email-form/7583">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/multiple-buttons-on-header-with-a-popup-email-form/7583</link>
+          <pubDate>Sat, 02 May 2015 00:32:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7583</guid>
+          <source url="http://talk.cregox.com/t/multiple-buttons-on-header-with-a-popup-email-form/7583.rss">Multiple buttons on header, with a popup email form</source>
+        </item>
+        <item>
+          <title>Squarespace Help such as Centering Logo and Reducing Spaces</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p><aside class="quote"><blockquote>
+<p>Hi!  I run a small web design company using Squarespace templates and found<br>you when looking for Squarespace specialists.</p>
+<p>I am looking for a developer who can help me institute features that aren't<br>standard on Squarespace templates.  For example, 2 things I'd like help<br>with are:</p>
+<p>+ How to center the logo in the Bedford template, with page links on either<br>side, like the Pacific Template <a href="http://pacific-demo.squarespace.com">http://pacific-demo.squarespace.com</a>.</p>
+<p>+How to reduce spaces between images, so they can be closer together, like<br>the social media icons attached below.  (The first image is the site, and<br>the second is how I'd like the social media icons arranged.  Squarespace<br>automatically pads the images so you can't get them closer to each other<br>and I need to find a way around this.)</p>
+<p>Are you available to take on this kind of work?</p>
+<p>Ideally, it would be a working relationship where I could use your<br>development expertise, and occasionally even refer you clients for more<br>complicated projects.</p>
+<p>Thank you so much and hope to hear from you!</p>
+<p>Courtney</p>
+</blockquote></aside></p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/7485a2f5b2f45093c9b53f98f2aa159da3de297a" href="//talk-cdn.cregox.com/uploads/default/98/b03311679090587c.png" class="lightbox" title="Screen Shot 2015-04-29 at 1.36.37 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/ac9/043/ffb6aadd7e_690x441.png" width="690" height="441"><div class="meta">
+<span class="filename">Screen Shot 2015-04-29 at 1.36.37 PM.png</span><span class="informations">1705x1092 1010 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/b608bc2ab1df340fd149bff47bba6d3c6820db07" href="//talk-cdn.cregox.com/uploads/default/99/255c84b825166c01.png" class="lightbox" title="Screen Shot 2015-04-28 at 6.28.26 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/ac6/2c2/1bce960db0_690x142.png" width="690" height="142"><div class="meta">
+<span class="filename">Screen Shot 2015-04-28 at 6.28.26 PM.png</span><span class="informations">1063x220 581 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580</link>
+          <pubDate>Fri, 01 May 2015 14:06:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7580</guid>
+          <source url="http://talk.cregox.com/t/squarespace-help-such-as-centering-logo-and-reducing-spaces/7580.rss">Squarespace Help such as Centering Logo and Reducing Spaces</source>
+        </item>
+        <item>
+          <title>Banner images cut off :/</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>kate@morcreative.net:</div>
+<blockquote>
+<p>Hi Caue,<br>hope you are well~</p>
+<p>I am running into an issue on the basis med site gallery banners you put together a hill back…it seems all the sudden the container height for the banner image has gotten shortened? can you please take a look and tell me what my have gone wring? the images are being cut off<br><a href="https://kate-bosse-87i3.squarespace.com/config#/%7C/partners" class="onebox" target="_blank">https://kate-bosse-87i3.squarespace.com/config#/|/partners</a> <a href="https://kate-bosse-87i3.squarespace.com/config#/%7C/partners">https://kate-bosse-87i3.squarespace.com/config#/%7C/partners</a><br><a href="https://kate-bosse-87i3.squarespace.com/shopproducts/" class="onebox" target="_blank">https://kate-bosse-87i3.squarespace.com/shopproducts/</a> <a href="https://kate-bosse-87i3.squarespace.com/shopproducts/">https://kate-bosse-87i3.squarespace.com/shopproducts/</a></p>
+<p>I believe the banner height used to be set the same as all the other static banners on the site (https://kate-bosse-87i3.squarespace.com) but now that doesn’t seem to be the case?</p>
+<p>Thanks so much!<br>Kate</p>
+<p>M O R  C R E A T I V E<br>KATE BOSSE<br>WWW.MORCREATIVE.NET<br>DIRECT: 813.235.5093</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://talk.cregox.com/t/banner-images-cut-off/7579">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/banner-images-cut-off/7579</link>
+          <pubDate>Thu, 30 Apr 2015 18:35:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7579</guid>
+          <source url="http://talk.cregox.com/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
+        </item>
+        <item>
+          <title>Help with making my website&#39;s calendar alive while keeping it good lookin&#39;</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>kajmak@gmail.com:</div>
+<blockquote>
+<p>Hi Cregox,</p>
+<p>Squarespace have directed me to their list of Specialists to address following inquiry…</p>
+<p>Obviously I have a website on the Squarespace platform and the aesthetics is what brought me to it. The website is about a holiday house rental on the Croatian coast I’ve renovated and redesigned. The whole project has a specific aesthetics and design and I wanted the website to follow it up.</p>
+<p> I am saying all this because my question to you is about the calendar on the website. The way it looks is how I would like to have it in the future as well.  I don’t need a proper book it yourself interactive calendar since I want to have a chat with all of our future guests. The “only” thing what I would like to change is that the calendar is within the website. At the moment, it is a vector file in Illustrator and with every booking that is being made I export new bitmap image and upload it. Its also not a major work but I would love if in the future somebody else can run the whole booking process and the website without me around. So, my question for you is if it is possible to program my calendar to become some sort of add on or application within my website’s Squarespace control pages. All I want this calendar to be able to do is: to be able to load a new year when the time comes, to be able to individually delete the booked dates, to be able to bring back already deleted dates in the case of cancelled bookings. That’s about it.<br>Obviously the most important thing for you first is to see what am I talking about… There it is the website:</p>
+<p>kucakamena.com <a href="http://kucakamena.com/">http://kucakamena.com/</a></p>
+<p>… and the calendar page:</p>
+<p>kucakamena.com/availability/ <a href="http://kucakamena.com/availability/">http://kucakamena.com/availability/</a></p>
+<p>The Squarespace have already said it would be possible to implement something like that into the theme.</p>
+<p>I am looking forward hearing back from you with your opinion about my inquiry, or even better price straight away..</p>
+<p>Kind regards</p>
+<p>Boris Kajmak</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="http://talk.cregox.com/t/help-with-making-my-websites-calendar-alive-while-keeping-it-good-lookin/7571">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/help-with-making-my-websites-calendar-alive-while-keeping-it-good-lookin/7571</link>
+          <pubDate>Fri, 10 Apr 2015 20:56:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7571</guid>
+          <source url="http://talk.cregox.com/t/help-with-making-my-websites-calendar-alive-while-keeping-it-good-lookin/7571.rss">Help with making my website&#39;s calendar alive while keeping it good lookin&#39;</source>
+        </item>
+        <item>
+          <title>Can you make this specific form?</title>
+          <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+            <blockquote>
+              <p>Hi, please look at the following site: <a href="http://www.telefinans.no" rel="nofollow">http://www.telefinans.no</a></p>
+
+<p>Is it possible to make a form that is similar to the one used at this page?<br>If yes, what is the estimated time/cost on this project?</p>
+
+<p>Best regards,<br>Tor Martin</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530</link>
+          <pubDate>Thu, 09 Apr 2015 12:52:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7530</guid>
+          <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        </item>
+        <item>
+          <title>Metrics on search bar</title>
+          <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+            <blockquote>
+              <p>Hi Caue,</p>
+
+<p>I have a question for you- a client would like a search bar added to their website. However, the client wants the search bar to be able to collect the search terms that people search for so that he can look at those results and analyze them to see if he is offering the right products.</p>
+
+<p>Is this possible? Could you do this?</p>
+
+<p>Thanks!
+Kate</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/metrics-on-search-bar/7525">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/metrics-on-search-bar/7525</link>
+          <pubDate>Mon, 06 Apr 2015 20:12:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7525</guid>
+          <source url="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
+        </item>
+        <item>
+          <title>Adding gift card support on squarespace, rather than coupons</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>janis@may28th.me:</div>
+<blockquote>
+<p>Hey there,<br>I found you listed as developers for squarespace and wanted to see if you<br>would have any interest in helping us out. We have an online store looking<br>for a solution to have gift card support in squarespace.</p>
+<p>As you might know squarespace only has coupon support and a true gift card<br>functionality is not available. Do you have any ideas how to have a<br>workaround that would support :<br>- checkout with a unique coupon that covers price of product and shipping.<br>i.e. 39+5$<br>- automated way of selling a gift card on the same store, so no manual<br>labor is needed.</p>
+<p>Cheers and let me know your thoughts on this and possible timeline/pricing.</p>
+<p>[image: Inline image 3]<br><a href="http://may28th.me/" class="onebox" target="_blank">http://may28th.me/</a><br><em>Janis</em><br>Technical Director<br><a href="http://www.may28th.me">www.may28th.me</a></p>
+<p>[image: May28th on Twitter] <a href="https://twitter.com/MAY28TH">https://twitter.com/MAY28TH</a> [image: May28th]<br><a href="https://www.facebook.com/may28th.me">https://www.facebook.com/may28th.me</a> [image: May28th on Tumblr]<br><a href="http://www.tumblr.com/tagged/may28th">http://www.tumblr.com/tagged/may28th</a> [image: May28th]<br><a href="http://www.pinterest.com/may28th/">http://www.pinterest.com/may28th/</a> [image: May28th on Tumblr]<br><a href="http://eepurl.com/Nyh6T" class="onebox" target="_blank">http://eepurl.com/Nyh6T</a></p>
+</blockquote></aside>
+
+<p><img src="//talk-cdn.cregox.com/uploads/default/88/5bb7f0be708cafe0.png" width="36" height="50"></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/adding-gift-card-support-on-squarespace-rather-than-coupons/7515">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/adding-gift-card-support-on-squarespace-rather-than-coupons/7515</link>
+          <pubDate>Wed, 01 Apr 2015 20:04:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7515</guid>
+          <source url="http://talk.cregox.com/t/adding-gift-card-support-on-squarespace-rather-than-coupons/7515.rss">Adding gift card support on squarespace, rather than coupons</source>
+        </item>
+        <item>
+          <title>Remove any image click / link / lightbox from gallery page</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>no-reply@squarespace.com:</div>
+<blockquote>
+<p>Name: Tjaart Lehmacher</p>
+<p>Email Address: tjaart@helpingbrands.care</p>
+<p>Subject: Custom coding assistance with a Squarespace site required, please</p>
+<p>Message: Caue,</p>
+<p>As you can see from this email's subject I'm in need of some custom CSS<br>support and here's hoping you will be able to come to my aid.</p>
+<p>I have chosen the Wexley template for my Squarespace site and there's a<br>couple of changes I would like to make on this template however I don't<br>have ANY coding experience whatsoever. I've asked the following question on<br>the Squarespace Answers forum with no luck so far and I'm amazed that no<br>one their can support me with this because I don't feel that this one<br>change presents itself as a worthy challenge for someone to resolve with<br>CSS knowledge.</p>
+<p>Anyway, here's the one question:</p>
+<p>How do I disable the lightbox slideshow feature in the Wexley template's<br>gallery grid with custom CSS?</p>
+<p>In other words one would NOT be able to click on any image (b/w teen<br>photos) in the gallery grid (to open a lightbox slideshow) I want the<br>images on the home page's gallery to display as is in the grid only without<br>them being clickable – I want the images to display-only WITHOUT the<br>clickthrough to the lightbox.</p>
+<p>My site's URL (which is still a work-in-progress): helpingbrands.care</p>
+<p>On the forum I was able to find some code suggestions similar to my<br>predicament which I had to customise somewhat to fit my site however with<br>no coding knowledge, no luck was on the horizon. Have a look at:</p>
+<p><a href="http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block" class="onebox" target="_blank">http://answers.squarespace.com/questions/70489/remove-the-gallery-links-in-a-summary-block</a></p>
+<p>And:</p>
+<p><a href="http://answers.squarespace.com/questions/35218/disable-grid-views-lightbox" class="onebox" target="_blank">http://answers.squarespace.com/questions/35218/disable-grid-views-lightbox</a></p>
+<p>Anyway, here's hoping you can help me.</p>
+<p>With optimism.<br>Tjaart L.</p>
+<p>PS. There could be more custom CSS I might require with this site and I<br>have no problem remunerating you for your time.</p>
+<p>(Sent via cregox <a href="http://www.cregox.com">http://www.cregox.com</a> )</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 4</p>
+            <p><a href="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513</link>
+          <pubDate>Wed, 01 Apr 2015 07:27:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7513</guid>
+          <source url="http://talk.cregox.com/t/remove-any-image-click-link-lightbox-from-gallery-page/7513.rss">Remove any image click / link / lightbox from gallery page</source>
+        </item>
+        <item>
+          <title>Problems with the gallery on basis page</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>kate@morcreative.net:</div>
+<blockquote><p>its fixed ! thank you!</p></blockquote></aside>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/problems-with-the-gallery-on-basis-page/7512">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/problems-with-the-gallery-on-basis-page/7512</link>
+          <pubDate>Tue, 31 Mar 2015 19:01:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7512</guid>
+          <source url="http://talk.cregox.com/t/problems-with-the-gallery-on-basis-page/7512.rss">Problems with the gallery on basis page</source>
+        </item>
+        <item>
+          <title>Animated GIFs versus videos on background</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/26">Using a gallery instead of the template banner</a>:</p>
+
+<aside class="quote" data-post="26" data-topic="7476" data-full="true"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote>
+<p>what would it take to get a longer loop on my new GIF banner? Right now I can only upload a 5 second GIF to SS it seems-  anything larger than that gets cut off.<br><a href="https://kate-bosse-1pyu.squarespace.com" class="onebox" target="_blank">https://kate-bosse-1pyu.squarespace.com</a></p>
+<p>Would love to know what you would think of for a solution</p>
+</blockquote></aside>
+
+<aside class="quote" data-post="28" data-topic="7476"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote><p>You think there's any way around it? Would it be worth trying javascript to tell the browser to replace these gifs with new ones every 5 seconds after preloading them, so it looks seamless to add in more?</p></blockquote></aside>
+
+<p>I can't think of any good way that would be worth the trouble.</p>
+
+<p>Squarespace <a href="http://help.squarespace.com/guides/how-should-i-format-my-images-for-display-on-the-web">limits images to 20mb</a>, even if GIFs could be much bigger.</p>
+
+<p>For your actually pretty good idea, you'd need at least 2 complicated things done:</p>
+
+<ul>
+<li>Script to precisely change one gif for another. It might be quite hard to sync and it can easily lose sync because there's no control over the gif playback.</li>
+<li>Make the many GIFs properly synced. You probably have the files in video format first.</li>
+</ul>
+
+<p>Maybe the best bet if you want to insist on going GIF would be using a smaller size, even much smaller than 320x200</p>
+
+<p>Meanwhile...</p>
+
+<p>When using a video there's no sync needed and no gif making process. And the script to use the video is also much simpler than a script to properly and quickly change gifs with precision.</p>
+
+<p>I'd say the only real downside on going video is uploading it to vimeo, youtube or some good streaming service.</p>
+
+<aside class="quote" data-post="30" data-topic="7476"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<blockquote><p>could you tell me the cost to put up a video instead?</p></blockquote></aside>
+
+<p>That's generally <a href="http://answers.squarespace.com/questions/28211/adding-a-video-background">a tricky question</a>. It could be as simple as less than 1h and just adding this script:</p>
+
+<p></p><pre><code class="lang-auto">&lt;div style="position: fixed; z-index: 1000; width: 100%; height: 100%"&gt;
+&lt;iframe frameborder="0" height="100%" width="100%" 
+src="https://www.youtube.com/embed/aQsy17K84Ls?
+autoplay=1&amp;controls=0&amp;showinfo=0&amp;autohide=1"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;</code></pre>
+
+<p>Or quite complicated, while still being less than 2 hours, such as adding it as a full background with a text overlay on top, as seen <a href="http://gravitymovie.warnerbros.com/">in gravity</a> or <a href="http://www.dynamo6.com/">the one you had</a> for instance.</p>
+
+<p>And then for costs, you know <a href="http://cregox.com/your-home">the drill</a>. As I promised you, I can keep ya on the old table <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/2">up to April 18th</a>. Summing it up, it should cost no more than U$ 84.</p>
+            </blockquote>
+            <p>Posts: 17</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501</link>
+          <pubDate>Sat, 21 Mar 2015 16:15:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7501</guid>
+          <source url="http://talk.cregox.com/t/animated-gifs-versus-videos-on-background/7501.rss">Animated GIFs versus videos on background</source>
+        </item>
+        <item>
+          <title>Dynamic &quot;contact box&quot;</title>
+          <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+            <blockquote>
+              <p>Hi, </p>
+
+<p>I have a special request from a client. He wants a "contact box" that appears after some seconds.<br>This box has two choices, "sell estate" and "buy estate". If the user presses either of them, the user is promoted to a new contact box based on prior selection.</p>
+
+<p>"Sell estate" prompts  name, address and some other contact information.<br>"Buy estate" prompts area you want to live in, price range and other information that is essential for this contact box.</p>
+
+<p>This contact box should appear on all pages after some time, and would be a visual "call to action" button.</p>
+
+<p>Is it possible and what is the cost estimate on such an asset.</p>
+
+<p>Regards, <br>Tor Martin</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/dynamic-contact-box/7489">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/dynamic-contact-box/7489</link>
+          <pubDate>Thu, 19 Mar 2015 22:54:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7489</guid>
+          <source url="http://talk.cregox.com/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
+        </item>
+        <item>
+          <title>Squarespace set up inquiry - ref Mike Mills</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>alexgoosesays@gmail.com:</div>
+<blockquote>
+<p>Hi,</p>
+<p>I found you through Squarespace. I have an account already and a design. I am actually looking to get it set up so it looks pretty much exactly like <a href="http://www.mikemillsmikemills.com">www.mikemillsmikemills.com</a></p>
+<p>I want it set up so all I need to do is add the content and what not. I am looking to have the blog option and ecomm option as well - which came with the package I purchased.</p>
+<p>Could you let me know if you're interested and how much this would cost?</p>
+<p>I am looking to do this as soon as possible.</p>
+<p>Thanks,<br>Alex</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 3</p>
+            <p><a href="http://talk.cregox.com/t/squarespace-set-up-inquiry-ref-mike-mills/7484">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/squarespace-set-up-inquiry-ref-mike-mills/7484</link>
+          <pubDate>Sun, 15 Mar 2015 21:43:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7484</guid>
+          <source url="http://talk.cregox.com/t/squarespace-set-up-inquiry-ref-mike-mills/7484.rss">Squarespace set up inquiry - ref Mike Mills</source>
+        </item>
+        <item>
+          <title>Squarespace help quote - centering element</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>hello@stephzangeneh.com:</div>
+<blockquote>
+<p>Hello,</p>
+<p>I got your information from the Squarespace Specialist list.</p>
+<p>I'm having trouble with the Screenwriter cover page. I want the logo<br>centered both horizontally and vertically with the button or navigation<br>options below it. <a href="http://www.homesteaddesigncollective.com/">http://www.homesteaddesigncollective.com/</a></p>
+<p>Can you give me a quote on how much this would cost?</p>
+<p>Thanks,<br>Steph</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/squarespace-help-quote-centering-element/7478">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/squarespace-help-quote-centering-element/7478</link>
+          <pubDate>Thu, 12 Mar 2015 00:17:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7478</guid>
+          <source url="http://talk.cregox.com/t/squarespace-help-quote-centering-element/7478.rss">Squarespace help quote - centering element</source>
+        </item>
+        <item>
+          <title>Sqsp Specialist inquiry - blog thumbnails and author pictures</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>travis.aaberg@gmail.com:</div>
+<blockquote>
+<p>Hey Cregox,</p>
+<p>I found your listing on the Squarespace Specialists site. I'm looking for a<br>couple of quick tasks with my blog, eventgeek.com</p>
+<p>- Make the thumbnails images full width on the index page (or replace them<br>with the first image from the article)</p>
+<p>- Add author photo thumbnails to the index and article pages.</p>
+<p>Are you available?</p>
+<p>Thanks!</p>
+<p>Travis</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 24</p>
+            <p>Participants: 3</p>
+            <p><a href="http://talk.cregox.com/t/sqsp-specialist-inquiry-blog-thumbnails-and-author-pictures/7477">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/sqsp-specialist-inquiry-blog-thumbnails-and-author-pictures/7477</link>
+          <pubDate>Wed, 11 Mar 2015 20:15:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7477</guid>
+          <source url="http://talk.cregox.com/t/sqsp-specialist-inquiry-blog-thumbnails-and-author-pictures/7477.rss">Sqsp Specialist inquiry - blog thumbnails and author pictures</source>
+        </item>
+        <item>
+          <title>Using a gallery instead of the template banner</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Hey <a class="mention" href="/users/kate">@Kate</a>, remember this list we agreed on making item 2?</p>
+
+<ol>
+<li>You want a picture or a video on top header? That should be U$ 42</li>
+<li>You want a gallery on top header? U$ 210</li>
+<li>You want a different gallery on top header for each page? U$ 294</li>
+</ol>
+
+<p>Well, it so happened I had a different picture of what you wanted, and for what I now think you need it would be actually even simpler.</p>
+
+<p>I was thinking on moving the gallery on top of the header, not the page banner. So, item 3 is moot and I'll probably finish early...</p>
+
+<p><a href="https://kate-bosse-87i3.squarespace.com/home-copied" class="onebox" target="_blank">https://kate-bosse-87i3.squarespace.com/home-copied</a></p>
+
+<p>Please do verify this is almost what you want and bring on what else you need to change there. I would only make its height automatically big enough so we can see the video controls (which already happens on screen width 640px).</p>
+
+<p>I also still need to fix a few glitches I've noticed there... But it's almost ready already, as you hopefully could see there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+            </blockquote>
+            <p>Posts: 31</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476</link>
+          <pubDate>Wed, 11 Mar 2015 03:37:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7476</guid>
+          <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        </item>
+        <item>
+          <title>Could you help with building a site like this?</title>
+          <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+            <blockquote>
+              <p>Please look at this site: <a href="http://maaemo.no" rel="nofollow">http://maaemo.no</a></p>
+
+<p>It has some very Squarespace looking design, but the scrolling effects is very nice. Also the video in the background in a nice effect.</p>
+
+<p>We are planning a new site for a photographer, and the Maaemo site is a good reference both in design, structure and how the menu is done. It misses a nice way to show a galley, but I reckon that could be implemented.</p>
+
+<p>Is a site like this something you could help us with, and could you say something about price and time?</p>
+
+<p>Regards, <br>Tor Martin</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/could-you-help-with-building-a-site-like-this/7475">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/could-you-help-with-building-a-site-like-this/7475</link>
+          <pubDate>Mon, 09 Mar 2015 21:33:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7475</guid>
+          <source url="http://talk.cregox.com/t/could-you-help-with-building-a-site-like-this/7475.rss">Could you help with building a site like this?</source>
+        </item>
+        <item>
+          <title>Website Design and Price Plugins</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>hasssan.n30@gmail.com:</div>
+<blockquote>
+<p>Hello SquareSpace Maven,</p>
+<p>I'm trying to build a website on SquareSpace platform for my commodities<br>venture - <a href="http://www.goldbrex.com">www.goldbrex.com</a> but not the best designer out there.</p>
+<p>I need you to completely make the website amazing using best techniques of<br>UIX and graphic design techniques to have it up and running. Most<br>importantly. I need this live gold price plugin there -<br><a href="http://www.goldcorp.com/English/Home/default.aspx">http://www.goldcorp.com/English/Home/default.aspx</a> (top right hand corner)<br>also an interactive page with gold price from its inception to now graph<br>showcasing it (https://www.bullionvault.com/gold-price-chart.do)</p>
+<p>Please let me know if you are able to do this and provide me with a quote.</p>
+<p>Thanks!<br>-- <br>Hassan</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/website-design-and-price-plugins/7467">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/website-design-and-price-plugins/7467</link>
+          <pubDate>Sat, 07 Mar 2015 18:50:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7467</guid>
+          <source url="http://talk.cregox.com/t/website-design-and-price-plugins/7467.rss">Website Design and Price Plugins</source>
+        </item>
+        <item>
+          <title>List of small changes for Squarespace</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p><aside class="quote"><blockquote>
+<p><a href="mailto:hello@everafterpress.com">hello@everafterpress.com</a> wrote:</p>
+<p>Hello,</p>
+<p>I'm hoping you can help me with some small changes to my squarespace template..</p>
+<p>Could you please give me a quote to do the following things on my marquee template site, I would really like to make these changes as soon as possible, ideally by early next week, looking forward to hearing from you:</p>
+<p>1) Add code so that I can add my own sidebar to my blog/journal page.</p>
+<p>2) Change the colour of the directional scrolling arrow on my homepage to white - at the moment it is black and I can't change it.</p>
+<p>3) Allow me to change the colour of the sign up for newsletter button and type to the same grey as my other buttons/text.</p>
+<p>I can give you the log ins for my site so you can have a look but it is not live at the moment.</p>
+<p>Looking forward to hearing from you, and hopefully getting this done asap.</p>
+<p>Thank you so much!</p>
+<p>Emily</p>
+</blockquote></aside></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/list-of-small-changes-for-squarespace/7466">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/list-of-small-changes-for-squarespace/7466</link>
+          <pubDate>Fri, 06 Mar 2015 17:57:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7466</guid>
+          <source url="http://talk.cregox.com/t/list-of-small-changes-for-squarespace/7466.rss">List of small changes for Squarespace</source>
+        </item>
+        <item>
+          <title>Embed images at the top of website pages</title>
+          <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+            <blockquote>
+              <p>Hi Caue, </p>
+
+<p>Can you tell me what the cost would be to add in two small image blocks at the top of all pages on this site: <a href="http://www.expretio.com" rel="nofollow">www.expretio.com</a> here is a picture of where the image blocks need to go on every page (where the blue boxes are on the screen shot)<img src="/uploads/default/62/7896d94f37214b5f.jpg" width="690" height="143"> </p>
+
+<p>NOTE: The image blocks need to be able to link to different content on each and every page, no two image blocks will link to the same place.</p>
+
+<p>also, we may need to increase the padding on the top of the page (the white header bar) just a tiny bit so that the icons don't look squished in there. </p>
+
+<p>Thanks so much<br>Kate</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/embed-images-at-the-top-of-website-pages/7462">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/embed-images-at-the-top-of-website-pages/7462</link>
+          <pubDate>Thu, 05 Mar 2015 22:01:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7462</guid>
+          <source url="http://talk.cregox.com/t/embed-images-at-the-top-of-website-pages/7462.rss">Embed images at the top of website pages</source>
+        </item>
+        <item>
+          <title>[ContentChecked] Website Design Modifications</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>zach@contentchecked.com:</div>
+<blockquote>
+<p>Hey Caue - </p>
+<p>I apologise for such a belated response, we are at a very busy time in our company development and I was unable to repsond quickly to your creation. We were not impressed with the site that you had provided and as a result we are no longer pursuing your services. It was not delivered punctually and it was not what we had envisioned. Aside from that , you are a promising developper I am sure, I hope that you have success on your next venture. </p>
+<p>Best -</p>
+<blockquote></blockquote>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/contentchecked-website-design-modifications/7460">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/contentchecked-website-design-modifications/7460</link>
+          <pubDate>Thu, 05 Mar 2015 18:54:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7460</guid>
+          <source url="http://talk.cregox.com/t/contentchecked-website-design-modifications/7460.rss">[ContentChecked] Website Design Modifications</source>
+        </item>
+        <item>
+          <title>E-commerce on Squarespace</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <aside class="quote"><div class="title">
+<div class="quote-controls"></div>safi.tvb@youngandboldafrican.com:</div>
+<blockquote>
+<p>Hello,</p>
+<p>I have a website with Squarespace and I'm planning to launch my first<br>clothes collection end of May - beginning of June. My clothes will be sold<br>on my website. I plan to let a fulfilment company handles the shipment of<br>my orders to customers, however I have some issues with the Squarespace<br>integrated e-commerce. Most fulfilment companies need to integrate an<br>external API which is not possible with the actual integrated Squarespace<br>e-commerce.<br>I'm looking for someone capable to create an user friendly e-commerce and<br>allowing me to make the changes by myself in the future.<br>Could I have a quote please?</p>
+<p> Kind regards, </p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/e-commerce-on-squarespace/7459">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/e-commerce-on-squarespace/7459</link>
+          <pubDate>Thu, 05 Mar 2015 15:49:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7459</guid>
+          <source url="http://talk.cregox.com/t/e-commerce-on-squarespace/7459.rss">E-commerce on Squarespace</source>
+        </item>
+        <item>
+          <title>Update and upgrade current storiesagency site</title>
+          <dc:creator><![CDATA[@system system]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <blockquote>
+              <p>Enquiry</p>
+
+<aside class="quote"><div class="title">
+<div class="quote-controls"></div>jamesaeddleston@hotmail.com:</div>
+<blockquote>
+<p>Hi there</p>
+<p>I'm looking for a Squarespace expert to help update and upgrade my current site: <a href="http://www.storiesagency.com/">http://www.storiesagency.com/</a> <a href="http://www.storiesagency.com/">http://www.storiesagency.com/</a></p>
+<p>I have an existing site which has been a bit of a holding site, but I have a new brand design (which is based on the existing one just with new logo and colours) and I'd like to improve the UX and functionality of my site to feel more professional and modern like this one which I like: <a href="http://www.bakeryinteractive.com">http://www.bakeryinteractive.com</a> <a href="http://www.bakeryinteractive.com/">http://www.bakeryinteractive.com/</a></p>
+<p>Please let me know if you feel this is feasible and rough budgets.</p>
+<p>Thanks</p>
+<p>James</p>
+</blockquote></aside>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://talk.cregox.com/t/update-and-upgrade-current-storiesagency-site/7457">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/update-and-upgrade-current-storiesagency-site/7457</link>
+          <pubDate>Wed, 04 Mar 2015 17:29:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7457</guid>
+          <source url="http://talk.cregox.com/t/update-and-upgrade-current-storiesagency-site/7457.rss">Update and upgrade current storiesagency site</source>
+        </item>
+        <item>
+          <title>Making some kind of Pop Up Warning for Squarespace</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>closing</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p><aside class="quote"><blockquote>
+<p><em>organicfarmerian@gmail.com</em> wrote:</p>
+<p>Hey there, </p>
+<p>I was wondering if you are able to design a pop up for our current squarespace site <a href="http://www.scottriverlodge.com">www.scottriverlodge.com</a>? I just need a simple pop up that asks for the visitors email upon arriving at the site (in exchange to be notified of upcoming promotions). Let me know if this is something you can take on? And if so, how much would the project cost? Just so you know exactly what I’m looking for, I have attached a screen shot of the J. Crew website pop up, which is essentially (change a couple of words) what we want.</p>
+<p>Sincerely,</p>
+<a href="https://cregox.zendesk.com/attachments/token/LMQL5bgfR4xlkwaoMC5ceT2Oz/?name=SRL_Signature_thumb.png" target="_blank"><img src="https://cregox.zendesk.com/attachments/token/LMQL5bgfR4xlkwaoMC5ceT2Oz/?name=SRL_Signature_thumb.png"></a>
+</blockquote></aside></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445</link>
+          <pubDate>Mon, 02 Mar 2015 14:10:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-7445</guid>
+          <source url="http://talk.cregox.com/t/making-some-kind-of-pop-up-warning-for-squarespace/7445.rss">Making some kind of Pop Up Warning for Squarespace</source>
+        </item>
+  </channel>
+</rss>

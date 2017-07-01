@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dynamic &quot;contact box&quot;</title>
+    <link>http://talk.cregox.com/t/dynamic-contact-box/7489</link>
+    <description>Hi, 
+
+I have a special request from a client. He wants a &quot;contact box&quot; that appears after some seconds.
+This box has two choices, &quot;sell estate&quot; and &quot;buy estate&quot;. If the user presses either of them, the user is promoted to a new contact box based on prior selection.
+
+&quot;Sell estate&quot; prompts  name, address and some other contact information.
+&quot;Buy estate&quot; prompts area you want to live in, price range and other information that is essential for this contact box.
+
+This contact box should appear on all pages after some time, and would be a visual &quot;call to action&quot; button.
+
+Is it possible and what is the cost estimate on such an asset.
+
+Regards, 
+Tor Martin</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2015 23:49:43 +0000</lastBuildDate>
+    <category>closing</category>
+    <atom:link href="http://talk.cregox.com/t/dynamic-contact-box/7489.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dynamic &quot;contact box&quot;</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Looks like you want basically is a <a href="http://help.squarespace.com/guides/using-the-form-block#toc-enable-the-lightbox">lightbox form</a>. But with a little twist to make it "appear after some time". To make it in all pages, you can use the <a href="http://help.squarespace.com/guides/adding-content-to-a-footer">footer</a>.</p>
+
+<p>From that, what I can do is the delayed appearance and reposition it from the footer. That would be at most U$ 444 and I need an early payment of U$ 321 (yeah, <a href="http://cregox.com/your-home">prices gone up</a>).</p>
+
+<p>The delay, in fact, would be basically this, reversed: <a href="http://stackoverflow.com/questions/7288669/jquery-div-show-delay5000-hide-doesnt-work">http://stackoverflow.com/questions/7288669/jquery-div-show-delay5000-hide-doesnt-work</a></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/dynamic-contact-box/7489/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/dynamic-contact-box/7489/2</link>
+        <pubDate>Thu, 19 Mar 2015 23:49:43 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7489-2</guid>
+        <source url="http://talk.cregox.com/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
+      </item>
+      <item>
+        <title>Dynamic &quot;contact box&quot;</title>
+        <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <blockquote>
+              <p>Hi, </p>
+
+<p>I have a special request from a client. He wants a "contact box" that appears after some seconds.<br>This box has two choices, "sell estate" and "buy estate". If the user presses either of them, the user is promoted to a new contact box based on prior selection.</p>
+
+<p>"Sell estate" prompts  name, address and some other contact information.<br>"Buy estate" prompts area you want to live in, price range and other information that is essential for this contact box.</p>
+
+<p>This contact box should appear on all pages after some time, and would be a visual "call to action" button.</p>
+
+<p>Is it possible and what is the cost estimate on such an asset.</p>
+
+<p>Regards, <br>Tor Martin</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/dynamic-contact-box/7489/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/dynamic-contact-box/7489/1</link>
+        <pubDate>Thu, 19 Mar 2015 22:54:35 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7489-1</guid>
+        <source url="http://talk.cregox.com/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
+      </item>
+  </channel>
+</rss>

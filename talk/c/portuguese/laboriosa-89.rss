@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Laboriosa 89 - cregox talk</title>
+    <link>http://talk.cregox.com/c/portuguese/laboriosa-89</link>
+    <description>Topics in the &#39;Laboriosa 89&#39; category Fórum experimental para a &lt;a href=&quot;http://laboriosa89.com&quot;&gt;Laboriosa 89&lt;/a&gt;.</description>
+    <language>en</language>
+      <lastBuildDate>Mon, 29 Sep 2014 15:35:33 +0000</lastBuildDate>
+      <atom:link href="http://talk.cregox.com/c/portuguese/laboriosa-89.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Sobre a categoria Laboriosa 89</title>
+          <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+          <category>Laboriosa 89</category>
+          <description><![CDATA[
+            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <blockquote>
+              <p>Fórum experimental para a <a href="http://laboriosa89.com">Laboriosa 89</a>.</p>
+
+<p>Terminou morrendo antes mesmo de nascer, dando lugar ao <a href="http://forum.laboriosa89.com">fórum próprio</a>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://talk.cregox.com/t/sobre-a-categoria-laboriosa-89/3052">Read full topic</a></p>
+          ]]></description>
+          <link>http://talk.cregox.com/t/sobre-a-categoria-laboriosa-89/3052</link>
+          <pubDate>Mon, 29 Sep 2014 15:35:33 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">talk.cregox.com-topic-3052</guid>
+          <source url="http://talk.cregox.com/t/sobre-a-categoria-laboriosa-89/3052.rss">Sobre a categoria Laboriosa 89</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the help category</title>
+    <link>http://talk.cregox.com/t/about-the-help-category/7818</link>
+    <description>&lt;small&gt; &lt;!-- (random line first, just trying to circumvent discourse bug) --&gt; &lt;/small&gt;
+
+Short posts (with descriptive long titles) about **helping**. Hit the `watching` button to quickly get notified of [almost everything](http://talk.cregox.com/t/about-the-buffer-category/7780) cregox is up to, asking for or offering some kind of hands! 💩
+
+Different from any other [buffer](/c/buffer) category, **anyone** can create topics here.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Jan 2016 17:44:40 +0000</lastBuildDate>
+    <category>help</category>
+    <atom:link href="http://talk.cregox.com/t/about-the-help-category/7818.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the help category</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p><small>  </small></p>
+
+<p>Short posts (with descriptive long titles) about <strong>helping</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, asking for or offering some kind of hands! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/hankey.png?v=1" title=":hankey:" class="emoji" alt=":hankey:"></p>
+
+<p>Different from any other <a href="/c/buffer">buffer</a> category, <strong>anyone</strong> can create topics here.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/about-the-help-category/7818/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/about-the-help-category/7818/1</link>
+        <pubDate>Fri, 15 Jan 2016 23:35:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7818-1</guid>
+        <source url="http://talk.cregox.com/t/about-the-help-category/7818.rss">About the help category</source>
+      </item>
+  </channel>
+</rss>

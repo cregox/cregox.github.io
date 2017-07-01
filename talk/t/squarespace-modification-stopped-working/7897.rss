@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Squarespace modification stopped working</title>
+    <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897</link>
+    <description>Hi Caue
+
+Hope you are well.
+
+You did a small Squarespace modification for me about a year ago. It was adding thumbnails to the blog page on my website: http://www.formulate.com.au/blog/.
+
+I’ve just posted another blog entry (“Is inline validation out?”) and the thumbnail is not showing. Can you help me work out what’s wrong?
+
+Many thanks,
+
+Jessica Enders</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Oct 2016 01:57:13 +0000</lastBuildDate>
+    <category>support</category>
+    <atom:link href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@jessica jessica]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/jessica">@jessica</a> wrote:</p>
+          <blockquote>
+              <p>Thanks Caue.</p>
+
+<p>Take care,</p>
+
+<p>Jessica Enders<br>Principal<br>Formulate Information Design<br>1300 85 44 11<br>PO Box 24121<br>Melbourne VIC 3001<br><a href="http://formulate.com.au" class="onebox" target="_blank" rel="nofollow">http://formulate.com.au</a><br><span class="mention">@Formulate</span> on Twitter</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/6</link>
+        <pubDate>Sat, 15 Oct 2016 01:57:13 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-6</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Sorry about the email, that was a huge mistake indeed, I really haven't realised! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=3" title=":frowning:" class="emoji" alt=":frowning:"></p>
+
+<p>It may still help you on debugging if you know the error wasn't showing up outside the live blog. When I made a new test blog, there was no such issue there.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/5</link>
+        <pubDate>Thu, 13 Oct 2016 18:24:33 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-5</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@jessica jessica]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/jessica">@jessica</a> wrote:</p>
+          <blockquote>
+              <p>Hi Caue</p>
+
+<p>I appreciate you taking some time to look into this. I don’t appreciate that you published a test blog post live to my site, which then triggered an email to my 200+ subscribers with a link to said test blog post. It’s an embarrassing and surprising mistake.</p>
+
+<p>I think I’ll take it from here, thanks.</p>
+
+<p>Jessica Enders<br>Principal<br>Formulate Information Design<br>1300 85 44 11<br>PO Box 24121<br>Melbourne VIC 3001<br><a href="http://formulate.com.au" class="onebox" target="_blank" rel="nofollow">http://formulate.com.au</a><br><span class="mention">@Formulate</span> on Twitter</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/4</link>
+        <pubDate>Thu, 13 Oct 2016 07:00:41 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-4</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Well, it's clearly something going wrong with the JSON squarespace is generating. I'm not sure, however, what's causing this although it's certainly not the script.</p>
+
+<p>Might be a good idea trying to get in touch with their support.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/3</link>
+        <pubDate>Thu, 13 Oct 2016 04:23:45 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-3</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>So, following this I suppose:</p>
+
+<aside class="quote" data-topic="7432" data-slug="squarespace-template-modification" data-post="14"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://talk-cdn.cregox.com/user_avatar/talk.cregox.com/jessica/40/55_1.png" class="avatar"><a href="http://talk.cregox.com/t/squarespace-template-modification/7432/14">Squarespace template modification</a>
+</div>
+<blockquote><p>Hi Caue   I'm more concerned about IE than many because one of my main target audiences is government, and they are often stuck with IE8, IE9 etc. Even though for my site it is only about 2% users from IE8 and 3% from IE9, this is a risky audience to alienate, as they are actually the ones that hire me. But I'm happy with how it looks like it will render on IE9, and I think I just have to give up on IE8.   Thanks for all your work on this project. I've just paid the remaining $USD42.   All the b…</p></blockquote></aside>
+
+<p><img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+
+<p>As you may know, I'm unfortunately not working with this any longer...</p>
+
+<p>But I did take some time to take a look at this. I was surprised to see I still had access to your admin and noticed the blog entry you were talking about is a draft. So I did a quick test and noticed the error. There is something wrong and weird going on indeed. The thumbnail doesn't show and there is a console error which I won't be able to debug right now.</p>
+
+<p>Just want to let you know I'll try again and see what I can do as quickly as possible, but it may take some time. <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=3" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/2</link>
+        <pubDate>Tue, 11 Oct 2016 13:51:54 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-2</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+      <item>
+        <title>Squarespace modification stopped working</title>
+        <dc:creator><![CDATA[@jessica jessica]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/jessica">@jessica</a> wrote:</p>
+          <blockquote>
+              <p>Hi Caue</p>
+
+<p>Hope you are well.</p>
+
+<p>You did a small Squarespace modification for me about a year ago. It was adding thumbnails to the blog page on my website: <a href="http://www.formulate.com.au/blog/" rel="nofollow">http://www.formulate.com.au/blog/</a>.</p>
+
+<p>I’ve just posted another blog entry (“Is inline validation out?”) and the thumbnail is not showing. Can you help me work out what’s wrong?</p>
+
+<p>Many thanks,</p>
+
+<p>Jessica Enders</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/squarespace-modification-stopped-working/7897/1</link>
+        <pubDate>Tue, 11 Oct 2016 13:37:30 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7897-1</guid>
+        <source url="http://talk.cregox.com/t/squarespace-modification-stopped-working/7897.rss">Squarespace modification stopped working</source>
+      </item>
+  </channel>
+</rss>

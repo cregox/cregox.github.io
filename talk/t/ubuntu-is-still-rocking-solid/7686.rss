@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ubuntu is still rocking solid!</title>
+    <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686</link>
+    <description>(Quick?) Nostalgic post.
+
+It&#39;s been almost 6 years since I used Ubuntu for at least 1 day. Really using it to accomplish anything for myself. Yesterday, that was working a bit on emails and studying.
+
+Today I&#39;ve found [this][1], can&#39;t remember how:
+
+https://www.dropbox.com/s/yv79w37458kdpuz/Screenshot%202015-08-16%2001.27.47.png?dl=1
+
+&gt; **things I&#39;m missing in ubuntu**
+&gt; this was in my signature since 9.04 and I decided to make a topic out of it and add few items.
+
+&gt; - a (yet) better network manager (nm07 is almost there)
+&gt; - a nicier file copier handler (rsync alike)
+&gt; - a more compact-looking theme (i want more screen space!)
+&gt; - a bigger log/cache for *system monitor* (no geek stuff)
+&gt; - &quot;[time machine][2]&quot;
+
+&gt; not much more else, ubuntu is great! 
+
+&gt; ---
+&gt; -- me: www.cregox.info
+&gt; [things I&#39;m missing in ubuntu][3]
+
+Old. And interesting.
+
+Ubuntu now have a great network manager, but none of the other items! Maybe it has a better log system monitor, I haven&#39;t checked. But I doubt it.
+
+The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least [I thought so][4] for a little while! :P Another awesome job, ubuntu!!
+
+One of those items keep coming back. **rsync**. I wondered why we still haven&#39;t got this right anywhere, **specially** in Ubuntu where it should be easy to implement. Why not?!
+
+
+  [1]: http://ubuntuforums.org/showthread.php?p=8241934
+  [2]: http://ubuntuforums.org/showthread.php?t=1314281
+  [3]: http://ubuntuforums.org/showthread.php?p=8241934
+  [4]: http://discourse.ubuntu.com/</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Aug 2015 04:45:42 +0000</lastBuildDate>
+    <category>spoilers</category>
+    <atom:link href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ubuntu is still rocking solid!</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>(Quick?) Nostalgic post.</p>
+
+<p>It's been almost 6 years since I used Ubuntu for at least 1 day. Really using it to accomplish anything for myself. Yesterday, that was working a bit on emails and studying.</p>
+
+<p>Today I've found <a href="http://ubuntuforums.org/showthread.php?p=8241934">this</a>, can't remember how:</p>
+
+<a href="https://dl.dropboxusercontent.com/s/yv79w37458kdpuz/Screenshot%202015-08-16%2001.27.47.png?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/yv79w37458kdpuz/Screenshot%202015-08-16%2001.27.47.png?dl=1" width="690" height="220"></a>
+
+<blockquote>
+<p><strong>things I'm missing in ubuntu</strong><br>this was in my signature since 9.04 and I decided to make a topic out of it and add few items.</p>
+<ul>
+<li>a (yet) better network manager (nm07 is almost there)</li>
+<li>a nicier file copier handler (rsync alike)</li>
+<li>a more compact-looking theme (i want more screen space!)</li>
+<li>a bigger log/cache for <em>system monitor</em> (no geek stuff)</li>
+<li>"<a href="http://ubuntuforums.org/showthread.php?t=1314281">time machine</a>"</li>
+</ul>
+<p>not much more else, ubuntu is great! </p>
+<hr>
+<p>-- me: <a href="http://www.cregox.info">www.cregox.info</a><br><a href="http://ubuntuforums.org/showthread.php?p=8241934">things I'm missing in ubuntu</a></p>
+</blockquote>
+
+<p>Old. And interesting.</p>
+
+<p>Ubuntu now have a great network manager, but none of the other items! Maybe it has a better log system monitor, I haven't checked. But I doubt it.</p>
+
+<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
+
+<p>One of those items keep coming back. <strong>rsync</strong>. I wondered why we still haven't got this right anywhere, <strong>specially</strong> in Ubuntu where it should be easy to implement. Why not?!</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686/1</link>
+        <pubDate>Sun, 16 Aug 2015 04:45:42 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-7686-1</guid>
+        <source url="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
+      </item>
+  </channel>
+</rss>

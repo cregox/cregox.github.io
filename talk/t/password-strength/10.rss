@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Password strength</title>
+    <link>http://talk.cregox.com/t/password-strength/10</link>
+    <description># Beware of your password security!
+
+[Just don&#39;t even make a password here](http://talk.cregox.com/t/more-about-passwords-yet-again-xkcd-was-dead-wrong/7743?u=cregox). Set openids / oAuth, preferably in all of them: GitHub, Google, Twitter, etc. But picking 2 is good enough to have a backup, in case one of them crashes.
+
+Also, feel free to make a strong password, by all means. Right now it&#39;s enforced for at least 21 characters.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jun 2014 05:02:23 +0000</lastBuildDate>
+    <category>meta</category>
+    <atom:link href="http://talk.cregox.com/t/password-strength/10.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Password strength</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <p>Just configured and tested oauth for <em>google</em>, <em>twitter</em> and <em>facebook</em>. Yahoo seem to offer some oauth as well, but there is no configuration for it and I couldn't bother testing it. This means you don't even need to bother about setting up a password (at least a new one in here) if you simply use oauth! <img src="//talk.cregox.com/images/emoji/emoji_one/wink.png" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
+
+<p>I personally highly recommend using <a href="http://www.google.com/landing/2step/">Google's 2 step verification</a> for best security.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/password-strength/10/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/password-strength/10/2</link>
+        <pubDate>Sun, 08 Jun 2014 05:02:23 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-10-2</guid>
+        <source url="http://talk.cregox.com/t/password-strength/10.rss">Password strength</source>
+      </item>
+      <item>
+        <title>Password strength</title>
+        <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <blockquote>
+              <h1>Beware of your password security!</h1>
+
+<p><a href="http://talk.cregox.com/t/more-about-passwords-yet-again-xkcd-was-dead-wrong/7743?u=cregox">Just don't even make a password here</a>. Set openids / oAuth, preferably in all of them: GitHub, Google, Twitter, etc. But picking 2 is good enough to have a backup, in case one of them crashes.</p>
+
+<p>Also, feel free to make a strong password, by all means. Right now it's enforced for at least 21 characters.</p>
+          </blockquote>
+          <p><a href="http://talk.cregox.com/t/password-strength/10/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://talk.cregox.com/t/password-strength/10/1</link>
+        <pubDate>Sun, 08 Jun 2014 03:57:55 +0000</pubDate>
+        <guid isPermaLink="false">talk.cregox.com-post-10-1</guid>
+        <source url="http://talk.cregox.com/t/password-strength/10.rss">Password strength</source>
+      </item>
+  </channel>
+</rss>
