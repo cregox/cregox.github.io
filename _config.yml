@@ -11,7 +11,7 @@ enforce_ssl: "cregox.com"
 github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
 github_username: cauerego
-google_analytics:
+google_analytics: # placed on head include
 
 defaults:
   -
@@ -20,6 +20,7 @@ defaults:
       type: pages
     values:
       layout: talk # overrides previous default layout
+      google_analytics: # placed on files by httrack and talk layout
 
 
 # Build settings
