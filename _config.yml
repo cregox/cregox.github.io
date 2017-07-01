@@ -13,6 +13,13 @@ twitter_username: cauerego
 github_username: cauerego
 google_analytics:
 
+defaults:
+  -
+    scope:
+      path: "talk"
+    values:
+      layout: "talk" # overrides previous default layout
+
 
 # Build settings
 markdown: kramdown

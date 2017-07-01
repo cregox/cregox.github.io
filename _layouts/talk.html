@@ -1,0 +1,26 @@
+{{ content }}
+<!-- hackish fix for discourse's features missing from escaped fragment -->
+<script>
+;(function( window.discoUrsa, undefined ) { // jquery-ish namespace
+    DOMready()
+    window.onload = DOMready
+    function DOMready () {
+        fixSpoiler()
+    }
+    function fixSpoiler () {
+        var style = document.createElement('style')
+        style.type = 'text/css'
+        style.innerHTML = `.spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
+        .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
+        .spoiler {color: gray; cursor: pointer;}`
+        document.getElementsByTagName('head')[0].appendChild(style)
+
+        for (s of document.querySelectorAll('.spoiler')) {
+            s.classList.add('spoiled')
+            s.onclick = function(){ this.classList.toggle('spoiled') }
+            s.onmouseenter = function () { this.classList.add('half-spoiled') }
+            s.onmouseleave = function () { this.classList.remove('half-spoiled') }
+        }
+    }
+}( window.discoUrsa = window.discoUrsa || {} ))
+</script>
