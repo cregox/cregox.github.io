@@ -3,6 +3,8 @@
 .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
 .spoiler {color: gray; cursor: pointer;}
 header .links {float: right;}
+header .links ul {list-style-type: none; margin: 0; padding: 0;}
+header .links ul li {display: inline; padding: 1em 1em;}
 header {width: 95% !important;}
 </style>
 {{ content }}
@@ -22,7 +24,10 @@ header {width: 95% !important;}
         if (!header) header = document.createElement('div')
         header.classList.add('links')
         header.innerHTML = `
-            <a href="/">home</a>
+        <ul>
+            <li><a href="/talk/t/shut-down-announcement/7945.html">this is an archive!</a></li>
+            <li><a href="/">home</a></li>
+        </ul>
         `
         for (h of document.querySelectorAll('body>header')) {
             h.appendChild(header)
