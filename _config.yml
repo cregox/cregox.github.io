@@ -17,8 +17,9 @@ defaults:
   -
     scope:
       path: "talk"
+      type: pages
     values:
-      layout: "talk" # overrides previous default layout
+      layout: talk # overrides previous default layout
 
 
 # Build settings
