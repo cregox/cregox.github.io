@@ -6,6 +6,7 @@
     window.onload = DOMready
     function DOMready () {
         fixSpoiler()
+        fixOnebox()
     }
     function fixSpoiler () {
         var style = document.createElement('style')
@@ -20,6 +21,14 @@
             s.onclick = function(){ this.classList.toggle('spoiled') }
             s.onmouseenter = function () { this.classList.add('half-spoiled') }
             s.onmouseleave = function () { this.classList.remove('half-spoiled') }
+        }
+    }
+    function fixOnebox () {
+        fixYoutube()
+    }
+    function fixYoutube () {
+        for (o of document.querySelectorAll('.lazyYT')) {
+            o.innerHTML = `<iframe width="${ o.getAttribute('data-width') }" height="${ o.getAttribute('data-height') }" src="https://www.youtube.com/embed/${ o.getAttribute('data-youtube-id') }?${ o.getAttribute('data-parameters') }" frameborder="0" allowfullscreen></iframe>`
         }
     }
 }( window.discoUrsa = window.discoUrsa || {} ))
