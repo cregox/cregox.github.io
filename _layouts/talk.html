@@ -1,21 +1,29 @@
+<style>
+.spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
+.spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
+.spoiler {color: gray; cursor: pointer;}
+</style>
 {{ content }}
 <!-- hackish fix for discourse's features missing from escaped fragment -->
 <script>
 ;(function( discoUrsa, undefined ) { // jquery-ish namespace
+    //addSpoilerStyle()
     DOMready()
     window.onload = DOMready
     function DOMready () {
         fixSpoiler()
         fixOnebox()
     }
-    function fixSpoiler () {
+    function addSpoilerStyle () {
         var style = document.createElement('style')
         style.type = 'text/css'
-        style.innerHTML = `.spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
+        style.innerHTML = `
+        .spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
         .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
         .spoiler {color: gray; cursor: pointer;}`
         document.getElementsByTagName('head')[0].appendChild(style)
-
+    }
+    function fixSpoiler () {
         for (s of document.querySelectorAll('.spoiler')) {
             s.classList.add('spoiled')
             s.onclick = function(){ this.classList.toggle('spoiled') }
