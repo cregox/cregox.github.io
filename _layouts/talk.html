@@ -2,6 +2,8 @@
 .spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
 .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
 .spoiler {color: gray; cursor: pointer;}
+header .links {float: right;}
+header {width: 95% !important;}
 </style>
 {{ content }}
 <!-- hackish fix for discourse's features missing from escaped fragment -->
@@ -11,16 +13,29 @@
     DOMready()
     window.onload = DOMready
     function DOMready () {
+        fixHeader()
         fixSpoiler()
         fixOnebox()
     }
+    function fixHeader () {
+        let header = document.querySelector('body>header>div.links')
+        if (!header) header = document.createElement('div')
+        header.classList.add('links')
+        header.innerHTML = `
+            <a href="/">home</a>
+        `
+        for (h of document.querySelectorAll('body>header')) {
+            h.appendChild(header)
+        }
+    }
     function addSpoilerStyle () {
-        var style = document.createElement('style')
+        let style = document.createElement('style')
         style.type = 'text/css'
         style.innerHTML = `
-        .spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
-        .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
-        .spoiler {color: gray; cursor: pointer;}`
+            .spoiler.spoiled {background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); text-shadow: gray 0px 0px 10px; user-select: none; cursor: pointer;}
+            .spoiled.half-spoiled {text-shadow: gray 0px 0px 5px;}
+            .spoiler {color: gray; cursor: pointer;}
+        `
         document.getElementsByTagName('head')[0].appendChild(style)
     }
     function fixSpoiler () {
