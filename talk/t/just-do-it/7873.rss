@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Just DO IT!</title>
-    <link>http://talk.cregox.com/t/just-do-it/7873</link>
+    <link>/talk/t/just-do-it/7873</link>
     <description>and so the fence was done.
 
 https://www.youtube.com/watch?v=LjBUZ43bLjE</description>
     <language>en</language>
     <lastBuildDate>Wed, 13 Jul 2016 01:49:05 +0000</lastBuildDate>
     <category>fun</category>
-    <atom:link href="http://talk.cregox.com/t/just-do-it/7873.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/just-do-it/7873.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Just DO IT!</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>and so the fence was done.</p>
 
 <div class="lazyYT" data-youtube-id="LjBUZ43bLjE" data-youtube-title="New fence for Stella" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/just-do-it/7873/1">Read full topic</a></p>
+          <p><a href="/talk/t/just-do-it/7873/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/just-do-it/7873/1</link>
+        <link>/talk/t/just-do-it/7873/1</link>
         <pubDate>Wed, 13 Jul 2016 01:49:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7873-1</guid>
-        <source url="http://talk.cregox.com/t/just-do-it/7873.rss">Just DO IT!</source>
+        <source url="/talk/t/just-do-it/7873.rss">Just DO IT!</source>
       </item>
   </channel>
 </rss>

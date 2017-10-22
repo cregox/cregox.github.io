@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>What&#39;s the slowest moving object in space, xkcd?</title>
-    <link>http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595</link>
+    <link>/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595</link>
     <description>Hey crazy Randall!
 
 The first question that triggered this little quest of mine, I actually asked just yesterday, when I saw an airplane very close by while going to lunch near an airport:
@@ -54,12 +54,12 @@ Given the speed relative to Earth to eject it is 2 km/s.</description>
     <language>en</language>
     <lastBuildDate>Thu, 07 May 2015 13:48:08 +0000</lastBuildDate>
     <category>public emails</category>
-    <atom:link href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>What&#39;s the slowest moving object in space, xkcd?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Hey crazy Randall!</p>
 
@@ -107,12 +107,12 @@ Given the speed relative to Earth to eject it is 2 km/s.</description>
 
 <p>Given the speed relative to Earth to eject it is 2 km/s.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1">Read full topic</a></p>
+          <p><a href="/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1</link>
+        <link>/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595/1</link>
         <pubDate>Thu, 07 May 2015 13:26:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7595-1</guid>
-        <source url="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss">What&#39;s the slowest moving object in space, xkcd?</source>
+        <source url="/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595.rss">What&#39;s the slowest moving object in space, xkcd?</source>
       </item>
   </channel>
 </rss>

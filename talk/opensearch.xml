@@ -4,7 +4,7 @@
   <Description>Search for posts on cregox talk</Description>
   <Tags>discourse forum</Tags>
   <Image type="image/png">https://talk.cregox.com/uploads/default/26/774ff9172e02cb85.png</Image>
-  <Url type="application/opensearchdescription+xml" rel="self" template="http://talk.cregox.com/opensearch.xml"/>
-  <Url type="text/html" template="http://talk.cregox.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="/talk/opensearch.xml"/>
+  <Url type="text/html" template="/talk/search?q={searchTerms}"/>
   <Query role="example" searchTerms="search term"/>
 </OpenSearchDescription>

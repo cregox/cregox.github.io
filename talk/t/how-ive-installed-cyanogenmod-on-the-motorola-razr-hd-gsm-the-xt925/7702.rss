@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</title>
-    <link>http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702</link>
+    <link>/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702</link>
     <description>&lt;img src=&#39;/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg&#39;&gt;
 
 ### Disclaimers
@@ -81,14 +81,14 @@ So, there you go. Hope this might have been of any help to you! ;P
     <language>en</language>
     <lastBuildDate>Mon, 28 Sep 2015 06:19:19 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg" width="480" height="480"></p>
+              <p><img src="/talk/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg" width="480" height="480"></p>
 
 <h3>Disclaimers</h3>
 
@@ -161,14 +161,14 @@ So, there you go. Hope this might have been of any help to you! ;P
 
 <p>But google says otherwise. You might be led to believe it could take many minutes, maybe as much as 10. Which can easily be extrapolated by "well, maybe it takes 15". Before you know it, you're easily wasting hours waiting for it.</p>
 
-<p>So, there you go. Hope this might have been of any help to you! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>So, there you go. Hope this might have been of any help to you! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1">Read full topic</a></p>
+          <p><a href="/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1</link>
+        <link>/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702/1</link>
         <pubDate>Mon, 28 Sep 2015 06:19:19 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7702-1</guid>
-        <source url="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss">How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</source>
+        <source url="/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss">How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>My second online backup choice</title>
-    <link>http://talk.cregox.com/t/my-second-online-backup-choice/7411</link>
+    <link>/talk/t/my-second-online-backup-choice/7411</link>
     <description>
 &lt;div&gt;&lt;div&gt;
 &lt;a href=&quot;&lt;img src=&#39;/uploads/default/47/90d4c7540e5550d3.png&#39;&gt;&quot;&gt;&lt;img src=&#39;/uploads/default/47/90d4c7540e5550d3.png&#39;&gt;&lt;/a&gt;I&#39;ll keep this short. &lt;a href=&quot;http://crashplan.com/&quot;&gt;Crashplan&lt;/a&gt;.&lt;p&gt;Ok, maybe not so short...&lt;/p&gt;
@@ -21,16 +21,16 @@
     <language>en</language>
     <lastBuildDate>Sat, 21 Feb 2015 15:02:07 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/my-second-online-backup-choice/7411.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/my-second-online-backup-choice/7411.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>My second online backup choice</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>
-<a href="&lt;img%20src='/uploads/default/47/90d4c7540e5550d3.png'&gt;"><img src="//talk-cdn.cregox.com/uploads/default/47/90d4c7540e5550d3.png" width="196" height="110"></a>I'll keep this short. <a href="http://crashplan.com/">Crashplan</a>.<p>Ok, maybe not so short...</p>
+<a href="&lt;img%20src='/uploads/default/47/90d4c7540e5550d3.png'&gt;"><img src="/talk/uploads/default/47/90d4c7540e5550d3.png" width="196" height="110"></a>I'll keep this short. <a href="http://crashplan.com/">Crashplan</a>.<p>Ok, maybe not so short...</p>
 <p>Thanks to <a href="http://leoville.com/">Leo Laporte</a>'s <a href="http://twit.tv/twit">podcast</a> I love to hear, I finally decided to get an online backup and try <a href="http://carbonite.com/">Carbonite</a>. But before actually going for it, since I'd have to pay, I decided to do some research first and see what else was out there. Lucky me, because I stumbled over this magnificent piece of software and a great online solution. At least I really hope so, as I'm just getting in the 30 days trial now.</p>
 <p>I chose it over Dropbox, Carbonite, Mozy and JungleDisk because of these:  
 - <a href="http://blog.iharder.net/2010/02/19/crashplan-for-live-offsite-backup/">http://blog.iharder.net/2010/02/19/crashplan-for-live-offsite-backup/</a> (already linked on the title)  
@@ -44,12 +44,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2010/08/my-second-online-backup-choice.html">http://www.cregox.com/blog/2010/08/my-second-online-backup-choice.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/my-second-online-backup-choice/7411/1">Read full topic</a></p>
+          <p><a href="/talk/t/my-second-online-backup-choice/7411/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/my-second-online-backup-choice/7411/1</link>
+        <link>/talk/t/my-second-online-backup-choice/7411/1</link>
         <pubDate>Fri, 20 Feb 2015 01:34:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7411-1</guid>
-        <source url="http://talk.cregox.com/t/my-second-online-backup-choice/7411.rss">My second online backup choice</source>
+        <source url="/talk/t/my-second-online-backup-choice/7411.rss">My second online backup choice</source>
       </item>
   </channel>
 </rss>

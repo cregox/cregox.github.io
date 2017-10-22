@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the social category</title>
-    <link>http://talk.cregox.com/t/about-the-social-category/7805</link>
+    <link>/talk/t/about-the-social-category/7805</link>
     <description>[spoiler]&lt;small&gt; &lt;!-- (random line first, just trying to circumvent discourse bug) --&gt; &lt;/small&gt;[/spoiler]
 
-Short posts (with descriptive long titles) about **society**. Hit the `watching` button to quickly get notified of [almost everything](http://talk.cregox.com/t/about-the-buffer-category/7780) cregox is up to, around social awkwardness! :sweet_potato:</description>
+Short posts (with descriptive long titles) about **society**. Hit the `watching` button to quickly get notified of [almost everything](/talk/t/about-the-buffer-category/7780) cregox is up to, around social awkwardness! :sweet_potato:</description>
     <language>en</language>
     <lastBuildDate>Sat, 16 Jan 2016 09:58:36 +0000</lastBuildDate>
     <category>social</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-social-category/7805.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-social-category/7805.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the social category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><span class="spoiler"><small>  </small></span></p>
 
-<p>Short posts (with descriptive long titles) about <strong>society</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, around social awkwardness! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sweet_potato.png?v=1" title=":sweet_potato:" class="emoji" alt=":sweet_potato:"></p>
+<p>Short posts (with descriptive long titles) about <strong>society</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="/talk/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, around social awkwardness! <img src="/talk/images/emoji/emoji_one/sweet_potato.png?v=1" title=":sweet_potato:" class="emoji" alt=":sweet_potato:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-social-category/7805/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-social-category/7805/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-social-category/7805/1</link>
+        <link>/talk/t/about-the-social-category/7805/1</link>
         <pubDate>Tue, 12 Jan 2016 17:52:15 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7805-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-social-category/7805.rss">About the social category</source>
+        <source url="/talk/t/about-the-social-category/7805.rss">About the social category</source>
       </item>
   </channel>
 </rss>

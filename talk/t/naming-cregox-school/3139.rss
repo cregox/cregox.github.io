@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Naming cregox school</title>
-    <link>http://talk.cregox.com/t/naming-cregox-school/3139</link>
+    <link>/talk/t/naming-cregox-school/3139</link>
     <description>&lt;blockquote&gt;&lt;span&gt;The background picture contains both one of the first things we learn to name (house) and a place I&#39;d like the school to be (in a castle) :P&lt;/span&gt;&lt;/blockquote&gt;
 &lt;p&gt;Recently &lt;a href=&quot;http://directory.calarts.edu/node/12810&quot;&gt;a friend&lt;/a&gt; who was interested in &lt;a href=&quot;http://www.cregox.com/learn&quot;&gt;learning IT&lt;/a&gt; (more specifically programming in a particular language, called Processing) brought this book to my attention: &lt;em&gt;&lt;a href=&quot;http://natureofcode.com/book/&quot;&gt;Nature of Code&lt;/a&gt;&lt;/em&gt;, as a reference to what he was studying, and asked me what I think.&lt;/p&gt;
 &lt;p&gt;I replied to him I think the book has a terrible name. It should be called something like &quot;&lt;em&gt;Nature of Processing Code&lt;/em&gt;&quot;. It&#39;s still an ambiguous name, but at least it would bring the book&#39;s main topic in its name: a programming language called Processing.&lt;/p&gt;
@@ -35,12 +35,12 @@
     <language>en</language>
     <lastBuildDate>Sat, 10 Jan 2015 08:27:58 +0000</lastBuildDate>
     <category>quest</category>
-    <atom:link href="http://talk.cregox.com/t/naming-cregox-school/3139.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/naming-cregox-school/3139.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Naming cregox school</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <blockquote><span>The background picture contains both one of the first things we learn to name (house) and a place I'd like the school to be (in a castle) :P</span></blockquote>
 <p>Recently <a href="http://directory.calarts.edu/node/12810">a friend</a> who was interested in <a href="http://www.cregox.com/learn">learning IT</a> (more specifically programming in a particular language, called Processing) brought this book to my attention: <em><a href="http://natureofcode.com/book/">Nature of Code</a></em>, as a reference to what he was studying, and asked me what I think.</p>
@@ -72,12 +72,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/9/29/naming-cregox-school">http://www.cregox.com/blog/2014/9/29/naming-cregox-school</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/naming-cregox-school/3139/1">Read full topic</a></p>
+          <p><a href="/talk/t/naming-cregox-school/3139/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/naming-cregox-school/3139/1</link>
+        <link>/talk/t/naming-cregox-school/3139/1</link>
         <pubDate>Tue, 30 Sep 2014 02:18:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-3139-1</guid>
-        <source url="http://talk.cregox.com/t/naming-cregox-school/3139.rss">Naming cregox school</source>
+        <source url="/talk/t/naming-cregox-school/3139.rss">Naming cregox school</source>
       </item>
   </channel>
 </rss>

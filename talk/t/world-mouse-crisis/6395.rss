@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>World mouse crisis?</title>
-    <link>http://talk.cregox.com/t/world-mouse-crisis/6395</link>
+    <link>/talk/t/world-mouse-crisis/6395</link>
     <description>&gt; *Originally [posted on HTG][1]* - e [aqui em português][2].
 
 Little more than 2 years ago I&#39;ve spent about 2 months looking for a good mouse. A simple good mouse that would just work.
@@ -23,19 +23,19 @@ Or what would be a similarly good one?
 
 
   [1]: https://discuss.howtogeek.com/t/world-mouse-crisis/23611?u=cawas
-  [2]: http://talk.cregox.com/t/crise-mundial-de-mouse/6394?u=cawas
+  [2]: /talk/t/crise-mundial-de-mouse/6394?u=cawas
   [3]: http://www.a4tech.com/product.asp?cid=1&amp;scid=1&amp;id=753</description>
     <language>en</language>
     <lastBuildDate>Mon, 19 Jan 2015 15:03:32 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/world-mouse-crisis/6395.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/world-mouse-crisis/6395.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>World mouse crisis?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <blockquote><p><em>Originally <a href="https://discuss.howtogeek.com/t/world-mouse-crisis/23611?u=cawas">posted on HTG</a></em> - e <a href="http://talk.cregox.com/t/crise-mundial-de-mouse/6394?u=cawas">aqui em português</a>.</p></blockquote>
+              <blockquote><p><em>Originally <a href="https://discuss.howtogeek.com/t/world-mouse-crisis/23611?u=cawas">posted on HTG</a></em> - e <a href="/talk/t/crise-mundial-de-mouse/6394?u=cawas">aqui em português</a>.</p></blockquote>
 
 <p>Little more than 2 years ago I've spent about 2 months looking for a good mouse. A simple good mouse that would just work.</p>
 
@@ -53,12 +53,12 @@ Or what would be a similarly good one?
 
 <p>Or what would be a similarly good one?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/world-mouse-crisis/6395/1">Read full topic</a></p>
+          <p><a href="/talk/t/world-mouse-crisis/6395/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/world-mouse-crisis/6395/1</link>
+        <link>/talk/t/world-mouse-crisis/6395/1</link>
         <pubDate>Sun, 11 Jan 2015 15:30:03 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-6395-1</guid>
-        <source url="http://talk.cregox.com/t/world-mouse-crisis/6395.rss">World mouse crisis?</source>
+        <source url="/talk/t/world-mouse-crisis/6395.rss">World mouse crisis?</source>
       </item>
   </channel>
 </rss>

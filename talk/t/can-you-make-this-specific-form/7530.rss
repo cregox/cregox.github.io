@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Can you make this specific form?</title>
-    <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530</link>
+    <link>/talk/t/can-you-make-this-specific-form/7530</link>
     <description>Hi, please look at the following site: http://www.telefinans.no
 
 Is it possible to make a form that is similar to the one used at this page?
@@ -13,48 +13,48 @@ Tor Martin</description>
     <language>en</language>
     <lastBuildDate>Mon, 13 Apr 2015 08:20:24 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/can-you-make-this-specific-form/7530.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Let me add that, by chance, I've noticed <a href="http://www.formstack.com">www.formstack.com</a> does allow custom fields with HTML entries. And it can <a href="https://www.formstack.com/examples">look pretty</a>. And it even has at least <a href="https://www.formstack.com/templates/photography-contract">one very different and interesting field (check the signature)</a>.</p>
 
 <p>So I find it very likely we could use it if you want.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/7">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/7">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/7</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/7</link>
         <pubDate>Mon, 13 Apr 2015 08:20:24 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-7</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Thank you for your great answer. This is now sent to my client, if he want to go for this solution I´ll let you know.</p>
 
 <p>Regards, <br>Tor Maritn</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/6">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/6">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/6</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/6</link>
         <pubDate>Mon, 13 Apr 2015 06:41:51 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-6</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>I love squarespace q&amp;a. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>I love squarespace q&amp;a. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>Since we're going technical, let me divide this into 2 parts:</p>
 
@@ -71,7 +71,7 @@ Tor Martin</description>
 <h2>To the point</h2>
 
 <ul>
-<li>Nice looking is a given with anything squarespace. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20">
+<li>Nice looking is a given with anything squarespace. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20">
 </li>
 <li>The "dynamic" loan calculator as it is done there doesn't communicate with the backend. So that's doable. Even simple.</li>
 <li>"Adding more information" is too ambiguous to me but, if it's like the reference site which is still a set of questions that are either hidden or shown depending on answering "yes" or "no" to a previous question, then sure, that's even simpler than the calculator. Here's how I'd do it, I found a while ago from another specialist which is nicely done: <a href="http://www.silvabokis.com/squarespace-tips/how-to-create-hideshow-faqs-in-squarespace">http://www.silvabokis.com/squarespace-tips/how-to-create-hideshow-faqs-in-squarespace</a>
@@ -81,20 +81,20 @@ Tor Martin</description>
 
 <p>I agree, looks like lots of those form builders aren't very pretty nor quite as customizable as squarespace (or wordpress). Quite sad. Maybe it is a better idea to go with sqsp and then along to use some google scripts to tweak up the data visualization... That combo probably gives us more power to get it the exact way we want it.</p>
 
-<p>And if I'll be focusing on the form only, I can still keep the first minimum quote for starting the job as all of this is pretty much what I had in mind to begin with. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt="blush" width="20" height="20">  </p>
+<p>And if I'll be focusing on the form only, I can still keep the first minimum quote for starting the job as all of this is pretty much what I had in mind to begin with. <img src="/talk/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt="blush" width="20" height="20">  </p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/5">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/5">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/5</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/5</link>
         <pubDate>Fri, 10 Apr 2015 00:26:28 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-5</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>If the client wants a identical form that is used on the reference site:<br>• nice looking<br>• "dynamic" loan calculator, you get realtime feedback on how much you should pay each year<br>• You can add more information<br>• The data submitted from this form is readable for the client</p>
 
@@ -102,18 +102,18 @@ Tor Martin</description>
 
 <p>I think squarespace has maybe the nicest "simple" form that is out there, but if we could somehow fuse in some "advanced" functions, it would be interesting.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/4">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/4</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/4</link>
         <pubDate>Thu, 09 Apr 2015 23:03:30 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-4</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, thanks for your answer. I also posted this Q on Squarespace forum (before I used your forum) - this is the answer I got:</p>
 
@@ -124,18 +124,18 @@ Tor Martin</description>
 <p>HOWEVER, you should be able to create a hidden form field in the Squarespace form builder, use JavaScript to dynamically add/remove input fields, then set the newly created fields to concat their values and dynamically change the hidden field. It's not super elegant, and requires a good amount of custom JavaScript code, but it should be technically possible. Unfortunately, there is no out-of-the-box form builder solution that will work with Squarespace forms, so making this work will require you getting your hands dirty with JavaScript.</p>
 </blockquote>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/3">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/3</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/3</link>
         <pubDate>Thu, 09 Apr 2015 22:50:42 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-3</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Yeah, it's sure possible to create any customized form to our will with ease on squarespace by using embedded code or a code block. That from the link there is a simple <a href="https://jqueryui.com/slider/">jQuery slider</a>. We could go much further than that. Just while googling for better solutions I found <a href="http://wowslider.com">this instance</a> (although "wowslider" there might cost you something to get a <a href="http://wowslider.com/licenses.html">proper license</a>).</p>
 
@@ -151,22 +151,22 @@ Tor Martin</description>
 
 <h2>Time / cost</h2>
 
-<p>Since this could be "as simple" as setting up a jquery slider there, it will be the minimum of U$ 321 to start working on it before Apr 29th for about 2 <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/3?u=cawas"><strong><em>workforce hours</em></strong> (please do read this link)</a> and then U$ 123 for every extra one.</p>
+<p>Since this could be "as simple" as setting up a jquery slider there, it will be the minimum of U$ 321 to start working on it before Apr 29th for about 2 <a href="/talk/t/the-making-of-your-home/7491/3?u=cawas"><strong><em>workforce hours</em></strong> (please do read this link)</a> and then U$ 123 for every extra one.</p>
 
-<p>I won't give maximum quotes anymore. Instead, I'll just work with what you want to pay. The higher you go, the more I can do. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>I won't give maximum quotes anymore. Instead, I'll just work with what you want to pay. The higher you go, the more I can do. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/2">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/2</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/2</link>
         <pubDate>Thu, 09 Apr 2015 22:08:12 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-2</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
       <item>
         <title>Can you make this specific form?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, please look at the following site: <a href="http://www.telefinans.no" rel="nofollow">http://www.telefinans.no</a></p>
 
@@ -174,12 +174,12 @@ Tor Martin</description>
 
 <p>Best regards,<br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/can-you-make-this-specific-form/7530/1">Read full topic</a></p>
+          <p><a href="/talk/t/can-you-make-this-specific-form/7530/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/can-you-make-this-specific-form/7530/1</link>
+        <link>/talk/t/can-you-make-this-specific-form/7530/1</link>
         <pubDate>Thu, 09 Apr 2015 12:52:39 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7530-1</guid>
-        <source url="http://talk.cregox.com/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
+        <source url="/talk/t/can-you-make-this-specific-form/7530.rss">Can you make this specific form?</source>
       </item>
   </channel>
 </rss>

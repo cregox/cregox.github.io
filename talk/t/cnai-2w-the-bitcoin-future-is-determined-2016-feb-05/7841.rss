@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</title>
-    <link>http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841</link>
+    <link>/talk/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841</link>
     <description>CNAi 2w stands for &quot;codenewbie artificial intelligence biweekly&quot;, but that might change soon...
 
 https://www.youtube.com/watch?v=GT_EXzpvwo0
@@ -23,18 +23,18 @@ topics touched:
 
 I participate in those since the first one (but unfortunately not in all of them) and I think anyone can join. this is the first one I&#39;m aware that&#39;s being broadcast, but just near the ending. `Moe` does a great job [organizing](http://timezone.io/team/codenewbieai) &#39;em and putting things together, along with [the slack channel](https://codenewbie.slack.com/archives/ai/p1454713220000253).
 
-now, this is just in: [that hangout may](https://codenewbie.slack.com/archives/basiux) soon become [the podcast](http://talk.cregox.com/t/lets-make-a-podcast/7753)!!
+now, this is just in: [that hangout may](https://codenewbie.slack.com/archives/basiux) soon become [the podcast](/talk/t/lets-make-a-podcast/7753)!!
 
 _(as always, to be further edited)_</description>
     <language>en</language>
     <lastBuildDate>Sat, 06 Feb 2016 10:02:48 +0000</lastBuildDate>
     <category>tech</category>
-    <atom:link href="http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>CNAi 2w stands for "codenewbie artificial intelligence biweekly", but that might change soon...</p>
 
@@ -58,16 +58,16 @@ _(as always, to be further edited)_</description>
 
 <p>I participate in those since the first one (but unfortunately not in all of them) and I think anyone can join. this is the first one I'm aware that's being broadcast, but just near the ending. <code>Moe</code> does a great job <a href="http://timezone.io/team/codenewbieai">organizing</a> 'em and putting things together, along with <a href="https://codenewbie.slack.com/archives/ai/p1454713220000253">the slack channel</a>.</p>
 
-<p>now, this is just in: <a href="https://codenewbie.slack.com/archives/basiux">that hangout may</a> soon become <a href="http://talk.cregox.com/t/lets-make-a-podcast/7753">the podcast</a>!!</p>
+<p>now, this is just in: <a href="https://codenewbie.slack.com/archives/basiux">that hangout may</a> soon become <a href="/talk/t/lets-make-a-podcast/7753">the podcast</a>!!</p>
 
 <p><em>(as always, to be further edited)</em></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841/1">Read full topic</a></p>
+          <p><a href="/talk/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841/1</link>
+        <link>/talk/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841/1</link>
         <pubDate>Sat, 06 Feb 2016 09:58:31 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7841-1</guid>
-        <source url="http://talk.cregox.com/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841.rss">[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</source>
+        <source url="/talk/t/cnai-2w-the-bitcoin-future-is-determined-2016-feb-05/7841.rss">[CNAi 2w] the bitcoin future is determined! (2016 feb 05)</source>
       </item>
   </channel>
 </rss>

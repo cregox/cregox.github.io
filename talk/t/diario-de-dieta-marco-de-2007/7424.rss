@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Diario de dieta (março de 2007)</title>
-    <link>http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424</link>
+    <link>/talk/t/diario-de-dieta-marco-de-2007/7424</link>
     <description>
 &lt;div&gt;&lt;div&gt;
       &lt;div&gt;
@@ -28,12 +28,12 @@
     <language>en</language>
     <lastBuildDate>Tue, 24 Feb 2015 10:37:01 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/diario-de-dieta-marco-de-2007/7424.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Diario de dieta (março de 2007)</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>
@@ -58,12 +58,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2007/03/diario-de-dieta.html">http://www.cregox.com/blog/2007/03/diario-de-dieta.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424/1">Read full topic</a></p>
+          <p><a href="/talk/t/diario-de-dieta-marco-de-2007/7424/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424/1</link>
+        <link>/talk/t/diario-de-dieta-marco-de-2007/7424/1</link>
         <pubDate>Tue, 24 Feb 2015 02:36:19 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7424-1</guid>
-        <source url="http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424.rss">Diario de dieta (março de 2007)</source>
+        <source url="/talk/t/diario-de-dieta-marco-de-2007/7424.rss">Diario de dieta (março de 2007)</source>
       </item>
   </channel>
 </rss>

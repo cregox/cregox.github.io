@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Time to focus on versioning</title>
-    <link>http://talk.cregox.com/t/time-to-focus-on-versioning/5601</link>
-    <description>&lt;p&gt;I&#39;m moving away from blog. And into &lt;a href=&quot;http://talk.cregox.com/c/blog&quot;&gt;my discourse&lt;/a&gt;. I&#39;ll try to explain why...&lt;/p&gt;
+    <link>/talk/t/time-to-focus-on-versioning/5601</link>
+    <description>&lt;p&gt;I&#39;m moving away from blog. And into &lt;a href=&quot;/talk/c/blog&quot;&gt;my discourse&lt;/a&gt;. I&#39;ll try to explain why...&lt;/p&gt;
 &lt;p&gt;Wikipedia is one of the biggest symbols of what society can build with the right tools. Although a lot of people might disagree (and I&#39;d argue they don&#39;t get it), it is the best source of knowledge we have today, way and beyond any encyclopedia. And it&#39;s not just in my humble opinion.&lt;/p&gt;
 &lt;p&gt;And how does wikipedia do it, exactly? You guessed it. &lt;strong&gt;Versioning&lt;/strong&gt;. Which is basically a way to do text backups of all versions and let it easy to see what, who, when and even why each backup was done. It&#39;s far from perfect, but it&#39;s enough to make it work. Thanks to not losing history of what have been made, the whole world can contribute to it, and not even the vandalism is lost. Next time you&#39;re there, be sure to take a look at it, it&#39;s the biggest part of wikipedia. It&#39;s right on the top, a link in any article to &quot;&lt;a href=&quot;http://en.wikipedia.org/w/index.php?title=Wikipedia&amp;amp;dir=prev&amp;amp;action=history&quot;&gt;View history&lt;/a&gt;&quot;. Since Nov 2001. (This is something I never seeing in any argument disagreeing of wikipedia.)&lt;/p&gt;
 &lt;p&gt;( Maybe &quot;&lt;em&gt;versioning&lt;/em&gt;&quot; isn&#39;t the best word to describe all this. Maybe it&#39;s &quot;&lt;em&gt;change log&lt;/em&gt;&quot;. It &#39;s a kind of &quot;&lt;em&gt;journal&lt;/em&gt;&quot;. It&#39;s also a kind of &quot;&lt;em&gt;proper backup&lt;/em&gt;&quot;. As mentioned with wikipedia, it allows for &quot;&lt;em&gt;contribution&lt;/em&gt;&quot;, which may be the main point here. There are so many terms, I haven&#39;t settled with one. )&lt;/p&gt;
 &lt;p&gt;In any case, I&#39;m tired of technology (or tools) which don&#39;t offer this. It&#39;s a big reason I started using Mac. &lt;strong&gt;Time Machine&lt;/strong&gt; is the best &lt;strong&gt;file versioning&lt;/strong&gt; out there. Newer OS X versions even brought versioning for a few files without needing TM. Almost all native Mac apps now have it. Surprise surprise, they call it &lt;a href=&quot;http://support.apple.com/en-us/HT202255&quot;&gt;&lt;em&gt;Versions&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This is basically the last time I&#39;m posting on this blog, because it has no versioning (Squarespace, unfortunately biggest failure, is they don&#39;t have any kind of versioning anywhere, while they should, but that&#39;s a whole other topic). To be fair, no blog tool I know of (including wordpress and blogger) have it, anyway...&lt;/p&gt;
-&lt;p&gt;So I&#39;ll improvise and continue on posting on &lt;a href=&quot;http://talk.cregox.com/c/blog&quot;&gt;my discourse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So I&#39;ll improvise and continue on posting on &lt;a href=&quot;/talk/c/blog&quot;&gt;my discourse&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It won&#39;t allow much word processing or text formatting, but it&#39;s good enough for blogging. The main down point is not being able to insert small images along the text (at least for now) like it&#39;s possible here. It also won&#39;t look as pretty. I wouldn&#39;t know. Ideally I would make some kind of IFTTT, or any kind of automation, to grab &quot;blog posts&quot; from there and post &#39;em here, but that&#39;s too much effort for too little results.&lt;/p&gt;
 &lt;p&gt;Why all this &lt;strong&gt;now&lt;/strong&gt;, suddenly?&lt;/p&gt;
 &lt;p&gt;I had to do what I consider moderate editing on my latest blog post. Just really tired of bad tools. If there&#39;s something better, I&#39;ll migrate in a glimpse.&lt;/p&gt;
 &lt;p&gt;This will also make it easier for me in some technical aspects, as I won&#39;t have to embed and integrate this blog with discourse. It keeps failing for multiple reasons. Discourse is also, by far, the best tool for &quot;commenting&quot; and contributing with discussions. Not just because it has versioning, but that&#39;s a great start!&lt;/p&gt;
-&lt;p&gt;That&#39;s it. Keep in touch through &lt;a href=&quot;http://talk.cregox.com/t/time-to-focus-on-versioning/5601/1&quot;&gt;talk&lt;/a&gt;. :)&lt;/p&gt;
+&lt;p&gt;That&#39;s it. Keep in touch through &lt;a href=&quot;/talk/t/time-to-focus-on-versioning/5601/1&quot;&gt;talk&lt;/a&gt;. :)&lt;/p&gt;
 	
 	
 		
@@ -26,25 +26,25 @@
     <language>en</language>
     <lastBuildDate>Sat, 10 Jan 2015 08:27:58 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/time-to-focus-on-versioning/5601.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/time-to-focus-on-versioning/5601.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Time to focus on versioning</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>I'm moving away from blog. And into <a href="http://talk.cregox.com/c/blog">my discourse</a>. I'll try to explain why...</p>
+              <p>I'm moving away from blog. And into <a href="/talk/c/blog">my discourse</a>. I'll try to explain why...</p>
 <p>Wikipedia is one of the biggest symbols of what society can build with the right tools. Although a lot of people might disagree (and I'd argue they don't get it), it is the best source of knowledge we have today, way and beyond any encyclopedia. And it's not just in my humble opinion.</p>
 <p>And how does wikipedia do it, exactly? You guessed it. <strong>Versioning</strong>. Which is basically a way to do text backups of all versions and let it easy to see what, who, when and even why each backup was done. It's far from perfect, but it's enough to make it work. Thanks to not losing history of what have been made, the whole world can contribute to it, and not even the vandalism is lost. Next time you're there, be sure to take a look at it, it's the biggest part of wikipedia. It's right on the top, a link in any article to "<a href="http://en.wikipedia.org/w/index.php?title=Wikipedia&amp;dir=prev&amp;action=history">View history</a>". Since Nov 2001. (This is something I never seeing in any argument disagreeing of wikipedia.)</p>
 <p>( Maybe "<em>versioning</em>" isn't the best word to describe all this. Maybe it's "<em>change log</em>". It 's a kind of "<em>journal</em>". It's also a kind of "<em>proper backup</em>". As mentioned with wikipedia, it allows for "<em>contribution</em>", which may be the main point here. There are so many terms, I haven't settled with one. )</p>
 <p>In any case, I'm tired of technology (or tools) which don't offer this. It's a big reason I started using Mac. <strong>Time Machine</strong> is the best <strong>file versioning</strong> out there. Newer OS X versions even brought versioning for a few files without needing TM. Almost all native Mac apps now have it. Surprise surprise, they call it <a href="http://support.apple.com/en-us/HT202255"><em>Versions</em></a>.</p>
 <p>This is basically the last time I'm posting on this blog, because it has no versioning (Squarespace, unfortunately biggest failure, is they don't have any kind of versioning anywhere, while they should, but that's a whole other topic). To be fair, no blog tool I know of (including wordpress and blogger) have it, anyway...</p>
-<p>So I'll improvise and continue on posting on <a href="http://talk.cregox.com/c/blog">my discourse</a>.</p>
+<p>So I'll improvise and continue on posting on <a href="/talk/c/blog">my discourse</a>.</p>
 <p>It won't allow much word processing or text formatting, but it's good enough for blogging. The main down point is not being able to insert small images along the text (at least for now) like it's possible here. It also won't look as pretty. I wouldn't know. Ideally I would make some kind of IFTTT, or any kind of automation, to grab "blog posts" from there and post 'em here, but that's too much effort for too little results.</p>
 <p>Why all this <strong>now</strong>, suddenly?</p>
 <p>I had to do what I consider moderate editing on my latest blog post. Just really tired of bad tools. If there's something better, I'll migrate in a glimpse.</p>
 <p>This will also make it easier for me in some technical aspects, as I won't have to embed and integrate this blog with discourse. It keeps failing for multiple reasons. Discourse is also, by far, the best tool for "commenting" and contributing with discussions. Not just because it has versioning, but that's a great start!</p>
-<p>That's it. Keep in touch through <a href="http://talk.cregox.com/t/time-to-focus-on-versioning/5601/1">talk</a>. :)</p>
+<p>That's it. Keep in touch through <a href="/talk/t/time-to-focus-on-versioning/5601/1">talk</a>. :)</p>
 	
 	
 		
@@ -54,12 +54,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/12/8/time-to-focus-on-versioning">http://www.cregox.com/blog/2014/12/8/time-to-focus-on-versioning</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/time-to-focus-on-versioning/5601/1">Read full topic</a></p>
+          <p><a href="/talk/t/time-to-focus-on-versioning/5601/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/time-to-focus-on-versioning/5601/1</link>
+        <link>/talk/t/time-to-focus-on-versioning/5601/1</link>
         <pubDate>Mon, 08 Dec 2014 19:29:30 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5601-1</guid>
-        <source url="http://talk.cregox.com/t/time-to-focus-on-versioning/5601.rss">Time to focus on versioning</source>
+        <source url="/talk/t/time-to-focus-on-versioning/5601.rss">Time to focus on versioning</source>
       </item>
   </channel>
 </rss>

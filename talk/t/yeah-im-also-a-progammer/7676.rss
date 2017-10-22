@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Yeah, I&#39;m also a progammer*</title>
-    <link>http://talk.cregox.com/t/yeah-im-also-a-progammer/7676</link>
+    <link>/talk/t/yeah-im-also-a-progammer/7676</link>
     <description>&lt;img src=&quot;/uploads/default/original/1X/365a52ccb1d78553077075e3fe5d5e948e5fb713.png&quot; width=&quot;632&quot; height=&quot;449&quot;&gt; 
 *some traditional &quot;art&quot; I&#39;ve made as a kid, using a mouse and a magazine to copy it from.*
 
@@ -32,14 +32,14 @@ and if you do identify with this and don&#39;t know how to code (yet), you could
     <language>en</language>
     <lastBuildDate>Tue, 28 Jul 2015 02:48:16 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/yeah-im-also-a-progammer/7676.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Yeah, I&#39;m also a progammer*</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/365a52ccb1d78553077075e3fe5d5e948e5fb713.png" width="632" height="449"> <br><em>some traditional "art" I've made as a kid, using a mouse and a magazine to copy it from.</em></p>
+              <p><img src="/talk/uploads/default/original/1X/365a52ccb1d78553077075e3fe5d5e948e5fb713.png" width="632" height="449"> <br><em>some traditional "art" I've made as a kid, using a mouse and a magazine to copy it from.</em></p>
 
 <p>this post has probably nothing to do with Peter Spidey there.</p>
 
@@ -59,18 +59,18 @@ and if you do identify with this and don&#39;t know how to code (yet), you could
 
 <p>so, I'm actually a <strong>progammer</strong>.</p>
 
-<p>and what's that "<strong>gammer</strong>"? since it's a new word I suppose I'm inventing, I'm also defining it as a person who knows how to code, who likes games, dislike grammar, enjoys creativity, skepticism and high tech above all. in other words, as myself! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="64" height="64"></p>
+<p>and what's that "<strong>gammer</strong>"? since it's a new word I suppose I'm inventing, I'm also defining it as a person who knows how to code, who likes games, dislike grammar, enjoys creativity, skepticism and high tech above all. in other words, as myself! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="64" height="64"></p>
 
 <p>just like there is art in programming it's as well in inventing new words. or etc.</p>
 
-<p>and if you do identify with this and don't know how to code (yet), you could call yourself simply a <strong>gammer</strong>. or not. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>and if you do identify with this and don't know how to code (yet), you could call yourself simply a <strong>gammer</strong>. or not. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676/1">Read full topic</a></p>
+          <p><a href="/talk/t/yeah-im-also-a-progammer/7676/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/yeah-im-also-a-progammer/7676/1</link>
+        <link>/talk/t/yeah-im-also-a-progammer/7676/1</link>
         <pubDate>Sun, 26 Jul 2015 07:32:48 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7676-1</guid>
-        <source url="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676.rss">Yeah, I&#39;m also a progammer*</source>
+        <source url="/talk/t/yeah-im-also-a-progammer/7676.rss">Yeah, I&#39;m also a progammer*</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Understanding the Introverted</title>
-    <link>http://talk.cregox.com/t/understanding-the-introverted/40</link>
+    <link>/talk/t/understanding-the-introverted/40</link>
     <description>You probably have already seen [this][1]... :smile:
 
 &lt;a href=&quot;/uploads/default/6/0741228715bb9ffc.jpg&quot;&gt;&lt;img src=&quot;/uploads/default/6/0741228715bb9ffc.jpg&quot; width=&quot;78&quot; height=&quot;500&quot;&gt;&lt;/a&gt;
@@ -11,23 +11,23 @@
     <language>en</language>
     <lastBuildDate>Wed, 02 Jul 2014 12:55:26 +0000</lastBuildDate>
     <category>chaotic science</category>
-    <atom:link href="http://talk.cregox.com/t/understanding-the-introverted/40.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/understanding-the-introverted/40.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Understanding the Introverted</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>You probably have already seen <a href="http://iwastesomuchtime.com/on/?i=63454">this</a>... <img src="//talk.cregox.com/images/emoji/emoji_one/smile.png" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
 
 <p><a href="//talk.cregox.com/uploads/default/6/0741228715bb9ffc.jpg"><img src="//talk.cregox.com/uploads/default/6/0741228715bb9ffc.jpg" width="78" height="500"></a></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/understanding-the-introverted/40/1">Read full topic</a></p>
+          <p><a href="/talk/t/understanding-the-introverted/40/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/understanding-the-introverted/40/1</link>
+        <link>/talk/t/understanding-the-introverted/40/1</link>
         <pubDate>Wed, 02 Jul 2014 12:46:21 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-40-1</guid>
-        <source url="http://talk.cregox.com/t/understanding-the-introverted/40.rss">Understanding the Introverted</source>
+        <source url="/talk/t/understanding-the-introverted/40.rss">Understanding the Introverted</source>
       </item>
   </channel>
 </rss>

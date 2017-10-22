@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Pivot Manager</title>
-    <link>http://talk.cregox.com/t/pivot-manager/7867</link>
+    <link>/talk/t/pivot-manager/7867</link>
     <description>From: Alexander Ameye
 
 hey man,
@@ -15,46 +15,46 @@ thanks!!</description>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jul 2016 08:12:25 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/pivot-manager/7867.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/pivot-manager/7867.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Pivot Manager</title>
         <dc:creator><![CDATA[@alexanderameye alexanderameye]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/alexanderameye">@alexanderameye</a> wrote:</p>
+          <p><a href="/talk/u/alexanderameye">@alexanderameye</a> wrote:</p>
           <blockquote>
               <p>Haha yes, the default solution given by unity is still to create a parent object that functions as a pivot point, but in my case that takes a lot of code.. Just changing the pivot point would be much more efficient. Currently I'm also figuring the original script out and modifying it to fit my needs. If I get it integrated enough into my script and polished enough, I'll send you a link of my asset! Thanks bud</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/pivot-manager/7867/3">Read full topic</a></p>
+          <p><a href="/talk/t/pivot-manager/7867/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/pivot-manager/7867/3</link>
+        <link>/talk/t/pivot-manager/7867/3</link>
         <pubDate>Fri, 01 Jul 2016 08:12:25 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7867-3</guid>
-        <source url="http://talk.cregox.com/t/pivot-manager/7867.rss">Pivot Manager</source>
+        <source url="/talk/t/pivot-manager/7867.rss">Pivot Manager</source>
       </item>
       <item>
         <title>Pivot Manager</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>wow, I've made <a href="http://wiki.unity3d.com/index.php/PivotManager" rel="nofollow">that script</a> over 4 years ago. I can't believe it's still relevant for something today! I'd hope Unity team would have brought a better solution there by now.</p>
 
 <p>too bad I can't remember why I've made it and I didn't document it enough there. I don't think it fixed any of <a href="http://wiki.unity3d.com/index.php?title=SetPivot" rel="nofollow">the original</a> issues, though. also I was toying with unity up to late 2014 and since this was last updated in 2012 I probably didn't use it much. dammit, I wished I could remember exactly why that exists...</p>
 
-<p>I do remember I was trying to understand how SetPivot worked, reason why I keep saying it's a simplified version. probably eventually I figured a better way to handle the pivot issue though. so sorry I won't be able to dig deeper into this any time soon! but I'd love to learn more about your quest once you figure it out. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=2" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>I do remember I was trying to understand how SetPivot worked, reason why I keep saying it's a simplified version. probably eventually I figured a better way to handle the pivot issue though. so sorry I won't be able to dig deeper into this any time soon! but I'd love to learn more about your quest once you figure it out. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=2" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/pivot-manager/7867/2">Read full topic</a></p>
+          <p><a href="/talk/t/pivot-manager/7867/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/pivot-manager/7867/2</link>
+        <link>/talk/t/pivot-manager/7867/2</link>
         <pubDate>Fri, 01 Jul 2016 01:21:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7867-2</guid>
-        <source url="http://talk.cregox.com/t/pivot-manager/7867.rss">Pivot Manager</source>
+        <source url="/talk/t/pivot-manager/7867.rss">Pivot Manager</source>
       </item>
       <item>
         <title>Pivot Manager</title>
         <dc:creator><![CDATA[@Squarespace Squarespace]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/squarespace">@Squarespace</a> wrote:</p>
+          <p><a href="/talk/u/squarespace">@Squarespace</a> wrote:</p>
           <blockquote>
               <p>From: Alexander Ameye</p>
 
@@ -62,12 +62,12 @@ thanks!!</description>
 
 <p>I was using the 'SetPivot' script written by Yilmaz Kiymaz and then I saw <br>that you uploaded an edited version. I was wondering, in what way is this <br>script different than the original, and also, does this script fix the <br>issue when you try to change the pivot point of rotated objects? much <br>thanks!!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/pivot-manager/7867/1">Read full topic</a></p>
+          <p><a href="/talk/t/pivot-manager/7867/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/pivot-manager/7867/1</link>
+        <link>/talk/t/pivot-manager/7867/1</link>
         <pubDate>Wed, 29 Jun 2016 17:40:17 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7867-1</guid>
-        <source url="http://talk.cregox.com/t/pivot-manager/7867.rss">Pivot Manager</source>
+        <source url="/talk/t/pivot-manager/7867.rss">Pivot Manager</source>
       </item>
   </channel>
 </rss>

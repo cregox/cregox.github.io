@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Using a gallery instead of the template banner</title>
-    <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476</link>
+    <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476</link>
     <description>Hey @Kate, remember this list we agreed on making item 2?
 
 1. You want a picture or a video on top header? That should be U$ 42
@@ -21,63 +21,63 @@ I also still need to fix a few glitches I&#39;ve noticed there... But it&#39;s a
     <language>en</language>
     <lastBuildDate>Mon, 23 Mar 2015 17:44:00 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Caue I just got around to working on this and watching the video- thank you so much for making it, that was so nice of you! Worked wonderfully!</p>
 
 <p>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/32">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/32">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/32</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/32</link>
         <pubDate>Mon, 23 Mar 2015 17:44:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-32</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Ok I trust you! When you have a moment, could you tell me the cost to put up a video instead?</p>
 
 <p>Thank you!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/30">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/30">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/30</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/30</link>
         <pubDate>Sat, 21 Mar 2015 11:56:58 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-30</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Too much work, yeah! That could work, but it'd be much much simpler to just
 use a video.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/29">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/29">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/29</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/29</link>
         <pubDate>Sat, 21 Mar 2015 02:11:58 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-29</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>You think there's any way around it? Would it be worth trying javascript to tell the browser to replace these gifs with new ones every 5 seconds after preloading them, so it looks seamless to add in more?</p>
 
@@ -86,35 +86,35 @@ use a video.</p>
 <p>Thanks!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/28">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/28">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/28</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/28</link>
         <pubDate>Sat, 21 Mar 2015 01:42:12 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-28</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Oh yeah, there's that limitation as well. Squarespace only takes <a href="http://help.squarespace.com/guides/how-should-i-format-my-images-for-display-on-the-web">images up to 20mb</a>. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
+              <p>Oh yeah, there's that limitation as well. Squarespace only takes <a href="http://help.squarespace.com/guides/how-should-i-format-my-images-for-display-on-the-web">images up to 20mb</a>. <img src="/talk/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
 
 <p>They want to keep a fast loading and clean website so I suppose that's the biggest reason for this measure.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/27">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/27">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/27</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/27</link>
         <pubDate>Sat, 21 Mar 2015 01:13:47 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-27</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Thank you for this Caue- I will give it a go- supper helpful to have the video- thank you!</p>
 
@@ -126,75 +126,75 @@ Kate</p>
 <p>Thanks!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/26">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/26">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/26</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/26</link>
         <pubDate>Sat, 21 Mar 2015 00:27:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-26</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I've made <a href="http://youtu.be/M5F5rwfXVz0">a video</a> for you:</p>
 
 <div class="lazyYT" data-youtube-id="M5F5rwfXVz0" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
-<p>In fact, I resolved my chrome issue by <a href="http://superuser.com/questions/366483/how-to-delete-cookies-for-a-specific-site">clearing up all cookies</a> from squarespace, right after I've made that video. And now I can see the footer buttons just like in <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/18?u=cawas">that screenshot</a> already provided.</p>
+<p>In fact, I resolved my chrome issue by <a href="http://superuser.com/questions/366483/how-to-delete-cookies-for-a-specific-site">clearing up all cookies</a> from squarespace, right after I've made that video. And now I can see the footer buttons just like in <a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/18?u=cawas">that screenshot</a> already provided.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/25">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/25">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/25</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/25</link>
         <pubDate>Fri, 20 Mar 2015 23:34:52 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-25</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Awesome, video pop up working!- And perfect, you put the gallery right where it needs to be on the shop page- I am still having trouble seeing where I need to go to edit the images in the slide show- would you mind screen shooting where I need to go to add images?</p>
 
 <p>Thank you!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/24">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/24">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/24</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/24</link>
         <pubDate>Fri, 20 Mar 2015 20:18:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-24</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Well, I have uncommented the script code which was already set to make it work with <code>'/shopproducts'</code> page as pointed out, and it's already working. I also went ahead and removed the old static banner from shopproducts. But you still need to set up the gallery or tell me how you want it.</p>
 
-<p>The issue I mentioned with chrome and footers is coincidental, not related to any custom scripts at all, related strictly to squarespace and, maybe, it's just in my end. I'm in touch with them to report the bug. I just cited it because it would be funny if you ended up having the same bug! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+<p>The issue I mentioned with chrome and footers is coincidental, not related to any custom scripts at all, related strictly to squarespace and, maybe, it's just in my end. I'm in touch with them to report the bug. I just cited it because it would be funny if you ended up having the same bug! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
 
 <p>My bad yet again on the lightbox bug. The fix was basically using a <code>for each</code> instead of <code>if ($videoButton.length)</code>. That code is fairly simple, not very hackish or particularly difficult to maintain, despite its apparent big size.</p>
 
 <p>But I agree with you. If we need so much more than a couple small scripts, it's probably a better idea to go with developer mode!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/23">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/23">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/23</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/23</link>
         <pubDate>Fri, 20 Mar 2015 19:41:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-23</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Thanks Caue</p>
 
@@ -205,37 +205,37 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Next go-around, we will not make things so hacker like‚Ä¶</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/22">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/22">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/22</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/22</link>
         <pubDate>Fri, 20 Mar 2015 19:23:54 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-22</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>The left footer has the only gallery that will work on every shop page (or blog page, or many other kinds of page that we can't use the other method).</p>
 
-<p>You just have to replace that gallery. <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/18?u=cawas">The two screenshots from the previous post</a> show you where the left footer is located. You should be able to simply edit it.</p>
+<p>You just have to replace that gallery. <a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/18?u=cawas">The two screenshots from the previous post</a> show you where the left footer is located. You should be able to simply edit it.</p>
 
 <p>Granted, right now I've got a bug on my chrome browser which I can't properly edit that footer in any squarespace site. But I can do it on safari, for instance. Maybe you're having a similar issue.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/21">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/21">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/21</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/21</link>
         <pubDate>Fri, 20 Mar 2015 19:10:16 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-21</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>HI Caue, </p>
 
@@ -245,18 +245,18 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Thank you!<br>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/20">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/20">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/20</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/20</link>
         <pubDate>Fri, 20 Mar 2015 19:05:23 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-20</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>As you requested <a class="mention" href="/users/kate">@Kate</a>, I've also done the lightbox now. And had <a href="http://stackoverflow.com/a/29084305/274502">some fun</a> while at it. It's all on:</p>
 
@@ -266,7 +266,7 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <pre><code>javascript:jqueryLightbox();</code></pre>
 
-<p>Take a look on the squarespace config how I setup that page. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>Take a look on the squarespace config how I setup that page. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
 
 <p>The gallery has to be a <strong>grid</strong>, as that the only one that makes the lightbox <a href="http://answers.squarespace.com/questions/4182/how-can-i-lightbox-an-embedded-video-full-screen-without-coding">precisely the way we wanted</a> (I hope), as <a href="http://answers.squarespace.com/questions/4182/how-can-i-lightbox-an-embedded-video-full-screen-without-coding">discussed before</a>. Here's a video on how you can include one:</p>
 
@@ -311,28 +311,28 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
   })( jQuery );
 &lt;/script&gt;</code></pre>
 
-<p>PS: I've also added a small bug fix to a previous code which was affecting this one. Basically it was adding couple of checking for nulls, such as <code>if ($gal.length)</code>. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>PS: I've also added a small bug fix to a previous code which was affecting this one. Basically it was adding couple of checking for nulls, such as <code>if ($gal.length)</code>. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/19">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/19">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/19</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/19</link>
         <pubDate>Mon, 16 Mar 2015 20:07:56 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-19</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Don't be. I was writing it while the solution came up, so it all ended up fine. It is also part of learning more about squarespace and improving my services... The only problem is how it happened in the very last moment. I decided to leave the narration just because it illustrates a bit of how the process happens, I hope. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Don't be. I was writing it while the solution came up, so it all ended up fine. It is also part of learning more about squarespace and improving my services... The only problem is how it happened in the very last moment. I decided to leave the narration just because it illustrates a bit of how the process happens, I hope. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>Things like that happen at least once per month, just not in the last minute like that. Designers (which I am not, unfortunately) probably go to much worse, since their software is even more complex and they can do so little about it.</p>
 
 <aside class="quote" data-post="17" data-topic="7476"><div class="title">
 <div class="quote-controls"></div>
-<img width="20" height="20" src="//talk-cdn.cregox.com/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
+<img width="20" height="20" src="/talk/letter_avatar/kate/40/2.png" class="avatar">Kate:</div>
 <blockquote><p>a screen shot of where I need to place the gallery when I am in the editor</p></blockquote></aside>
 
 <p>Even two:</p>
@@ -341,18 +341,18 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <a href="https://dl.dropboxusercontent.com/s/n9ayycht2zcjyhx/Screenshot%202015-03-14%2009.40.13.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/n9ayycht2zcjyhx/Screenshot%202015-03-14%2009.40.13.png?dl=0" width="690" height="447"></a>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/18">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/18">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/18</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/18</link>
         <pubDate>Sat, 14 Mar 2015 12:41:36 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-18</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Wow Caue- I feel just terrible about this- I never expected you to do all this!</p>
 
@@ -364,18 +364,18 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Thank you I very much appreciate it<br>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/17">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/17">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/17</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/17</link>
         <pubDate>Fri, 13 Mar 2015 17:52:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-17</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I prefer bluntness and boldness, please keep going with it!</p>
 
@@ -383,7 +383,7 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>It might have been better...</p>
 
-<p>Because I'm afraid the (closest to) worst have happened. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
+<p>Because I'm afraid the (closest to) worst have happened. <img src="/talk/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
 
 <p>I woke up today by 7 am and I've been fiddling with this since then. Now I really need to go and I may not be able to finish this today (which was our due date).</p>
 
@@ -395,7 +395,7 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Right now, if you go to <a href="https://kate-bosse-87i3.squarespace.com/shop-footer">https://kate-bosse-87i3.squarespace.com/shop-footer</a> and manually resize the window, it will be perfect. That's what I had done hours ago, after just a few moments adding a few tricks for doing that. It's not ideal, but it works.</p>
 
-<p>The problem is if you do not resize the window after it's loaded, it will stay as small as it was on the footer. And after hours trying to fix it in every possible way, I couldn't. I just couldn't. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/cry.png?v=0" title=":cry:" class="emoji" alt="cry" width="20" height="20"></p>
+<p>The problem is if you do not resize the window after it's loaded, it will stay as small as it was on the footer. And after hours trying to fix it in every possible way, I couldn't. I just couldn't. <img src="/talk/images/emoji/emoji_one/cry.png?v=0" title=":cry:" class="emoji" alt="cry" width="20" height="20"></p>
 
 <p>It's as frustrating as it can be. Such a minor detail, and so close to the end, but what a road block! It's almost like taking the ladder to go upstairs in a tower only to get there with closed windows and no keys. And the keys are nowhere to be found, no matter where you look or how many times you go up and down seeking for them. They might, in fact, not even exist... And the windows might, in fact, be just really good paint on the wall that tricked me really well.</p>
 
@@ -411,39 +411,39 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>You have to edit the left footer and whatever gallery you set there will be the banner on every page that's on the script configuration (<code>allowedPagesForFooterBanner</code>). So yeah, you have to manually add which pages you want to the script before it will work. And it is just 1 gallery per global setting this way, no way to customize per page, but you can still use the old method.</p>
 
-<p>I hope I'm not missing anything this time. I really gotta go now! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>I hope I'm not missing anything this time. I really gotta go now! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/16">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/16">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/16</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/16</link>
         <pubDate>Fri, 13 Mar 2015 16:54:06 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-16</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Caue, on the shop page gallery header, I need to request that you set it up as we first discussed. If you can set up a work-around to the issue and not have to do code for the gallery header, that is fine, I just need it to look the same to the client. But, as it is, I had expected a shop page header once you were done with the coding and have not yet gotten it. Could you please set the site so that appears to have a shop page gallery header and is a finished solution for the client?<br>Thank you and I apologize for being blunt, I just need this project to be done so we can move to next. </p>
 
 <p>thanks so much<br>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/15">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/15">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/15</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/15</link>
         <pubDate>Fri, 13 Mar 2015 01:30:27 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-15</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Great! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt="smiley" width="20" height="20"></p>
+              <p>Great! <img src="/talk/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt="smiley" width="20" height="20"></p>
 
 <p>And that's easy. Just remove the folder and set all other pages under "not<br>linked". There, I'm editing it for you the lead.</p>
 
@@ -451,18 +451,18 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>As for the <em>video lightbox</em>, I think it's simple enough: <a href="http://answers.squarespace.com/questions/4182/how-can-i-lightbox-an-embedded-video-full-screen-without-coding">http://answers.squarespace.com/questions/4182/how-can-i-lightbox-an-embedded-video-full-screen-without-coding</a> but yeah, if needs to be button-like in that way, I'll need to spend some extra time on it. U$84 more at most.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/14">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/14">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/14</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/14</link>
         <pubDate>Thu, 12 Mar 2015 20:20:11 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-14</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Hi Caue, </p>
 
@@ -472,18 +472,18 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Thanks!<br>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/13">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/13">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/13</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/13</link>
         <pubDate>Thu, 12 Mar 2015 20:06:17 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-13</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Another item on this Caue,</p>
 
@@ -491,40 +491,40 @@ The video light box is working for the ‚Äúwhy Lumixyl" Button, but not for the ‚
 
 <p>Thanks !
 kate
-<div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/56ddfc074b027b86f1f69da24f0f346a3fa147fc" href="//talk-cdn.cregox.com/uploads/default/68/d3686cda7bb1195f.png" class="lightbox" title="Screen Shot 2015-03-12 at 3.56.57 PM.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/7b5/91f/932570b8da_690x478.png" width="690" height="478"><div class="meta">
+<div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/56ddfc074b027b86f1f69da24f0f346a3fa147fc" href="/talk/uploads/default/68/d3686cda7bb1195f.png" class="lightbox" title="Screen Shot 2015-03-12 at 3.56.57 PM.png"><img src="/talk/uploads/default/_optimized/7b5/91f/932570b8da_690x478.png" width="690" height="478"><div class="meta">
 <span class="filename">Screen Shot 2015-03-12 at 3.56.57 PM.png</span><span class="informations">1208x838 352 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/12">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/12">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/12</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/12</link>
         <pubDate>Thu, 12 Mar 2015 20:05:26 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-12</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Hi Caue, I guess I can make this work, however, the client doest want the drop down categories under ‚Äúshop‚Äù they just want to click on shop and enter the shop, so if you could make it so there are no drop down choices in the menu bar, then I think I could make this solution work.</p>
 
 <p>thanks,
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/11">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/11">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/11</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/11</link>
         <pubDate>Thu, 12 Mar 2015 20:00:15 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-11</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>The email in feature here in these forums have many good points but some limitations. <a href="https://meta.discourse.org/t/text-of-forwarded-emails-dont-show-up-in-posts/23155">It will filter out quotes from emails</a> in an attempt to reduce the noise. Try clicking the mail icon on your post above and you'll see how much it was filtered there. <strong>Maybe</strong> that was the issue you've experienced there. I've got no sign of your response anywhere, though.</p>
 
@@ -539,7 +539,7 @@ Kate</p>
 <li>The categories can be listed on the menu</li>
 <li>You can easily add different gallery banners for each category (if I do it for page, it will be just 1 gallery per category, unless I work on making it more hackish)</li>
 <li>It requires less custom code to work with the "gallery banner" I've just created (means less maintenance of that code for both of us)</li>
-<li>(advantage only for me) it won't require me to create more code right now <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20">
+<li>(advantage only for me) it won't require me to create more code right now <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20">
 </li>
 </ul>
 
@@ -549,22 +549,22 @@ Kate</p>
 
 <p>But there is a chance it will take <strong>much</strong> more time for me to do it and if it does I think it will be fair to charge a bit more.</p>
 
-<p>If it doesn't take that <strong>much more extra</strong>, it's only fair for me to do it within the planned cost, because I did overlook that issue. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>If it doesn't take that <strong>much more extra</strong>, it's only fair for me to do it within the planned cost, because I did overlook that issue. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
 
 <p>Another thing I might consider doing instead would be coding for changing categories of the Summary Block within the same Page. If it's possible and if it takes less code than the other option.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/10">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/10">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/10</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/10</link>
         <pubDate>Thu, 12 Mar 2015 15:13:49 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-10</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Hi Caue, </p>
 
@@ -572,33 +572,33 @@ Kate</p>
 
 <p>Thank you!<br>Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/9">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/9">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/9</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/9</link>
         <pubDate>Thu, 12 Mar 2015 14:01:28 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-9</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Ohhhh I see now- thanks Caue!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/8">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/8">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/8</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/8</link>
         <pubDate>Thu, 12 Mar 2015 13:00:04 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-8</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
       <item>
         <title>Using a gallery instead of the template banner</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <blockquote><p><a href="http://help.squarespace.com/guides/using-the-video-block"><strong>Squarespace doesn‚Äôt support uploaded video</strong>. When embedding a video using a URL, only YouTube, Vimeo, Animoto, and Wistia are supported. You can use embed code for other video hosting services.</a></p></blockquote>
 
@@ -606,12 +606,12 @@ Kate</p>
 
 <p>As for adding video on gallery, <a href="http://help.squarespace.com/guides/using-gallery-blocks#toc--span-add-images-and-video--span-">see Option 3 on the help</a>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/7">Read full topic</a></p>
+          <p><a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/7">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/7</link>
+        <link>/talk/t/using-a-gallery-instead-of-the-template-banner/7476/7</link>
         <pubDate>Wed, 11 Mar 2015 21:50:19 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7476-7</guid>
-        <source url="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
+        <source url="/talk/t/using-a-gallery-instead-of-the-template-banner/7476.rss">Using a gallery instead of the template banner</source>
       </item>
   </channel>
 </rss>

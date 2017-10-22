@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</title>
-    <link>http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434</link>
+    <link>/talk/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434</link>
     <description>
 &lt;div&gt;&lt;div&gt;
       &lt;div&gt;
@@ -58,12 +58,12 @@ The only &quot;issue&quot; with this is that it will make a list always in the s
     <language>en</language>
     <lastBuildDate>Sun, 01 Mar 2015 14:48:36 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>
@@ -118,12 +118,12 @@ The only "issue" with this is that it will make a list always in the same weird 
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/02/blog-post.html">http://www.cregox.com/blog/2014/02/blog-post.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1">Read full topic</a></p>
+          <p><a href="/talk/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1</link>
+        <link>/talk/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434/1</link>
         <pubDate>Sun, 01 Mar 2015 14:20:34 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7434-1</guid>
-        <source url="http://talk.cregox.com/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss">Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</source>
+        <source url="/talk/t/very-simple-bookmarklet-and-instructions-for-bringing-up-youtubes-playlist-with-all-videos-from-a-single-user/7434.rss">Very simple bookmarklet and instructions for bringing up youtube&#39;s playlist with all videos from a single user</source>
       </item>
   </channel>
 </rss>

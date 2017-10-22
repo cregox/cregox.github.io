@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>From God&#39;s Debris to data loss... Why people love forgetting so much?</title>
-    <link>http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750</link>
+    <link>/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750</link>
     <description>## I kinda **hate** forgetting.
 
 Not because of the [spotless mind][1] at all, but because data is very useful. The internet only became what it is once Google came around, and enabled us to **remind** virtually anything.
@@ -54,7 +54,7 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
 
   [1]: http://www.imdb.com/title/tt0338013/combined
   [2]: http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science
-  [3]: http://talk.cregox.com/t/only-for-geniuses-and-not-for-stack-exchangers/68
+  [3]: /talk/t/only-for-geniuses-and-not-for-stack-exchangers/68
   [4]: http://blog.dilbert.com/post/112326463991/skeptics-say-science-has-no-obligation-to
   [5]: http://theness.com/neurologicablog/index.php/scott-adams-on-science-and-nutrition/
   [6]: https://www.sgutranscripts.org/wiki/SGU_Episode_455
@@ -64,12 +64,12 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
     <language>en</language>
     <lastBuildDate>Sat, 19 Mar 2016 01:04:44 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>From God&#39;s Debris to data loss... Why people love forgetting so much?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <h2>I kinda <strong>hate</strong> forgetting.</h2>
 
@@ -77,7 +77,7 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
 
 <p>This will be very dense...</p>
 
-<p>To me, <em>forgetting</em> is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone's life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>To me, <em>forgetting</em> is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone's life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
 
 <p>Granted, there is a value in customizing search results. And not only for each person, but for each usage. When you search for "apple" you might want to know more about the fruit or the company, depending on your current mindset context, which might be far from obvious. On another hand, outdated data can also get too much neural connections in it and gain a bad rank up - since it's outdated. It's still better to demote it (for being old) than to forget / erase it. We might still want or need old data, eventually. And that's the same basic principle that could be applied to define which apple we're looking for - need dynamic weights on context. Not just <em>forgetting</em> things.</p>
 
@@ -87,7 +87,7 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
 
 <h2>Enter yet again, the skeptics</h2>
 
-<p>Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin' dedicated hour to finally find it. And indeed, <a href="http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science">it was wiped</a> (<small><a href="https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf">here is the print of the wiped "broken" link</a> in which <span class="mention">@user6907</span> is Scott Adams - only logged in users with permission can see it</small>). Again. At least, like <a href="http://talk.cregox.com/t/only-for-geniuses-and-not-for-stack-exchangers/68">before</a>, it was not 100% trashed away, or else I couldn't recover it. <em>Cool enough, that "before" post linked there is by far the highest visited page on cregox.com <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunglasses.png?v=2" title=":sunglasses:" class="emoji" alt=":sunglasses:">. Anyway...</em></p>
+<p>Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin' dedicated hour to finally find it. And indeed, <a href="http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science">it was wiped</a> (<small><a href="https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf">here is the print of the wiped "broken" link</a> in which <span class="mention">@user6907</span> is Scott Adams - only logged in users with permission can see it</small>). Again. At least, like <a href="/talk/t/only-for-geniuses-and-not-for-stack-exchangers/68">before</a>, it was not 100% trashed away, or else I couldn't recover it. <em>Cool enough, that "before" post linked there is by far the highest visited page on cregox.com <img src="/talk/images/emoji/emoji_one/sunglasses.png?v=2" title=":sunglasses:" class="emoji" alt=":sunglasses:">. Anyway...</em></p>
 
 <p>The <strong>serendipity</strong> (universal conspiration) of how, after that, I also found a very valuable piece of information (see below) to me is quite entertaining and important. To me only. The chain started with someone opening up a slack <span class="hashtag">#ai</span> channel, then me participating in some conversations there, ending up talking about books with that same one, and how the last one I've read was God's Debris, which is an interesting read despite being filled with woo and terrible so called "science". Awfully terrible.</p>
 
@@ -111,7 +111,7 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
 
 <p>Also <em>(I forgot what I was going to write here, lol)</em>.</p>
 
-<p>Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I'll just hit "Create Topic" now, and eventually edit it later. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/ocean.png?v=2" title=":ocean:" class="emoji" alt=":ocean:"> </p>
+<p>Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I'll just hit "Create Topic" now, and eventually edit it later. <img src="/talk/images/emoji/emoji_one/ocean.png?v=2" title=":ocean:" class="emoji" alt=":ocean:"> </p>
 
 <h1>Too Long</h1>
 
@@ -119,14 +119,14 @@ People love forgetting because our **brain needs** to. It&#39;s only natural. Bu
 
 <p>Point I was trying to make probably was along these lines: </p>
 
-<p>People love forgetting because our <strong>brain needs</strong> to. It's only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make <strong>life</strong> so much more fun and interesting! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>People love forgetting because our <strong>brain needs</strong> to. It's only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make <strong>life</strong> so much more fun and interesting! <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1">Read full topic</a></p>
+          <p><a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1</link>
+        <link>/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750/1</link>
         <pubDate>Sun, 15 Nov 2015 11:19:01 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7750-1</guid>
-        <source url="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss">From God&#39;s Debris to data loss... Why people love forgetting so much?</source>
+        <source url="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss">From God&#39;s Debris to data loss... Why people love forgetting so much?</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Metrics on search bar</title>
-    <link>http://talk.cregox.com/t/metrics-on-search-bar/7525</link>
+    <link>/talk/t/metrics-on-search-bar/7525</link>
     <description>Hi Caue,
 
 I have a question for you- a client would like a search bar added to their website. However, the client wants the search bar to be able to collect the search terms that people search for so that he can look at those results and analyze them to see if he is offering the right products.
@@ -14,59 +14,59 @@ Kate</description>
     <language>en</language>
     <lastBuildDate>Tue, 07 Apr 2015 01:26:41 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/metrics-on-search-bar/7525.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Metrics on search bar</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>That's awesome! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+              <p>That's awesome! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/metrics-on-search-bar/7525/5">Read full topic</a></p>
+          <p><a href="/talk/t/metrics-on-search-bar/7525/5">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/metrics-on-search-bar/7525/5</link>
+        <link>/talk/t/metrics-on-search-bar/7525/5</link>
         <pubDate>Tue, 07 Apr 2015 01:26:41 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7525-5</guid>
-        <source url="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
+        <source url="/talk/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
       </item>
       <item>
         <title>Metrics on search bar</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>I actually just found out that this is included in Squarespace- when you click on metrics in the CMS, you can then click on website aeries and see the ones that were typed into your search bar!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/metrics-on-search-bar/7525/4">Read full topic</a></p>
+          <p><a href="/talk/t/metrics-on-search-bar/7525/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/metrics-on-search-bar/7525/4</link>
+        <link>/talk/t/metrics-on-search-bar/7525/4</link>
         <pubDate>Mon, 06 Apr 2015 20:56:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7525-4</guid>
-        <source url="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
+        <source url="/talk/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
       </item>
       <item>
         <title>Metrics on search bar</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I think squarespace metrics would not do that, but it sure can be done using google anayltics, specially if we use google's search bar: <a href="https://support.google.com/customsearch/answer/2715510?hl=en">https://support.google.com/customsearch/answer/2715510?hl=en</a></p>
 
 <p>So yeah, quite possible to do. I can only promise anything done after April 30th, though.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/metrics-on-search-bar/7525/3">Read full topic</a></p>
+          <p><a href="/talk/t/metrics-on-search-bar/7525/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/metrics-on-search-bar/7525/3</link>
+        <link>/talk/t/metrics-on-search-bar/7525/3</link>
         <pubDate>Mon, 06 Apr 2015 20:29:06 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7525-3</guid>
-        <source url="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
+        <source url="/talk/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
       </item>
       <item>
         <title>Metrics on search bar</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Hi Caue,</p>
 
@@ -77,12 +77,12 @@ Kate</description>
 <p>Thanks!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/metrics-on-search-bar/7525/1">Read full topic</a></p>
+          <p><a href="/talk/t/metrics-on-search-bar/7525/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/metrics-on-search-bar/7525/1</link>
+        <link>/talk/t/metrics-on-search-bar/7525/1</link>
         <pubDate>Mon, 06 Apr 2015 15:28:04 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7525-1</guid>
-        <source url="http://talk.cregox.com/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
+        <source url="/talk/t/metrics-on-search-bar/7525.rss">Metrics on search bar</source>
       </item>
   </channel>
 </rss>

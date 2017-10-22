@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Why Stack Exchange Network rocks!</title>
-    <link>http://talk.cregox.com/t/why-stack-exchange-network-rocks/74</link>
+    <link>/talk/t/why-stack-exchange-network-rocks/74</link>
     <description>&lt;a href=&quot;http://stackexchange.com/&quot;&gt;Stack Exchange&lt;/a&gt; (&lt;b&gt;SEN&lt;/b&gt;) is a &lt;a href=&quot;http://stackexchange.com/sites&quot;&gt;Network of sites&lt;/a&gt; which uses a Question &amp;amp; Answer (&lt;b&gt;Q&amp;amp;A&lt;/b&gt;) format in an attempt to &quot;&lt;i&gt;improve quality of the inter webs content&lt;/i&gt;&quot;, as they once described themselves as I recall and here adapted with my own words. It started in one of the &quot;child&quot; (actually the parent of all) sites, the &lt;a href=&quot;http://stackoverflow.com/users/22656/jon-skeet&quot;&gt;Stack Overflow&lt;/a&gt; (&lt;b&gt;SO&lt;/b&gt;), specialized in computer programming, in an attempt to &quot;&lt;i&gt;improve the quality of programming subjects in the inter webs&lt;/i&gt;&quot;, also as once they described themselves, etc.&lt;br&gt;
 &lt;br&gt;
 &lt;a href=&quot;&lt;img src=&#39;/uploads/default/16/14f91b8259e346d5.png&#39;&gt;&quot; imageanchor=&quot;1&quot;&gt;&lt;img border=&quot;0&quot; src=&#39;/uploads/default/16/14f91b8259e346d5.png&#39; height=&quot;188&quot; width=&quot;200&quot;&gt;&lt;/a&gt;I recently gained some &lt;a href=&quot;http://stackoverflow.com/help/privileges&quot;&gt;moderation privileges&lt;/a&gt; by reaching 3k, which I weren&#39;t really looking for. &lt;a href=&quot;http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/&quot;&gt;Moderator&lt;/a&gt; is a tough job I never wanted. But since I was there, I decided to give it a try. While on it, I couldn&#39;t understand &lt;a href=&quot;http://meta.stackoverflow.com/questions/253143/what-do-people-get-by-focusing-on-doing-only-janitorial-moderation&quot;&gt;&lt;b&gt;what people get by focusing on doing only janitorial moderation&lt;/b&gt;&lt;/a&gt; 
@@ -41,12 +41,12 @@ Just try to &lt;a href=&quot;http://meta.stackexchange.com/questions/85617/can-w
     <language>en</language>
     <lastBuildDate>Sun, 10 Aug 2014 14:03:19 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/why-stack-exchange-network-rocks/74.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/why-stack-exchange-network-rocks/74.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Why Stack Exchange Network rocks!</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <a href="http://stackexchange.com/">Stack Exchange</a> (<b>SEN</b>) is a <a href="http://stackexchange.com/sites">Network of sites</a> which uses a Question &amp; Answer (<b>Q&amp;A</b>) format in an attempt to "<i>improve quality of the inter webs content</i>", as they once described themselves as I recall and here adapted with my own words. It started in one of the "child" (actually the parent of all) sites, the <a href="http://stackoverflow.com/users/22656/jon-skeet">Stack Overflow</a> (<b>SO</b>), specialized in computer programming, in an attempt to "<i>improve the quality of programming subjects in the inter webs</i>", also as once they described themselves, etc.<br>
 <br>
@@ -84,12 +84,12 @@ Just try to <a href="http://meta.stackexchange.com/questions/85617/can-we-get-a-
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/05/why-stack-exchange-network-rocks.html">http://www.cregox.com/blog/2014/05/why-stack-exchange-network-rocks.html</a></small>
 
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/why-stack-exchange-network-rocks/74/1">Read full topic</a></p>
+          <p><a href="/talk/t/why-stack-exchange-network-rocks/74/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/why-stack-exchange-network-rocks/74/1</link>
+        <link>/talk/t/why-stack-exchange-network-rocks/74/1</link>
         <pubDate>Sun, 10 Aug 2014 14:03:19 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-74-1</guid>
-        <source url="http://talk.cregox.com/t/why-stack-exchange-network-rocks/74.rss">Why Stack Exchange Network rocks!</source>
+        <source url="/talk/t/why-stack-exchange-network-rocks/74.rss">Why Stack Exchange Network rocks!</source>
       </item>
   </channel>
 </rss>

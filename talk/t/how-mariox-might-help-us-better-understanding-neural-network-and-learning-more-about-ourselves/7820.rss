@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How Mariox might help us better understanding Neural Network and learning more about ourselves</title>
-    <link>http://talk.cregox.com/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820</link>
+    <link>/talk/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820</link>
     <description>https://www.dropbox.com/s/3o0p9udgax2hasl/2015-10-16%2019.52.52%20church%20violin%20and%20unused%20organ.jpg?dl=0
 *It&#39;s all about the little details*
 
@@ -10,18 +10,18 @@
 
 Basically, there&#39;s a small but quite relevant update on www.basiux.org#details giving hints on what you should pay most attention on Seth&#39;s video. Check it out - **click on _Details_**!
 
-From [Thanks to MarI/O, time to focus on ai](http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14):
+From [Thanks to MarI/O, time to focus on ai](/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14):
 
-http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14</description>
+/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14</description>
     <language>en</language>
     <lastBuildDate>Sat, 16 Jan 2016 04:36:45 +0000</lastBuildDate>
     <category>fun</category>
-    <atom:link href="http://talk.cregox.com/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How Mariox might help us better understanding Neural Network and learning more about ourselves</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="https://dl.dropboxusercontent.com/s/3o0p9udgax2hasl/2015-10-16%2019.52.52%20church%20violin%20and%20unused%20organ.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/3o0p9udgax2hasl/2015-10-16%2019.52.52%20church%20violin%20and%20unused%20organ.jpg?dl=0" width="666" height="500"></a><br><em>It's all about the little details</em></p>
 
@@ -29,20 +29,20 @@ http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14</descripti
 
 <p>Basically, there's a small but quite relevant update on <a href="http://www.basiux.org#details">www.basiux.org#details</a> giving hints on what you should pay most attention on Seth's video. Check it out - <strong>click on <em>Details</em></strong>!</p>
 
-<p>From <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Thanks to MarI/O, time to focus on ai</a>:</p>
+<p>From <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Thanks to MarI/O, time to focus on ai</a>:</p>
 
 <aside class="quote" data-topic="7653" data-slug="thanks-to-mari-o-time-to-focus-on-ai" data-post="14"><div class="title">
 <div class="quote-controls"></div>
-<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Thanks to MarI/O, time to focus on ai</a>
+<img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar"><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Thanks to MarI/O, time to focus on ai</a>
 </div>
-<blockquote><p>For some fresh news...   I've <a href="https://github.com/basiux/basiux.github.io/commit/de06921c82c9957d161922760166f949234266b5" rel="nofollow">just updated</a> the website to add a few important markers on the first video, about Mar I/O video. Then <a href="https://github.com/basiux/basiux.github.io/commit/e2434a33d48eef87609d6242a4221635f22c34df" rel="nofollow">again</a>. And <a href="https://github.com/basiux/basiux.github.io/commit/f581401fc5a7d81c07aba7eacd4f506d2a673868" rel="nofollow">again</a>.   Probably the most important aspect of that video there is being able to view <a href="https://github.com/basiux/basiux.github.io/issues/3" rel="nofollow">the missing Neural Network (due to this open issue)</a>, or at least glimpse at what it could be if we can implement it mostly unchanged. It's also the most important issue to be resolved, <a href="http://talk.cregox.com/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819/1">right now</a>, for Mariox.   Hope you can enjoy this! [<img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:">]</p></blockquote></aside>
+<blockquote><p>For some fresh news...   I've <a href="https://github.com/basiux/basiux.github.io/commit/de06921c82c9957d161922760166f949234266b5" rel="nofollow">just updated</a> the website to add a few important markers on the first video, about Mar I/O video. Then <a href="https://github.com/basiux/basiux.github.io/commit/e2434a33d48eef87609d6242a4221635f22c34df" rel="nofollow">again</a>. And <a href="https://github.com/basiux/basiux.github.io/commit/f581401fc5a7d81c07aba7eacd4f506d2a673868" rel="nofollow">again</a>.   Probably the most important aspect of that video there is being able to view <a href="https://github.com/basiux/basiux.github.io/issues/3" rel="nofollow">the missing Neural Network (due to this open issue)</a>, or at least glimpse at what it could be if we can implement it mostly unchanged. It's also the most important issue to be resolved, <a href="/talk/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819/1">right now</a>, for Mariox.   Hope you can enjoy this! [<img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:">]</p></blockquote></aside>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820/1">Read full topic</a></p>
+          <p><a href="/talk/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820/1</link>
+        <link>/talk/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820/1</link>
         <pubDate>Sat, 16 Jan 2016 04:36:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7820-1</guid>
-        <source url="http://talk.cregox.com/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820.rss">How Mariox might help us better understanding Neural Network and learning more about ourselves</source>
+        <source url="/talk/t/how-mariox-might-help-us-better-understanding-neural-network-and-learning-more-about-ourselves/7820.rss">How Mariox might help us better understanding Neural Network and learning more about ourselves</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Sobre a categoria edu cash</title>
-    <link>http://talk.cregox.com/t/sobre-a-categoria-edu-cash/5716</link>
+    <link>/talk/t/sobre-a-categoria-edu-cash/5716</link>
     <description>[Edu Cash][1] é uma plataforma lúdica de educação financeira utilizando recursos / jogos eletrônicos. [Deixe sua opinião][2]!
 
 Projeto de start up realizado no [Start Up Weekend Fintech SP de 2014][3].
@@ -14,23 +14,23 @@ Projeto de start up realizado no [Start Up Weekend Fintech SP de 2014][3].
     <language>en</language>
     <lastBuildDate>Sat, 13 Dec 2014 21:41:23 +0000</lastBuildDate>
     <category>edu cash</category>
-    <atom:link href="http://talk.cregox.com/t/sobre-a-categoria-edu-cash/5716.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/sobre-a-categoria-edu-cash/5716.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Sobre a categoria edu cash</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="http://educash.co">Edu Cash</a> é uma plataforma lúdica de educação financeira utilizando recursos / jogos eletrônicos. <a href="http://goo.gl/forms/8cRTcExoaI">Deixe sua opinião</a>!</p>
 
 <p>Projeto de start up realizado no <a href="http://www.up.co/communities/brazil/sao-paulo/startup-weekend/5265">Start Up Weekend Fintech SP de 2014</a>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/sobre-a-categoria-edu-cash/5716/1">Read full topic</a></p>
+          <p><a href="/talk/t/sobre-a-categoria-edu-cash/5716/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/sobre-a-categoria-edu-cash/5716/1</link>
+        <link>/talk/t/sobre-a-categoria-edu-cash/5716/1</link>
         <pubDate>Sat, 13 Dec 2014 01:37:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5716-1</guid>
-        <source url="http://talk.cregox.com/t/sobre-a-categoria-edu-cash/5716.rss">Sobre a categoria edu cash</source>
+        <source url="/talk/t/sobre-a-categoria-edu-cash/5716.rss">Sobre a categoria edu cash</source>
       </item>
   </channel>
 </rss>

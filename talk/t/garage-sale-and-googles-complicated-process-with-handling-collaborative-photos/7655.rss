@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Garage sale and google&#39;s complicated process with handling collaborative photos</title>
-    <link>http://talk.cregox.com/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655</link>
+    <link>/talk/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655</link>
     <description>So, we&#39;re moving out and selling stuff. Most things already have a destination, but some still don&#39;t. The whole selling thing is mostly [being done in portuguese][1].
 
 ---
@@ -32,21 +32,21 @@ The only downside is there is no such free option for small sized images. But if
 I also [noticed][4] another option called **eversnap**, but they&#39;ve got no way to sync files and it&#39;s free usage is limited to 20 people - after that it becomes **way** too expensive.
 
 
-  [1]: http://talk.cregox.com/t/feirao-sem-garagem/7659
+  [1]: /talk/t/feirao-sem-garagem/7659
   [2]: https://support.google.com/picasa/answer/153791?hl=en
   [3]: https://db.tt/ZeUSwu9
   [4]: http://blog.eversnapapp.com/collaborative-album/</description>
     <language>en</language>
     <lastBuildDate>Fri, 03 Jul 2015 19:01:39 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Garage sale and google&#39;s complicated process with handling collaborative photos</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>So, we're moving out and selling stuff. Most things already have a destination, but some still don't. The whole selling thing is mostly <a href="http://talk.cregox.com/t/feirao-sem-garagem/7659">being done in portuguese</a>.</p>
+              <p>So, we're moving out and selling stuff. Most things already have a destination, but some still don't. The whole selling thing is mostly <a href="/talk/t/feirao-sem-garagem/7659">being done in portuguese</a>.</p>
 
 <hr>
 
@@ -74,12 +74,12 @@ I also [noticed][4] another option called **eversnap**, but they&#39;ve got no w
 
 <p>I also <a href="http://blog.eversnapapp.com/collaborative-album/">noticed</a> another option called <strong>eversnap</strong>, but they've got no way to sync files and it's free usage is limited to 20 people - after that it becomes <strong>way</strong> too expensive.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655/1">Read full topic</a></p>
+          <p><a href="/talk/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655/1</link>
+        <link>/talk/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655/1</link>
         <pubDate>Wed, 01 Jul 2015 11:34:26 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7655-1</guid>
-        <source url="http://talk.cregox.com/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655.rss">Garage sale and google&#39;s complicated process with handling collaborative photos</source>
+        <source url="/talk/t/garage-sale-and-googles-complicated-process-with-handling-collaborative-photos/7655.rss">Garage sale and google&#39;s complicated process with handling collaborative photos</source>
       </item>
   </channel>
 </rss>

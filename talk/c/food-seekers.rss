@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>food seekers - cregox talk</title>
-    <link>http://talk.cregox.com/c/food-seekers</link>
-    <description>Topics in the &#39;food seekers&#39; category &lt;a href=&quot;http://www.cregox.com/foodseekers&quot;&gt;Food seekers&lt;/a&gt; is a mix of a film, game and educational material. Soon... &lt;img src=&quot;//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0&quot; title=&quot;:wink:&quot; class=&quot;emoji&quot; alt=&quot;wink&quot;&gt;</description>
+    <link>/talk/c/food-seekers</link>
+    <description>Topics in the &#39;food seekers&#39; category &lt;a href=&quot;http://www.cregox.com/foodseekers&quot;&gt;Food seekers&lt;/a&gt; is a mix of a film, game and educational material. Soon... &lt;img src=&quot;/talk/images/emoji/emoji_one/wink.png?v=0&quot; title=&quot;:wink:&quot; class=&quot;emoji&quot; alt=&quot;wink&quot;&gt;</description>
     <language>en</language>
       <lastBuildDate>Mon, 25 Aug 2014 09:51:56 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/food-seekers.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/food-seekers.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Telling my story</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>food seekers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>There's too <a href="//cregox.com/blog">much to read</a> and too little to show, <a href="//cregox.com/about">about me</a>. Just try and <a href="//google.com/?q=%22caue+rego%22">google me</a>. Or go through each link there, on my <a href="//cregox.com/about">about</a>, recursively.</p>
 
@@ -24,36 +24,36 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/telling-my-story/417">Read full topic</a></p>
+            <p><a href="/talk/t/telling-my-story/417">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/telling-my-story/417</link>
+          <link>/talk/t/telling-my-story/417</link>
           <pubDate>Mon, 25 Aug 2014 09:51:56 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-417</guid>
-          <source url="http://talk.cregox.com/t/telling-my-story/417.rss">Telling my story</source>
+          <source url="/talk/t/telling-my-story/417.rss">Telling my story</source>
         </item>
         <item>
           <title>About the food seekers category</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>food seekers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><a href="http://www.cregox.com/foodseekers">Food seekers</a> is a mix of a film, game and educational material. Some time (maybe before 2030)... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+              <p><a href="http://www.cregox.com/foodseekers">Food seekers</a> is a mix of a film, game and educational material. Some time (maybe before 2030)... <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/about-the-food-seekers-category/403">Read full topic</a></p>
+            <p><a href="/talk/t/about-the-food-seekers-category/403">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/about-the-food-seekers-category/403</link>
+          <link>/talk/t/about-the-food-seekers-category/403</link>
           <pubDate>Sun, 24 Aug 2014 20:31:18 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-403</guid>
-          <source url="http://talk.cregox.com/t/about-the-food-seekers-category/403.rss">About the food seekers category</source>
+          <source url="/talk/t/about-the-food-seekers-category/403.rss">About the food seekers category</source>
         </item>
   </channel>
 </rss>

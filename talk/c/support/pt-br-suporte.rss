@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>(pt-br) suporte - cregox talk</title>
-    <link>http://talk.cregox.com/c/support/pt-br-suporte</link>
-    <description>Topics in the &#39;(pt-br) suporte&#39; category Welcome to &lt;a href=&quot;http://talk.cregox.com&quot;&gt;cregox public forums&lt;/a&gt;! For english, please head to &lt;a href=&quot;http://talk.cregox.com/t/about-the-support-category/5839&quot;&gt;the support category&lt;/a&gt;.</description>
+    <link>/talk/c/support/pt-br-suporte</link>
+    <description>Topics in the &#39;(pt-br) suporte&#39; category Welcome to &lt;a href=&quot;http://talk.cregox.com&quot;&gt;cregox public forums&lt;/a&gt;! For english, please head to &lt;a href=&quot;/talk/t/about-the-support-category/5839&quot;&gt;the support category&lt;/a&gt;.</description>
     <language>en</language>
       <lastBuildDate>Tue, 12 May 2015 07:43:44 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/support/pt-br-suporte.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/support/pt-br-suporte.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Refazer o site highsolution.com.br em SquareSpace</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>(pt-br) suporte</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <p><a href="/talk/u/system">@system</a> wrote:</p>
             <blockquote>
               <p><aside class="quote"><blockquote>
 <p>Name: Otavio</p>
@@ -21,49 +21,49 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/refazer-o-site-highsolution-com-br-em-squarespace/7609">Read full topic</a></p>
+            <p><a href="/talk/t/refazer-o-site-highsolution-com-br-em-squarespace/7609">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/refazer-o-site-highsolution-com-br-em-squarespace/7609</link>
+          <link>/talk/t/refazer-o-site-highsolution-com-br-em-squarespace/7609</link>
           <pubDate>Tue, 12 May 2015 07:43:44 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7609</guid>
-          <source url="http://talk.cregox.com/t/refazer-o-site-highsolution-com-br-em-squarespace/7609.rss">Refazer o site highsolution.com.br em SquareSpace</source>
+          <source url="/talk/t/refazer-o-site-highsolution-com-br-em-squarespace/7609.rss">Refazer o site highsolution.com.br em SquareSpace</source>
         </item>
         <item>
           <title>About the (pt-br) suporte category</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>(pt-br) suporte</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>! For english, please head to <a href="http://talk.cregox.com/t/about-the-support-category/5839">the support category</a>.</p>
+              <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>! For english, please head to <a href="/talk/t/about-the-support-category/5839">the support category</a>.</p>
 
 <p>Qualquer pedido de suporte em português deve vir aqui. Como e-mails enviados para <a href="http://mailto:help@cregox.com">help@cregox.com</a>.</p>
 
 <p>Esta é tradicionalmente uma página de suporte para meu trabalho como especialista em computadores, como <a href="http://cregox.com/your-home">o oferecido em your-home no site principal</a>.</p>
 
-<p>Se chegou aqui pela minha página de <a href="http://specialists.squarespace.com/cregox">squarespace specialists</a>, talvez esteja se perguntando sobre minha experiência. A melhor forma de analizá-la é vendo todos links que achar relevantes já disponíveis por aí! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="" height=""></p>
+<p>Se chegou aqui pela minha página de <a href="http://specialists.squarespace.com/cregox">squarespace specialists</a>, talvez esteja se perguntando sobre minha experiência. A melhor forma de analizá-la é vendo todos links que achar relevantes já disponíveis por aí! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="" height=""></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602">Read full topic</a></p>
+            <p><a href="/talk/t/about-the-pt-br-suporte-category/7602">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602</link>
+          <link>/talk/t/about-the-pt-br-suporte-category/7602</link>
           <pubDate>Sat, 09 May 2015 13:28:51 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7602</guid>
-          <source url="http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602.rss">About the (pt-br) suporte category</source>
+          <source url="/talk/t/about-the-pt-br-suporte-category/7602.rss">About the (pt-br) suporte category</source>
         </item>
         <item>
           <title>Refazer um site, agora em squarespace</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>(pt-br) suporte</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <p><a href="/talk/u/system">@system</a> wrote:</p>
             <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>rosa@indieecommerce.com.br:</div>
@@ -77,15 +77,15 @@
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 3</p>
-            <p><a href="http://talk.cregox.com/t/refazer-um-site-agora-em-squarespace/7600">Read full topic</a></p>
+            <p><a href="/talk/t/refazer-um-site-agora-em-squarespace/7600">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/refazer-um-site-agora-em-squarespace/7600</link>
+          <link>/talk/t/refazer-um-site-agora-em-squarespace/7600</link>
           <pubDate>Fri, 08 May 2015 19:49:42 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7600</guid>
-          <source url="http://talk.cregox.com/t/refazer-um-site-agora-em-squarespace/7600.rss">Refazer um site, agora em squarespace</source>
+          <source url="/talk/t/refazer-um-site-agora-em-squarespace/7600.rss">Refazer um site, agora em squarespace</source>
         </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the (pt-br) suporte category</title>
-    <link>http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602</link>
+    <link>/talk/t/about-the-pt-br-suporte-category/7602</link>
     <description>Welcome to [cregox public forums][1]! For english, please head to [the support category][2].
 
 Qualquer pedido de suporte em português deve vir aqui. Como e-mails enviados para [help@cregox.com][3].
@@ -13,34 +13,34 @@ Se chegou aqui pela minha página de [squarespace specialists][5], talvez esteja
 
 
   [1]: http://talk.cregox.com
-  [2]: http://talk.cregox.com/t/about-the-support-category/5839
+  [2]: /talk/t/about-the-support-category/5839
   [3]: http://mailto:help@cregox.com
   [4]: http://cregox.com/your-home
   [5]: http://specialists.squarespace.com/cregox</description>
     <language>en</language>
     <lastBuildDate>Sat, 09 May 2015 13:34:36 +0000</lastBuildDate>
     <category>(pt-br) suporte</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-pt-br-suporte-category/7602.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the (pt-br) suporte category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>! For english, please head to <a href="http://talk.cregox.com/t/about-the-support-category/5839">the support category</a>.</p>
+              <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>! For english, please head to <a href="/talk/t/about-the-support-category/5839">the support category</a>.</p>
 
 <p>Qualquer pedido de suporte em português deve vir aqui. Como e-mails enviados para <a href="http://mailto:help@cregox.com">help@cregox.com</a>.</p>
 
 <p>Esta é tradicionalmente uma página de suporte para meu trabalho como especialista em computadores, como <a href="http://cregox.com/your-home">o oferecido em your-home no site principal</a>.</p>
 
-<p>Se chegou aqui pela minha página de <a href="http://specialists.squarespace.com/cregox">squarespace specialists</a>, talvez esteja se perguntando sobre minha experiência. A melhor forma de analizá-la é vendo todos links que achar relevantes já disponíveis por aí! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="" height=""></p>
+<p>Se chegou aqui pela minha página de <a href="http://specialists.squarespace.com/cregox">squarespace specialists</a>, talvez esteja se perguntando sobre minha experiência. A melhor forma de analizá-la é vendo todos links que achar relevantes já disponíveis por aí! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="" height=""></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-pt-br-suporte-category/7602/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602/1</link>
+        <link>/talk/t/about-the-pt-br-suporte-category/7602/1</link>
         <pubDate>Sat, 09 May 2015 13:28:51 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7602-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-pt-br-suporte-category/7602.rss">About the (pt-br) suporte category</source>
+        <source url="/talk/t/about-the-pt-br-suporte-category/7602.rss">About the (pt-br) suporte category</source>
       </item>
   </channel>
 </rss>

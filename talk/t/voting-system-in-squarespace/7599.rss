@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Voting system in Squarespace</title>
-    <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599</link>
+    <link>/talk/t/voting-system-in-squarespace/7599</link>
     <description>[quote]
 Hi
 
@@ -33,12 +33,12 @@ guy help again?
     <language>en</language>
     <lastBuildDate>Sat, 09 May 2015 13:27:05 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/voting-system-in-squarespace/7599.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Voting system in Squarespace</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>You mean in the shop!</p>
 
@@ -56,34 +56,34 @@ guy help again?
 <li>I can probably do this without developer mode. And even if we use it, it only affects how squarespace updates would work. In other words, in average 2 to 5 year from now you might need to updated it manually due to some new security issue or bug.</li>
 </ol>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/voting-system-in-squarespace/7599/2">Read full topic</a></p>
+          <p><a href="/talk/t/voting-system-in-squarespace/7599/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599/2</link>
+        <link>/talk/t/voting-system-in-squarespace/7599/2</link>
         <pubDate>Sat, 09 May 2015 13:27:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7599-2</guid>
-        <source url="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
+        <source url="/talk/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
       </item>
       <item>
         <title>Voting system in Squarespace</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <p><aside class="quote"><blockquote>
 <p>Hi</p>
 <p>We are muwae.com and using squarespace right now, we want to add voting<br>system (like comment share) in every picture and video in the gallery and<br>could show in summery block. Please tell me if you could do it and how much<br>will it be.</p>
-<p>Such as the 2nd product in my website<br>[image: Inline image 1]<br><img src="//talk-cdn.cregox.com/uploads/default/115/ed7fb703dddce14b.png" width="375" height="336"></p>
+<p>Such as the 2nd product in my website<br>[image: Inline image 1]<br><img src="/talk/uploads/default/115/ed7fb703dddce14b.png" width="375" height="336"></p>
 <p>We want like and share button shows on every "Love distributor videos" and<br>"love distributor pictures" (everybody could see how many likes they have<br>and could vote)</p>
-<p>[image: Inline image 2]<br><img src="//talk-cdn.cregox.com/uploads/default/114/ed7fb703dddce14b.png" width="690" height="325"></p>
+<p>[image: Inline image 2]<br><img src="/talk/uploads/default/114/ed7fb703dddce14b.png" width="690" height="325"></p>
 <p>Other concern:<br>1) Is the "like" a squarespace voting system or separate system like<br>facebook or others?? We prefer SS like and have number "how many likes" on<br>that<br>2) If I add anther gallery in system? do I need to inject code or need you<br>guy help again?<br>3) Is that Developer Mode will effect my future website edit??</p>
 </blockquote></aside></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/voting-system-in-squarespace/7599/1">Read full topic</a></p>
+          <p><a href="/talk/t/voting-system-in-squarespace/7599/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/voting-system-in-squarespace/7599/1</link>
+        <link>/talk/t/voting-system-in-squarespace/7599/1</link>
         <pubDate>Fri, 08 May 2015 15:50:22 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7599-1</guid>
-        <source url="http://talk.cregox.com/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
+        <source url="/talk/t/voting-system-in-squarespace/7599.rss">Voting system in Squarespace</source>
       </item>
   </channel>
 </rss>

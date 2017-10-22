@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
-    <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592</link>
+    <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592</link>
     <description>[quote]
 Hi Caue
 
@@ -29,29 +29,29 @@ Werner
     <language>en</language>
     <lastBuildDate>Thu, 14 May 2015 11:53:01 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I'm just <strong>guessing</strong> here, but looks like you may have selected the <a href="http://help.squarespace.com/guides/using-the-image-block#toc-set-the-image-to-open-in-a-lightbox--optional-">Lightbox feature on the Image Block</a>. If you want any <a href="http://help.squarespace.com/guides/using-the-image-block#toc-link-the-image--optional-">image block click through link</a> to work, you have to leave that on the default unchecked.</p>
 
-<p>There's another caveat there, for your test page. Since the video gallery solution uses the exact same video, the <code>jqueryLightbox</code> will hide it once it works. And since it's not working, that's where its secret lies... You need to add a gallery anywhere in the page, exactly like that one you just did, for the <code>jqueryLightbox</code> link to use it (and hide it). Maybe you already knew that, this is just a test page after all. But it will look a bit broken when it works. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>There's another caveat there, for your test page. Since the video gallery solution uses the exact same video, the <code>jqueryLightbox</code> will hide it once it works. And since it's not working, that's where its secret lies... You need to add a gallery anywhere in the page, exactly like that one you just did, for the <code>jqueryLightbox</code> link to use it (and hide it). Maybe you already knew that, this is just a test page after all. But it will look a bit broken when it works. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/16">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/16">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/16</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/16</link>
         <pubDate>Thu, 14 May 2015 11:53:01 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-16</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
               <p>Thanks so much. Your solution does look impressive. It'll be really cool to be able to use images, textlinks and buttons to play a video full screen.</p>
 
@@ -61,58 +61,58 @@ Werner
 
 <p>Could you please help?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/15">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/15">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/15</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/15</link>
         <pubDate>Thu, 14 May 2015 08:14:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-15</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Done. <a href="https://github.com/cauerego/cregox-scripts/commit/55663dfe539b24a7c11cca5b17aa2ae533832aa0">Removed the thumbnail</a>. The code is also updated on the main page there <a href="http://www.cregox.com/full-video/">http://www.cregox.com/full-video/</a></p>
 
-<p>It was rather simple stuff. The difficult part was finding time to stop and do it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+<p>It was rather simple stuff. The difficult part was finding time to stop and do it. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
 
 <p>Please, let me know if you need anything else!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/14">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/14">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/14</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/14</link>
         <pubDate>Thu, 14 May 2015 00:26:52 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-14</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Yeah. I'll work on removing the thumbnail, but since it's not the same as the button you could hack it away using a black image... Or maybe, it just happened to me, simply removing the thumbnail might work.</p>
 
 <p>I'm not at my home office right now so I can't try it. But I'll let you know about this soon enough.</p>
 
-<p>Other than that, are we done? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>Other than that, are we done? <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/13">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/13">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/13</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/13</link>
         <pubDate>Wed, 13 May 2015 14:29:10 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-13</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
-              <p>True. I guess you were just to fast. But to have a common understanding will not hurt <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"> </p>
+              <p>True. I guess you were just to fast. But to have a common understanding will not hurt <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"> </p>
 
 <p>The vimeo controls are no problem as we use a pro account and can tweak the controls quite a bit.</p>
 
@@ -122,54 +122,54 @@ Werner
 
 <p>Thanks, <br>Werner</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/12">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/12">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/12</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/12</link>
         <pubDate>Wed, 13 May 2015 06:56:50 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-12</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Wow, I don't think all that work on doing this PDF it was needed after all. As you may have been able to see, I had already implemented exactly all that! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Wow, I don't think all that work on doing this PDF it was needed after all. As you may have been able to see, I had already implemented exactly all that! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>Now I just moved the button to the side and added a text to make it more clear it was already as responsive as squarespace already is.</p>
 
 <p>But I still wonder about the two points I brought in before, removing vimeo controls and the thumbnail when loading (which is not the play button thumbnail).</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/11">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/11">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/11</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/11</link>
         <pubDate>Tue, 12 May 2015 15:14:57 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-11</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
-              <p>Here is the pdf-file again <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Here is the pdf-file again <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p><a href="https://www.dropbox.com/s/bq3hyc38myqtaxy/To-be-solution.pdf?dl=0" class="onebox" target="_blank" rel="nofollow">https://www.dropbox.com/s/bq3hyc38myqtaxy/To-be-solution.pdf?dl=0</a></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/10">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/10">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/10</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/10</link>
         <pubDate>Tue, 12 May 2015 04:33:08 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-10</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Couldn't see the PDF file, due to <a href="https://meta.discourse.org/t/stripping-incoming-email-attachments-doesnt-notify-sender/21216/9?u=cawas">some issue on the forum</a>... I can see you did send it, though. Sorry about that!</p>
 
@@ -183,25 +183,25 @@ Werner
 
 <ul>
 <li><p>By removing the vimeo controls (easier with a pro account which I don't have), because making this the same way SS7 video work ended up screwing up a bit with vimeo controls, which I couldn't touch enough to keep it there.</p></li>
-<li><p>Or maybe there's a code-hackish way to remove the thumbnail when loading - other than, you know, using a custom dark image hack, which you'd probably think about. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p></li>
+<li><p>Or maybe there's a code-hackish way to remove the thumbnail when loading - other than, you know, using a custom dark image hack, which you'd probably think about. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p></li>
 </ul>
 
 <p>I hope that's at least pretty close from all you need.</p>
 
 <p>Now, I'm gonna try and see if I can find that PDF...</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/9">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/9">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/9</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/9</link>
         <pubDate>Mon, 11 May 2015 22:56:35 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-9</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
               <p>Thanks for your reply. Your terms of work are fine with me.</p>
 
@@ -218,26 +218,26 @@ Werner
 
 <p>Thanks,<br>Werner</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/8">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/8">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/8</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/8</link>
         <pubDate>Mon, 11 May 2015 16:23:44 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-8</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Awesome! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunglasses.png?v=0" title=":sunglasses:" class="emoji" alt="sunglasses" width="20" height="20"></p>
+              <p>Awesome! <img src="/talk/images/emoji/emoji_one/sunglasses.png?v=0" title=":sunglasses:" class="emoji" alt="sunglasses" width="20" height="20"></p>
 
 <p>I've modified my <strong>Terms of Work</strong> slightly, and now I require every new customer to understand how the business will work before I begin. This is what's new and relevant:</p>
 
 <blockquote>
 <p>After the payment I'll analyze the project deeper and properly. For most new projects (which are most of the requests I get) I have no way to analyze without actually doing part of it, or all of it. I may require more hours to get everything you need done. We can then agree on me doing less, you paying more, or we getting you a full refund. For any project that's just implementing code that already exists, such as the ones I've made myself (do check my github), it might cost you less than U$321 down to a low of U$123...</p>
-<p>It might cost you nothing as well, you can just grab the code from there and implement it yourself! I offer them for free! If I get enough requests, eventually I may even start doing tutorials on how to implement a few things. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>It might cost you nothing as well, you can just grab the code from there and implement it yourself! I offer them for free! If I get enough requests, eventually I may even start doing tutorials on how to implement a few things. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
 </blockquote>
 
 <p>If you're okay, I'll begin working today.</p>
@@ -252,20 +252,20 @@ Werner
 
 <p>I'm also not sure what you expect to see under <a href="http://www.generation-y.ch/#brandpower">brandpower</a>, which have 2 buttons side by side. Do you want both bg videos simultaneously, splitted in half screen? I would prefer choosing one to show on the background, even if it's a 3rd one which would mix up both.</p>
 
-<p>And I'm glad to be working with you on this! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>And I'm glad to be working with you on this! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/7">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/7">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/7</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/7</link>
         <pubDate>Mon, 11 May 2015 14:21:11 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-7</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
               <p>Thanks for sending the invoice. I have paid it this morning. </p>
 
@@ -273,35 +273,35 @@ Werner
 
 <p>Lokking forward to working with you.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/6">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/6">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/6</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/6</link>
         <pubDate>Mon, 11 May 2015 04:59:47 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-6</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>That's great! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunny.png?v=0" title=":sunny:" class="emoji" alt="sunny" width="20" height="20"> </p>
+              <p>That's great! <img src="/talk/images/emoji/emoji_one/sunny.png?v=0" title=":sunny:" class="emoji" alt="sunny" width="20" height="20"> </p>
 
 <p>I can send you a paypal invoice if you prefer, or you can go on <a href="http://cregox.com/pay">Pay</a> (also right there on the top corner).</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/5">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/5">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/5</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/5</link>
         <pubDate>Thu, 07 May 2015 11:25:29 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-5</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@werner werner]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/werner">@werner</a> wrote:</p>
+          <p><a href="/talk/u/werner">@werner</a> wrote:</p>
           <blockquote>
               <p>Thanks for replying, Caue!</p>
 
@@ -309,47 +309,47 @@ Werner
 
 <p>Many thanks, <br>Werner</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/3">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/3</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/3</link>
         <pubDate>Thu, 07 May 2015 05:11:21 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-3</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Thanks for getting in touch, Werner!</p>
 
-<p>Yeah, I've seen your page on the first time, when I said it was a great hack you've done there. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>Yeah, I've seen your page on the first time, when I said it was a great hack you've done there. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
-<p>Well, like I just commented with you there (again), what I would try to do is mix up many hacks into my likening. I have no doubt it's possible to do it in squarespace, with relatively little code and effort. And if I see enough people interested in this eventually I could even build a tutorial like the other specialists like to do... But not for now. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+<p>Well, like I just commented with you there (again), what I would try to do is mix up many hacks into my likening. I have no doubt it's possible to do it in squarespace, with relatively little code and effort. And if I see enough people interested in this eventually I could even build a tutorial like the other specialists like to do... But not for now. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
 
 <p>Here's the steps I'd go to make it, using these as references:</p>
 
 <ul>
 <li>
 <a href="http://answers.squarespace.com/questions/61236/how-can-i-put-a-full-screen-video-as-background/77033">Muno's solution</a> sure <a href="http://www.muno.space/code-snippets/video-backgrounds">looks great</a>, but I'm not sure it's better to host videos on squarespace. I doubt there's any place better than youtube (unless you're doing porn, and I mean it). In any case, there's something to learn from there.</li>
-<li>A nice hack to play video when pressing a button from the <a href="http://answers.squarespace.com/questions/34332/video-lightbox-link-using-bedford">link</a> I gave you there, and <a href="http://talk.cregox.com/t/using-a-gallery-instead-of-the-template-banner/7476/19">from my other work</a>.</li>
+<li>A nice hack to play video when pressing a button from the <a href="http://answers.squarespace.com/questions/34332/video-lightbox-link-using-bedford">link</a> I gave you there, and <a href="/talk/t/using-a-gallery-instead-of-the-template-banner/7476/19">from my other work</a>.</li>
 </ul>
 
-<p>And if you're willing to pay for me doing it, please do read <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> first. I can do this for U$321, paid upfront, usually within 1 week from payment. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/heavy_dollar_sign.png?v=0" title=":heavy_dollar_sign:" class="emoji" alt="heavy_dollar_sign" width="20" height="20"> </p>
+<p>And if you're willing to pay for me doing it, please do read <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a> first. I can do this for U$321, paid upfront, usually within 1 week from payment. <img src="/talk/images/emoji/emoji_one/heavy_dollar_sign.png?v=0" title=":heavy_dollar_sign:" class="emoji" alt="heavy_dollar_sign" width="20" height="20"> </p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/2">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/2</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/2</link>
         <pubDate>Wed, 06 May 2015 19:37:47 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-2</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
       <item>
         <title>How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <p><aside class="quote"><blockquote>
 <p>Hi Caue</p>
@@ -363,12 +363,12 @@ Werner
 <p>(Sent via cregox <a href="http://www.cregox.com">http://www.cregox.com</a> )</p>
 </blockquote></aside></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/1">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/1</link>
+        <link>/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592/1</link>
         <pubDate>Wed, 06 May 2015 04:21:51 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7592-1</guid>
-        <source url="http://talk.cregox.com/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
+        <source url="/talk/t/how-to-create-a-video-play-button-like-on-introducing-squarespace-seven/7592.rss">How to create a video play button like on &quot;Introducing Squarespace Seven&quot;?</source>
       </item>
   </channel>
 </rss>

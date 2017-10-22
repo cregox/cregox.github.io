@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>E-commerce on Squarespace</title>
-    <link>http://talk.cregox.com/t/e-commerce-on-squarespace/7459</link>
+    <link>/talk/t/e-commerce-on-squarespace/7459</link>
     <description>[quote=&quot;safi.tvb@youngandboldafrican.com&quot;]
 Hello,
 
@@ -22,12 +22,12 @@ Could I have a quote please?
     <language>en</language>
     <lastBuildDate>Thu, 05 Mar 2015 17:19:43 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/e-commerce-on-squarespace/7459.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/e-commerce-on-squarespace/7459.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>E-commerce on Squarespace</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I'm not sure if you have but please, read this first:
 <a href="http://www.cregox.com/your-home">www.cregox.com/your-home</a></p>
@@ -49,18 +49,18 @@ final quote. What I can do is tell you to get something working (using
 something like shipstation) which I myself would be glad to work with, it
 will be less than U$432. Then we can move from there if you need more.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/e-commerce-on-squarespace/7459/4">Read full topic</a></p>
+          <p><a href="/talk/t/e-commerce-on-squarespace/7459/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/e-commerce-on-squarespace/7459/4</link>
+        <link>/talk/t/e-commerce-on-squarespace/7459/4</link>
         <pubDate>Thu, 05 Mar 2015 17:19:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7459-4</guid>
-        <source url="http://talk.cregox.com/t/e-commerce-on-squarespace/7459.rss">E-commerce on Squarespace</source>
+        <source url="/talk/t/e-commerce-on-squarespace/7459.rss">E-commerce on Squarespace</source>
       </item>
       <item>
         <title>E-commerce on Squarespace</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>safi.tvb@youngandboldafrican.com:</div>
@@ -70,12 +70,12 @@ will be less than U$432. Then we can move from there if you need more.</p>
 <p> Kind regards, </p>
 </blockquote></aside>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/e-commerce-on-squarespace/7459/1">Read full topic</a></p>
+          <p><a href="/talk/t/e-commerce-on-squarespace/7459/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/e-commerce-on-squarespace/7459/1</link>
+        <link>/talk/t/e-commerce-on-squarespace/7459/1</link>
         <pubDate>Thu, 05 Mar 2015 15:49:02 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7459-1</guid>
-        <source url="http://talk.cregox.com/t/e-commerce-on-squarespace/7459.rss">E-commerce on Squarespace</source>
+        <source url="/talk/t/e-commerce-on-squarespace/7459.rss">E-commerce on Squarespace</source>
       </item>
   </channel>
 </rss>

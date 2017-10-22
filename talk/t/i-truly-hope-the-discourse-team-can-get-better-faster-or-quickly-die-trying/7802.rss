@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>I truly hope the Discourse team can get better faster or quickly die trying</title>
-    <link>http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802</link>
+    <link>/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802</link>
     <description>&lt;img src=&#39;/uploads/default/original/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510.jpg&#39;&gt;
 *uncalled &quot;xango&quot; sherlock for uncalled bugs - meaning [there are many bugs](https://what.thedailywtf.com/t/the-doing-it-wrong-of-the-discojuice-huffing-dude/53070/349?u=cregox) that could have &quot;easily&quot; been fixed had the only team that can really do it make any priority out of fixing bugs*
 
@@ -60,14 +60,14 @@ But, from the silence, I know the answer. They are fucking clueless of what they
     <language>en</language>
     <lastBuildDate>Thu, 14 Jan 2016 10:12:04 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>I truly hope the Discourse team can get better faster or quickly die trying</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510" href="//talk-cdn.cregox.com/uploads/default/original/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510.jpg" class="lightbox" title="5g8uKloTpS63gy8rgfttrkFdVBF.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510_1_690x388.jpg" width="690" height="388"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510" href="/talk/uploads/default/original/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510.jpg" class="lightbox" title="5g8uKloTpS63gy8rgfttrkFdVBF.jpg"><img src="/talk/uploads/default/optimized/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510_1_690x388.jpg" width="690" height="388"><div class="meta">
 <span class="filename">5g8uKloTpS63gy8rgfttrkFdVBF.jpg</span><span class="informations">1920x1080 90.4 KB</span><span class="expand"></span>
 </div></a></div><br><em>uncalled "xango" sherlock for uncalled bugs - meaning <a href="https://what.thedailywtf.com/t/the-doing-it-wrong-of-the-discojuice-huffing-dude/53070/349?u=cregox">there are many bugs</a> that could have "easily" been fixed had the only team that can really do it make any priority out of fixing bugs</em></p>
 
@@ -108,9 +108,9 @@ But, from the silence, I know the answer. They are fucking clueless of what they
 <p><aside class="quote"><blockquote><p><details><summary>I actually no longer have the <a href="https://meta.discourse.org/t/use-of-discourse-for-crowd-sourced-project-evaluation/37805/3?u=cregox">original post completely wiped by discourse team</a> because all the backup stuff I had in place (lazarus, discourse auto email me, copyless - I didn't copy, etc) things have <strong>failed</strong>. One of them was counting discourse was such a great tool (edit history). <strong>It isn't</strong>, especially when ill used by their mods (other than the <em>uncalled bugs</em>, of course).</summary><p><span class="mention">@Steve_Powell</span> I use discourse for about every thing. From blogging, to backing up internet media, talking with people or making a ticket system for my now dead startup. Only reason I can't say I've tried "anything similar" is because I don't have a crowd to toy with.</p>
 <p><em>(part edited out - rewritten from memory)</em><br>&gt; Lately I have been growing less and less fond of discourse (and Jeff). I hope the team can get bigger and faster as by the way things are going I fear they could go down like StackOverflow <em>did / is doing</em> IMHO. <small>(... can't remember a good part of it, but there was not much more ...)</small> It has been over 2 years since their beta release and I think still up to today, there is nothing that gets technically any close to it. Discourse is that awesome.</p>
 <p>Anyway, to me the biggest block for using discourse today is <strong>not so much</strong> the cost for hosting as it is the time required to get a basic setup up and running as you've experienced. Although the cost also seem to be much bigger than what could be... At least for pet projects as I've being using it.</p>
-<p>For any kind of crowd, I'd argue both those "blockages" are quite minor so, yeah, by all means, keep going for it! And share more of what you've done! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>For any kind of crowd, I'd argue both those "blockages" are quite minor so, yeah, by all means, keep going for it! And share more of what you've done! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
 <p>Also...</p>
-<p>I think <span class="mention">@michaeld</span> (from that discoursehosting service) would like to know about your usage case there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>I think <span class="mention">@michaeld</span> (from that discoursehosting service) would like to know about your usage case there! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
 <p></p></details></p></blockquote></aside></p>
 
 <p>Finally, here is Sam's (Jeff's right hand) PM to me, along with my obviously unanswered reply, to which I was honestly hoping to get answers:</p>
@@ -119,12 +119,12 @@ But, from the silence, I know the answer. They are fucking clueless of what they
 
 <p>But, from the silence, I know the answer. They are fucking clueless of what they're doing (in this respect) or why they're censoring.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802/1">Read full topic</a></p>
+          <p><a href="/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802/1</link>
+        <link>/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802/1</link>
         <pubDate>Tue, 12 Jan 2016 14:18:19 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7802-1</guid>
-        <source url="http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss">I truly hope the Discourse team can get better faster or quickly die trying</source>
+        <source url="/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss">I truly hope the Discourse team can get better faster or quickly die trying</source>
       </item>
   </channel>
 </rss>

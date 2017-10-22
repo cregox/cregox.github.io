@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>[RFC] cregox&#39;s International Movie Rating Scale</title>
-    <link>http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815</link>
+    <link>/talk/t/rfc-cregoxs-international-movie-rating-scale/7815</link>
     <description>https://www.dropbox.com/s/mx77w4r0owzpkws/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0
 
 &gt; **Movies are all about storytelling.**
@@ -21,11 +21,11 @@ I like rating movies randomly, as the scoring method suggest, giving it 10 stars
 . etc.
 [/quote]
 
-Also for the longest time, I wished to make a better [rating system](http://talk.cregox.com/t/anything-advisor/7426) in general. Maybe [the first manifestation](http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox) of that wish happened almost 1 year ago. Something like [slant.co](http://slant.co) but maybe even simpler and even better.
+Also for the longest time, I wished to make a better [rating system](/talk/t/anything-advisor/7426) in general. Maybe [the first manifestation](/talk/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox) of that wish happened almost 1 year ago. Something like [slant.co](http://slant.co) but maybe even simpler and even better.
 
-After (re)watching [Strictly Sexual](https://www.facebook.com/StrictlySexualMovie) yesterday, finding it a 10, and having to re-scale it from 7, I&#39;ve decided to finally starting do this. Funny enough, I&#39;ve only watched it because it was the only option I had downloaded on my machine and I&#39;ve miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with [the Little Prince](http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772)) are usually even more interesting than my movement in itself! :smile:
+After (re)watching [Strictly Sexual](https://www.facebook.com/StrictlySexualMovie) yesterday, finding it a 10, and having to re-scale it from 7, I&#39;ve decided to finally starting do this. Funny enough, I&#39;ve only watched it because it was the only option I had downloaded on my machine and I&#39;ve miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with [the Little Prince](/talk/t/when-is-10-not-enough-little-prince/7772)) are usually even more interesting than my movement in itself! :smile:
 
-Boy, this should help writing [the novel](http://talk.cregox.com/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806)! :smile: 
+Boy, this should help writing [the novel](/talk/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806)! :smile: 
 &lt;/details&gt;
 
 # Here&#39;s IMRS second version
@@ -50,7 +50,7 @@ For movies, those are the current criteria: &lt;small&gt;(which may need to be i
 *Skeptical* science, that is. This is a stricter rule than what wikipedia abides to as, much more than published by accredited journals and duplicated it needs to be published online, replicated multiple times and approved by the skeptical community. **This is by far the biggest criteria and it has a weight of 2!**
 
 - `-` a piece of crap in this criteria like [Prometheus] could easily get a score of 12, never more.
-- `0` [Strictly Sexual](http://talk.cregox.com/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817) brings no big science topics to the table, I&#39;d argue. I could easily be wrong.
+- `0` [Strictly Sexual](/talk/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817) brings no big science topics to the table, I&#39;d argue. I could easily be wrong.
 - `1` [Interstellar], of course. Probably no better reference in this century, except maybe for [The Martian].
 
 ## Consistency
@@ -112,12 +112,12 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
     <language>en</language>
     <lastBuildDate>Mon, 01 Feb 2016 08:11:02 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>[RFC] cregox&#39;s International Movie Rating Scale</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/mx77w4r0owzpkws/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/mx77w4r0owzpkws/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0" width="666" height="500"></a>
 
@@ -133,11 +133,11 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 <p>. no good ending (this can easily lead to remove more than 1 star, and an open ending is no good)<br>. no tagline / message (ie too 'artistic' / meaningless)<br>. big science / consulting errors (it's not ok to hit people in the head as a plot device!)<br>. etc.</p>
 </blockquote></aside></p>
 
-<p>Also for the longest time, I wished to make a better <a href="http://talk.cregox.com/t/anything-advisor/7426">rating system</a> in general. Maybe <a href="http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox">the first manifestation</a> of that wish happened almost 1 year ago. Something like <a href="http://slant.co">slant.co</a> but maybe even simpler and even better.</p>
+<p>Also for the longest time, I wished to make a better <a href="/talk/t/anything-advisor/7426">rating system</a> in general. Maybe <a href="/talk/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox">the first manifestation</a> of that wish happened almost 1 year ago. Something like <a href="http://slant.co">slant.co</a> but maybe even simpler and even better.</p>
 
-<p>After (re)watching <a href="https://www.facebook.com/StrictlySexualMovie">Strictly Sexual</a> yesterday, finding it a 10, and having to re-scale it from 7, I've decided to finally starting do this. Funny enough, I've only watched it because it was the only option I had downloaded on my machine and I've miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">the Little Prince</a>) are usually even more interesting than my movement in itself! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>After (re)watching <a href="https://www.facebook.com/StrictlySexualMovie">Strictly Sexual</a> yesterday, finding it a 10, and having to re-scale it from 7, I've decided to finally starting do this. Funny enough, I've only watched it because it was the only option I had downloaded on my machine and I've miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with <a href="/talk/t/when-is-10-not-enough-little-prince/7772">the Little Prince</a>) are usually even more interesting than my movement in itself! <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
-<p>Boy, this should help writing <a href="http://talk.cregox.com/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">the novel</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p>
+<p>Boy, this should help writing <a href="/talk/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">the novel</a>! <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p>
 
 <p></p></details></p>
 
@@ -155,7 +155,7 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 
 <p>The solution is dead simple and very "scientific": do it in parts.</p>
 
-<p>Out of 534 titles I've rated, currently <strong>69</strong> of them were a 10 by my previous criteria (it were 68 when I've checked, so I've promoted South Park from the 9 ones). Using IMRS, that number <strike>w</strike>could turn into 42. Seriously (wishful thinking). And of course I'd tweak it! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> <small>(truth is I'm still currently <strong>compiling</strong> the list to get to a real number and then a cool one, if they don't coincide)</small></p>
+<p>Out of 534 titles I've rated, currently <strong>69</strong> of them were a 10 by my previous criteria (it were 68 when I've checked, so I've promoted South Park from the 9 ones). Using IMRS, that number <strike>w</strike>could turn into 42. Seriously (wishful thinking). And of course I'd tweak it! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> <small>(truth is I'm still currently <strong>compiling</strong> the list to get to a real number and then a cool one, if they don't coincide)</small></p>
 
 <p>For movies, those are the current criteria: <small>(which may need to be improved if confirmed they're way too much complementary as they stand)</small></p>
 
@@ -167,7 +167,7 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 <li>
 <code>-</code> a piece of crap in this criteria like [Prometheus] could easily get a score of 12, never more.</li>
 <li>
-<code>0</code> <a href="http://talk.cregox.com/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817">Strictly Sexual</a> brings no big science topics to the table, I'd argue. I could easily be wrong.</li>
+<code>0</code> <a href="/talk/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817">Strictly Sexual</a> brings no big science topics to the table, I'd argue. I could easily be wrong.</li>
 <li>
 <code>1</code> [Interstellar], of course. Probably no better reference in this century, except maybe for [The Martian].</li>
 </ul>
@@ -208,12 +208,12 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 <li>
 <code>0</code> I can't tell if [Lion King] is -1 or 1, so I'd just fit it on 0. Don't let viewers in doubt!</li>
 <li>
-<code>1</code> Going the completely unexpected route, I'd argue [Stranger than Fiction] is completely plausible. We do shape our universe. Even if you read lots of what I write, this may come to you as a surprise (I sure hope you'll even ask me for a movie review there <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:">). Of course, my point here is <strong>this is not a scientific scale because rating movies is subjective</strong>.</li>
+<code>1</code> Going the completely unexpected route, I'd argue [Stranger than Fiction] is completely plausible. We do shape our universe. Even if you read lots of what I write, this may come to you as a surprise (I sure hope you'll even ask me for a movie review there <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:">). Of course, my point here is <strong>this is not a scientific scale because rating movies is subjective</strong>.</li>
 </ul>
 
 <h2>Tagline</h2>
 
-<p>Probably "Punchline" would <a href="http://www.allinterview.com/showanswers/33509/differnce-between-tag-lina-punch-line.html">be</a> more appropriate, but then the criteria acronym would fall apart! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>Probably "Punchline" would <a href="http://www.allinterview.com/showanswers/33509/differnce-between-tag-lina-punch-line.html">be</a> more appropriate, but then the criteria acronym would fall apart! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <p>The point here is having a clear message across. That's what stories are for. Parables (damn that P).</p>
 
@@ -234,7 +234,7 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 <li>
 <code>-</code> [Saw] is very culture specific and most people don't want to go that deep in the human pool. Great movies otherwise, from the little I saw. Very intelligent indeed.</li>
 <li>
-<code>0</code> [Perfume] is probably easy to tell it to anyone, isn't it? I don't know. Wished it was. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:">
+<code>0</code> [Perfume] is probably easy to tell it to anyone, isn't it? I don't know. Wished it was. <img src="/talk/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:">
 </li>
 <li>
 <code>1</code> [Chaplin]. Make it dialog free and it will probably fit here perfectly. I hate to admit [Tree of Life] gets a 1 here too.</li>
@@ -242,7 +242,7 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 
 <h2>Caring</h2>
 
-<p><small>Okay, 6 criteria would have been enough for now, and maybe there's a better 6 letter choice (if you're reading and paying attention I hope you know what I mean here). I'm also tired of writing this topic already...</small><br>Most people don't care. But how can a story care? Well, the one telling the story should. Care for what? For people. Wooooot for subjectivity!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> </p>
+<p><small>Okay, 6 criteria would have been enough for now, and maybe there's a better 6 letter choice (if you're reading and paying attention I hope you know what I mean here). I'm also tired of writing this topic already...</small><br>Most people don't care. But how can a story care? Well, the one telling the story should. Care for what? For people. Wooooot for subjectivity!! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> </p>
 
 <ul>
 <li>
@@ -259,18 +259,18 @@ Writing this was a hours long yet fun exercise! :) Who&#39;d guess it all starte
 
 <p>Of course, using percentage is always encouraged as well. So, for instance, 15 makes 93.75%.</p>
 
-<p>Enough said. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blush.png?v=1" title=":blush:" class="emoji" alt=":blush:"> </p>
+<p>Enough said. <img src="/talk/images/emoji/emoji_one/blush.png?v=1" title=":blush:" class="emoji" alt=":blush:"> </p>
 
 <h1>Phew</h1>
 
-<p>Writing this was a hours long yet fun exercise! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Who'd guess it all started with sex?</p>
+<p>Writing this was a hours long yet fun exercise! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Who'd guess it all started with sex?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815/1">Read full topic</a></p>
+          <p><a href="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815/1</link>
+        <link>/talk/t/rfc-cregoxs-international-movie-rating-scale/7815/1</link>
         <pubDate>Fri, 15 Jan 2016 07:53:35 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7815-1</guid>
-        <source url="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815.rss">[RFC] cregox&#39;s International Movie Rating Scale</source>
+        <source url="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815.rss">[RFC] cregox&#39;s International Movie Rating Scale</source>
       </item>
   </channel>
 </rss>

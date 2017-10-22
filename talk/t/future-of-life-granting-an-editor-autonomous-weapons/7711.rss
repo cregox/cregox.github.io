@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Future of Life granting an editor autonomous weapons?</title>
-    <link>http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711</link>
+    <link>/talk/t/future-of-life-granting-an-editor-autonomous-weapons/7711</link>
     <description>&lt;img src=&#39;/uploads/default/original/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d.jpg&#39;&gt;
 
 Title makes sense? I bet not.
@@ -58,23 +58,23 @@ And what&#39;s up with Schwasneger (dam, still can&#39;t spell his name, thanks 
   [5]: http://futureoflife.org/AI/open_letter_autonomous_weapons
   [6]: http://futureoflife.org/grants/large/initial/faq
   [7]: http://futureoflife.org/public/blog/topic/178
-  [8]: http://talk.cregox.com/c/blog
-  [9]: http://talk.cregox.com/t/yeah-im-also-a-progammer/7676
+  [8]: /talk/c/blog
+  [9]: /talk/t/yeah-im-also-a-progammer/7676
   [10]: http://skeptics.stackexchange.com/posts/1378/revisions
   [11]: http://skeptics.stackexchange.com/a/1378/1125
-  [12]: http://talk.cregox.com/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096
-  [13]: http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas</description>
+  [12]: /talk/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096
+  [13]: /talk/t/a-beginning-for-the-forums-here/7?u=cawas</description>
     <language>en</language>
     <lastBuildDate>Mon, 05 Oct 2015 17:36:33 +0000</lastBuildDate>
     <category>public emails</category>
-    <atom:link href="http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/future-of-life-granting-an-editor-autonomous-weapons/7711.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Future of Life granting an editor autonomous weapons?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d" href="//talk-cdn.cregox.com/uploads/default/original/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d.jpg" class="lightbox" title="nc_schwarzenegger_terminator_ll_130628_16x9_992.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d_1_690x388.jpg" width="690" height="388"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d" href="/talk/uploads/default/original/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d.jpg" class="lightbox" title="nc_schwarzenegger_terminator_ll_130628_16x9_992.jpg"><img src="/talk/uploads/default/optimized/1X/a09ee6c52a6af1eeb78f33dcc7b3a76fadc3664d_1_690x388.jpg" width="690" height="388"><div class="meta">
 <span class="filename">nc_schwarzenegger_terminator_ll_130628_16x9_992.jpg</span><span class="informations">992x558 84.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -82,7 +82,7 @@ And what&#39;s up with Schwasneger (dam, still can&#39;t spell his name, thanks 
 
 <p>I've met the <em>Future of Life Institute</em> (FLI) a while ago, thanks to their very famous <a href="http://futureoflife.org/AI/open_letter">open letter</a> about "Research Priorities for Robust and Beneficial Artificial Intelligence". I've signed it. Probably everyone doing AI research did or will do. But I haven't read <a href="http://futureoflife.org/static/data/documents/research_priorities.pdf">all of it</a>. Didn't notice it was this big. I hope it's "just" formalising what we would expect.</p>
 
-<p>Today <a class="mention" href="/users/jorge">@jorge</a> pointed me to an <a href="http://futureoflife.org/public/blog/topic/178">Editor vacancy</a> there. And it sounded <strong>exactly</strong> the job I'm already doing for <a href="http://basiux.com">basiux</a> (the project I've created to develop AI)! Boy, do I want this job?! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Today <a class="mention" href="/users/jorge">@jorge</a> pointed me to an <a href="http://futureoflife.org/public/blog/topic/178">Editor vacancy</a> there. And it sounded <strong>exactly</strong> the job I'm already doing for <a href="http://basiux.com">basiux</a> (the project I've created to develop AI)! Boy, do I want this job?! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>So I now started paying more attention to FLI. And read most of its institutional site. It is quite aligned with basiux, even on their new open letter, about <a href="http://futureoflife.org/AI/open_letter_autonomous_weapons">Autonomous Weapons</a>, although I believe that's just a palliative measure and of very little importance.</p>
 
@@ -114,22 +114,22 @@ And what&#39;s up with Schwasneger (dam, still can&#39;t spell his name, thanks 
 
 <h3><em>What past experience do I have with writing and/or website management</em></h3>
 
-<p>Here. This website is a good instance in itself. I've made it from scratch. Granted, the content in it is quite messy, but there's good quality in the <a href="http://talk.cregox.com/c/blog">blog</a>. And I've been mostly a <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">progammer*</a> for almost 2 decades, I can manage a website. It's not exactly the same style as FLI, but I can adapt.</p>
+<p>Here. This website is a good instance in itself. I've made it from scratch. Granted, the content in it is quite messy, but there's good quality in the <a href="/talk/c/blog">blog</a>. And I've been mostly a <a href="/talk/t/yeah-im-also-a-progammer/7676">progammer*</a> for almost 2 decades, I can manage a website. It's not exactly the same style as FLI, but I can adapt.</p>
 
 <h3><em>Science background</em></h3>
 
-<p>Now, <em>that</em> I don't have... But science is in my blood. Take a look at the <a href="http://skeptics.stackexchange.com/posts/1378/revisions">edit history</a> and comments there, when I wanted to give an <a href="http://skeptics.stackexchange.com/a/1378/1125">answer for circumcision</a>. Or at my "scientific research" (ok far from it, but I hope you get the point) towards <a href="http://talk.cregox.com/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096">podcast players</a>. Also, <a href="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas">the big reason</a> I've created this forum was trying to improve SGU's forums. That was frustrating, but I mean, I feel a huge connection with Skeptics Guide to the Universe, a very scientific podcast, even if they properly don't call them so. So, yeah, no science background! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt=":frowning:"></p>
+<p>Now, <em>that</em> I don't have... But science is in my blood. Take a look at the <a href="http://skeptics.stackexchange.com/posts/1378/revisions">edit history</a> and comments there, when I wanted to give an <a href="http://skeptics.stackexchange.com/a/1378/1125">answer for circumcision</a>. Or at my "scientific research" (ok far from it, but I hope you get the point) towards <a href="/talk/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096">podcast players</a>. Also, <a href="/talk/t/a-beginning-for-the-forums-here/7?u=cawas">the big reason</a> I've created this forum was trying to improve SGU's forums. That was frustrating, but I mean, I feel a huge connection with Skeptics Guide to the Universe, a very scientific podcast, even if they properly don't call them so. So, yeah, no science background! <img src="/talk/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt=":frowning:"></p>
 
 <hr>
 
-<p>And what's up with Schwasneger (dam, still can't spell his name, thanks auto fix!) there? Well, you certainly know that singularity is often compared with SkyNet and the autonomous weapon isn't what he's holding in his hands, but it sure gives a good general picture of what you want as an editor there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>And what's up with Schwasneger (dam, still can't spell his name, thanks auto fix!) there? Well, you certainly know that singularity is often compared with SkyNet and the autonomous weapon isn't what he's holding in his hands, but it sure gives a good general picture of what you want as an editor there! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711/1">Read full topic</a></p>
+          <p><a href="/talk/t/future-of-life-granting-an-editor-autonomous-weapons/7711/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711/1</link>
+        <link>/talk/t/future-of-life-granting-an-editor-autonomous-weapons/7711/1</link>
         <pubDate>Mon, 05 Oct 2015 17:36:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7711-1</guid>
-        <source url="http://talk.cregox.com/t/future-of-life-granting-an-editor-autonomous-weapons/7711.rss">Future of Life granting an editor autonomous weapons?</source>
+        <source url="/talk/t/future-of-life-granting-an-editor-autonomous-weapons/7711.rss">Future of Life granting an editor autonomous weapons?</source>
       </item>
   </channel>
 </rss>

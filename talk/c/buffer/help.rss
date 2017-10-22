@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>help - cregox talk</title>
-    <link>http://talk.cregox.com/c/buffer/help</link>
+    <link>/talk/c/buffer/help</link>
     <description>Topics in the &#39;help&#39; category &lt;small&gt;  &lt;/small&gt;</description>
     <language>en</language>
       <lastBuildDate>Sun, 21 Feb 2016 13:45:35 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/buffer/help.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/buffer/help.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Cregox cast 3 - preparation zero</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/cregox-cast-2-read-my-mind-oooh-yeah/7847">Cregox cast 2 - read my mind, oooh yeah!</a>:</p>
+              <p>Continuing the discussion from <a href="/talk/t/cregox-cast-2-read-my-mind-oooh-yeah/7847">Cregox cast 2 - read my mind, oooh yeah!</a>:</p>
 
 <p>for this weekend I've got even more on my hands than the first 2, so there's absolutely no preparation! even the time have changed, today (sunday and not saturday) it will <strong>start around 21:00 utc</strong> so 7 hours from now.</p>
 
 <p></p><div class="lazyYT" data-youtube-id="ClxHgi3W_0A" data-youtube-title="cregox cast 3 - preparation zero" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br><a href="https://hangouts.google.com/call/ucb7y556tjaa7fbbai6x3rhd3ya">link to participate</a>
 
-<p>boy, I wonder if I'll ever be able to get this better organized... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>boy, I wonder if I'll ever be able to get this better organized... <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>so, this was a short one.</p>
 
@@ -28,22 +28,22 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/cregox-cast-3-preparation-zero/7849">Read full topic</a></p>
+            <p><a href="/talk/t/cregox-cast-3-preparation-zero/7849">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/cregox-cast-3-preparation-zero/7849</link>
+          <link>/talk/t/cregox-cast-3-preparation-zero/7849</link>
           <pubDate>Sun, 21 Feb 2016 13:45:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7849</guid>
-          <source url="http://talk.cregox.com/t/cregox-cast-3-preparation-zero/7849.rss">Cregox cast 3 - preparation zero</source>
+          <source url="/talk/t/cregox-cast-3-preparation-zero/7849.rss">Cregox cast 3 - preparation zero</source>
         </item>
         <item>
           <title>What do I need to learn in order to become an artificial intelligence researcher? logic + philosophy + arts</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>originally <a href="https://www.quora.com/What-do-I-need-to-learn-in-order-to-research-artificial-intelligence/answer/Caue-Rego">written on quora</a> yet another "self help" thought:</p>
 
@@ -52,7 +52,7 @@
 <p><em>(if this answer gets enough interest I'll expand more)</em></p>
 <p><strong>logic</strong><br>that's the binary world, the same one that constructs math and progamming*. you can't have any kind of intelligence without a solid logic.</p>
 <p><strong>philosophy</strong><br>this is the spiritual world, looked upon mostly through logic (i.e. with much intelligence).</p>
-<p><strong>arts</strong><br>materialization. Ai is a lot about ideas but nothing of that matters if you can't bring it to the real world. making a spam filter out of pure logic is an awesome piece art and, make no mistake, programming is a form of art! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+<p><strong>arts</strong><br>materialization. Ai is a lot about ideas but nothing of that matters if you can't bring it to the real world. making a spam filter out of pure logic is an awesome piece art and, make no mistake, programming is a form of art! <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
 <p>---</p>
 <p>there really is nothing in your life you can't use to learn about researching for Ai, specially if you're talking about the tech singularity. <strong>anything works</strong>.</p>
 <p>now, if all you want is weak Ai, the one being sold today, you can leave <strong>philosophy</strong> behind and focus most your efforts in <strong>logic</strong> and, if you're lucky enough, make tons of money with it, with a good enough <strong>art</strong>. just keep in mind money isn't everything - it's just 1/3 of it.</p>
@@ -60,22 +60,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848">Read full topic</a></p>
+            <p><a href="/talk/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848</link>
+          <link>/talk/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848</link>
           <pubDate>Sat, 13 Feb 2016 17:13:00 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7848</guid>
-          <source url="http://talk.cregox.com/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848.rss">What do I need to learn in order to become an artificial intelligence researcher? logic + philosophy + arts</source>
+          <source url="/talk/t/what-do-i-need-to-learn-in-order-to-become-an-artificial-intelligence-researcher-logic-philosophy-arts/7848.rss">What do I need to learn in order to become an artificial intelligence researcher? logic + philosophy + arts</source>
         </item>
         <item>
           <title>Cregox cast 2 - read my mind, oooh yeah!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><a href="https://dl.dropboxusercontent.com/s/x83enckr0j16zny/2016-02-11%2013.02.23.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/x83enckr0j16zny/2016-02-11%2013.02.23.jpg?dl=1" width="500" height="500"></a><br><details><summary><em>try to figure out what's in my mind before clicking here to find out the answer!</em></summary>
 
@@ -87,7 +87,7 @@
 
 <p>( still unsure of what's the best category for buffering this... since it's on "help", the request is: come join us! )</p>
 
-<p>now, continuing the discussion from <a href="http://talk.cregox.com/t/starting-a-pod-with-this-making-of-cregox-cast/7843/2">Starting a pod with this making of "cregox cast"</a>:</p>
+<p>now, continuing the discussion from <a href="/talk/t/starting-a-pod-with-this-making-of-cregox-cast/7843/2">Starting a pod with this making of "cregox cast"</a>:</p>
 
 <h1>read my mind</h1>
 
@@ -95,7 +95,7 @@
 
 <p>it will happen near the cast ending because we're not sure everyone will be online near the beginning. I'll always bring a subject for this game, so we'll talk <a href="https://en.wikipedia.org/wiki/Passage_(video_game)">about</a> <a href="http://hcsoftware.sourceforge.net/passage/">PASSAGE</a> (play it at least twice, <a href="http://passage.toolness.org/">online</a> if you prefer).</p>
 
-<p>be our guest to bring up a subject for other players trying to read what's in your mind! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>be our guest to bring up a subject for other players trying to read what's in your mind! <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
 
 <h2>schedule and plans for the future</h2>
 
@@ -107,26 +107,26 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/cregox-cast-2-read-my-mind-oooh-yeah/7847">Read full topic</a></p>
+            <p><a href="/talk/t/cregox-cast-2-read-my-mind-oooh-yeah/7847">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/cregox-cast-2-read-my-mind-oooh-yeah/7847</link>
+          <link>/talk/t/cregox-cast-2-read-my-mind-oooh-yeah/7847</link>
           <pubDate>Sat, 13 Feb 2016 16:25:25 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7847</guid>
-          <source url="http://talk.cregox.com/t/cregox-cast-2-read-my-mind-oooh-yeah/7847.rss">Cregox cast 2 - read my mind, oooh yeah!</source>
+          <source url="/talk/t/cregox-cast-2-read-my-mind-oooh-yeah/7847.rss">Cregox cast 2 - read my mind, oooh yeah!</source>
         </item>
         <item>
           <title>Starting a pod with this making of &quot;cregox cast&quot;</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><a href="https://dl.dropboxusercontent.com/s/dr6rzpt6h91vjya/2016-02-06%2011.08.25%20janbed.png?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/dr6rzpt6h91vjya/2016-02-06%2011.08.25%20janbed.png?dl=1" width="690" height="412"></a><br><em>random images to work as thumbnails or something</em></p>
 
-<p><small>continuing the discussion from <a href="http://talk.cregox.com/t/lets-make-a-podcast/7753/5">Let's make a podcast?</a></small></p>
+<p><small>continuing the discussion from <a href="/talk/t/lets-make-a-podcast/7753/5">Let's make a podcast?</a></small></p>
 
 <p>unedited video (starts at 40:26 and gets better around 1:22:42 when Moe "<a class="mention" href="/users/admin.r99">@admin.r99</a>" gets in):</p>
 
@@ -134,7 +134,7 @@
 
 <p>to join in while it's happening, <a href="https://hangouts.google.com/call/s2kz6ex26zejfd6o7fwodxr2pya">click here</a>.</p>
 
-<p>it's like <a href="http://9to5google.com/2016/02/04/hangouts-improved-peer-to-peer/">hangouts have just improved</a> for making this startup even better! and boy, I've been making lots of making ofs lately. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>it's like <a href="http://9to5google.com/2016/02/04/hangouts-improved-peer-to-peer/">hangouts have just improved</a> for making this startup even better! and boy, I've been making lots of making ofs lately. <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>so the cast will have no theme whatsoever. the first episode however, should be a hangout around:</p>
 
@@ -148,26 +148,26 @@
 
 <p><a class="mention" href="/users/admin.r99">@admin.r99</a> will be a guest and <code>everyone</code> is welcomed to join in.</p>
 
-<p>can't wait to see what will happen out of this... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>can't wait to see what will happen out of this... <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/starting-a-pod-with-this-making-of-cregox-cast/7843">Read full topic</a></p>
+            <p><a href="/talk/t/starting-a-pod-with-this-making-of-cregox-cast/7843">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/starting-a-pod-with-this-making-of-cregox-cast/7843</link>
+          <link>/talk/t/starting-a-pod-with-this-making-of-cregox-cast/7843</link>
           <pubDate>Sat, 06 Feb 2016 11:21:40 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7843</guid>
-          <source url="http://talk.cregox.com/t/starting-a-pod-with-this-making-of-cregox-cast/7843.rss">Starting a pod with this making of &quot;cregox cast&quot;</source>
+          <source url="/talk/t/starting-a-pod-with-this-making-of-cregox-cast/7843.rss">Starting a pod with this making of &quot;cregox cast&quot;</source>
         </item>
         <item>
           <title>Basiux&#39;s play escape - a new attempt for meeting up with people, now using a theatrical game as a plot device</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/458af3zdbjvd5cv/2016-01-31%2017.32.46-1.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/458af3zdbjvd5cv/2016-01-31%2017.32.46-1.jpg?dl=1" width="500" height="500"></a>
 
@@ -175,22 +175,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838">Read full topic</a></p>
+            <p><a href="/talk/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838</link>
+          <link>/talk/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838</link>
           <pubDate>Thu, 04 Feb 2016 15:21:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7838</guid>
-          <source url="http://talk.cregox.com/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838.rss">Basiux&#39;s play escape - a new attempt for meeting up with people, now using a theatrical game as a plot device</source>
+          <source url="/talk/t/basiuxs-play-escape-a-new-attempt-for-meeting-up-with-people-now-using-a-theatrical-game-as-a-plot-device/7838.rss">Basiux&#39;s play escape - a new attempt for meeting up with people, now using a theatrical game as a plot device</source>
         </item>
         <item>
           <title>Basiux - from neural networks to ai singularity, the new slogan created after a sharktank application</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/qezh9vymzi0ljw4/2016-01-15%2015.08.52%20sharktank%20fabrica%20startup%20lisbon.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/qezh9vymzi0ljw4/2016-01-15%2015.08.52%20sharktank%20fabrica%20startup%20lisbon.jpg?dl=1" width="500" height="500"></a>
 
@@ -198,7 +198,7 @@
 
 <ul>
 <li><p><strong>"you're either insane or a genius, we have no clue what's your product"</strong></p></li>
-<li><p><strong>"we're too dumb to understand what you're talking about"</strong> - to which I immediately replied something like "<em>no, I'm pretty sure I'm the fucktard who can't explain it right</em>" and they laughed. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p></li>
+<li><p><strong>"we're too dumb to understand what you're talking about"</strong> - to which I immediately replied something like "<em>no, I'm pretty sure I'm the fucktard who can't explain it right</em>" and they laughed. <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p></li>
 <li><p><strong>"bring us a prototype"</strong> - this was a hint from my friend who was in the jury there (if not for her, I wouldn't be writing this post here). I was a bit surprised and quickly said "<em>here, it's in my pocket. want to see?</em>". <strong>"no, just apply it online. maybe we'd still call you"</strong></p></li>
 </ul>
 
@@ -214,40 +214,40 @@
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819">Read full topic</a></p>
+            <p><a href="/talk/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819</link>
+          <link>/talk/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819</link>
           <pubDate>Sat, 16 Jan 2016 00:47:39 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7819</guid>
-          <source url="http://talk.cregox.com/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819.rss">Basiux - from neural networks to ai singularity, the new slogan created after a sharktank application</source>
+          <source url="/talk/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819.rss">Basiux - from neural networks to ai singularity, the new slogan created after a sharktank application</source>
         </item>
         <item>
           <title>About the help category</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>help</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><small>  </small></p>
 
-<p>Short posts (with descriptive long titles) about <strong>helping</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, asking for or offering some kind of hands! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/hankey.png?v=1" title=":hankey:" class="emoji" alt=":hankey:"></p>
+<p>Short posts (with descriptive long titles) about <strong>helping</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="/talk/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, asking for or offering some kind of hands! <img src="/talk/images/emoji/emoji_one/hankey.png?v=1" title=":hankey:" class="emoji" alt=":hankey:"></p>
 
 <p>Different from any other <a href="/c/buffer">buffer</a> category, <strong>anyone</strong> can create topics here.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/about-the-help-category/7818">Read full topic</a></p>
+            <p><a href="/talk/t/about-the-help-category/7818">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/about-the-help-category/7818</link>
+          <link>/talk/t/about-the-help-category/7818</link>
           <pubDate>Fri, 15 Jan 2016 23:35:44 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7818</guid>
-          <source url="http://talk.cregox.com/t/about-the-help-category/7818.rss">About the help category</source>
+          <source url="/talk/t/about-the-help-category/7818.rss">About the help category</source>
         </item>
   </channel>
 </rss>

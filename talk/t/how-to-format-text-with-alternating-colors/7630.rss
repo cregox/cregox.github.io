@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to format text with alternating colors?</title>
-    <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630</link>
+    <link>/talk/t/how-to-format-text-with-alternating-colors/7630</link>
     <description>Hi, do you know if its possible to format the price-list page like this: http://stikkogreis.no/priser/ in Squarespace.
 
 That you have both white and grey horisontal columns that help dividing the text.
@@ -12,14 +12,14 @@ Tor Martin</description>
     <language>en</language>
     <lastBuildDate>Wed, 27 May 2015 22:43:05 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/how-to-format-text-with-alternating-colors/7630.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Looking nice! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="" height=""></p>
+              <p>Looking nice! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="" height=""></p>
 
 <p>CSS is not so simple to format text, but also not that hard. Attributes to change it are within <code>text</code> and <code>font</code>: <a href="http://www.yourhtmlsource.com/stylesheets/csstext.html">http://www.yourhtmlsource.com/stylesheets/csstext.html</a></p>
 
@@ -30,37 +30,37 @@ Tor Martin</description>
 <pre><code>font-weight: bold;
 font-style: italic;</code></pre>
 
-<p>And it's fine, you can remove my permission. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
+<p>And it's fine, you can remove my permission. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/16">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/16">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/16</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/16</link>
         <pubDate>Wed, 27 May 2015 22:43:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-16</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>just so you know, I´ll give permissions to the client in a few hours again, and I reckon you will loose yours. I thought that you could have +2 people on board on basis plan..</p>
 
 <p>Tor M</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/15">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/15">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/15</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/15</link>
         <pubDate>Wed, 27 May 2015 22:42:44 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-15</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>I also manage to do the colors!</p>
 
@@ -68,33 +68,33 @@ font-style: italic;</code></pre>
 
 <p>Thanks!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/14">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/14">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/14</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/14</link>
         <pubDate>Wed, 27 May 2015 22:35:56 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-14</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>I succeeded to make a nice meny block that works <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> Can you help with the colors?<br>Thanks!</p>
+              <p>I succeeded to make a nice meny block that works <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> Can you help with the colors?<br>Thanks!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/13">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/13">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/13</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/13</link>
         <pubDate>Wed, 27 May 2015 22:08:23 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-13</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Light gray is: #f9f9f9<br>And white is: #ffffff<br>And the top bar is: #f0f0f0</p>
 
@@ -104,33 +104,33 @@ font-style: italic;</code></pre>
 
 <p>Thanks for your help!<br>Regards, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/12">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/12">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/12</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/12</link>
         <pubDate>Wed, 27 May 2015 21:56:47 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-12</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Try now if you are able to log into the site?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/11">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/11">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/11</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/11</link>
         <pubDate>Wed, 27 May 2015 21:51:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-11</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Couldn't get in.</p>
 
@@ -178,18 +178,18 @@ div.menus {
 
 <p>You can see it working here: <a href="http://www.cregox.com/table-spreadsheet">http://www.cregox.com/table-spreadsheet</a></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/10">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/10">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/10</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/10</link>
         <pubDate>Wed, 27 May 2015 19:24:22 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-10</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>The client is willing to let you tackle this responsive table challenge. Whats important:<br>• The price list should look as it is now (with alternating colors on the background). It could be wider on desktop and iPad.<br>• Fairly easy to update. This guy can handle getting his hands dirty in html, but if you find an easier solution for him to update the prices, that a great bonus indeed.</p>
 
@@ -197,18 +197,18 @@ div.menus {
 
 <p>Regards, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/9">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/9">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/9</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/9</link>
         <pubDate>Tue, 26 May 2015 22:17:14 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-9</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>What else is important, though?</p>
 
@@ -220,35 +220,35 @@ div.menus {
 
 <p>In any case, I could "make it work" for U$123 because it's fairly very simple.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/8">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/8">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/8</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/8</link>
         <pubDate>Mon, 25 May 2015 23:15:51 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-8</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>How much would it cost for you to "make it work". You can choose how to attack it, but its important for the client that the prices reads clearly. Its a awful long list of prices..</p>
 
 <p>Regards, <br>Tor M</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/7">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/7">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/7</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/7</link>
         <pubDate>Mon, 25 May 2015 20:46:28 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-7</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I see <code>width</code> and, mostly, <code>&lt;table&gt;</code> standing out. Table's are inherently very responsive-unfriendly. Here are a few tricks to go around them</p>
 
@@ -256,18 +256,18 @@ div.menus {
 
 <p>I tried to tweak for a little while and see if I could fix it, but nope. I'd still go with a much simpler markdown and lists <code>&lt;li&gt;</code></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/6">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/6">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/6</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/6</link>
         <pubDate>Mon, 25 May 2015 03:20:30 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-6</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, look at this page now: <a href="http://reiseklinikken.net/prisliste/" rel="nofollow">http://reiseklinikken.net/prisliste/</a></p>
 
@@ -329,18 +329,18 @@ div.menus {
   &lt;/tr&gt;
 &lt;/table&gt;</code></pre>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/5">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/5">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/5</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/5</link>
         <pubDate>Sat, 23 May 2015 21:12:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-5</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I can tell you to apply the <code>nth-child</code> code there it would be this:</p>
 
@@ -350,18 +350,18 @@ div.menus {
 
 <p>However, you could probably apply it to <a href="http://help.squarespace.com/guides/using-the-markdown-block">a markdown</a> and get a very satisfying result. I'll get back to this once I get the time.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/4">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/4</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/4</link>
         <pubDate>Sat, 23 May 2015 18:23:58 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-4</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Can you help us with making a page like this: <a href="http://www.reisemedisin.no/Prisliste/Bergen+og+Oslo" rel="nofollow">http://www.reisemedisin.no/Prisliste/Bergen+og+Oslo</a> <br>Thinking on how the prices are looking, with alternating white and grey background. </p>
 
@@ -369,18 +369,18 @@ div.menus {
 
 <p>Regards, <br>Tor M</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/3">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/3</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/3</link>
         <pubDate>Fri, 22 May 2015 19:57:04 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-3</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Yeah, you can achieve that with a <a href="https://css-tricks.com/how-nth-child-works/">simple CSS called <code>nth-child</code></a>. Something like this:</p>
 
@@ -392,18 +392,18 @@ div.menus {
 
 <p><small>I also changed your post title to something more descriptive. :)</small></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/2">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/2</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/2</link>
         <pubDate>Tue, 19 May 2015 20:46:18 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-2</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
       <item>
         <title>How to format text with alternating colors?</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, do you know if its possible to format the price-list page like this: <a href="http://stikkogreis.no/priser/" rel="nofollow">http://stikkogreis.no/priser/</a> in Squarespace.</p>
 
@@ -411,12 +411,12 @@ div.menus {
 
 <p>Thanks, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/1">Read full topic</a></p>
+          <p><a href="/talk/t/how-to-format-text-with-alternating-colors/7630/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630/1</link>
+        <link>/talk/t/how-to-format-text-with-alternating-colors/7630/1</link>
         <pubDate>Tue, 19 May 2015 20:05:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7630-1</guid>
-        <source url="http://talk.cregox.com/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
+        <source url="/talk/t/how-to-format-text-with-alternating-colors/7630.rss">How to format text with alternating colors?</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Banner images cut off :/</title>
-    <link>http://talk.cregox.com/t/banner-images-cut-off/7579</link>
+    <link>/talk/t/banner-images-cut-off/7579</link>
     <description>[quote=&quot;kate@morcreative.net&quot;]
 Hi Caue,
 hope you are well~
@@ -27,12 +27,12 @@ DIRECT: 813.235.5093
     <language>en</language>
     <lastBuildDate>Fri, 01 May 2015 19:41:00 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/banner-images-cut-off/7579.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/banner-images-cut-off/7579.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Banner images cut off :/</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Hi Caue,</p>
 
@@ -44,18 +44,18 @@ I am wondering what the cost would be for you to add in 3 buttons on the header 
 <p>Thanks!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/banner-images-cut-off/7579/4">Read full topic</a></p>
+          <p><a href="/talk/t/banner-images-cut-off/7579/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/banner-images-cut-off/7579/4</link>
+        <link>/talk/t/banner-images-cut-off/7579/4</link>
         <pubDate>Fri, 01 May 2015 19:41:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7579-4</guid>
-        <source url="http://talk.cregox.com/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
+        <source url="/talk/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
       </item>
       <item>
         <title>Banner images cut off :/</title>
         <dc:creator><![CDATA[@Kate Kate]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/kate">@Kate</a> wrote:</p>
+          <p><a href="/talk/u/kate">@Kate</a> wrote:</p>
           <blockquote>
               <p>Beautiful!</p>
 
@@ -69,20 +69,20 @@ I am using the Bryant template for a client site. Can you add in multiple button
 <p>Thanks so much!
 Kate</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/banner-images-cut-off/7579/3">Read full topic</a></p>
+          <p><a href="/talk/t/banner-images-cut-off/7579/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/banner-images-cut-off/7579/3</link>
+        <link>/talk/t/banner-images-cut-off/7579/3</link>
         <pubDate>Thu, 30 Apr 2015 20:30:39 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7579-3</guid>
-        <source url="http://talk.cregox.com/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
+        <source url="/talk/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
       </item>
       <item>
         <title>Banner images cut off :/</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Hey <a class="mention" href="/users/kate">@Kate</a>, I'm fine and you? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Hey <a class="mention" href="/users/kate">@Kate</a>, I'm fine and you? <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>I'm not sure what happened there, but I noticed it was not only being cut off, the bottom was also with an extra room. Like a misplaced puzzle piece. I quickly fixed it by changing the <code>height()</code> in this line into <code>outerHeight()</code>:</p>
 
@@ -90,20 +90,20 @@ Kate</p>
 
 <p>So I suppose something was changed on the header that made the previous code not work, but this is how I should have done it to begin with anyway.</p>
 
-<p>Hope that's all. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>Hope that's all. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/banner-images-cut-off/7579/2">Read full topic</a></p>
+          <p><a href="/talk/t/banner-images-cut-off/7579/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/banner-images-cut-off/7579/2</link>
+        <link>/talk/t/banner-images-cut-off/7579/2</link>
         <pubDate>Thu, 30 Apr 2015 20:13:48 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7579-2</guid>
-        <source url="http://talk.cregox.com/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
+        <source url="/talk/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
       </item>
       <item>
         <title>Banner images cut off :/</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>kate@morcreative.net:</div>
@@ -115,12 +115,12 @@ Kate</p>
 <p>M O R  C R E A T I V E<br>KATE BOSSE<br>WWW.MORCREATIVE.NET<br>DIRECT: 813.235.5093</p>
 </blockquote></aside>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/banner-images-cut-off/7579/1">Read full topic</a></p>
+          <p><a href="/talk/t/banner-images-cut-off/7579/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/banner-images-cut-off/7579/1</link>
+        <link>/talk/t/banner-images-cut-off/7579/1</link>
         <pubDate>Thu, 30 Apr 2015 18:35:20 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7579-1</guid>
-        <source url="http://talk.cregox.com/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
+        <source url="/talk/t/banner-images-cut-off/7579.rss">Banner images cut off :/</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Who wants to learn IT?</title>
-    <link>http://talk.cregox.com/t/who-wants-to-learn-it/2478</link>
+    <link>/talk/t/who-wants-to-learn-it/2478</link>
     <description>&lt;p&gt;I guess it&#39;s time for me to start teaching a trick or two about computers.&lt;/p&gt;
 &lt;p&gt;I&#39;ve been programming for over 15 years, dealing with annoying computers and often getting mad at them, trying to find solutions for my own problems and building up code that mostly go to garbage after a while because companies don&#39;t know what they want or need. And I&#39;ve learned a lot in the way.&lt;/p&gt;
 &lt;p&gt;So, &lt;a href=&quot;http://www.facebook.com/events/708760245864721/&quot;&gt;next week (Wedenesday Oct 1st, from 15h to 20h)&lt;/a&gt; I&#39;ll be hosting an event at &lt;a href=&quot;http://laboriosa89.com&quot;&gt;Laboriosa 89&lt;/a&gt;, trying to gather people interested in learning about Information Technology or even a bit of programming.&lt;/p&gt;
@@ -31,12 +31,12 @@
     <language>en</language>
     <lastBuildDate>Sat, 10 Jan 2015 08:27:59 +0000</lastBuildDate>
     <category>quest</category>
-    <atom:link href="http://talk.cregox.com/t/who-wants-to-learn-it/2478.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/who-wants-to-learn-it/2478.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Who wants to learn IT?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I guess it's time for me to start teaching a trick or two about computers.</p>
 <p>I've been programming for over 15 years, dealing with annoying computers and often getting mad at them, trying to find solutions for my own problems and building up code that mostly go to garbage after a while because companies don't know what they want or need. And I've learned a lot in the way.</p>
@@ -48,7 +48,7 @@
 		
 			
 				
-					<img class="thumb-image" alt="huckabees-logo.jpg" data-image="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5423417ae4b0a5427e447a60/1411596674868/huckabees-logo.jpg" data-image-dimensions="480x356" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5423417ae4b0a5427e447a60" data-type="image" src="//talk-cdn.cregox.com/uploads/default/41/140544964fd2a80c.jpg" width="480" height="356">
+					<img class="thumb-image" alt="huckabees-logo.jpg" data-image="http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5423417ae4b0a5427e447a60/1411596674868/huckabees-logo.jpg" data-image-dimensions="480x356" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5423417ae4b0a5427e447a60" data-type="image" src="/talk/uploads/default/41/140544964fd2a80c.jpg" width="480" height="356">
 				
 			
 
@@ -64,12 +64,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/9/24/who-wants-to-learn-it">http://www.cregox.com/blog/2014/9/24/who-wants-to-learn-it</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/who-wants-to-learn-it/2478/1">Read full topic</a></p>
+          <p><a href="/talk/t/who-wants-to-learn-it/2478/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/who-wants-to-learn-it/2478/1</link>
+        <link>/talk/t/who-wants-to-learn-it/2478/1</link>
         <pubDate>Wed, 24 Sep 2014 22:13:37 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-2478-1</guid>
-        <source url="http://talk.cregox.com/t/who-wants-to-learn-it/2478.rss">Who wants to learn IT?</source>
+        <source url="/talk/t/who-wants-to-learn-it/2478.rss">Who wants to learn IT?</source>
       </item>
   </channel>
 </rss>

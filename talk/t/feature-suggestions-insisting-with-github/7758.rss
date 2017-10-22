@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Feature suggestions - Insisting with GitHub</title>
-    <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758</link>
+    <link>/talk/t/feature-suggestions-insisting-with-github/7758</link>
     <description>Continuing from a recent blog post:
 
-http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox
+/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox
 
 # Insisting?
 
-Yeah, [insisting](http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4). GitHub is currently the closest financially successful company of my dreams, in which I&#39;d love to be working with. The first one would be, of course, [my own](http://patreon.com/cregox) (which still couldn&#39;t find its social position / financial freedom). Plus, I&#39;d be really surprised if they&#39;re not interested in developing [at least weak Ai](http://basiux.org). And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! ;P
+Yeah, [insisting](/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4). GitHub is currently the closest financially successful company of my dreams, in which I&#39;d love to be working with. The first one would be, of course, [my own](http://patreon.com/cregox) (which still couldn&#39;t find its social position / financial freedom). Plus, I&#39;d be really surprised if they&#39;re not interested in developing [at least weak Ai](http://basiux.org). And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! ;P
 
 Well...
 
 I had today this little feature suggestion and since I couldn&#39;t find anywhere there to publish, or maybe even if I did find I should probably organize them somewhere to build up a history of applying to work there, here I want to open a topic to keep bringing up ideas.
 
-The [first idea I wanted to suggest back when I started this](http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox) (and I&#39;m not sure where I&#39;ve posted it now, since it isn&#39;t there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I&#39;m pretty sure it&#39;s not just building CSS there. But still, it would be way much better than the current tracker, which isn&#39;t bad, but like any other similar tool, it&#39;s still way behind discourse.
+The [first idea I wanted to suggest back when I started this](/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox) (and I&#39;m not sure where I&#39;ve posted it now, since it isn&#39;t there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I&#39;m pretty sure it&#39;s not just building CSS there. But still, it would be way much better than the current tracker, which isn&#39;t bad, but like any other similar tool, it&#39;s still way behind discourse.
 
 Done! :)</description>
     <language>en</language>
     <lastBuildDate>Wed, 02 Dec 2015 11:00:36 +0000</lastBuildDate>
     <category>quest</category>
-    <atom:link href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/feature-suggestions-insisting-with-github/7758.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Feature suggestions - Insisting with GitHub</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <h1>About meetups, discourse again and... twitch!</h1>
 
@@ -40,20 +40,20 @@ Done! :)</description>
 
 <p>Then, it would only need something like twitch, youtube gaming or... <a href="https://www.livecoding.tv/cregox/edit/">livecoding</a>. Well, something open sourced, of course. Couldn't quickly google out anything there. Maybe it'd be better something like g hangouts, actually.</p>
 
-<p>Anyway, the idea here is: discourse again and thinking about how to easily integrate it with some video conferencing / broadcasting tool, to embrace any kind of online meetings! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Anyway, the idea here is: discourse again and thinking about how to easily integrate it with some video conferencing / broadcasting tool, to embrace any kind of online meetings! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/4">Read full topic</a></p>
+          <p><a href="/talk/t/feature-suggestions-insisting-with-github/7758/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/4</link>
+        <link>/talk/t/feature-suggestions-insisting-with-github/7758/4</link>
         <pubDate>Wed, 02 Dec 2015 11:00:36 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7758-4</guid>
-        <source url="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
+        <source url="/talk/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
       </item>
       <item>
         <title>Feature suggestions - Insisting with GitHub</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <h1>Crowdsource feature request builders</h1>
 
@@ -72,18 +72,18 @@ Done! :)</description>
 
 <p>Go to Jeff's blog. Meta discourse. Keep on reading and learning about it. Move on to Sam's and the other devs, who are not so prominent in blogging which means they are doing all the hard code lifting. Check the community contribution to it. If you're not using discourse, it probably means you don't really know about it. You'd be surprised.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/3">Read full topic</a></p>
+          <p><a href="/talk/t/feature-suggestions-insisting-with-github/7758/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/3</link>
+        <link>/talk/t/feature-suggestions-insisting-with-github/7758/3</link>
         <pubDate>Fri, 20 Nov 2015 06:57:59 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7758-3</guid>
-        <source url="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
+        <source url="/talk/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
       </item>
       <item>
         <title>Feature suggestions - Insisting with GitHub</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <h1>Adopt Prose.io</h1>
 
@@ -91,26 +91,26 @@ Done! :)</description>
 
 <p>It's this awesome interface for editing files, much simpler than current default. Just go ahead and <a href="http://prose.io">toy with it</a>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/2">Read full topic</a></p>
+          <p><a href="/talk/t/feature-suggestions-insisting-with-github/7758/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/2</link>
+        <link>/talk/t/feature-suggestions-insisting-with-github/7758/2</link>
         <pubDate>Thu, 19 Nov 2015 20:08:49 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7758-2</guid>
-        <source url="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
+        <source url="/talk/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
       </item>
       <item>
         <title>Feature suggestions - Insisting with GitHub</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Continuing from a recent blog post:</p>
 
 <aside class="quote" data-post="1" data-topic="7757">
   <div class="title">
     <div class="quote-controls"></div>
-    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
-    <a href="http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox">How you could end up working with the best group you could even dream of!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+    <img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox">How you could end up working with the best group you could even dream of!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
   </div>
   <blockquote>Since I've saw a video from <a href="http://discourse.reinventingorganizations.com/t/a-theoretical-model-for-hiring-and-paying-any-newbie-in-a-teal-company/1877?u=cregox">reinventing organization</a> I keep on wanting to find such a group to work with. Along with my goals and history, GitHub may prove to be the best current place I could aim for. Even more than Google, despite the current release of TensorFlow. Maybe. 
 
@@ -123,22 +123,22 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 
 <h1>Insisting?</h1>
 
-<p>Yeah, <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4">insisting</a>. GitHub is currently the closest financially successful company of my dreams, in which I'd love to be working with. The first one would be, of course, <a href="http://patreon.com/cregox">my own</a> (which still couldn't find its social position / financial freedom). Plus, I'd be really surprised if they're not interested in developing <a href="http://basiux.org">at least weak Ai</a>. And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>Yeah, <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4">insisting</a>. GitHub is currently the closest financially successful company of my dreams, in which I'd love to be working with. The first one would be, of course, <a href="http://patreon.com/cregox">my own</a> (which still couldn't find its social position / financial freedom). Plus, I'd be really surprised if they're not interested in developing <a href="http://basiux.org">at least weak Ai</a>. And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <p>Well...</p>
 
 <p>I had today this little feature suggestion and since I couldn't find anywhere there to publish, or maybe even if I did find I should probably organize them somewhere to build up a history of applying to work there, here I want to open a topic to keep bringing up ideas.</p>
 
-<p>The <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">first idea I wanted to suggest back when I started this</a> (and I'm not sure where I've posted it now, since it isn't there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I'm pretty sure it's not just building CSS there. But still, it would be way much better than the current tracker, which isn't bad, but like any other similar tool, it's still way behind discourse.</p>
+<p>The <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">first idea I wanted to suggest back when I started this</a> (and I'm not sure where I've posted it now, since it isn't there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I'm pretty sure it's not just building CSS there. But still, it would be way much better than the current tracker, which isn't bad, but like any other similar tool, it's still way behind discourse.</p>
 
-<p>Done! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Done! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/1">Read full topic</a></p>
+          <p><a href="/talk/t/feature-suggestions-insisting-with-github/7758/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758/1</link>
+        <link>/talk/t/feature-suggestions-insisting-with-github/7758/1</link>
         <pubDate>Thu, 19 Nov 2015 16:30:56 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7758-1</guid>
-        <source url="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
+        <source url="/talk/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
       </item>
   </channel>
 </rss>

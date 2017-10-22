@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>(meta discussion) How should we use discourse for customer support?</title>
-    <link>http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410</link>
+    <link>/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410</link>
     <description>I&#39;ve been using zendesk to provide customer support, but [I believe discourse could be a much better tool for that][1]. It&#39;s still missing a few features to be perfect, namely:
 
 1. **Sensitive data** - This is already mostly resolved. Make a subcategory called &quot;private&quot; and make every topic there unlisted. Needs just a plugin to list the topics users have participated for them to have their &quot;ticket list&quot; under the private category.
@@ -17,27 +17,27 @@
     <language>en</language>
     <lastBuildDate>Thu, 19 Feb 2015 19:21:33 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>(meta discussion) How should we use discourse for customer support?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/2">Read full topic</a></p>
+          <p><a href="/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/2</link>
+        <link>/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/2</link>
         <pubDate>Thu, 19 Feb 2015 19:21:39 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7410-2</guid>
-        <source url="http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss">(meta discussion) How should we use discourse for customer support?</source>
+        <source url="/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss">(meta discussion) How should we use discourse for customer support?</source>
       </item>
       <item>
         <title>(meta discussion) How should we use discourse for customer support?</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I've been using zendesk to provide customer support, but <a href="https://meta.discourse.org/t/using-discourse-as-a-community-ticket-system/20607/15?u=cawas">I believe discourse could be a much better tool for that</a>. It's still missing a few features to be perfect, namely:</p>
 
@@ -52,12 +52,12 @@
 <strong>Email profile</strong> - Someone email in, it creates a new topic. This works already. But then the plugin would also associates that topic to the original email (rather than system account) and make that person automatically watch the topic (as anyone who created a topic already do). Same thing should apply if the person is invited and reply the email instead of creating a new account. So, this is basically an account created without needing password or any kind of login, because all interaction is made only through email. Until the person decides to create an account, anyway.</li>
 </ol>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/1">Read full topic</a></p>
+          <p><a href="/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/1</link>
+        <link>/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410/1</link>
         <pubDate>Thu, 19 Feb 2015 19:21:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7410-1</guid>
-        <source url="http://talk.cregox.com/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss">(meta discussion) How should we use discourse for customer support?</source>
+        <source url="/talk/t/meta-discussion-how-should-we-use-discourse-for-customer-support/7410.rss">(meta discussion) How should we use discourse for customer support?</source>
       </item>
   </channel>
 </rss>

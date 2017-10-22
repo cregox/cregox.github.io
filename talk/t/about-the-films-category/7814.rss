@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the films category</title>
-    <link>http://talk.cregox.com/t/about-the-films-category/7814</link>
-    <description>Short posts (with descriptive long titles) [about **movies** (following IMRS)](http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815). Hit the `watching` button to quickly get notified of [almost everything](http://talk.cregox.com/t/about-the-buffer-category/7780) cregox is up to, rating flicks all over the world (and watch out for spoilers)! :fast_forward:</description>
+    <link>/talk/t/about-the-films-category/7814</link>
+    <description>Short posts (with descriptive long titles) [about **movies** (following IMRS)](/talk/t/rfc-cregoxs-international-movie-rating-scale/7815). Hit the `watching` button to quickly get notified of [almost everything](/talk/t/about-the-buffer-category/7780) cregox is up to, rating flicks all over the world (and watch out for spoilers)! :fast_forward:</description>
     <language>en</language>
     <lastBuildDate>Mon, 01 Feb 2016 01:42:58 +0000</lastBuildDate>
     <category>films</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-films-category/7814.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-films-category/7814.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the films category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Short posts (with descriptive long titles) <a href="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815">about <strong>movies</strong> (following IMRS)</a>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, rating flicks all over the world (and watch out for spoilers)! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/fast_forward.png?v=1" title=":fast_forward:" class="emoji" alt=":fast_forward:"></p>
+              <p>Short posts (with descriptive long titles) <a href="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815">about <strong>movies</strong> (following IMRS)</a>. Hit the <code>watching</code> button to quickly get notified of <a href="/talk/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, rating flicks all over the world (and watch out for spoilers)! <img src="/talk/images/emoji/emoji_one/fast_forward.png?v=1" title=":fast_forward:" class="emoji" alt=":fast_forward:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-films-category/7814/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-films-category/7814/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-films-category/7814/1</link>
+        <link>/talk/t/about-the-films-category/7814/1</link>
         <pubDate>Fri, 15 Jan 2016 06:11:35 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7814-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-films-category/7814.rss">About the films category</source>
+        <source url="/talk/t/about-the-films-category/7814.rss">About the films category</source>
       </item>
   </channel>
 </rss>

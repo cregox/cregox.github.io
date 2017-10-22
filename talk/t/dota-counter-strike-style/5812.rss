@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>DOTA counter strike style</title>
-    <link>http://talk.cregox.com/t/dota-counter-strike-style/5812</link>
+    <link>/talk/t/dota-counter-strike-style/5812</link>
     <description>If you&#39;re looking for the next thing to do, title is pretty descriptive enough. But I&#39;ll elaborate.
 
 There are a few references to this, and [I&#39;ve posted this in the wrong place, which was properly ignored][1]:
@@ -28,12 +28,12 @@ Biggest advantage over FPS: ping. You can play DOTAs with higher ping than 100. 
     <language>en</language>
     <lastBuildDate>Tue, 16 Dec 2014 14:51:28 +0000</lastBuildDate>
     <category>spoilers</category>
-    <atom:link href="http://talk.cregox.com/t/dota-counter-strike-style/5812.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/dota-counter-strike-style/5812.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>DOTA counter strike style</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>If you're looking for the next thing to do, title is pretty descriptive enough. But I'll elaborate.</p>
 
@@ -57,12 +57,12 @@ Biggest advantage over FPS: ping. You can play DOTAs with higher ping than 100. 
 
 <p>Biggest advantage over FPS: ping. You can play DOTAs with higher ping than 100. Makes it possible to play it world wide. I'd even add an obligatory 200 ping or some number there (wow does make it around 200 anywhere in the world) to balance things out.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/dota-counter-strike-style/5812/1">Read full topic</a></p>
+          <p><a href="/talk/t/dota-counter-strike-style/5812/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/dota-counter-strike-style/5812/1</link>
+        <link>/talk/t/dota-counter-strike-style/5812/1</link>
         <pubDate>Tue, 16 Dec 2014 14:51:28 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5812-1</guid>
-        <source url="http://talk.cregox.com/t/dota-counter-strike-style/5812.rss">DOTA counter strike style</source>
+        <source url="/talk/t/dota-counter-strike-style/5812.rss">DOTA counter strike style</source>
       </item>
   </channel>
 </rss>

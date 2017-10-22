@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Web design</title>
-    <link>http://talk.cregox.com/t/web-design/7894</link>
+    <link>/talk/t/web-design/7894</link>
     <description>hi guys
 I want to learn server-side programming and web design.So which is better server-side scripting language,  php or asp.net?
 Who can say that this site has been programming php or asp.net ??
@@ -12,12 +12,12 @@ Thanks</description>
     <language>en</language>
     <lastBuildDate>Fri, 30 Sep 2016 23:04:45 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/web-design/7894.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/web-design/7894.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Web design</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>hey there mr cake,</p>
 
@@ -33,27 +33,27 @@ Thanks</description>
 
 <p>much bigger community there.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/web-design/7894/2">Read full topic</a></p>
+          <p><a href="/talk/t/web-design/7894/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/web-design/7894/2</link>
+        <link>/talk/t/web-design/7894/2</link>
         <pubDate>Fri, 30 Sep 2016 23:04:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7894-2</guid>
-        <source url="http://talk.cregox.com/t/web-design/7894.rss">Web design</source>
+        <source url="/talk/t/web-design/7894.rss">Web design</source>
       </item>
       <item>
         <title>Web design</title>
         <dc:creator><![CDATA[@portal azhin ho]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/portal">@portal</a> wrote:</p>
+          <p><a href="/talk/u/portal">@portal</a> wrote:</p>
           <blockquote>
               <p>hi guys<br>I want to learn server-side programming and web design.So which is better server-side scripting language,  php or asp.net?<br>Who can say that this site has been programming php or asp.net ??<br><a href="http://www.portal.ir/" rel="nofollow">طراحی سایت</a><br><a href="http://www.idea-soft.ir/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/" rel="nofollow">طراحی سایت</a><br>Thanks</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/web-design/7894/1">Read full topic</a></p>
+          <p><a href="/talk/t/web-design/7894/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/web-design/7894/1</link>
+        <link>/talk/t/web-design/7894/1</link>
         <pubDate>Fri, 30 Sep 2016 20:48:27 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7894-1</guid>
-        <source url="http://talk.cregox.com/t/web-design/7894.rss">Web design</source>
+        <source url="/talk/t/web-design/7894.rss">Web design</source>
       </item>
   </channel>
 </rss>

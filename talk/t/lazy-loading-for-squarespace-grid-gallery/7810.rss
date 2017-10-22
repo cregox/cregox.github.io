@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Lazy loading for squarespace grid gallery</title>
-    <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810</link>
+    <link>/talk/t/lazy-loading-for-squarespace-grid-gallery/7810</link>
     <description>[quote=&quot;Roberto Pansolli&quot;]
 Subject: lazy loading for squarespace grid gallery
 
@@ -33,50 +33,50 @@ Roberto.
     <language>en</language>
     <lastBuildDate>Thu, 14 Jan 2016 18:25:07 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Lazy loading for squarespace grid gallery</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>If you're going to build one from scratch on wordpress, you might want to take a look at jekyll and github pages. I find it way superior even without all the plugins. It's also considerably harder to get started, though.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/4">Read full topic</a></p>
+          <p><a href="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/4</link>
+        <link>/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/4</link>
         <pubDate>Thu, 14 Jan 2016 18:25:07 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7810-4</guid>
-        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+        <source url="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
       </item>
       <item>
         <title>Lazy loading for squarespace grid gallery</title>
         <dc:creator><![CDATA[@roberto_pansolli roberto_pansolli]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/roberto_pansolli">@roberto_pansolli</a> wrote:</p>
+          <p><a href="/talk/u/roberto_pansolli">@roberto_pansolli</a> wrote:</p>
           <blockquote>
               <p>Thanks. I might just build it from scratch on WP, as it is much easier using plugins. Thanks for the reply anyway.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/3">Read full topic</a></p>
+          <p><a href="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/3</link>
+        <link>/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/3</link>
         <pubDate>Thu, 14 Jan 2016 18:21:59 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7810-3</guid>
-        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+        <source url="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
       </item>
       <item>
         <title>Lazy loading for squarespace grid gallery</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Sorry, I don't think this can work. At all.</p>
 
-<p>The <a href="http://talk.cregox.com/t/pagination-for-shop-page-and-pages-width/7581/82?u=cregox">last gig I've done on lazy loading and infinite scrolling was <strong>the worst project I've taken</strong></a> - under the <a>Your Home biz</a> - and a big factor why I decided to close it. It was, above everything, my mistake on how I was selling my services.</p>
+<p>The <a href="/talk/t/pagination-for-shop-page-and-pages-width/7581/82?u=cregox">last gig I've done on lazy loading and infinite scrolling was <strong>the worst project I've taken</strong></a> - under the <a>Your Home biz</a> - and a big factor why I decided to close it. It was, above everything, my mistake on how I was selling my services.</p>
 
 <p><strong>I doubt way too much</strong> anyone could want to develop a great infinite scrolling with me. It will be expensive and probably not worth it. There must be lots of folks out there capable of doing more for cheaper. I just didn't have the luck to find their product.</p>
 
-<p>As for the script I've done there and that's <a href="http://www.outstyled.com/">not even being used any longer ("We are taking some time to redesign our site. See you next year.")</a>, if you really want to go with that, by all means, just <a href="http://talk.cregox.com/t/pagination-for-shop-page-and-pages-width/7581/79?u=cregox">take it, use it and abuse it</a>.</p>
+<p>As for the script I've done there and that's <a href="http://www.outstyled.com/">not even being used any longer ("We are taking some time to redesign our site. See you next year.")</a>, if you really want to go with that, by all means, just <a href="/talk/t/pagination-for-shop-page-and-pages-width/7581/79?u=cregox">take it, use it and abuse it</a>.</p>
 
 <hr>
 
@@ -91,20 +91,20 @@ Roberto.
 
 <p>None of them have any guarantees. The only thing I can guarantee is I'll be working my ass off 24/7 to make it work, and probably stop everything else I'm doing, during the time I'm enjoying something and, all other times, I'll make at least the 40 hours per week fully dedicated.</p>
 
-<p>I'm not a company, I can't be one right now. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>I'm not a company, I can't be one right now. <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/2">Read full topic</a></p>
+          <p><a href="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/2</link>
+        <link>/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/2</link>
         <pubDate>Thu, 14 Jan 2016 17:42:35 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7810-2</guid>
-        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+        <source url="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
       </item>
       <item>
         <title>Lazy loading for squarespace grid gallery</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>Roberto Pansolli:</div>
@@ -123,12 +123,12 @@ Roberto.
 
 <p><small>(post can't be empty discourse bug)</small></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/1">Read full topic</a></p>
+          <p><a href="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810/1</link>
+        <link>/talk/t/lazy-loading-for-squarespace-grid-gallery/7810/1</link>
         <pubDate>Thu, 14 Jan 2016 15:17:42 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7810-1</guid>
-        <source url="http://talk.cregox.com/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
+        <source url="/talk/t/lazy-loading-for-squarespace-grid-gallery/7810.rss">Lazy loading for squarespace grid gallery</source>
       </item>
   </channel>
 </rss>

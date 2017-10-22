@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Making a forum</title>
-    <link>http://talk.cregox.com/t/making-a-forum/70</link>
+    <link>/talk/t/making-a-forum/70</link>
     <description>&lt;span&gt;Adding to this blog, I started a &lt;a href=&quot;http://www.discourse.org/faq/&quot;&gt;discourse&lt;/a&gt; forum. At first, it was meant to be an attempt to improve on &lt;a href=&quot;http://sguforums.com/&quot;&gt;another forum&lt;/a&gt;. Right now, I&#39;m just thinking in how I&#39;ll do to keep it and, who knows, eventually grow into a community. Or not. Because next month I&#39;ll begin to have to pay U$10 per month to keep it. Or change it into something else and waste many hours in doing so.&lt;/span&gt;&lt;br&gt;
 &lt;span&gt;&lt;br&gt;&lt;/span&gt;
 &lt;span&gt;I love that tool (discourse) and the community behind it so much I&#39;m willing to keep it, and wide open, even if I&#39;m alone there, like in this blog. But, unlike this, I&#39;d have to spend something I don&#39;t have paying for a huge infrastructure I don&#39;t need (if it is to stay as a ghost town). Yeah, I am that poor today, counting every cent.&lt;/span&gt;&lt;br&gt;
@@ -14,12 +14,12 @@
     <language>en</language>
     <lastBuildDate>Sun, 10 Aug 2014 14:03:16 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/making-a-forum/70.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/making-a-forum/70.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Making a forum</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <span>Adding to this blog, I started a <a href="http://www.discourse.org/faq/">discourse</a> forum. At first, it was meant to be an attempt to improve on <a href="http://sguforums.com/">another forum</a>. Right now, I'm just thinking in how I'll do to keep it and, who knows, eventually grow into a community. Or not. Because next month I'll begin to have to pay U$10 per month to keep it. Or change it into something else and waste many hours in doing so.</span><br>
 <span><br></span>
@@ -30,12 +30,12 @@
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/06/making-forum.html">http://www.cregox.com/blog/2014/06/making-forum.html</a></small>
 
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/making-a-forum/70/1">Read full topic</a></p>
+          <p><a href="/talk/t/making-a-forum/70/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/making-a-forum/70/1</link>
+        <link>/talk/t/making-a-forum/70/1</link>
         <pubDate>Sun, 10 Aug 2014 14:03:16 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-70-1</guid>
-        <source url="http://talk.cregox.com/t/making-a-forum/70.rss">Making a forum</source>
+        <source url="/talk/t/making-a-forum/70.rss">Making a forum</source>
       </item>
   </channel>
 </rss>

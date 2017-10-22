@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Continuando o hackaton luckyshit</title>
-    <link>http://talk.cregox.com/t/continuando-o-hackaton-luckyshit/929</link>
+    <link>/talk/t/continuando-o-hackaton-luckyshit/929</link>
     <description>Tópico direcionado para equipe, ou quem mais quiser contribuir: www.cregox.com/luckyshit
 
 A proposta do jogo (que do jeito que está hoje foi criado em menos de 22 horas num hackathon do IME) é basicamente usar o Twitter (e/ou FB), colocar o rosto dos amigos nos bonecos e cagar em cima!
@@ -11,12 +11,12 @@ Precisamos melhorar a jogabilidade, aumentar o desafio, reduzir o tempo de jogo,
     <language>en</language>
     <lastBuildDate>Mon, 15 Sep 2014 11:54:07 +0000</lastBuildDate>
     <category>portuguese</category>
-    <atom:link href="http://talk.cregox.com/t/continuando-o-hackaton-luckyshit/929.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/continuando-o-hackaton-luckyshit/929.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Continuando o hackaton luckyshit</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Tópico direcionado para equipe, ou quem mais quiser contribuir: <a href="http://www.cregox.com/luckyshit">www.cregox.com/luckyshit</a></p>
 
@@ -24,12 +24,12 @@ Precisamos melhorar a jogabilidade, aumentar o desafio, reduzir o tempo de jogo,
 
 <p>Precisamos melhorar a jogabilidade, aumentar o desafio, reduzir o tempo de jogo, etc. Coisas bem evidentes.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/continuando-o-hackaton-luckyshit/929/1">Read full topic</a></p>
+          <p><a href="/talk/t/continuando-o-hackaton-luckyshit/929/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/continuando-o-hackaton-luckyshit/929/1</link>
+        <link>/talk/t/continuando-o-hackaton-luckyshit/929/1</link>
         <pubDate>Mon, 15 Sep 2014 11:54:07 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-929-1</guid>
-        <source url="http://talk.cregox.com/t/continuando-o-hackaton-luckyshit/929.rss">Continuando o hackaton luckyshit</source>
+        <source url="/talk/t/continuando-o-hackaton-luckyshit/929.rss">Continuando o hackaton luckyshit</source>
       </item>
   </channel>
 </rss>

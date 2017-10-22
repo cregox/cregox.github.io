@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the basiux category</title>
-    <link>http://talk.cregox.com/t/about-the-basiux-category/7683</link>
+    <link>/talk/t/about-the-basiux-category/7683</link>
     <description>[Benevolent Artificial Super Intelligence User eXperience][1].
 
 For now, I&#39;ll be using this category for **sending in news** (instead of [mailchimp][2]).
@@ -30,18 +30,18 @@ A few more relevant links:
     <language>en</language>
     <lastBuildDate>Thu, 10 Dec 2015 20:34:38 +0000</lastBuildDate>
     <category>basiux</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-basiux-category/7683.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-basiux-category/7683.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the basiux category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="http://basiux.org">Benevolent Artificial Super Intelligence User eXperience</a>.</p>
 
 <p>For now, I'll be using this category for <strong>sending in news</strong> (instead of <a href="http://us11.campaign-archive1.com/home/?u=b1272260061f994a68ccffbb6&amp;id=155d5f1d8d">mailchimp</a>).</p>
 
-<p>Just sign up and <strong>watch</strong> the <a href="/c/basiux">category</a> (<a href="https://github.com/discourse/discourse/wiki/Basic-Usage-Guide#category-notifications">how to</a>)! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>Just sign up and <strong>watch</strong> the <a href="/c/basiux">category</a> (<a href="https://github.com/discourse/discourse/wiki/Basic-Usage-Guide#category-notifications">how to</a>)! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
 
 <p>Also, maybe you want to make sure you unsubscribe from the forum weekly digest newsletter. It's almost unrelated to basiux. Kind of.</p>
 
@@ -55,12 +55,12 @@ A few more relevant links:
 <li>The <a href="http://www.meetup.com/basiux-lisbon/">meet up group</a>.</li>
 </ul>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-basiux-category/7683/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-basiux-category/7683/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-basiux-category/7683/1</link>
+        <link>/talk/t/about-the-basiux-category/7683/1</link>
         <pubDate>Wed, 12 Aug 2015 14:14:46 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7683-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-basiux-category/7683.rss">About the basiux category</source>
+        <source url="/talk/t/about-the-basiux-category/7683.rss">About the basiux category</source>
       </item>
   </channel>
 </rss>

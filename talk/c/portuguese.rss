@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>portuguese - cregox talk</title>
-    <link>http://talk.cregox.com/c/portuguese</link>
+    <link>/talk/c/portuguese</link>
     <description>Topics in the &#39;portuguese&#39; category Any topic written in portuguese should be in here. This is like a &quot;sub-forum&quot;.</description>
     <language>en</language>
       <lastBuildDate>Mon, 21 Mar 2016 11:45:15 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/portuguese.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/portuguese.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Por que é tão difícil pra uma tecnologia ser algo simples?</title>
           <dc:creator><![CDATA[@Sandra_Cavalheiro Sandra Cavalheiro]]></dc:creator>
           <category>portuguese</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/sandra_cavalheiro">@Sandra_Cavalheiro</a> wrote:</p>
+            <p><a href="/talk/u/sandra_cavalheiro">@Sandra_Cavalheiro</a> wrote:</p>
             <blockquote>
               <p>esqueci que aqui posso escrever em portugues, e respondi apenas com um sim , porque eh tao dificil para a tecnologia ser simples?</p>
 
@@ -20,22 +20,22 @@
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857">Read full topic</a></p>
+            <p><a href="/talk/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857</link>
+          <link>/talk/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857</link>
           <pubDate>Mon, 21 Mar 2016 11:45:15 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7857</guid>
-          <source url="http://talk.cregox.com/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857.rss">Por que é tão difícil pra uma tecnologia ser algo simples?</source>
+          <source url="/talk/t/por-que-e-tao-dificil-pra-uma-tecnologia-ser-algo-simples/7857.rss">Por que é tão difícil pra uma tecnologia ser algo simples?</source>
         </item>
         <item>
           <title>Muita coisa no cabecao</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>portuguese</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>vou precisar atualizar o forum pra incluir mais portugues...</p>
 
@@ -43,26 +43,26 @@
 
 <p>e ja estou tentando nao utilizar email para quem esta registrado no forum.</p>
 
-<p>aguardem mais novidades! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>aguardem mais novidades! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/muita-coisa-no-cabecao/7824">Read full topic</a></p>
+            <p><a href="/talk/t/muita-coisa-no-cabecao/7824">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/muita-coisa-no-cabecao/7824</link>
+          <link>/talk/t/muita-coisa-no-cabecao/7824</link>
           <pubDate>Mon, 18 Jan 2016 07:18:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7824</guid>
-          <source url="http://talk.cregox.com/t/muita-coisa-no-cabecao/7824.rss">Muita coisa no cabecao</source>
+          <source url="/talk/t/muita-coisa-no-cabecao/7824.rss">Muita coisa no cabecao</source>
         </item>
         <item>
           <title>Feirao sem garagem</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>portuguese</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>estamos (eu e minha esposa) de mudanca. em agosto vamos pra lisboa!</p>
 
@@ -76,26 +76,26 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/feirao-sem-garagem/7659">Read full topic</a></p>
+            <p><a href="/talk/t/feirao-sem-garagem/7659">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/feirao-sem-garagem/7659</link>
+          <link>/talk/t/feirao-sem-garagem/7659</link>
           <pubDate>Fri, 03 Jul 2015 18:57:50 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7659</guid>
-          <source url="http://talk.cregox.com/t/feirao-sem-garagem/7659.rss">Feirao sem garagem</source>
+          <source url="/talk/t/feirao-sem-garagem/7659.rss">Feirao sem garagem</source>
         </item>
         <item>
           <title>Festa de Aniversário</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Meu amigo de Piracicaba me convidou pra um Arraial que ele está organizando.</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/317852510ef0a177aa1e203e7955bf6e8d371ce8" href="//talk-cdn.cregox.com/uploads/default/138/6b7396fbfc77a95b.jpg" class="lightbox" title="11136784_767504150028953_4366518252169438754_n.jpg"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/f63/96b/9d85d16a97_690x467.jpg" width="690" height="467"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/317852510ef0a177aa1e203e7955bf6e8d371ce8" href="/talk/uploads/default/138/6b7396fbfc77a95b.jpg" class="lightbox" title="11136784_767504150028953_4366518252169438754_n.jpg"><img src="/talk/uploads/default/_optimized/f63/96b/9d85d16a97_690x467.jpg" width="690" height="467"><div class="meta">
 <span class="filename">11136784_767504150028953_4366518252169438754_n.jpg</span><span class="informations">780x528 72.7 KB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -103,30 +103,30 @@
 
 <p>Todos detalhes estão no cara-livro: <a href="https://www.facebook.com/events/1612912195661701">https://www.facebook.com/events/1612912195661701</a></p>
 
-<p>Quem sabe não seria este o começo das futuras comemorações bisextas que tenho vontade de fazer de algum jeito... Esta nem precisei organizar! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>Quem sabe não seria este o começo das futuras comemorações bisextas que tenho vontade de fazer de algum jeito... Esta nem precisei organizar! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
 
-<p>Pra mim só importa que seja uma desculpa para manter contato com os amigos e colegas que estiverem dispostos a aparecer. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
+<p>Pra mim só importa que seja uma desculpa para manter contato com os amigos e colegas que estiverem dispostos a aparecer. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
 
 <p>Valeu Luisinho!</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/festa-de-aniversario/7638">Read full topic</a></p>
+            <p><a href="/talk/t/festa-de-aniversario/7638">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/festa-de-aniversario/7638</link>
+          <link>/talk/t/festa-de-aniversario/7638</link>
           <pubDate>Tue, 26 May 2015 12:55:56 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7638</guid>
-          <source url="http://talk.cregox.com/t/festa-de-aniversario/7638.rss">Festa de Aniversário</source>
+          <source url="/talk/t/festa-de-aniversario/7638.rss">Festa de Aniversário</source>
         </item>
         <item>
           <title>Lost or stolen iPhones (perdidos ou roubados) — cregox</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -154,22 +154,22 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590">Read full topic</a></p>
+            <p><a href="/talk/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590</link>
+          <link>/talk/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590</link>
           <pubDate>Tue, 05 May 2015 15:51:42 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7590</guid>
-          <source url="http://talk.cregox.com/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590.rss">Lost or stolen iPhones (perdidos ou roubados) — cregox</source>
+          <source url="/talk/t/lost-or-stolen-iphones-perdidos-ou-roubados-cregox/7590.rss">Lost or stolen iPhones (perdidos ou roubados) — cregox</source>
         </item>
         <item>
           <title>Cidadania Portuguesa</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>portuguese</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <p><a href="/talk/u/system">@system</a> wrote:</p>
             <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>no-reply@squarespace.com:</div>
@@ -185,22 +185,22 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/cidadania-portuguesa/7529">Read full topic</a></p>
+            <p><a href="/talk/t/cidadania-portuguesa/7529">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/cidadania-portuguesa/7529</link>
+          <link>/talk/t/cidadania-portuguesa/7529</link>
           <pubDate>Wed, 08 Apr 2015 16:10:43 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7529</guid>
-          <source url="http://talk.cregox.com/t/cidadania-portuguesa/7529.rss">Cidadania Portuguesa</source>
+          <source url="/talk/t/cidadania-portuguesa/7529.rss">Cidadania Portuguesa</source>
         </item>
         <item>
           <title>(2009 Jan 24) Quem sou</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>Sou afixionado por informação, comunicação e novidades. Perco a amizade mas não perco a piada, pois sei que amizade verdadeira não se perde. Acredito que o amor é tudo e nada, a palavra mais indefinida e ligada a definições erradas no pequeno dicionário de cada um.<p>Sempre me dediquei aos estudos e trabalho acima de qualquer outra coisa, por menos que pareça. Fiquei por diversas vezes doente com isso. Percebo isso há pouco tempo e estou tentando mudar.</p>
@@ -217,22 +217,22 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2009-jan-24-quem-sou/7527">Read full topic</a></p>
+            <p><a href="/talk/t/2009-jan-24-quem-sou/7527">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2009-jan-24-quem-sou/7527</link>
+          <link>/talk/t/2009-jan-24-quem-sou/7527</link>
           <pubDate>Wed, 08 Apr 2015 02:09:24 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7527</guid>
-          <source url="http://talk.cregox.com/t/2009-jan-24-quem-sou/7527.rss">(2009 Jan 24) Quem sou</source>
+          <source url="/talk/t/2009-jan-24-quem-sou/7527.rss">(2009 Jan 24) Quem sou</source>
         </item>
         <item>
           <title>(2006 mar) Por água à baixo, mas água pra cima!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>já que o meu diário já foi por água a baixo e não durou nem 1 semana, pelo menos vou tentar manter alguma constância e eventuais diários espontâneos ainda.<p>e já que o assunto é água, e provavelmente o assunto mundial vai mudar de óleo petrificado (petroleo) pra água em algum momento neste século, acho compensa comentar um pouco o que penso a respeito desse líquido da vida da forma que conhecemos e que é tão abundantemente raro. sem muita exatidão nos números, mas com alguma precisão do que lembro, água no planeta terra tem uns dados de conhecimento popular, que estão geralmente corretos.</p>
@@ -245,22 +245,22 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526">Read full topic</a></p>
+            <p><a href="/talk/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526</link>
+          <link>/talk/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526</link>
           <pubDate>Wed, 08 Apr 2015 01:58:57 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7526</guid>
-          <source url="http://talk.cregox.com/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526.rss">(2006 mar) Por água à baixo, mas água pra cima!</source>
+          <source url="/talk/t/2006-mar-por-agua-a-baixo-mas-agua-pra-cima/7526.rss">(2006 mar) Por água à baixo, mas água pra cima!</source>
         </item>
         <item>
           <title>(2009 jan) Fala serio, corrente realiza desejo?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>claro que nao!<p>por que tanta gente tem a ilusao de que esse tipo de coisa pode realizar desejos? sera que alguem realmente acredita que um computador pode fazer isso por elas?</p>
@@ -277,22 +277,22 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2009-jan-fala-serio-corrente-realiza-desejo/7522">Read full topic</a></p>
+            <p><a href="/talk/t/2009-jan-fala-serio-corrente-realiza-desejo/7522">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2009-jan-fala-serio-corrente-realiza-desejo/7522</link>
+          <link>/talk/t/2009-jan-fala-serio-corrente-realiza-desejo/7522</link>
           <pubDate>Mon, 06 Apr 2015 05:08:42 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7522</guid>
-          <source url="http://talk.cregox.com/t/2009-jan-fala-serio-corrente-realiza-desejo/7522.rss">(2009 jan) Fala serio, corrente realiza desejo?</source>
+          <source url="/talk/t/2009-jan-fala-serio-corrente-realiza-desejo/7522.rss">(2009 jan) Fala serio, corrente realiza desejo?</source>
         </item>
         <item>
           <title>(2006 mar) Esperanca ultima</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -322,25 +322,25 @@ ICID: 89550311000306550072</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2006-mar-esperanca-ultima/7521">Read full topic</a></p>
+            <p><a href="/talk/t/2006-mar-esperanca-ultima/7521">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2006-mar-esperanca-ultima/7521</link>
+          <link>/talk/t/2006-mar-esperanca-ultima/7521</link>
           <pubDate>Mon, 06 Apr 2015 05:08:15 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7521</guid>
-          <source url="http://talk.cregox.com/t/2006-mar-esperanca-ultima/7521.rss">(2006 mar) Esperanca ultima</source>
+          <source url="/talk/t/2006-mar-esperanca-ultima/7521.rss">(2006 mar) Esperanca ultima</source>
         </item>
         <item>
           <title>(2014 Fev 24) Procuro endereço para receber encomendas</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
-<div><div>Você mora em um prédio com porteiro? Tem um familiar próximo que fica sempre em casa? Trabalha numa empresa tranqüila? Então possivelmente você nunca teve este problema.<p><a href="&lt;img%20src='/uploads/default/86/b5a706f1ff69a96a.jpg'&gt;"><img src="//talk-cdn.cregox.com/uploads/default/86/b5a706f1ff69a96a.jpg" width="400" height="278"></a>Quer comprar algum produto online? <b>Vai entregar aonde</b>?</p>
+<div><div>Você mora em um prédio com porteiro? Tem um familiar próximo que fica sempre em casa? Trabalha numa empresa tranqüila? Então possivelmente você nunca teve este problema.<p><a href="&lt;img%20src='/uploads/default/86/b5a706f1ff69a96a.jpg'&gt;"><img src="/talk/uploads/default/86/b5a706f1ff69a96a.jpg" width="400" height="278"></a>Quer comprar algum produto online? <b>Vai entregar aonde</b>?</p>
 <p>Já adianto: o serviço de caixa postal do correios é <b>uma merda</b> e, além disso, não serve neste caso. Tem uma claúsula (10.6) escondida no contrato que diz "Não serão aceitos nas Agências de Coreios, para depósito em Caixa Postal, objetos que não forem postados na Empresa Brasileira de Correios e Telégrafos - ECT". Em outras palavras: só aceitam SEDEX! E, talvez, alguns envios por correios internacionais.</p>
 <p>Vamos pedir pros vizinhos / amigos próximos então! Aposto que isso funciona pra muita gente...</p>
 <p>"Ah, pede pra entregarem num horário que você esteja", ok, não quer problemas / preocupações. Respeito.  
@@ -361,22 +361,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502">Read full topic</a></p>
+            <p><a href="/talk/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502</link>
+          <link>/talk/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502</link>
           <pubDate>Wed, 25 Mar 2015 05:02:43 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7502</guid>
-          <source url="http://talk.cregox.com/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502.rss">(2014 Fev 24) Procuro endereço para receber encomendas</source>
+          <source url="/talk/t/2014-fev-24-procuro-endereco-para-receber-encomendas/7502.rss">(2014 Fev 24) Procuro endereço para receber encomendas</source>
         </item>
         <item>
           <title>(2006 mar) Domingo prolongado</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>desilusoes geram ilusoes para quem ainda tem esperanca. as utopias e ideias que nos movimentam, todos temos uma, de outra forma estariamos mortos. almejar conseguir por algo, uma casa, uma familia, um amigo, um amor, dinheiro, fama, fortuna... em diferentes niveis, ha sempre uma busca. e a realidade frequentemente mostra o quao dificil eh alcancar.<p>nada me aconteceu diferente desde domingo: fico em casa, estudando, durmindo, vivendo aos poucos, devagar e sempre com uma tentativa de nao exagerar nas precaucoes. as vezes espero e torco para que algo que plantei, cresca. e nao cresce. volto pra ver se precisa de algum reforco, mas parece que nem murchou, nem saiu do lugar. apenas permanece la a marca de que plantei, e nem sequer comecou a brotar.</p>
@@ -391,22 +391,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/2006-mar-domingo-prolongado/7469">Read full topic</a></p>
+            <p><a href="/talk/t/2006-mar-domingo-prolongado/7469">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/2006-mar-domingo-prolongado/7469</link>
+          <link>/talk/t/2006-mar-domingo-prolongado/7469</link>
           <pubDate>Sun, 08 Mar 2015 13:59:09 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7469</guid>
-          <source url="http://talk.cregox.com/t/2006-mar-domingo-prolongado/7469.rss">(2006 mar) Domingo prolongado</source>
+          <source url="/talk/t/2006-mar-domingo-prolongado/7469.rss">(2006 mar) Domingo prolongado</source>
         </item>
         <item>
           <title>Diario de dieta (2007)</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>vou colocar o de terca aqui pra nao ficar antes do primeiro post a respeito... por causa das introducoes, no bom sentido. vai ficar um pouco baguncado como um diario, mas fica mais sensato como um blog. espero.<p>as bananas sao sempre nanicas, leites integrais, e agua sempre, o dia todo, cerca de 2L. o peixe eh o primeiro pedaco que como em anos, e um bem pequenininho.</p>
@@ -419,22 +419,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/diario-de-dieta-2007/7449">Read full topic</a></p>
+            <p><a href="/talk/t/diario-de-dieta-2007/7449">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/diario-de-dieta-2007/7449</link>
+          <link>/talk/t/diario-de-dieta-2007/7449</link>
           <pubDate>Mon, 02 Mar 2015 17:07:47 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7449</guid>
-          <source url="http://talk.cregox.com/t/diario-de-dieta-2007/7449.rss">Diario de dieta (2007)</source>
+          <source url="/talk/t/diario-de-dieta-2007/7449.rss">Diario de dieta (2007)</source>
         </item>
         <item>
           <title>Kawsay School</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -461,22 +461,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/kawsay-school/7446">Read full topic</a></p>
+            <p><a href="/talk/t/kawsay-school/7446">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/kawsay-school/7446</link>
+          <link>/talk/t/kawsay-school/7446</link>
           <pubDate>Mon, 02 Mar 2015 14:14:28 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7446</guid>
-          <source url="http://talk.cregox.com/t/kawsay-school/7446.rss">Kawsay School</source>
+          <source url="/talk/t/kawsay-school/7446.rss">Kawsay School</source>
         </item>
         <item>
           <title>Diario de dieta (março de 2007)</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -503,22 +503,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424">Read full topic</a></p>
+            <p><a href="/talk/t/diario-de-dieta-marco-de-2007/7424">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424</link>
+          <link>/talk/t/diario-de-dieta-marco-de-2007/7424</link>
           <pubDate>Tue, 24 Feb 2015 02:36:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7424</guid>
-          <source url="http://talk.cregox.com/t/diario-de-dieta-marco-de-2007/7424.rss">Diario de dieta (março de 2007)</source>
+          <source url="/talk/t/diario-de-dieta-marco-de-2007/7424.rss">Diario de dieta (março de 2007)</source>
         </item>
         <item>
           <title>Eli-ipsa (totalmente desatualizado)</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -554,22 +554,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422">Read full topic</a></p>
+            <p><a href="/talk/t/eli-ipsa-totalmente-desatualizado/7422">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422</link>
+          <link>/talk/t/eli-ipsa-totalmente-desatualizado/7422</link>
           <pubDate>Fri, 20 Feb 2015 01:34:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7422</guid>
-          <source url="http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422.rss">Eli-ipsa (totalmente desatualizado)</source>
+          <source url="/talk/t/eli-ipsa-totalmente-desatualizado/7422.rss">Eli-ipsa (totalmente desatualizado)</source>
         </item>
         <item>
           <title>O pesadelo de ter celular em sao paulo</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>o link do titulo eh sobre a reclamacao que deu origem a este post. acho que desta vez nem vou colocar fotinhos...<p>sinceramente, eu preferia que nenhuma operadora existisse! talvez a melhor coisa para parar de me frustrar com os descabimentos desta cidade eu devesse afinal me mudar pra outra cidade ou pais, mas infelizmente isso nao eh tao facil quanto eu gostaria. entao ca estou, relatando mais um problema que gosto de crer que nao devia existir.</p>
@@ -591,22 +591,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421">Read full topic</a></p>
+            <p><a href="/talk/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421</link>
+          <link>/talk/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421</link>
           <pubDate>Fri, 20 Feb 2015 01:34:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7421</guid>
-          <source url="http://talk.cregox.com/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421.rss">O pesadelo de ter celular em sao paulo</source>
+          <source url="/talk/t/o-pesadelo-de-ter-celular-em-sao-paulo/7421.rss">O pesadelo de ter celular em sao paulo</source>
         </item>
         <item>
           <title>Minha carreira (ainda bastante atual)</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>
@@ -615,7 +615,7 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
 <p>talvez por isso cansei de escrever como sei escrever, "direitinho" e bonitinho com maiusculas e acentos...</p>
 <p>mas computacao e programacao sao coisas distintas. eu preciso variar independente de tudo, fazer outras coisas. mesmo assim, nunca reneguei computadores. continuo adorando e vou continuar na area mesmo sem trabalhar com isso.</p>
 <p>a unica chance que vejo hoje de conseguir programar seria faze-lo de outra forma completamente diferente do que vinha fazendo, senao simplesmente nao consigo mais. meu corpo luta contra isso, e ja tive todos sintomas de que isso vinha me fazendo muito, mas <a href="http://www.cregox.com/cauecmrego/2006/06/recurrent-corneal-epithelium-erosion.html">muito mal mesmo</a>.</p>
-<p><a href="http://picasaweb.google.com/caue.rego/Nordeste2009"><img src="//talk-cdn.cregox.com/uploads/default/48/bef30bed43c86194.jpg" width="144" height="144"></a>setembro passado foi a primeira vez na vida que <a href="http://picasaweb.google.com/caue.rego/Nordeste2009">viajei de ferias</a>. passei este ano inteiro sem mexer com programacao. comecei a namorar pela primeira vez por mais de 1 mes, viajamos outras vezes juntos em fins de semana. nada disso "ajudou" meu cerebro permitir sequer se concentrar para programar. tentei por duas vezes focar so nisso, pude esquecer de todo resto. uma foi para coisas necessarias na empresa e outra para um projeto de jogos completamente desnecessario e que eu antigamente adoraria estar fazendo. foi tudo completamente em vao. nao saiu 1 linha de codigo.</p>
+<p><a href="http://picasaweb.google.com/caue.rego/Nordeste2009"><img src="/talk/uploads/default/48/bef30bed43c86194.jpg" width="144" height="144"></a>setembro passado foi a primeira vez na vida que <a href="http://picasaweb.google.com/caue.rego/Nordeste2009">viajei de ferias</a>. passei este ano inteiro sem mexer com programacao. comecei a namorar pela primeira vez por mais de 1 mes, viajamos outras vezes juntos em fins de semana. nada disso "ajudou" meu cerebro permitir sequer se concentrar para programar. tentei por duas vezes focar so nisso, pude esquecer de todo resto. uma foi para coisas necessarias na empresa e outra para um projeto de jogos completamente desnecessario e que eu antigamente adoraria estar fazendo. foi tudo completamente em vao. nao saiu 1 linha de codigo.</p>
 <p>nao me animo a programar o que todo mundo ja fez, faz, ou esta disposto a fazer. acho que se eu ainda for escrever algo somente sera na direcao de inteligencia artificial e <a href="http://singularity.org/">singularidade</a>. mas nao estou caminhando nesta area e no Brasil jamais teria suporte pra isso. pior nos EUA ou outro pais, onde estaria competindo com os melhores e no mundo. logo assumo que nao passa de mais um entre tantos outros devaneios que tenho.</p>
 <p><a href="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f587e4b0e92b6eaacf96/1409611143626/1000w/"><img src="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f587e4b0e92b6eaacf97/1409611143626/1000w/" width="320" height="189"></a>minha vontade continua sendo (desde crianca, qdo "sonhava" em fazer jogos) trabalhar com o que considero a ultima palavra em entretenimento e informacao. jogos eletronicos e filmes. <a href="http://warcraft.moviechronicles.com/2009-10/robert-rodat-penning-world-of-warcraft-movie/">talvez uma mistura dos dois</a> que ainda nao existe e/ou nunca venha a existir. mas tambem nao vejo ainda um caminho pra conseguir fazer algo nesse sentido. afinal jamais consegui ganhar mais do que U$100 trabalhando em qualquer das duas areas. duvido muito que seja algo que vou poder fazer algum dia.</p>
 <p>enquanto nao consigo fazer nada disso meu rumo continua sendo o da fadada "tecnologia da informacao" (nunca vi tantos Analistas de Sistemas antes) e ainda perigosamente muito proximo de programacao. afinal, quem esta contente com a propria carreira, ne?</p>
@@ -626,22 +626,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/minha-carreira-ainda-bastante-atual/7420">Read full topic</a></p>
+            <p><a href="/talk/t/minha-carreira-ainda-bastante-atual/7420">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/minha-carreira-ainda-bastante-atual/7420</link>
+          <link>/talk/t/minha-carreira-ainda-bastante-atual/7420</link>
           <pubDate>Fri, 20 Feb 2015 01:34:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7420</guid>
-          <source url="http://talk.cregox.com/t/minha-carreira-ainda-bastante-atual/7420.rss">Minha carreira (ainda bastante atual)</source>
+          <source url="/talk/t/minha-carreira-ainda-bastante-atual/7420.rss">Minha carreira (ainda bastante atual)</source>
         </item>
         <item>
           <title>Prefeitura de sao paulo</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>a historia eh simples: hoje veio a prefeitura "podar" arvores aqui perto de casa. fui tentar entender por que estavam fazendo isso. procurei no site, enviei uma "solicitacao", recebi um e-mail e respondi com o relato de hoje. estou aqui apenas "catalogando" isso.<p><a href="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f587e4b0e92b6eaacf8f/1409611143625/1000w/"><img src="https://static.squarespace.com/static/537cf764e4b02cb9fe050f36/5404f584e4b0e92b6eaacee3/5404f587e4b0e92b6eaacf90/1409611143625/1000w/" width="400" height="300"></a>  a observacao que fiz nessa solicitacao foi a seguinte:</p>
@@ -669,22 +669,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/prefeitura-de-sao-paulo/7418">Read full topic</a></p>
+            <p><a href="/talk/t/prefeitura-de-sao-paulo/7418">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/prefeitura-de-sao-paulo/7418</link>
+          <link>/talk/t/prefeitura-de-sao-paulo/7418</link>
           <pubDate>Fri, 20 Feb 2015 01:34:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7418</guid>
-          <source url="http://talk.cregox.com/t/prefeitura-de-sao-paulo/7418.rss">Prefeitura de sao paulo</source>
+          <source url="/talk/t/prefeitura-de-sao-paulo/7418.rss">Prefeitura de sao paulo</source>
         </item>
         <item>
           <title>Visto de turista pros eua recusado pela 2a e ultima vez</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>Tive hoje (abril de 2010) meu pedido de visto de turista negado, de forma completamente indevida.<p>Apenas quero relatar aqui dois pontos:</p>
@@ -715,22 +715,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416">Read full topic</a></p>
+            <p><a href="/talk/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416</link>
+          <link>/talk/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416</link>
           <pubDate>Fri, 20 Feb 2015 01:34:05 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7416</guid>
-          <source url="http://talk.cregox.com/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416.rss">Visto de turista pros eua recusado pela 2a e ultima vez</source>
+          <source url="/talk/t/visto-de-turista-pros-eua-recusado-pela-2a-e-ultima-vez/7416.rss">Visto de turista pros eua recusado pela 2a e ultima vez</source>
         </item>
         <item>
           <title>Votos nulos sufragados nao interferem no resultado, diz TSE</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>Por que não devemos votar nulo<p>Antes de tudo, tenho a natural aversão política que todos nós brasileiros somos treinados a ter. Não tenho medo dela. Acredito ser bem informado suficiente para isso. Mas também não sou especialista e jamais pretendo ser. Acho que quem faz política, por estranho que possa parecer, tem boa intenção em excesso. Excesso. "De boa intenção o inferno está cheio".</p>
@@ -785,22 +785,22 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413">Read full topic</a></p>
+            <p><a href="/talk/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413</link>
+          <link>/talk/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413</link>
           <pubDate>Fri, 20 Feb 2015 01:34:04 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7413</guid>
-          <source url="http://talk.cregox.com/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413.rss">Votos nulos sufragados nao interferem no resultado, diz TSE</source>
+          <source url="/talk/t/votos-nulos-sufragados-nao-interferem-no-resultado-diz-tse/7413.rss">Votos nulos sufragados nao interferem no resultado, diz TSE</source>
         </item>
         <item>
           <title>Problemas de Lógica</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               
 <div><div>Hoje, por acaso, vi um <a href="https://twitter.com/#!/lucasradaelli/status/139737140727779328">tweet do Lucas Radaelli</a> com um <a href="http://www.twitlonger.com/show/ebtufi">desafio de lógica</a> e terminei lembrando de um outro sobre <a href="http://www.cregox.com/cauecmrego/2007/06/penachos-de-ouro.html">penachos de ouro que postei anos atrás</a> e deixei sem resposta. Então resolvi compilar aqui algumas coisas relacionadas... E a resposta do problema lá em baixo, no finalzinho.<p>O mesmo desafio pode ser encontrado no <a href="http://www.problemasdelogica.com.br/">item 14 de um site esquisito</a> enunciado assim:  
@@ -826,28 +826,28 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/problemas-de-logica/7406">Read full topic</a></p>
+            <p><a href="/talk/t/problemas-de-logica/7406">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/problemas-de-logica/7406</link>
+          <link>/talk/t/problemas-de-logica/7406</link>
           <pubDate>Thu, 12 Feb 2015 11:23:42 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7406</guid>
-          <source url="http://talk.cregox.com/t/problemas-de-logica/7406.rss">Problemas de Lógica</source>
+          <source url="/talk/t/problemas-de-logica/7406.rss">Problemas de Lógica</source>
         </item>
         <item>
           <title>Quais os custos e requisitos para morar em Lisboa?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/7eb44fa27a2cccbbba934f87d310f2bbf06c65a3" href="//talk-cdn.cregox.com/uploads/default/43/18eabcb8ec783e16.jpg" class="lightbox" title="IMG_0018.jpg"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/c74/d5d/450866475e_666x500.jpg" width="666" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/7eb44fa27a2cccbbba934f87d310f2bbf06c65a3" href="/talk/uploads/default/43/18eabcb8ec783e16.jpg" class="lightbox" title="IMG_0018.jpg"><img src="/talk/uploads/default/_optimized/c74/d5d/450866475e_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">IMG_0018.jpg</span><span class="informations">4608x3456 2.11 MB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p>Continuando <a href="http://talk.cregox.com/t/cidadania-portuguesa-atraves-de-uniao-estavel-cregox/5599">Cidadania portuguesa através de união estável — cregox</a>:</p>
+<p>Continuando <a href="/talk/t/cidadania-portuguesa-atraves-de-uniao-estavel-cregox/5599">Cidadania portuguesa através de união estável — cregox</a>:</p>
 
 <p>Com toda <a href="http://www1.folha.uol.com.br/especial/2014/crise-da-agua/">a crise de água</a> ficando <a href="http://super.abril.com.br/crise-agua/ofundodopoco.shtml">cada vez mais séria</a> em São Paulo, as chances de me mudar logo para fora da cidade aumentam, junto com a possibilidade de ir para Portugal. Provavelmente Lisboa.</p>
 
@@ -885,26 +885,26 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109">Read full topic</a></p>
+            <p><a href="/talk/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109</link>
+          <link>/talk/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109</link>
           <pubDate>Wed, 28 Jan 2015 17:28:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7109</guid>
-          <source url="http://talk.cregox.com/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109.rss">Quais os custos e requisitos para morar em Lisboa?</source>
+          <source url="/talk/t/quais-os-custos-e-requisitos-para-morar-em-lisboa/7109.rss">Quais os custos e requisitos para morar em Lisboa?</source>
         </item>
         <item>
           <title>Crise mundial de mouse?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <blockquote><p>Also <a href="http://talk.cregox.com/t/world-mouse-crisis/6395?u=cawas">posted in english</a></p></blockquote>
+              <blockquote><p>Also <a href="/talk/t/world-mouse-crisis/6395?u=cawas">posted in english</a></p></blockquote>
 
-<p>Mandei esta mensagem como e-mail pro nerdcast há pouco menos de 2 anos atrás (e agora <a href="https://discuss.howtogeek.com/t/world-mouse-crisis/23611?u=cawas">coloquei em outro forum</a> tambem)... Entre vários e-mails que mando pra eles, nunca responderam ou deram sinal de vida. Um dos motivos pelo qual prefiro forums e criei este - pelo menos posso escrever tudo por aqui e compartilhar link. Enfim, assunto pra outro tópico que terminei colocando brevemente aqui talvez por que este seja bem curto! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+<p>Mandei esta mensagem como e-mail pro nerdcast há pouco menos de 2 anos atrás (e agora <a href="https://discuss.howtogeek.com/t/world-mouse-crisis/23611?u=cawas">coloquei em outro forum</a> tambem)... Entre vários e-mails que mando pra eles, nunca responderam ou deram sinal de vida. Um dos motivos pelo qual prefiro forums e criei este - pelo menos posso escrever tudo por aqui e compartilhar link. Enfim, assunto pra outro tópico que terminei colocando brevemente aqui talvez por que este seja bem curto! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
 
 <p>Fiquei por pelo menos 2 meses procurando um mouse minimamente bom. Comprei 4 mouses diferentes, perdi uma grana no processo e fiquei sem 1 sequer meia-boca. Saraiva e Americanas só tem porcaria. Submarino ainda tem Razer, mas custa o olho da cara e são feios demais. Star Computer, Sta Ifigênia, Mercado Livre só tem mouse colorido e que quebram em 1 mês (visivelmente pelas fotos), ou as porcarias horripilantes da Razer, com um monte de botão desnecessário e custando o olho da cara.</p>
 
@@ -933,40 +933,40 @@ O jeito é dar uma de brasileiro e <i>ir levando</i>, dando <i>um jeitinho</i>..
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/crise-mundial-de-mouse/6394">Read full topic</a></p>
+            <p><a href="/talk/t/crise-mundial-de-mouse/6394">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/crise-mundial-de-mouse/6394</link>
+          <link>/talk/t/crise-mundial-de-mouse/6394</link>
           <pubDate>Sun, 11 Jan 2015 15:26:54 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-6394</guid>
-          <source url="http://talk.cregox.com/t/crise-mundial-de-mouse/6394.rss">Crise mundial de mouse?</source>
+          <source url="/talk/t/crise-mundial-de-mouse/6394.rss">Crise mundial de mouse?</source>
         </item>
         <item>
           <title>Referências de jogos educativos</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>edu cash</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Nossa Água.</p>
 
 <p>Parece que só tem pra android: <a href="http://soundy.cc/project/nossa-agua/">http://soundy.cc/project/nossa-agua/</a></p>
 
-<p>Pelo que vi, absolutamente nada de novo, jogo bem mal feitinho, uma referência de como <strong>não</strong> fazer! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+<p>Pelo que vi, absolutamente nada de novo, jogo bem mal feitinho, uma referência de como <strong>não</strong> fazer! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/referencias-de-jogos-educativos/5838">Read full topic</a></p>
+            <p><a href="/talk/t/referencias-de-jogos-educativos/5838">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/referencias-de-jogos-educativos/5838</link>
+          <link>/talk/t/referencias-de-jogos-educativos/5838</link>
           <pubDate>Wed, 17 Dec 2014 13:39:43 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-5838</guid>
-          <source url="http://talk.cregox.com/t/referencias-de-jogos-educativos/5838.rss">Referências de jogos educativos</source>
+          <source url="/talk/t/referencias-de-jogos-educativos/5838.rss">Referências de jogos educativos</source>
         </item>
   </channel>
 </rss>

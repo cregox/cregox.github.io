@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>(2009 oct) File copy</title>
-    <link>http://talk.cregox.com/t/2009-oct-file-copy/7524</link>
+    <link>/talk/t/2009-oct-file-copy/7524</link>
     <description>
 &lt;div&gt;&lt;div&gt;Computers have the distinct ability to keep information, not losing a tiny bit (or byte) of it. At least of what it can record, or recognize. A photo image is unique when printed in a piece of paper, or in a film. It has way more information than any single computer could save in a file. But, most of it doesn&#39;t matter to our eyes anyway and so just a little part of it is enough to store, and reproduce, and keep it recognizable for us.&lt;p&gt;To be able to do what I believe they do best, and store information for fast and fine tuned recovery, computers need to copy files. Make backups, spread the same info all over to make it redundant and therefore safe from losing.&lt;/p&gt;
 &lt;p&gt;This post is a question for every developer out there: why keep making copy applications based in anything else than &lt;a href=&quot;http://en.wikipedia.org/wiki/Rsync&quot;&gt;rsync&lt;/a&gt;?&lt;/p&gt;
@@ -18,12 +18,12 @@
     <language>en</language>
     <lastBuildDate>Wed, 08 Apr 2015 23:32:54 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/2009-oct-file-copy/7524.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/2009-oct-file-copy/7524.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>(2009 oct) File copy</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>Computers have the distinct ability to keep information, not losing a tiny bit (or byte) of it. At least of what it can record, or recognize. A photo image is unique when printed in a piece of paper, or in a film. It has way more information than any single computer could save in a file. But, most of it doesn't matter to our eyes anyway and so just a little part of it is enough to store, and reproduce, and keep it recognizable for us.<p>To be able to do what I believe they do best, and store information for fast and fine tuned recovery, computers need to copy files. Make backups, spread the same info all over to make it redundant and therefore safe from losing.</p>
@@ -38,12 +38,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2009/10/file-copy.html">http://www.cregox.com/blog/2009/10/file-copy.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/2009-oct-file-copy/7524/1">Read full topic</a></p>
+          <p><a href="/talk/t/2009-oct-file-copy/7524/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/2009-oct-file-copy/7524/1</link>
+        <link>/talk/t/2009-oct-file-copy/7524/1</link>
         <pubDate>Mon, 06 Apr 2015 16:58:23 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7524-1</guid>
-        <source url="http://talk.cregox.com/t/2009-oct-file-copy/7524.rss">(2009 oct) File copy</source>
+        <source url="/talk/t/2009-oct-file-copy/7524.rss">(2009 oct) File copy</source>
       </item>
   </channel>
 </rss>

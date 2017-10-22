@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Eli-ipsa (totalmente desatualizado)</title>
-    <link>http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422</link>
+    <link>/talk/t/eli-ipsa-totalmente-desatualizado/7422</link>
     <description>
 &lt;div&gt;&lt;div&gt;
 &lt;b&gt;edicao 2010-11-29&lt;/b&gt;  
@@ -37,12 +37,12 @@
     <language>en</language>
     <lastBuildDate>Sat, 21 Feb 2015 15:03:12 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/eli-ipsa-totalmente-desatualizado/7422.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Eli-ipsa (totalmente desatualizado)</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>
@@ -76,12 +76,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2009/10/eli-ipsa.html">http://www.cregox.com/blog/2009/10/eli-ipsa.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422/1">Read full topic</a></p>
+          <p><a href="/talk/t/eli-ipsa-totalmente-desatualizado/7422/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422/1</link>
+        <link>/talk/t/eli-ipsa-totalmente-desatualizado/7422/1</link>
         <pubDate>Fri, 20 Feb 2015 01:34:08 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7422-1</guid>
-        <source url="http://talk.cregox.com/t/eli-ipsa-totalmente-desatualizado/7422.rss">Eli-ipsa (totalmente desatualizado)</source>
+        <source url="/talk/t/eli-ipsa-totalmente-desatualizado/7422.rss">Eli-ipsa (totalmente desatualizado)</source>
       </item>
   </channel>
 </rss>

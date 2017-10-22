@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>A video and animated text question</title>
-    <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573</link>
+    <link>/talk/t/a-video-and-animated-text-question/7573</link>
     <description>Hi, 
 
 Please look at this page: https://clockworkstudio.squarespace.com
@@ -41,46 +41,46 @@ Tor Martin</description>
     <language>en</language>
     <lastBuildDate>Fri, 23 Oct 2015 07:40:32 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/a-video-and-animated-text-question/7573.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>Thank you very much <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+              <p>Thank you very much <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/63">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/63">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/63</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/63</link>
         <pubDate>Fri, 23 Oct 2015 07:40:32 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-63</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Indeed it <strong>looks like</strong> it's something on the script, but not only my fault at all. Their gallery script have something to blame too...</p>
 
-<p>And it's again thanks to that same <code>.sqs-gallery-container</code> script <a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54?u=cregox">there</a>. Just those 4 lines of code mess up the gallery, for whatever reason.</p>
+<p>And it's again thanks to that same <code>.sqs-gallery-container</code> script <a href="/talk/t/a-video-and-animated-text-question/7573/54?u=cregox">there</a>. Just those 4 lines of code mess up the gallery, for whatever reason.</p>
 
-<p>In any case, since I could quickly debug this after finding it, I've just removed them, and <a href="https://github.com/cauerego/cregox-scripts/commit/044996bdb1cb40917e33881196a85ee8e3297272">done the hiding in another way</a>. Hope this will be more "bug" proof in the future! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>In any case, since I could quickly debug this after finding it, I've just removed them, and <a href="https://github.com/cauerego/cregox-scripts/commit/044996bdb1cb40917e33881196a85ee8e3297272">done the hiding in another way</a>. Hope this will be more "bug" proof in the future! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/62">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/62">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/62</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/62</link>
         <pubDate>Thu, 22 Oct 2015 21:47:51 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-62</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi again, </p>
 
@@ -106,18 +106,18 @@ Tor Martin</description>
 
 <p>Tor Martin Norvik</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/61">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/61">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/61</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/61</link>
         <pubDate>Thu, 22 Oct 2015 11:40:15 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-61</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, </p>
 
@@ -125,35 +125,35 @@ Tor Martin</description>
 
 <p>Have a nice day!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/60">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/60">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/60</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/60</link>
         <pubDate>Mon, 28 Sep 2015 18:00:49 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-60</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>You mean <a href="https://github.com/cauerego/cregox-scripts/tree/7c60b23dcc2103a9fc2b3e4f68d738b640605937/squarespace/gallery%20hover%20click%20title">those files already on github</a>?</p>
 
 <p>Sorry, I couldn't quickly find anything too obvious there. I'll try to look again later on.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/59">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/59">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/59</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/59</link>
         <pubDate>Mon, 28 Sep 2015 17:26:52 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-59</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi again Caue, </p>
 
@@ -165,20 +165,20 @@ Tor Martin</description>
 
 <p>Regards, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/58">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/58">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/58</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/58</link>
         <pubDate>Mon, 28 Sep 2015 13:27:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-58</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>Hi <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+              <p>Hi <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>I am trying to recreate the gallery on another page, and I wonder if you can share the .png files (cross105.png &amp; magnifier52.png)</p>
 
@@ -186,26 +186,26 @@ Tor Martin</description>
 
 <p>Thanks in advance!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/57">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/57">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/57</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/57</link>
         <pubDate>Mon, 28 Sep 2015 12:40:23 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-57</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Thanks for the feedback! Really appreciate it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Thanks for the feedback! Really appreciate it. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>In fact my work here is meant to be with any technology. It just happened so far my marketing only brought me squarespace work, by chance. So I haven't really got an opportunity to play much with wordpress recently.</p>
 
 <p>That being said, the way I'm working now, the cost would probably be <em>about the same</em> <code>(*)</code>, but I could take about double the time to adapt. Except...</p>
 
-<p><code>(*)</code> I must now admit one caveat: you were my first paying customer since I raised my price table, and I had had a few requests for a whole month without anyone willing to move forward... So I was eager to please (plus I had some extra time in hands). Meaning it's a price I probably won't be able to keep because it didn't really covered my costs. So, unfortunatelly, I'm <em>still</em> <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/4?u=cawas">struggling</a> on how to make the whole business work.</p>
+<p><code>(*)</code> I must now admit one caveat: you were my first paying customer since I raised my price table, and I had had a few requests for a whole month without anyone willing to move forward... So I was eager to please (plus I had some extra time in hands). Meaning it's a price I probably won't be able to keep because it didn't really covered my costs. So, unfortunatelly, I'm <em>still</em> <a href="/talk/t/the-making-of-your-home/7491/4?u=cawas">struggling</a> on how to make the whole business work.</p>
 
 <p>Right now what I would have done is I'd take the upfront payment, analyze if I had made a proper first judgement, realize I haven't, then charge more to adjust to what I would need to do or give a full refund. And after analyzing, I should either have known it would cost around U$690 (if I properly recall, I don't really keep all my calculations around) or at least have said I wouldn't be able to move forward unless we reached an agreement to "pay as it goes".</p>
 
@@ -215,7 +215,7 @@ Tor Martin</description>
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/talk.cregox.com/cawas/40/60.png" class="avatar">
-    <a href="http://talk.cregox.com/t/the-grid-artificial-intelligence-making-web-design/6518">The Grid - Artificial Intelligence making web design</a> <a class="badge-wrapper  bar" href="http://talk.cregox.com/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+    <a href="/talk/t/the-grid-artificial-intelligence-making-web-design/6518">The Grid - Artificial Intelligence making web design</a> <a class="badge-wrapper  bar" href="/talk/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
   </div>
   <blockquote>You probably heard of <a href="http://thegrid.io">The Grid</a> by now: 
 
@@ -235,20 +235,20 @@ I've h…
 </aside>
 
 
-<p>Anyway, thank you again as well for choosing me! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>Anyway, thank you again as well for choosing me! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/56">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/56">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/56</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/56</link>
         <pubDate>Tue, 19 May 2015 20:34:41 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-56</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, <br>Just want to thank you on behalf on my client. They are really happy with the website, and appreciate all the tweaks you have made to the site.</p>
 
@@ -260,18 +260,18 @@ I've h…
 
 <p>Regards, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/55">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/55">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/55</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/55</link>
         <pubDate>Tue, 19 May 2015 20:02:04 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-55</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Yeah, it's because of these lines:</p>
 
@@ -287,28 +287,28 @@ I've h…
 
 <p>There's little I could do to go around this, if you feel it's needed... That is, short of trying to think of novel ways to achieve that or simply removing this little touch. Most people will probably never notice if the browser even ever renders the gallery. It would only show for a very brief period, which might only happen if I remove that.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/54">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/54</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/54</link>
         <pubDate>Mon, 18 May 2015 02:05:24 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-54</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>This is looking good now, you have done great. I am going to have a "sit-down" with the client tomorrow to walk through the site. </p>
 
 <p>One little observation though, </p>
 
-<p>Look at the pictures that is at the bottom of the page:<br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/26e13cac860b38c1153054daea8863225c63aea4" href="//talk-cdn.cregox.com/uploads/default/129/6433787356bfd734.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.03.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/79d/f8c/4c7284e7ce_690x293.png" width="690" height="293"><div class="meta">
+<p>Look at the pictures that is at the bottom of the page:<br><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/26e13cac860b38c1153054daea8863225c63aea4" href="/talk/uploads/default/129/6433787356bfd734.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.03.png"><img src="/talk/uploads/default/_optimized/79d/f8c/4c7284e7ce_690x293.png" width="690" height="293"><div class="meta">
 <span class="filename">Skjermbilde 2015-05-17 kl. 22.24.03.png</span><span class="informations">1431x608 380 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p>And if I go into "edit mode", I cannot longer see the Gallery.<br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/96159964730737477b44014a292af87dd8121707" href="//talk-cdn.cregox.com/uploads/default/130/e8c162255c0974fd.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.23.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/770/638/7a15b8d987_690x375.png" width="690" height="375"><div class="meta">
+<p>And if I go into "edit mode", I cannot longer see the Gallery.<br><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/96159964730737477b44014a292af87dd8121707" href="/talk/uploads/default/130/e8c162255c0974fd.png" class="lightbox" title="Skjermbilde 2015-05-17 kl. 22.24.23.png"><img src="/talk/uploads/default/_optimized/770/638/7a15b8d987_690x375.png" width="690" height="375"><div class="meta">
 <span class="filename">Skjermbilde 2015-05-17 kl. 22.24.23.png</span><span class="informations">1250x680 65.5 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -316,18 +316,18 @@ I've h…
 
 <p>Thank you!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/53">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/53">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/53</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/53</link>
         <pubDate>Sun, 17 May 2015 20:28:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-53</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <ol>
 <li><p>Oh yeah, forgot markdown can't align and we need CSS there. <a href="https://github.com/cauerego/cregox-scripts/commit/7c60b23dcc2103a9fc2b3e4f68d738b640605937">Done</a>.</p></li>
@@ -342,20 +342,20 @@ I've h…
 
 <p><em>( The <code>id="gallery-people"</code> there should be unique, but it's not really being used anyway. )</em></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/52">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/52">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/52</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/52</link>
         <pubDate>Thu, 14 May 2015 17:18:44 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-52</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>You are doing great work, squashing the bugs <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>You are doing great work, squashing the bugs <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
 
 <p>Two things:</p>
 
@@ -378,39 +378,39 @@ I've h…
 
 <p>Could you help me with this?</p>
 
-<p>I think we are close to an end now <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>I think we are close to an end now <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/51">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/51">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/51</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/51</link>
         <pubDate>Thu, 14 May 2015 13:27:02 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-51</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>All right, now <a href="https://github.com/cauerego/cregox-scripts/commit/743f848f7d2bec0ddc6cfa126e05d916e45eb0fe">all the text alignment is fixed</a>!</p>
 
 <p>It was a few bad CSS codes sneaking in Code Injection through Styles. And this fix made that last piece of code to align <code>h3</code> there also bad and unnecessary, so I removed it as well.</p>
 
-<p>I hope we're nearing an end here! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>I hope we're nearing an end here! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/50">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/50">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/50</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/50</link>
         <pubDate>Thu, 14 May 2015 03:04:57 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-50</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="https://github.com/cauerego/cregox-scripts/commit/475b5b268aaea3a000fb346a99d1f697f14f984f">Fixed the issue</a> with using squarespace to write the text... Now we're going to use <a href="http://help.squarespace.com/guides/using-the-markdown-block">markdown</a>! That way there's no mistake or funky HTML sqsp might generate. It is a bit more limited than squarespace regular <a href="http://help.squarespace.com/guides/using-the-text-block">text block</a> in some senses, and it does have more options in other senses. But we can style it more with Custom CSS, such as this one used to align it center:</p>
 
@@ -422,69 +422,69 @@ I've h…
 
 <p>I haven't touched people click alignment, nor have I noticed if it was left aligned before. That's weird. I've added <a href="https://github.com/cauerego/cregox-scripts/commit/c7853b1fdbac07b1e6e15410aa43a06b817e503b">a code to do it</a> anyway.</p>
 
-<p>As for not being able to align anything else other than center (and sometimes right), this isn't happening only on <code>video_sbs</code> at all (a page I've never touched either). It's everywhere! Even on a new page. This is so much weirder than the people click alignment there... But maybe they're related. I tried removing all Custom CSS, which might be causing something, but as expected it wasn't. Quite a new bug to me and I don't think it's related to anything I've done because it looks like it appeared when I wasn't doing anything! In any case, I'll keep on investigating this.  <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
+<p>As for not being able to align anything else other than center (and sometimes right), this isn't happening only on <code>video_sbs</code> at all (a page I've never touched either). It's everywhere! Even on a new page. This is so much weirder than the people click alignment there... But maybe they're related. I tried removing all Custom CSS, which might be causing something, but as expected it wasn't. Quite a new bug to me and I don't think it's related to anything I've done because it looks like it appeared when I wasn't doing anything! In any case, I'll keep on investigating this.  <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="20" height="20"></p>
 
 <p>And since you've already added everyone into people gallery, I went ahead and changed the one being used before on the main page's gallery block to that one.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/49">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/49">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/49</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/49</link>
         <pubDate>Wed, 13 May 2015 23:36:20 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-49</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I'm not at my home office now, but I'll check those later today. Squarespace admin doesn't work on mobile, unfortunately.</p>
 
 <p>There should be no problem adding more list of people. The new one I've created the gallery inside the page, so I wasn't using the same gallery. You can, however, create a gallery and just choose it, and it could be the same gallery.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/48">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/48">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/48</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/48</link>
         <pubDate>Wed, 13 May 2015 14:25:23 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-48</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Aha, I see that the newly added people <strong>does show up</strong>, but not under "folk". They appear under "People Click".<br>How can I make sure that they are visible on the "correct" page?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/47">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/47">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/47</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/47</link>
         <pubDate>Wed, 13 May 2015 12:51:25 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-47</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>I have also added more people under "people gallery", but none of them shows up.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/46">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/46">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/46</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/46</link>
         <pubDate>Wed, 13 May 2015 12:49:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-46</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Another question regarding People Bio. How can I differentiate between employees at Clockwork and employees at Schjærven film?</p>
 
@@ -500,50 +500,50 @@ I've h…
 
 <p>Regards, <br>Tor M</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/45">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/45">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/45</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/45</link>
         <pubDate>Wed, 13 May 2015 11:36:22 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-45</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hmm, please look at the "video_sbs" located under "produksjoner" in Not linked. It seems that you have done something to make sure that you can't left align normal text? I can left align H3 text, but not normal?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/44">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/44">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/44</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/44</link>
         <pubDate>Wed, 13 May 2015 11:31:45 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-44</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>I also see that the text that pops up when you click on Andre De Young need to be left aligned. Now its centred.</p>
 
-<p>Thanks <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p>Thanks <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/43">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/43">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/43</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/43</link>
         <pubDate>Wed, 13 May 2015 06:51:41 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-43</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>I am looking at the page through a iPhone and I see that the text animation just based on two sentences?</p>
 
@@ -551,20 +551,20 @@ I've h…
 
 <p>And maybe double the "delete speed"?</p>
 
-<p>Thank you <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>Thank you <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/42">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/42">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/42</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/42</link>
         <pubDate>Wed, 13 May 2015 05:37:16 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-42</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Here's what's happening with the animated text...</p>
 
@@ -580,18 +580,18 @@ I've h…
 
 <p>Any <a href="http://en.wikipedia.org/wiki/WYSIWYG">wysiwyg</a> code generator have this kind of problem, I just never realized sqsp one did have it this big.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/41">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/41">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/41</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/41</link>
         <pubDate>Tue, 12 May 2015 22:58:20 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-41</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Cool.</p>
 
@@ -599,31 +599,31 @@ I've h…
 
 <p>Taking a look at studio text animation now... I think that's getting way more buggy than it should be. I can already see it's something related to the previous bug.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/40">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/40">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/40</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/40</link>
         <pubDate>Tue, 12 May 2015 22:22:15 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-40</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
       <item>
         <title>A video and animated text question</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>Yes, lets try <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> I will present the site to the client tomorrow.<br>Can you help me with implementing the people click gallery also? You could just do Andre De Young, I´ll do the rest.</p>
+              <p>Yes, lets try <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> I will present the site to the client tomorrow.<br>Can you help me with implementing the people click gallery also? You could just do Andre De Young, I´ll do the rest.</p>
 
 <p>Could you also take another look at the "studio" text animation? I tried to add another sentence, "Clockwork er norges mest effektive reklamestudio^2000" But it would not animate the new sentence, it only respected the "^2000" pause.</p>
 
 <p>And when I removed the sentence, the text animation stopped. I may have messed something up..</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/a-video-and-animated-text-question/7573/39">Read full topic</a></p>
+          <p><a href="/talk/t/a-video-and-animated-text-question/7573/39">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/a-video-and-animated-text-question/7573/39</link>
+        <link>/talk/t/a-video-and-animated-text-question/7573/39</link>
         <pubDate>Tue, 12 May 2015 21:58:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7573-39</guid>
-        <source url="http://talk.cregox.com/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
+        <source url="/talk/t/a-video-and-animated-text-question/7573.rss">A video and animated text question</source>
       </item>
   </channel>
 </rss>

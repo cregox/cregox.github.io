@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Squarespace and font types on titles</title>
-    <link>http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656</link>
+    <link>/talk/t/squarespace-and-font-types-on-titles/7656</link>
     <description>[quote]
 Hi Caue,
 
@@ -22,32 +22,32 @@ Bec
     <language>en</language>
     <lastBuildDate>Thu, 02 Jul 2015 15:21:40 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/squarespace-and-font-types-on-titles/7656.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Squarespace and font types on titles</title>
         <dc:creator><![CDATA[@becemflores becemflores]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/becemflores">@becemflores</a> wrote:</p>
+          <p><a href="/talk/u/becemflores">@becemflores</a> wrote:</p>
           <blockquote>
               <aside class="quote" data-post="2" data-topic="7656"><div class="title">
 <div class="quote-controls"></div>
-<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cawas/40/60_1.png" class="avatar">Cawas:</div>
+<img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cawas/40/60_1.png" class="avatar">Cawas:</div>
 <blockquote><h1>projectThumbs a.project div.project-title {font-family:"Maison Neue Book",Calibri,Arial,Roboto,sans-serif;font-weight:300;font-style:normal}</h1></blockquote></aside>
 
 <p>Thanks do much - that seems to have fixed it!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/3">Read full topic</a></p>
+          <p><a href="/talk/t/squarespace-and-font-types-on-titles/7656/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/3</link>
+        <link>/talk/t/squarespace-and-font-types-on-titles/7656/3</link>
         <pubDate>Thu, 02 Jul 2015 15:21:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7656-3</guid>
-        <source url="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
+        <source url="/talk/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
       </item>
       <item>
         <title>Squarespace and font types on titles</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-starting-up">Using Chrome Inspector</a> I can easily see, at least on the home <code>div.project-title</code>, your custom CSS <code>h1,h2,h3,a</code> have been overruled by a more <a href="https://css-tricks.com/specifics-on-css-specificity/">specific rule</a> with <code>#projectThumbs</code> using <code>proxima-nova</code> font family (damn, those two fonts sure look alike a lot!). And in that case it's the <code>a</code>, not the <code>h2</code>.</p>
 
@@ -57,18 +57,18 @@ Bec
 
 <p></p><pre><code class="lang-auto">#projectThumbs a.project div.project-title {font-family:"Maison Neue Book",Calibri,Arial,Roboto,sans-serif;font-weight:300;font-style:normal}</code></pre>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/2">Read full topic</a></p>
+          <p><a href="/talk/t/squarespace-and-font-types-on-titles/7656/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/2</link>
+        <link>/talk/t/squarespace-and-font-types-on-titles/7656/2</link>
         <pubDate>Thu, 02 Jul 2015 15:17:59 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7656-2</guid>
-        <source url="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
+        <source url="/talk/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
       </item>
       <item>
         <title>Squarespace and font types on titles</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <p><aside class="quote"><blockquote>
 <p>Hi Caue,</p>
@@ -77,12 +77,12 @@ Bec
 <p>Thanks<br>Bec</p>
 </blockquote></aside></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/1">Read full topic</a></p>
+          <p><a href="/talk/t/squarespace-and-font-types-on-titles/7656/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656/1</link>
+        <link>/talk/t/squarespace-and-font-types-on-titles/7656/1</link>
         <pubDate>Thu, 02 Jul 2015 14:14:53 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7656-1</guid>
-        <source url="http://talk.cregox.com/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
+        <source url="/talk/t/squarespace-and-font-types-on-titles/7656.rss">Squarespace and font types on titles</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Too many phones</title>
-    <link>http://talk.cregox.com/t/too-many-phones/7412</link>
+    <link>/talk/t/too-many-phones/7412</link>
     <description>
 &lt;div&gt;&lt;div&gt;Why do I have so many phone numbers?&lt;p&gt;I actually carry 2 or 3 mobile devices, and one of them got 2 chips, which receive calls from 2 different numbers. And they&#39;re still not enough to complete all my 6 active numbers. Not counting few other ones that are not active.&lt;/p&gt;
 &lt;p&gt;Well, there are few reasons, and the main one is not all that good: money. It&#39;s supposedly cheaper. Well, right now I&#39;m in New Zealand and I blocked my main phone in Brazil because in this case it&#39;s way much cheaper. If I were to bring my number and be able to receive calls here, I&#39;d have to pay about U$1 per minute of call received, and whoever is calling me is already paying very expensive brazilian mobile fees. It would cost me another dime for making local calls. And local calls in here, from land line to land line, are free!&lt;/p&gt;
@@ -18,12 +18,12 @@
     <language>en</language>
     <lastBuildDate>Tue, 26 May 2015 12:43:50 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/too-many-phones/7412.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/too-many-phones/7412.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Too many phones</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               
 <div><div>Why do I have so many phone numbers?<p>I actually carry 2 or 3 mobile devices, and one of them got 2 chips, which receive calls from 2 different numbers. And they're still not enough to complete all my 6 active numbers. Not counting few other ones that are not active.</p>
@@ -38,12 +38,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2010/06/phones.html">http://www.cregox.com/blog/2010/06/phones.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/too-many-phones/7412/1">Read full topic</a></p>
+          <p><a href="/talk/t/too-many-phones/7412/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/too-many-phones/7412/1</link>
+        <link>/talk/t/too-many-phones/7412/1</link>
         <pubDate>Fri, 20 Feb 2015 01:34:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7412-1</guid>
-        <source url="http://talk.cregox.com/t/too-many-phones/7412.rss">Too many phones</source>
+        <source url="/talk/t/too-many-phones/7412.rss">Too many phones</source>
       </item>
   </channel>
 </rss>

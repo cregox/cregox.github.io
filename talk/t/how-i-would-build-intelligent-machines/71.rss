@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How I would build intelligent machines</title>
-    <link>http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71</link>
+    <link>/talk/t/how-i-would-build-intelligent-machines/71</link>
     <description>&lt;span&gt;&lt;i&gt;Introduction / disclaimer:&lt;/i&gt; Yesterday I was peeking at quora as usual and &lt;a href=&quot;http://www.quora.com/Dustin-Moskovitz-1/How-does-Dustin-Moskovitz-feel-about-being-a-billionaire&quot;&gt;ended up&lt;/a&gt; finding &lt;a href=&quot;http://vicarious.com/about.html&quot;&gt;this interesting company&lt;/a&gt; through &lt;a href=&quot;http://www.goodventures.org/our-portfolio/other-investments&quot;&gt;this another also interesting philanthropic company&lt;/a&gt; all somewhat related to &lt;a href=&quot;http://www.quora.com/Dustin-Moskovitz/about&quot;&gt;facebook&lt;/a&gt;. On deciding to apply for a job there, I was given this question, which I thought would be cool posting here! I&#39;m far from being an expert on this subject, so I will probably sound quite dumb here if you, my dear reader, have any experience... I&#39;ll take my chances. :D&lt;/span&gt;&lt;br&gt;
 &lt;span&gt;&lt;br&gt;&lt;/span&gt;
 &lt;span&gt;I know all the below might sound too unpractical, but I think it&#39;s where it should begin. Some well defined concepts. And this is where I stand today trying to achieve that.&lt;/span&gt;&lt;br&gt;
@@ -42,19 +42,19 @@
     <language>en</language>
     <lastBuildDate>Mon, 01 Sep 2014 23:25:52 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/how-i-would-build-intelligent-machines/71.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How I would build intelligent machines</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <span><i>Introduction / disclaimer:</i> Yesterday I was peeking at quora as usual and <a href="http://www.quora.com/Dustin-Moskovitz-1/How-does-Dustin-Moskovitz-feel-about-being-a-billionaire">ended up</a> finding <a href="http://vicarious.com/about.html">this interesting company</a> through <a href="http://www.goodventures.org/our-portfolio/other-investments">this another also interesting philanthropic company</a> all somewhat related to <a href="http://www.quora.com/Dustin-Moskovitz/about">facebook</a>. On deciding to apply for a job there, I was given this question, which I thought would be cool posting here! I'm far from being an expert on this subject, so I will probably sound quite dumb here if you, my dear reader, have any experience... I'll take my chances. :D</span><br>
 <span><br></span>
 <span>I know all the below might sound too unpractical, but I think it's where it should begin. Some well defined concepts. And this is where I stand today trying to achieve that.</span><br>
 <span><br></span>
 <span>There are several distinct points I would consider:</span><br>
-<a href="&lt;img%20src='/uploads/default/9/4ce9ab494dbf6926.jpg'&gt;" imageanchor="1"><img border="0" src="//talk-cdn.cregox.com/uploads/default/9/4ce9ab494dbf6926.jpg" height="200" width="200"></a><span><br></span><br>
+<a href="&lt;img%20src='/uploads/default/9/4ce9ab494dbf6926.jpg'&gt;" imageanchor="1"><img border="0" src="/talk/uploads/default/9/4ce9ab494dbf6926.jpg" height="200" width="200"></a><span><br></span><br>
 <span><b>- Singularity and Vision</b></span><br>
 <span>You (vicarious) <a href="http://vicarious.com/research_themes.html">seem to have done</a> (so much I have to read there!) some amazing work focusing on "vision", which is probably the best approach to begin developing such a <a href="http://en.wikipedia.org/wiki/Technological_singularity">technological singularity</a>.  Yes, this "intelligent machine" would have to mark some kind of singularity, in which it would be so much smarter than us it would either destroy us all or help us all. That is to me the goal here. And yes, I think enabling it to have a "vision" is a great start.</span><br>
 <span><br></span>
@@ -75,7 +75,7 @@
 <span><b>- Asimov Laws and Maleficence</b></span><br>
 <span>I wouldn't bother of consequences. Trying to add restrictions to it would most likely be useless, since it would outsmart us anyway. Too much effort for nothing. At least the kind of "<i>intelligent machine</i>" I'd like to see "alive" would have to be at minimum that smart.</span><br>
 <span><br></span>
-<a href="&lt;img%20src='/uploads/default/11/7ec2362e2bde6341.jpg'&gt;" imageanchor="1"><img border="0" src="//talk-cdn.cregox.com/uploads/default/11/7ec2362e2bde6341.jpg" height="200" width="200"></a><span>There is, of course, a chance it will not benign. In case that happens, well, at least the world will be a much more interesting place than it is today and we would have a common universal enemy to unite humanity! (<a href="http://en.wikipedia.org/wiki/Watchmen#Plot">watchmen anyone?</a>) In any case, trying to develop something smarter than us is building something we will eventually have no control upon.</span><br>
+<a href="&lt;img%20src='/uploads/default/11/7ec2362e2bde6341.jpg'&gt;" imageanchor="1"><img border="0" src="/talk/uploads/default/11/7ec2362e2bde6341.jpg" height="200" width="200"></a><span>There is, of course, a chance it will not benign. In case that happens, well, at least the world will be a much more interesting place than it is today and we would have a common universal enemy to unite humanity! (<a href="http://en.wikipedia.org/wiki/Watchmen#Plot">watchmen anyone?</a>) In any case, trying to develop something smarter than us is building something we will eventually have no control upon.</span><br>
 <span><br></span>
 <span>I believe there's a good chance a real smart being which will eventually arise would ultimately be benevolent. Take my definition of "intelligence" there, a collaborative future is always better, anyone knows that. Right?</span><br>
 <span><br></span>
@@ -86,12 +86,12 @@
 <hr>
 <small>This is a companion discussion topic for the original entry at <a href="http://www.cregox.com/blog/2014/05/how-i-would-build-intelligent-machines.html">http://www.cregox.com/blog/2014/05/how-i-would-build-intelligent-machines.html</a></small>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71/1">Read full topic</a></p>
+          <p><a href="/talk/t/how-i-would-build-intelligent-machines/71/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71/1</link>
+        <link>/talk/t/how-i-would-build-intelligent-machines/71/1</link>
         <pubDate>Sun, 10 Aug 2014 14:03:16 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-71-1</guid>
-        <source url="http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71.rss">How I would build intelligent machines</source>
+        <source url="/talk/t/how-i-would-build-intelligent-machines/71.rss">How I would build intelligent machines</source>
       </item>
   </channel>
 </rss>

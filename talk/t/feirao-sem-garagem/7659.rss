@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Feirao sem garagem</title>
-    <link>http://talk.cregox.com/t/feirao-sem-garagem/7659</link>
+    <link>/talk/t/feirao-sem-garagem/7659</link>
     <description>estamos (eu e minha esposa) de mudanca. em agosto vamos pra lisboa!
 
 ja doamos varias coisas, vendemos outras tantas, mas ainda tem mais:
@@ -16,12 +16,12 @@ tambem anunciei no OLX, mas la nao tem um link unico pra todos itens. foram os m
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2015 13:28:07 +0000</lastBuildDate>
     <category>portuguese</category>
-    <atom:link href="http://talk.cregox.com/t/feirao-sem-garagem/7659.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/feirao-sem-garagem/7659.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Feirao sem garagem</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>estamos (eu e minha esposa) de mudanca. em agosto vamos pra lisboa!</p>
 
@@ -33,12 +33,12 @@ tambem anunciei no OLX, mas la nao tem um link unico pra todos itens. foram os m
 
 <p>tambem anunciei no OLX, mas la nao tem um link unico pra todos itens. foram os mesmos.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/feirao-sem-garagem/7659/1">Read full topic</a></p>
+          <p><a href="/talk/t/feirao-sem-garagem/7659/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/feirao-sem-garagem/7659/1</link>
+        <link>/talk/t/feirao-sem-garagem/7659/1</link>
         <pubDate>Fri, 03 Jul 2015 18:57:50 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7659-1</guid>
-        <source url="http://talk.cregox.com/t/feirao-sem-garagem/7659.rss">Feirao sem garagem</source>
+        <source url="/talk/t/feirao-sem-garagem/7659.rss">Feirao sem garagem</source>
       </item>
   </channel>
 </rss>

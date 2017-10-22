@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Digressing about a hypothetical point-and-shoot to end all point-and-shoots</title>
-    <link>http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647</link>
+    <link>/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647</link>
     <description>I was drawn to read [this engadget article][1] by its title: *Sony&#39;s new point-and-shoot is the point-and-shoot to end all point-and-shoots*
 
 As it turns out, and as it often happens anywhere, the title was completely misleading. Such an expensive camera with no mention to battery life won&#39;t ever be as huge as the article clearly claimed. On the related links, at the bottom of that same page, I&#39;ve found a much more promising device. [A camera powered by light][2]. How awesome is that?! Not much.
@@ -33,20 +33,20 @@ What do you think? Does it sound like a nice one?
     <language>en</language>
     <lastBuildDate>Sat, 26 Dec 2015 11:38:25 +0000</lastBuildDate>
     <category>blog</category>
-    <atom:link href="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Digressing about a hypothetical point-and-shoot to end all point-and-shoots</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Today I was trying to find an app for android (for its camera that I hardly use anymore since the clip, anyway) and I <a href="http://forums.macrumors.com/threads/i-wish-android-natively-shot-square-photos-for-instagram-like-the-iphone.1653566/#post-22099753">ended up with a list</a> of things the main app of all android camera ones is missing.</p>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&amp;hl=en">Google Camera</a>'s awesome app have unique features such as <strong>photo sphere</strong> and <strong>lens blur</strong> among so many details it gets right. But <strong>it does miss many features</strong>. Below I'll just list everything I'd want from a single camera app...</p>
 
-<p><details><summary><em>Edited Dec 26th</em>, after <a href="https://play.google.com/store/apps/details?id=com.instagram.android">writing a review for instagram on google play</a>, in which I was listing most of the same things from here while I had forgot I wrote this post (not the topic) to begin with. All this movement today started trying to find an app that would do "face reaction". <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> </summary>
+<p><details><summary><em>Edited Dec 26th</em>, after <a href="https://play.google.com/store/apps/details?id=com.instagram.android">writing a review for instagram on google play</a>, in which I was listing most of the same things from here while I had forgot I wrote this post (not the topic) to begin with. All this movement today started trying to find an app that would do "face reaction". <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> </summary>
 
-<blockquote><p>squared photos! need to say more? -- as a progammer* I can say this app feels really snappy and it is insanely well done. reason why I will "rant" about missing features... -- yeah, sadly, it's not as resourceful as I'd want it - but then again no app is. please add (at least): "hdr" (i.e. better auto mode); multi focus; fast burst; 3d camera; strip out photos from film; time lapse; split twins; panorama; photo sphere; lens blur; manual exposure options; quick buttons for photo / video; slow motion with audio; double simultaneous camera layout and (above all) really quick start for taking photos on lock screen. -- writing this review from the top of my head, didn't even remembered I had listed almost all same features already on my blog. so, I've updated it: <a href="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3?u=cregox">http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3?u=cregox</a> (updated 2015-12-26)</p></blockquote>
+<blockquote><p>squared photos! need to say more? -- as a progammer* I can say this app feels really snappy and it is insanely well done. reason why I will "rant" about missing features... -- yeah, sadly, it's not as resourceful as I'd want it - but then again no app is. please add (at least): "hdr" (i.e. better auto mode); multi focus; fast burst; 3d camera; strip out photos from film; time lapse; split twins; panorama; photo sphere; lens blur; manual exposure options; quick buttons for photo / video; slow motion with audio; double simultaneous camera layout and (above all) really quick start for taking photos on lock screen. -- writing this review from the top of my head, didn't even remembered I had listed almost all same features already on my blog. so, I've updated it: <a href="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3?u=cregox">/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3?u=cregox</a> (updated 2015-12-26)</p></blockquote>
 
 <p></p></details></p>
 
@@ -115,30 +115,30 @@ What do you think? Does it sound like a nice one?
 
 <p>The squared photo fits into this, as a way to auto improve quality in the end, without needing to worry about the camera tilting. In fact, Narrative Clip does get all of these right. Automatic opportunity quick photos should all be squared and rotated into standing position regardless of tilt, and it does it amazingly, with their server side software.</p>
 
-<p>Do notice <strong>none</strong> of the "<em>should be default</em>" <strong>add anything to the GUI</strong>. They're <strong>all</strong> <em>"hidden" features</em>. And do realize <strong>how valuable</strong> <a href="http://talk.cregox.com/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096">this checklist</a> should be to whoever wants to take on the quest to develop such an awesome camera app. Well, at least IMHO <a href="http://patreon.com/cregox">people should pay me</a> "good money" to come up with this list this well organized - given we are (I at least certainly am) still quite far from a <a href="https://www.patreon.com/scottsantens?ty=h">fair</a> <a href="https://en.wikipedia.org/wiki/Basic_income">basic income</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:"></p>
+<p>Do notice <strong>none</strong> of the "<em>should be default</em>" <strong>add anything to the GUI</strong>. They're <strong>all</strong> <em>"hidden" features</em>. And do realize <strong>how valuable</strong> <a href="/talk/t/checklist-for-a-good-enough-android-podcast-player-like-apples/7096">this checklist</a> should be to whoever wants to take on the quest to develop such an awesome camera app. Well, at least IMHO <a href="http://patreon.com/cregox">people should pay me</a> "good money" to come up with this list this well organized - given we are (I at least certainly am) still quite far from a <a href="https://www.patreon.com/scottsantens?ty=h">fair</a> <a href="https://en.wikipedia.org/wiki/Basic_income">basic income</a>! <img src="/talk/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:"></p>
 
-<p>I'd go as far as to say that ideally it would video record the whole moment you have a camera on, and create auto generated thumbnails out of best moments around the few seconds you'd press the shutter button, while still keeping the video later on in case you want to and it isn't garbage. But I guess the clip 2 will soon already do this as well! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>I'd go as far as to say that ideally it would video record the whole moment you have a camera on, and create auto generated thumbnails out of best moments around the few seconds you'd press the shutter button, while still keeping the video later on in case you want to and it isn't garbage. But I guess the clip 2 will soon already do this as well! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <h1>Too Long; Didn't Read;</h1>
 
 <p>Without having tried it yet, I think the only reason you should have any camera other than Narrative Clip 2 is to act as a backup. Or if you want to go "pro" / artistic and use lenses, or whatever.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3">Read full topic</a></p>
+          <p><a href="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3</link>
+        <link>/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3</link>
         <pubDate>Sat, 17 Oct 2015 06:05:49 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7647-3</guid>
-        <source url="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
+        <source url="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
       </item>
       <item>
         <title>Digressing about a hypothetical point-and-shoot to end all point-and-shoots</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="http://getnarrative.com/#/gtU6g2"><strong>Holy crap!</strong></a> <small>(referral link gives <em>karma</em> for both of you and me, and me and you...)</small></p>
 
-<p><a href="https://www.kickstarter.com/projects/martinkallstrom/memoto-lifelogging-camera">It has been done for at least an year now</a>! And soon there will be version 2. Just awesome, and almost everything on it is better than I had pictured (except 2 photos per minute doesn't seem so good)! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p><a href="https://www.kickstarter.com/projects/martinkallstrom/memoto-lifelogging-camera">It has been done for at least an year now</a>! And soon there will be version 2. Just awesome, and almost everything on it is better than I had pictured (except 2 photos per minute doesn't seem so good)! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
 
 <p>Now, how I found this is quite a narrow serendipity path...</p>
 
@@ -146,22 +146,22 @@ What do you think? Does it sound like a nice one?
 
 <a href="https://dl.dropboxusercontent.com/s/aov15kva5mftj4f/Screenshot%202015-07-03%2011.42.14.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/aov15kva5mftj4f/Screenshot%202015-07-03%2011.42.14.png?dl=0" width="380" height="290"></a>
 
-<p>And if you're wondering about the omni search tool I've mentioned, I couldn't find it yet. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="64" height="64"></p>
+<p>And if you're wondering about the omni search tool I've mentioned, I couldn't find it yet. <img src="/talk/images/emoji/emoji_one/frowning.png?v=0" title=":frowning:" class="emoji" alt="frowning" width="64" height="64"></p>
 
 <p><a href="http://synata.com">Synata</a> is actually the closest thing, which I found on <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=5&amp;cad=rja&amp;uact=8&amp;ved=0CDYQFjAE&amp;url=http%3A%2F%2Fwww.alfredforum.com%2Ftopic%2F3625-search-across-box-dropbox-google-apps-and-more-w-synata%2F&amp;ei=nciWVcCIDIPa-QHG_JmYDg&amp;usg=AFQjCNEZ1Lt_ZWvKSHczXfZoN3yRS4LVkw&amp;sig2=S0zm1h1oX_Jn-0FJjPydBQ">alfred forums</a> while googling for <code>search gmail dropbox calendar</code>, but it's only for google and dropbox (at least right now) and <a href="https://app.synata.com">the sign up is a bit overlooked</a> by their main site. And <strong>it ain't free</strong>, they just offer a trial!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/2">Read full topic</a></p>
+          <p><a href="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/2</link>
+        <link>/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/2</link>
         <pubDate>Fri, 03 Jul 2015 14:45:52 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7647-2</guid>
-        <source url="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
+        <source url="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
       </item>
       <item>
         <title>Digressing about a hypothetical point-and-shoot to end all point-and-shoots</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I was drawn to read <a href="http://www.engadget.com/2015/06/10/sony-rx100-iv-mark-4-hands-on">this engadget article</a> by its title: <em>Sony's new point-and-shoot is the point-and-shoot to end all point-and-shoots</em></p>
 
@@ -169,13 +169,13 @@ What do you think? Does it sound like a nice one?
 
 <p>The resolution is what you see here:</p>
 
-<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/0f0b9d39af5724b5ac3bb6c0d5ad79a4536d1a7b.gif" width="630" height="424"></p>
+<p><img src="/talk/uploads/default/original/1X/0f0b9d39af5724b5ac3bb6c0d5ad79a4536d1a7b.gif" width="630" height="424"></p>
 
 <p>But still quite amazing. It reminded me of an image recording device I would like, which would be a mix of GoPro and Google Glasses. And it could be done today! If only anyone would assemble it together...</p>
 
 <p>The idea is being able to record everything you see on the day, in video, and then allows to easily select moments to filter / edit later. So it would be always on, like the russian cameras, but it would also have a button (or some simple trigger) to mark a moment. Later on you could select the best frame around that time to pick a photo.</p>
 
-<p>I don't care for mega pixels, 2048px is good enough. Maybe even 640 would be, if the lens are good. I care for battery and for having it as natural as possible. A <strong>point-and-shooted</strong>. Now we're talking about a real point-and-shoot killer! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>I don't care for mega pixels, 2048px is good enough. Maybe even 640 would be, if the lens are good. I care for battery and for having it as natural as possible. A <strong>point-and-shooted</strong>. Now we're talking about a real point-and-shoot killer! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
 
 <p>I picture it would be some kind of sunglasses, since at first it would only do good at sun light anyway. And sure, it would have same social issues as google glasses, but it needs to be smooth and light to wear or else I just won't wear it the whole day. Simply take it off in bad lights ambients such as most indoors, and any bathrooms, and it should be fine, I'd hope.</p>
 
@@ -187,12 +187,12 @@ What do you think? Does it sound like a nice one?
 
 <p>What do you think? Does it sound like a nice one?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/1">Read full topic</a></p>
+          <p><a href="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/1</link>
+        <link>/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/1</link>
         <pubDate>Mon, 15 Jun 2015 12:52:07 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7647-1</guid>
-        <source url="http://talk.cregox.com/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
+        <source url="/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647.rss">Digressing about a hypothetical point-and-shoot to end all point-and-shoots</source>
       </item>
   </channel>
 </rss>

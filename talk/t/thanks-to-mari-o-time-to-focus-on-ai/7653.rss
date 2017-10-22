@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Thanks to MarI/O, time to focus on ai</title>
-    <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653</link>
+    <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653</link>
     <description>https://www.youtube.com/watch?v=qv6UVOQ0F44
 *The best Mario player I&#39;ve ever seen, made by [Seth Bling][1]*.
 
@@ -28,48 +28,48 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 
   [1]: http://sethbling.com/
-  [2]: http://talk.cregox.com/t/how-to-become-a-cloudfactory-worker/7649
-  [3]: http://talk.cregox.com/t/the-making-of-your-home/7491/5?u=cawas
+  [2]: /talk/t/how-to-become-a-cloudfactory-worker/7649
+  [3]: /talk/t/the-making-of-your-home/7491/5?u=cawas
   [4]: http://angel.co
   [5]: http://cortx.com/about/
-  [6]: http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71
-  [7]: http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636
+  [6]: /talk/t/how-i-would-build-intelligent-machines/71
+  [7]: /talk/t/from-wildcard-through-computers-to-the-unknown/7636
   [8]: http://slant.co
   [9]: https://scratch.mit.edu/projects/17273607/</description>
     <language>en</language>
     <lastBuildDate>Sat, 16 Jan 2016 04:27:46 +0000</lastBuildDate>
     <category>quest</category>
-    <atom:link href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>For some fresh news...</p>
 
 <p>I've <a href="https://github.com/basiux/basiux.github.io/commit/de06921c82c9957d161922760166f949234266b5">just updated</a> the website to add a few important markers on the <strong>first video, about Mar I/O <em>video</em></strong>. Then <a href="https://github.com/basiux/basiux.github.io/commit/e2434a33d48eef87609d6242a4221635f22c34df">again</a>. And <a href="https://github.com/basiux/basiux.github.io/commit/f581401fc5a7d81c07aba7eacd4f506d2a673868">again</a>.</p>
 
-<p>Probably the most important aspect of that <em>video</em> there is being able to view <a href="https://github.com/basiux/basiux.github.io/issues/3">the missing Neural Network (due to this open issue)</a>, or at least glimpse at what it could be if we can implement it mostly unchanged. It's also the most important issue to be resolved, <a href="http://talk.cregox.com/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819/1">right now</a>, for Mariox.</p>
+<p>Probably the most important aspect of that <em>video</em> there is being able to view <a href="https://github.com/basiux/basiux.github.io/issues/3">the missing Neural Network (due to this open issue)</a>, or at least glimpse at what it could be if we can implement it mostly unchanged. It's also the most important issue to be resolved, <a href="/talk/t/basiux-from-neural-networks-to-ai-singularity-the-new-slogan-created-after-a-sharktank-application/7819/1">right now</a>, for Mariox.</p>
 
-<p>Hope you can enjoy this! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>Hope you can enjoy this! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/14</link>
         <pubDate>Sat, 16 Jan 2016 04:27:46 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-14</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Almost 1 week I haven't touched code. And I probably should open a new topic just to keep track of things instead of editing the post above...</p>
 
-<p>Meanwhile, <a href="https://plus.google.com/+CaueRego/posts/7YesPVTpUZx">I did find</a> a fantastic video which should explain <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">the wait but why link on post #2</a> very well summarized!</p>
+<p>Meanwhile, <a href="https://plus.google.com/+CaueRego/posts/7YesPVTpUZx">I did find</a> a fantastic video which should explain <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">the wait but why link on post #2</a> very well summarized!</p>
 
 <div class="lazyYT" data-youtube-id="-Irmtk5QG8s" data-youtube-title="" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
@@ -81,22 +81,22 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>Still a <strong>brutal</strong> video!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/13">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/13">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/13</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/13</link>
         <pubDate>Sun, 06 Dec 2015 04:36:32 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-13</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <aside class="quote" data-post="8" data-topic="7653"><div class="title">
 <div class="quote-controls"></div>
-<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
+<img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
 <blockquote><p>Mariox will live, in javascript</p></blockquote></aside>
 
 <h1><a href="http://basiux.org">It's alive!!</a></h1>
@@ -117,13 +117,13 @@ I&#39;m not even going to bother to update anything else (including my website) 
 <li>splitted into many files for better organizing and anyone's learning experience or community contribution (still need to split more)</li>
 <li>created a simple include jQuery function on top of <code>getScript</code>, since <code>require.js</code> would be too much and <code>getScript</code> was not enough</li>
 <li>learned how to better use chrome's and safari's js console in general</li>
-<li>got a much better glimpse on how the Neural Network behind Mari-o actually works ( and so can you, just by looking it go in real time! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"> )</li>
+<li>got a much better glimpse on how the Neural Network behind Mari-o actually works ( and so can you, just by looking it go in real time! <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"> )</li>
 </ul>
 
 <p>What I've edited this post to mark as now done:</p>
 
 <ul>
-<li>make save file work: <strike>either faster compression and/or reducing <code>pool</code> size (which goes up to 80mb currently, don't know why) so we can make Mariox continuously learn as opposed of right now, always rebooting on browser reload</strike> using <a href="https://gist.github.com/cauerego/7b0001989b78977d0ce4">indexedDB</a> now (<a href="https://codenewbie.slack.com/archives/basiux/p1448758604000010">thanks again to Russel</a>)! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/+1.png?v=1" title=":+1:" class="emoji" alt=":+1:"> </li>
+<li>make save file work: <strike>either faster compression and/or reducing <code>pool</code> size (which goes up to 80mb currently, don't know why) so we can make Mariox continuously learn as opposed of right now, always rebooting on browser reload</strike> using <a href="https://gist.github.com/cauerego/7b0001989b78977d0ce4">indexedDB</a> now (<a href="https://codenewbie.slack.com/archives/basiux/p1448758604000010">thanks again to Russel</a>)! <img src="/talk/images/emoji/emoji_one/+1.png?v=1" title=":+1:" class="emoji" alt=":+1:"> </li>
 <li>identify when we are on the first screen (kind of) and press START, thus removing the button from Mariox's hands</li>
 <li>enable jsnes to save and load state (it was just a matter of storing the whole jsnes memory)</li>
 <li>"fixed" Gen bug - a new species should only appear when Mario dies, which is working properly after implementing save state on jsnes</li>
@@ -148,75 +148,75 @@ I&#39;m not even going to bother to update anything else (including my website) 
 <li>make it all generally a faster learning experience using saved states, but this can't be done (for instance) without identifying when Mario dies first. this goes in hands with the 2 bugs above and may not be necessary</li>
 <li>enable people to easily teach Mariox by playing along (with keyboard and such) for crowded assisted learning</li>
 <li>experiment with the NN and improve it: such as make a new generation to spawn only when mario actually dies</li>
-<li>prepare the ANN behind Mariox to become a basiux engine and a chatbot! (roadmap #3 after Whyx) <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:">
+<li>prepare the ANN behind Mariox to become a basiux engine and a chatbot! (roadmap #3 after Whyx) <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:">
 </li>
 </ul>
 
-<p>All right, maybe that last step can never really happen in practice, but I still picture ways it could... After all, looks like almost nobody really believed (including myself, for a while) I could come this far in "just 2 weeks", that it would take at least 1 year... So, there are somethings which are indeed possible! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunny.png?v=1" title=":sunny:" class="emoji" alt=":sunny:"></p>
+<p>All right, maybe that last step can never really happen in practice, but I still picture ways it could... After all, looks like almost nobody really believed (including myself, for a while) I could come this far in "just 2 weeks", that it would take at least 1 year... So, there are somethings which are indeed possible! <img src="/talk/images/emoji/emoji_one/sunny.png?v=1" title=":sunny:" class="emoji" alt=":sunny:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/12">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/12">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/12</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/12</link>
         <pubDate>Fri, 27 Nov 2015 22:03:46 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-12</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@sandraclark04 sandraclark04]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/sandraclark04">@sandraclark04</a> wrote:</p>
+          <p><a href="/talk/u/sandraclark04">@sandraclark04</a> wrote:</p>
           <blockquote>
               <p>yes , the WWW is on , but just out side! or inside too? lol</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/11">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/11">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/11</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/11</link>
         <pubDate>Mon, 23 Nov 2015 11:37:53 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-11</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@sandraclark04 sandraclark04]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/sandraclark04">@sandraclark04</a> wrote:</p>
+          <p><a href="/talk/u/sandraclark04">@sandraclark04</a> wrote:</p>
           <blockquote>
               <p>sometimes i do the same...but you wrote a lot , congrats!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/10">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/10">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/10</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/10</link>
         <pubDate>Mon, 23 Nov 2015 11:04:33 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-10</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@sandraclark04 sandraclark04]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/sandraclark04">@sandraclark04</a> wrote:</p>
+          <p><a href="/talk/u/sandraclark04">@sandraclark04</a> wrote:</p>
           <blockquote>
               <p>keeping going son!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/9">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/9">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/9</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/9</link>
         <pubDate>Mon, 23 Nov 2015 10:58:10 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-9</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>This will be a very dense post, that could as well be split in at least 2 topics. But well, I'll keep on the <a href="http://talk.cregox.com/t/about-the-open-draft-category/5811">"open draft" principle</a> for now...</p>
+              <p>This will be a very dense post, that could as well be split in at least 2 topics. But well, I'll keep on the <a href="/talk/t/about-the-open-draft-category/5811">"open draft" principle</a> for now...</p>
 
 <aside class="quote" data-post="6" data-topic="7653"><div class="title">
 <div class="quote-controls"></div>
-<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
+<img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
 <blockquote><p>Gotta study TF.</p></blockquote></aside>
 
 <p>Damn, 9 days since that happened. And I haven't wrote a single line of TF code. Nor will I.</p>
@@ -232,9 +232,9 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>I never really considered myself <strong>that much</strong> competent. And I'm already taking much longer, as I expected I would.</p>
 
-<p>Truth is I really only worked on Mariox for 1 day now (past Monday, right after his reply), and that was just to get to the point where he probably considered he started: having an emulator ready to take on scripts. I had to make it work with jsnes - and it’s was done within that day, <a href="https://codenewbie.slack.com/archives/ai/p1447631565001337">mostly thanks to some help of my newly friends</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>Truth is I really only worked on Mariox for 1 day now (past Monday, right after his reply), and that was just to get to the point where he probably considered he started: having an emulator ready to take on scripts. I had to make it work with jsnes - and it’s was done within that day, <a href="https://codenewbie.slack.com/archives/ai/p1447631565001337">mostly thanks to some help of my newly friends</a>! <img src="/talk/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt=":smiley:"></p>
 
-<p>And I still have 2 more things on my roadmap to Mariox before starting to effectively porting the code. It's basically I want to do it right, and I'm still learning more about docker + tutum and js bdd. 2 concepts that should not be missed for basiux engine. Even this in that "still learning" I ended up spending almost 0 hours this week, due to <a href="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">all my financial crisis</a> and trying to grasp what to do.</p>
+<p>And I still have 2 more things on my roadmap to Mariox before starting to effectively porting the code. It's basically I want to do it right, and I'm still learning more about docker + tutum and js bdd. 2 concepts that should not be missed for basiux engine. Even this in that "still learning" I ended up spending almost 0 hours this week, due to <a href="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">all my financial crisis</a> and trying to grasp what to do.</p>
 
 <p>Not to mention that...</p>
 
@@ -244,24 +244,24 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>Back to topic, this brings me to the great news of today: I had given me 1 week to finish this and by Tuesday had already gave up on it. I realized why I should never think so small ever again, and why I could never properly work with publicity agencies back in Sao Paulo. I can't think so small. I can't work for such a short period. <strong>I need to deliver quality work</strong>. This is not necessarily something good, it's just the way it is. If, for any event, I'm required to deliver fast work, I'll have a bigger chance of sucking bad at it - as I've already sucked many times.</p>
 
-<p>In any case, I need to do serious work without any due dates. Slowly and steadily. Here's my latest publishable <a href="http://www.cregox.com/projects">project</a> result of doing something like that: <a href="https://scratch.mit.edu/projects/17273607/#player">Formigas</a>, made in literally 1 week, from scratch to end, as far as I recall. I can deliver quality, and I will make Mariox even better. Eventually. It will be faster, of course, if I can find more people willing to help / human resources! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>In any case, I need to do serious work without any due dates. Slowly and steadily. Here's my latest publishable <a href="http://www.cregox.com/projects">project</a> result of doing something like that: <a href="https://scratch.mit.edu/projects/17273607/#player">Formigas</a>, made in literally 1 week, from scratch to end, as far as I recall. I can deliver quality, and I will make Mariox even better. Eventually. It will be faster, of course, if I can find more people willing to help / human resources! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <p>What this has to do with war? Well, I won't get into details but, in very, very short: war is a result of small thinking. Like the agencies. In My Humble Opinion. From every angle I try to understand history, politics, fights, etc, it's always about people getting too anxious, for their lives even or of others, and taking desperate measures thinking only about the short outcome. It will be better if I stop here, for now.</p>
 
 <p>Enough randomness for today!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/8">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/8">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/8</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/8</link>
         <pubDate>Sat, 21 Nov 2015 03:55:50 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-8</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Another update... (yes, I'm replying to topics instead of editing them, partially <a href="https://meta.discourse.org/t/free-to-edit-post-at-any-time/35516?u=cawas">thanks to discourse "stubbornness"</a>, mostly due to notifications, but also because these are progressive updates, not just rewording or better writing what I meant by the time of the first post).</p>
 
@@ -281,18 +281,18 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>This is <strong>huge</strong>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/7">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/7">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/7</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/7</link>
         <pubDate>Sun, 15 Nov 2015 12:11:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-7</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Well, something absolutely amazing just happened (okay, <a href="https://github.com/tensorflow/tensorflow">about 5 days ago</a> already).</p>
 
@@ -300,18 +300,18 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>Now that changes everything on my plans and I'm back to the scratch board for a while. Gotta study TF.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/6">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/6">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/6</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/6</link>
         <pubDate>Thu, 12 Nov 2015 11:39:22 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-6</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Gone to Ted x Lisbon yesterday. Looks like going to events is helping in giving me ideas on how to reduce the next steps...</p>
 
@@ -319,40 +319,40 @@ I&#39;m not even going to bother to update anything else (including my website) 
 
 <p>Mariox is that Mari-o remake in JavaScript I just talked about. But there is a big issue about it. I am just a progammer*, with almost no time to code properly. Maybe I could still be able to build the first basiux engine there, and I'm already surely trying (for 3 months). Reality however is <a href="https://github.com/basiux/basiux">I haven't done a single line of useful code</a> yet. I probably will need help.</p>
 
-<p>There comes WhyX. It is just a <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">"wait but why"</a> adapted play / presentation, which would need to include at least some parts from the 2 MarI/O videos and maybe some whatever trivia explanation on why everything I'm doing is having an X.</p>
+<p>There comes WhyX. It is just a <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">"wait but why"</a> adapted play / presentation, which would need to include at least some parts from the 2 MarI/O videos and maybe some whatever trivia explanation on why everything I'm doing is having an X.</p>
 
 <p>Maybe one of the most important aspects of basiux, which makes it so different from most other Ai projects, is the community aspect of it. Okay, we've got a very small group and just 1 person trying to code... But it is wide open for anyone to join. And <a href="http://www.meetup.com/artificial-intelligence-basiux-lisbon/">people already do join</a> even without knowing at all what it is. How can they know? There's too much written and too little explained. Succinctly enough, anyway.</p>
 
 <p>So, at least until the end of this year, I will commit to focus all my efforts on WhyX for bringing people in basiux, so we can move to the next step.</p>
 
-<p>Now the roadmap is getting much better! Just <em>imagine</em> what could happen... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Now the roadmap is getting much better! Just <em>imagine</em> what could happen... <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5</link>
         <pubDate>Sun, 01 Nov 2015 10:53:17 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-5</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Yesterday, after 2 different start ups and some other folks reaching out to me looking for partnership or some kind of feedback about improving their technology / Ai approach, I still was thinking my best bet to move forward with basiux is the Hutter prize.</p>
 
 <aside class="quote" data-post="1" data-topic="7681">
   <div class="title">
     <div class="quote-controls"></div>
-    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
-    <a href="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681">We need to accelerate the singularity!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+    <img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="/talk/t/we-need-to-accelerate-the-singularity/7681">We need to accelerate the singularity!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
   </div>
   <blockquote>We just need to do it, before general intelligence gets dangerous! 
 
 Artificial Super Intelligence is our current Holy Grail. It may be unattainable, it may not exist. But it may also be like going to the Moon! Although, unlike the main cold war escape device, it would possibly be reached only once and with more benefits that we could ever even imagine. 
 
-There's too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, <a href="http://talk.cregox.com/t/what-is-the-basiux/7675/1">enough have already bee…</a>
+There's too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, <a href="/talk/t/what-is-the-basiux/7675/1">enough have already bee…</a>
     <div class="topic-info">
     </div>
   </blockquote>
@@ -363,22 +363,22 @@ There's too much to be said about ASI and the technological singularity that wou
 
 <p>Today, just a few moments ago in fact, I did have one idea: adapt Mari-o to run on a web browser. Even if only with the good old <a href="https://github.com/bfirsh/jsnes">NES</a>! Now, if only I could find a js emulator able to run LUA, I wouldn't even need to adapt Seth's script just yet, and could at least easily run it, and let people run in their own machines, to better grasp what all this mean.</p>
 
-<p>It would help a whole lot to illustrate the subject of basiux! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>It would help a whole lot to illustrate the subject of basiux! <img src="/talk/images/emoji/emoji_one/smiley.png?v=0" title=":smiley:" class="emoji" alt=":smiley:"></p>
 
 <blockquote><p><em>me goes and start tinkering...</em></p></blockquote>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/4">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/4</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/4</link>
         <pubDate>Thu, 29 Oct 2015 22:13:55 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-4</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Now for a true quick update (to be edited)...</p>
 
@@ -390,20 +390,20 @@ There's too much to be said about ASI and the technological singularity that wou
 
 <p>And <a href="https://plus.google.com/collection/8JTrh">here is a collection of links</a> (many are new to this topic) that have been inspiring me and been quite instructive as well.</p>
 
-<p>Now I'm dreaming more and more to work with this asap! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smirk.png?v=0" title=":smirk:" class="emoji" alt="smirk" width="64" height="64"></p>
+<p>Now I'm dreaming more and more to work with this asap! <img src="/talk/images/emoji/emoji_one/smirk.png?v=0" title=":smirk:" class="emoji" alt="smirk" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/3">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/3</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/3</link>
         <pubDate>Wed, 22 Jul 2015 22:51:49 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-3</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <aside class="quote" data-post="1" data-topic="7653"><div class="title">
 <div class="quote-controls"></div>Cawas:</div>
@@ -417,7 +417,7 @@ There's too much to be said about ASI and the technological singularity that wou
 
 <blockquote><p>If you've read everything this far and no other external link other than the Mario video, you should probably stop now and read <strong>both</strong> parts there!</p></blockquote>
 
-<p><a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html"><img src="//talk-cdn.cregox.com/uploads/default/original/1X/c3358404471fe9de92f430c92ee555790fcd7624.gif" width="629" height="354"></a><br><em>To me, this is the most iconic image <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html">there</a></em></p>
+<p><a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html"><img src="/talk/uploads/default/original/1X/c3358404471fe9de92f430c92ee555790fcd7624.gif" width="629" height="354"></a><br><em>To me, this is the most iconic image <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution.html">there</a></em></p>
 
 <p>Done yet? Good.</p>
 
@@ -431,35 +431,35 @@ There's too much to be said about ASI and the technological singularity that wou
 
 <p>So yeah, I feel like more and more I get closer to what I should be focusing my whole life to... At the same time I feel so far from actually doing it, due to lack of resources. Could I even make any difference? How many people are in similar situation as I am? People who believe they could make at least a tiny difference there but are restrained by time and money?</p>
 
-<p>My quick update grew too big. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>My quick update grew too big. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2</link>
         <pubDate>Tue, 14 Jul 2015 01:17:37 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-2</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
       <item>
         <title>Thanks to MarI/O, time to focus on ai</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p></p><div class="lazyYT" data-youtube-id="qv6UVOQ0F44" data-youtube-title="MarI/O - Machine Learning for Video Games" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br><em>The best Mario player I've ever seen, made by <a href="http://sethbling.com/">Seth Bling</a></em>.
 
 <p>That video really inspired me into this new step on my still unnamed life quest.</p>
 
-<p>You see, I really need <a href="http://talk.cregox.com/t/how-to-become-a-cloudfactory-worker/7649">a job</a>. I even <a href="http://talk.cregox.com/t/the-making-of-your-home/7491/5?u=cawas">retired my startup "your home"</a> (in retrospect, by making it too expensive) because I need to focus on what matters. So, <strong>not any job</strong>. Out of about 70 companies I carefully looked on over a customized "<em>Artificial Intelligence</em>" <a href="http://angel.co">angel.co</a> search, which have a pretty nice selection of companies there, I must say <a href="http://cortx.com/about/">cortx</a> would be my first choice today.</p>
+<p>You see, I really need <a href="/talk/t/how-to-become-a-cloudfactory-worker/7649">a job</a>. I even <a href="/talk/t/the-making-of-your-home/7491/5?u=cawas">retired my startup "your home"</a> (in retrospect, by making it too expensive) because I need to focus on what matters. So, <strong>not any job</strong>. Out of about 70 companies I carefully looked on over a customized "<em>Artificial Intelligence</em>" <a href="http://angel.co">angel.co</a> search, which have a pretty nice selection of companies there, I must say <a href="http://cortx.com/about/">cortx</a> would be my first choice today.</p>
 
 <blockquote>
 <p>We aren’t looking to create the next social media sharing widget, or the next addicting free-to-play game. We solve real problems by taking nascent technology and applying it to industries where there is a lack of innovation. More importantly, everything we do is centered around the ambitious goal of building real artificial intelligence.</p>
 <p>Our primary goal is to make the world smarter.</p>
 </blockquote>
 
-<p>So is mine, and I couldn't have said it better. If you search these forums for keyword "<em>goal</em>" you'll see <a href="http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71">I've tried</a>.</p>
+<p>So is mine, and I couldn't have said it better. If you search these forums for keyword "<em>goal</em>" you'll see <a href="/talk/t/how-i-would-build-intelligent-machines/71">I've tried</a>.</p>
 
-<p>Anyway, recently the other one company <a href="http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636">I thought of focusing my energy</a> into getting a job is <a href="http://slant.co">slant</a>. I still do have that will, but it may be splitted soon, if I can find how.</p>
+<p>Anyway, recently the other one company <a href="/talk/t/from-wildcard-through-computers-to-the-unknown/7636">I thought of focusing my energy</a> into getting a job is <a href="http://slant.co">slant</a>. I still do have that will, but it may be splitted soon, if I can find how.</p>
 
 <p>All this means I want to build something that makes sense to either of you. Maybe a <em>specialist-finder-robot</em> or a <em>future-predicting-algorithm</em>. In any case, it will have to be some kind of <strong>A.I. capable of profiling</strong> (probably people) better than anything else out there.</p>
 
@@ -467,14 +467,14 @@ There's too much to be said about ASI and the technological singularity that wou
 
 <p><strong>Now it's time!</strong> </p>
 
-<p>I'm not even going to bother to update anything else (including my website) until I've got something done. This will probably take a few months... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/walking.png?v=0" title=":walking:" class="emoji" alt="walking" width="20" height="20"> </p>
+<p>I'm not even going to bother to update anything else (including my website) until I've got something done. This will probably take a few months... <img src="/talk/images/emoji/emoji_one/walking.png?v=0" title=":walking:" class="emoji" alt="walking" width="20" height="20"> </p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/1">Read full topic</a></p>
+          <p><a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/1</link>
+        <link>/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/1</link>
         <pubDate>Mon, 29 Jun 2015 18:37:38 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7653-1</guid>
-        <source url="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
+        <source url="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653.rss">Thanks to MarI/O, time to focus on ai</source>
       </item>
   </channel>
 </rss>

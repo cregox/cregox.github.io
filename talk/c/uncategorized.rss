@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>uncategorized - cregox talk</title>
-    <link>http://talk.cregox.com/c/uncategorized</link>
+    <link>/talk/c/uncategorized</link>
     <description>Topics in the &#39;uncategorized&#39; category </description>
     <language>en</language>
       <lastBuildDate>Mon, 01 Aug 2016 07:37:31 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/uncategorized.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/uncategorized.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>What is Artificial Intelligence (AI)?</title>
           <dc:creator><![CDATA[@KarthikaQpt Karthika Qpt]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/karthikaqpt">@KarthikaQpt</a> wrote:</p>
+            <p><a href="/talk/u/karthikaqpt">@KarthikaQpt</a> wrote:</p>
             <blockquote>
               <p>Watch this discussion to know about the <a href="https://www.youtube.com/watch?v=n2r8HP4amnU" rel="nofollow">artificial intelligence</a>.It clarifies more doubts related AI. </p>
 
@@ -20,24 +20,24 @@
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/what-is-artificial-intelligence-ai/7881">Read full topic</a></p>
+            <p><a href="/talk/t/what-is-artificial-intelligence-ai/7881">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/what-is-artificial-intelligence-ai/7881</link>
+          <link>/talk/t/what-is-artificial-intelligence-ai/7881</link>
           <pubDate>Mon, 01 Aug 2016 07:37:31 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7881</guid>
-          <source url="http://talk.cregox.com/t/what-is-artificial-intelligence-ai/7881.rss">What is Artificial Intelligence (AI)?</source>
+          <source url="/talk/t/what-is-artificial-intelligence-ai/7881.rss">What is Artificial Intelligence (AI)?</source>
         </item>
         <item>
           <title>Cast in portuguese</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p>Continuing the discussion from <a href="http://talk.cregox.com/t/cregox-cast-3-preparation-zero/7849">Cregox cast 3 - preparation zero</a>:</p>
+              <p>Continuing the discussion from <a href="/talk/t/cregox-cast-3-preparation-zero/7849">Cregox cast 3 - preparation zero</a>:</p>
 
 <p>now in portuguese and with both parents. already started. enough said.</p>
 
@@ -47,22 +47,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/cast-in-portuguese/7853">Read full topic</a></p>
+            <p><a href="/talk/t/cast-in-portuguese/7853">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/cast-in-portuguese/7853</link>
+          <link>/talk/t/cast-in-portuguese/7853</link>
           <pubDate>Sun, 28 Feb 2016 21:18:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7853</guid>
-          <source url="http://talk.cregox.com/t/cast-in-portuguese/7853.rss">Cast in portuguese</source>
+          <source url="/talk/t/cast-in-portuguese/7853.rss">Cast in portuguese</source>
         </item>
         <item>
           <title>Invitation to forming a theater group in lisbon</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>the original idea was to invite my previous group from ETA, back when I was in Sao Paulo.</p>
 
@@ -78,32 +78,32 @@
 
 <p><strong><em>dary!</em></strong></p>
 
-<p>wouldn't it? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>wouldn't it? <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
 
 <p>anyway, if it doesn't happen... <a href="https://www.youtube.com/watch?v=d-diB65scQU">don't worry</a>!</p>
 
-<p>edited: I've made this topic after talking with a friend (Amanda) and trying to convince her to participate by telling her a little story about my quest. I'll now build a new wiki page with that story as a meta making of story of the novel! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>edited: I've made this topic after talking with a friend (Amanda) and trying to convince her to participate by telling her a little story about my quest. I'll now build a new wiki page with that story as a meta making of story of the novel! <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <blockquote><p>(do read <a href="https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel">the making of</a>!)</p></blockquote>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/invitation-to-forming-a-theater-group-in-lisbon/7790">Read full topic</a></p>
+            <p><a href="/talk/t/invitation-to-forming-a-theater-group-in-lisbon/7790">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/invitation-to-forming-a-theater-group-in-lisbon/7790</link>
+          <link>/talk/t/invitation-to-forming-a-theater-group-in-lisbon/7790</link>
           <pubDate>Wed, 30 Dec 2015 13:46:13 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7790</guid>
-          <source url="http://talk.cregox.com/t/invitation-to-forming-a-theater-group-in-lisbon/7790.rss">Invitation to forming a theater group in lisbon</source>
+          <source url="/talk/t/invitation-to-forming-a-theater-group-in-lisbon/7790.rss">Invitation to forming a theater group in lisbon</source>
         </item>
         <item>
           <title>Porn and viruses</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Originally <a href="https://discuss.howtogeek.com/t/can-we-talk-about-anything-at-all-in-geek-life-how-about-porn-and-viruses/36348">posted it on HTG but it was "removed"</a> there (at least they don't <a href="https://meta.discourse.org/t/buying-other-questions/35207/7?u=cawas">just delete things</a>, looks like)... This was a "draft" 26 days ago, I think I'll never make it to a blog post, but now I rather post it somewhere anyway.</p>
 
@@ -121,30 +121,30 @@
 
 <p>Being the lazy progammer* I am, I didn't bother to verify this, so...</p>
 
-<p>Can anyone else confirm this? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>Can anyone else confirm this? <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
 
 <p>Also, if you'd want to know more, there's an almost completely unrelated spin off subject here, which comes from the origin of this link, in pornhub (thus the only relationship I could find between the 2 topics). It's one of the very few porn videos I consider educational, highly interesting, very well done and insightful as to bringing questions about sexuality. But still porn, probably made over 5 years ago.</p>
 
-<p>Do <a href="http://www.pornhub.com/view_video.php?viewkey=1394067450">take a look</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>Do <a href="http://www.pornhub.com/view_video.php?viewkey=1394067450">take a look</a>! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/porn-and-viruses/7732">Read full topic</a></p>
+            <p><a href="/talk/t/porn-and-viruses/7732">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/porn-and-viruses/7732</link>
+          <link>/talk/t/porn-and-viruses/7732</link>
           <pubDate>Sun, 18 Oct 2015 14:59:16 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7732</guid>
-          <source url="http://talk.cregox.com/t/porn-and-viruses/7732.rss">Porn and viruses</source>
+          <source url="/talk/t/porn-and-viruses/7732.rss">Porn and viruses</source>
         </item>
         <item>
           <title>Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <p><a href="/talk/u/system">@system</a> wrote:</p>
             <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>outstyledonline@gmail.com:</div>
@@ -158,22 +158,22 @@ Cass</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584">Read full topic</a></p>
+            <p><a href="/talk/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584</link>
+          <link>/talk/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584</link>
           <pubDate>Sun, 03 May 2015 04:08:14 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7584</guid>
-          <source url="http://talk.cregox.com/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584.rss">Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</source>
+          <source url="/talk/t/re-cregox-talk-support-inbox-pagination-for-shop-page-and-pages-width/7584.rss">Re: [cregox talk] [support/inbox] Pagination for shop page and pages width</source>
         </item>
         <item>
           <title>RE: [cregox talk] [portuguese] Cidadnia Portuguesa</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>uncategorized</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+            <p><a href="/talk/u/system">@system</a> wrote:</p>
             <blockquote>
               <aside class="quote"><div class="title">
 <div class="quote-controls"></div>wangrybonk-47599L@adv.oa.pt:</div>
@@ -204,7 +204,7 @@ Portugal | Brasil</p>
 <p>Assunto: [cregox talk] [portuguese] Cidadnia Portuguesa</p>
 <p>Data: 10 de Abril de 2015 às 01:35:09 WEST</p>
 <p>Para: wangrybonk@hotmail.com</p>
-<p>  <a href="http://talk-cdn.cregox.com/user_avatar/talk.cregox.com/cawas/45/60.png">http://talk-cdn.cregox.com/user_avatar/talk.cregox.com/cawas/45/60.png</a></p>
+<p>  <a href="/talk/user_avatar/talk.cregox.com/cawas/45/60.png">/talk/user_avatar/talk.cregox.com/cawas/45/60.png</a></p>
 <p> <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiZFhucTFwd2M2M2FHbWJkWVQyb1Nodl9TbDNNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3VzZXJzXFxcL2Nhd2FzXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI2ZmQxYTBhNGI1YTA3ZmFiZWZjYWY4NDdhM2E0NzA3MjM1ZTgzY2RmXCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiZFhucTFwd2M2M2FHbWJkWVQyb1Nodl9TbDNNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3VzZXJzXFxcL2Nhd2FzXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI2ZmQxYTBhNGI1YTA3ZmFiZWZjYWY4NDdhM2E0NzA3MjM1ZTgzY2RmXCJdfSJ9</a> Cawas  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiZFhucTFwd2M2M2FHbWJkWVQyb1Nodl9TbDNNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3VzZXJzXFxcL2Nhd2FzXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI2ZmQxYTBhNGI1YTA3ZmFiZWZjYWY4NDdhM2E0NzA3MjM1ZTgzY2RmXCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiZFhucTFwd2M2M2FHbWJkWVQyb1Nodl9TbDNNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3VzZXJzXFxcL2Nhd2FzXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI2ZmQxYTBhNGI1YTA3ZmFiZWZjYWY4NDdhM2E0NzA3MjM1ZTgzY2RmXCJdfSJ9</a> Caue mr untitled
 April 8</p>
 <p>Boa Tarde Wangry, ainda tenho interesse e algumas dúvidas sobre a cidadania sim.</p>
@@ -212,23 +212,23 @@ April 8</p>
 <p>Continuo  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9</a> em união estável sem saber quais todos procedimentos que podemos tomar e cogitando cada vez mais  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9</a> arriscar ir para Lisboa usando a pouca mas provavelmente suficiente reserva que temos.</p>
 <p>E tenho uma dúvida nova: você sabe dizer se o visto de trabalho português, que parece ser a única coisa que eu teria direito a princípio, serviria para trabalhar também em outros países da união européia? E na Alemanha?</p>
 <p>Então, se estiver interessada em ajudar, grande parte das questões levantadas nos links acima (repetidos abaixo) continuam válidas mesmo hoje:</p>
-<p>  <a href="http://talk.cregox.com/user_avatar/talk.cregox.com/cawas/40/60.png">http://talk.cregox.com/user_avatar/talk.cregox.com/cawas/40/60.png</a>  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9</a> Cidadania portuguesa através de união estável  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a> blog</p>
+<p>  <a href="/talk/user_avatar/talk.cregox.com/cawas/40/60.png">/talk/user_avatar/talk.cregox.com/cawas/40/60.png</a>  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9</a> Cidadania portuguesa através de união estável  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a> blog</p>
 <p>Não é de hoje que  <a href="http://mandrillapp.com/track/click/30239550/www.cregox.com?p=eyJzIjoieUFzVzNHR0Q3WmpSRnlQYnpBa2RNWEhXVEVzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmNyZWdveC5jb21cXFwvYmxvZ1xcXC8yMDEwXFxcLzA0XFxcL3Zpc3RvLWRlLXR1cmlzdGEtcHJvcy1ldWEtcmVjdXNhZG8tcGVsYS5odG1sXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIyMGM4OTFlNmFiZGE3ZGU3MDc3ODM2NzYxODZmMjdhNDU5ZmRmYTEzXCJdfSJ9">http://mandrillapp.com/track/click/30239550/www.cregox.com?p=eyJzIjoieUFzVzNHR0Q3WmpSRnlQYnpBa2RNWEhXVEVzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmNyZWdveC5jb21cXFwvYmxvZ1xcXC8yMDEwXFxcLzA0XFxcL3Zpc3RvLWRlLXR1cmlzdGEtcHJvcy1ldWEtcmVjdXNhZG8tcGVsYS5odG1sXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIyMGM4OTFlNmFiZGE3ZGU3MDc3ODM2NzYxODZmMjdhNDU5ZmRmYTEzXCJdfSJ9</a> quero sair do Brasil, por diversos motivos. Um dos principais é que a principal cidade que lida com computadores e tecnologia da informação, São Paulo, é um péssimo lugar para se viver e até mesmo trabalhar na área. O Brasil está muito atrás. Não existe cultura suficiente e o pouco que existe é extremamente elitizada. Enfim, de volta ao tópico... O consulado e as  <a href="http://mandrillapp.com/track/click/30239550/consuladoportugalsp.org.br?p=eyJzIjoiNjFDWG90SUkzejlrNEZ5cHNIZzNBZ2hXc2pzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvY29uc3VsYWRvcG9ydHVnYWxzcC5vcmcuYnJcXFwvc2VudGVuY2EtanVkaWNpYWwtZGEtdW5pYW8tZGUtZmFjdG9cXFwvXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4OGU5NGEzYjEyY2RjOWFjNWI0MjdhMWM1YTQ5NTJlMWQ5MDg0ZTI5XCJdfSJ9">http://mandrillapp.com/track/click/30239550/consuladoportugalsp.org.br?p=eyJzIjoiNjFDWG90SUkzejlrNEZ5cHNIZzNBZ2hXc2pzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvY29uc3VsYWRvcG9ydHVnYWxzcC5vcmcuYnJcXFwvc2VudGVuY2EtanVkaWNpYWwtZGEtdW5pYW8tZGUtZmFjdG9cXFwvXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4OGU5NGEzYjEyY2RjOWFjNWI0MjdhMWM1YTQ5NTJlMWQ5MDg0ZTI5XCJdfSJ9</a> informações oficiais são extremamente confusas (e muitas vezes até mesmo erradas): Atenção: O Instituto de Registo…</p>
-<p>  <a href="http://talk.cregox.com/user_avatar/talk.cregox.com/cawas/40/60.png">http://talk.cregox.com/user_avatar/talk.cregox.com/cawas/40/60.png</a>  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9</a> Quais os custos e requisitos para morar em Lisboa?  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a> blog</p>
+<p>  <a href="/talk/user_avatar/talk.cregox.com/cawas/40/60.png">/talk/user_avatar/talk.cregox.com/cawas/40/60.png</a>  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiaUxUSWRUSHFSMWhRekoxTWxBejB5czVQWV93IiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvcXVhaXMtb3MtY3VzdG9zLWUtcmVxdWlzaXRvcy1wYXJhLW1vcmFyLWVtLWxpc2JvYVxcXC83MTA5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0OGNjNGQ2NmRhNTgxMWM4YjU1OTY5ZGY2NGRlNTcyOTRhMWFlNjZkXCJdfSJ9</a> Quais os custos e requisitos para morar em Lisboa?  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a>   <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiSGN0bmlvMHBwX3hYR252SklNcnNSMkdsM1pFIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL2NcXFwvcG9ydHVndWVzZVxcXC9ibG9nXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI4NWMxOTNlZjFlMGJkZWU0NGI2NWZmYjU4MDBjN2YxOWYyNDU5MzM3XCJdfSJ9</a> blog</p>
 <p>  [image] Continuando  <a href="http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9">http://mandrillapp.com/track/click/30239550/talk.cregox.com?p=eyJzIjoiekZPSUpaVlhMZE5Xa3dNN1ZtUlNMeUtkMUJnIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGFsay5jcmVnb3guY29tXFxcL3RcXFwvY2lkYWRhbmlhLXBvcnR1Z3Vlc2EtYXRyYXZlcy1kZS11bmlhby1lc3RhdmVsLWNyZWdveFxcXC81NTk5XCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCIzYjQ3MzIzZTZiOWE5NzRiNjQ5ZTNjOTA3NTUwMjA5N2I3NWNhMTA5XCJdfSJ9</a> Cidadania portuguesa através de união estável — cregox: Com toda  <a href="http://mandrillapp.com/track/click/30239550/www1.folha.uol.com.br?p=eyJzIjoieGpyMzJWM3FDN1VudjRuRHpLczhIck9TdlFNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3MS5mb2xoYS51b2wuY29tLmJyXFxcL2VzcGVjaWFsXFxcLzIwMTRcXFwvY3Jpc2UtZGEtYWd1YVxcXC9cIixcImlkXCI6XCJlMGFjMzJiMTk1Y2Q0YzNmYWNhMTk5MWQwYWRjOTQ4OFwiLFwidXJsX2lkc1wiOltcImUzMDdlZTZkZmExYTZhOGY4MmQ5MDhiMGY2M2NiMzcyZDJmYWEzM2VcIl19In0">http://mandrillapp.com/track/click/30239550/www1.folha.uol.com.br?p=eyJzIjoieGpyMzJWM3FDN1VudjRuRHpLczhIck9TdlFNIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3MS5mb2xoYS51b2wuY29tLmJyXFxcL2VzcGVjaWFsXFxcLzIwMTRcXFwvY3Jpc2UtZGEtYWd1YVxcXC9cIixcImlkXCI6XCJlMGFjMzJiMTk1Y2Q0YzNmYWNhMTk5MWQwYWRjOTQ4OFwiLFwidXJsX2lkc1wiOltcImUzMDdlZTZkZmExYTZhOGY4MmQ5MDhiMGY2M2NiMzcyZDJmYWEzM2VcIl19In0</a> a crise de água ficando  <a href="http://mandrillapp.com/track/click/30239550/super.abril.com.br?p=eyJzIjoiOURxeE9zNkpKZGpISkFxSXZid2Z1QUxiNXJzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvc3VwZXIuYWJyaWwuY29tLmJyXFxcL2NyaXNlLWFndWFcXFwvb2Z1bmRvZG9wb2NvLnNodG1sXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0MjcxMDNkYjU1NWM4MWQ5ZmQ2M2UwZjNmODI1ZGExYWM4ZjgzZTk4XCJdfSJ9">http://mandrillapp.com/track/click/30239550/super.abril.com.br?p=eyJzIjoiOURxeE9zNkpKZGpISkFxSXZid2Z1QUxiNXJzIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvc3VwZXIuYWJyaWwuY29tLmJyXFxcL2NyaXNlLWFndWFcXFwvb2Z1bmRvZG9wb2NvLnNodG1sXCIsXCJpZFwiOlwiZTBhYzMyYjE5NWNkNGMzZmFjYTE5OTFkMGFkYzk0ODhcIixcInVybF9pZHNcIjpbXCI0MjcxMDNkYjU1NWM4MWQ5ZmQ2M2UwZjNmODI1ZGExYWM4ZjgzZTk4XCJdfSJ9</a> cada vez mais séria em São Paulo, as chances de me mudar logo para fora da cidade aumentam, junto com a possibilidade de ir para Portugal. Provavelmente Lisboa. Adicionalmente, há menos de uma semana postei  <a href="http://mandrillapp.com/track/click/30239550/www.internations.org?p=eyJzIjoiYWktZmp0TlhHc0lYSjQtSDdjZjJjc1puZklJIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmludGVybmF0aW9ucy5vcmdcXFwvZm9ydW1cXFwvc2hvd19wb3N0XFxcLzE0ODg2MDMjMTQ4ODYwM1wiLFwiaWRcIjpcImUwYWMzMmIxOTVjZDRjM2ZhY2ExOTkxZDBhZGM5NDg4XCIsXCJ1cmxfaWRzXCI6W1wiY2RiMTMxODhhOWM3NzIyOGFjYjlkYmQzYjI2NGYyMWJhNmVjMjI1ZlwiXX0ifQ">http://mandrillapp.com/track/click/30239550/www.internations.org?p=eyJzIjoiYWktZmp0TlhHc0lYSjQtSDdjZjJjc1puZklJIiwidiI6MSwicCI6IntcInVcIjozMDIzOTU1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmludGVybmF0aW9ucy5vcmdcXFwvZm9ydW1cXFwvc2hvd19wb3N0XFxcLzE0ODg2MDMjMTQ4ODYwM1wiLFwiaWRcIjpcImUwYWMzMmIxOTVjZDRjM2ZhY2ExOTkxZDBhZGM5NDg4XCIsXCJ1cmxfaWRzXCI6W1wiY2RiMTMxODhhOWM3NzIyOGFjYjlkYmQzYjI2NGYyMWJhNmVjMjI1ZlwiXX0ifQ</a> várias perguntas no internations e decidi traduzi-las aqui, aonde será mais fácil ir atualizando conforme vão sendo respondidas. Aluguel Quais são os requisitos? Como o con…</p>
 </blockquote></aside>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577">Read full topic</a></p>
+            <p><a href="/talk/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577</link>
+          <link>/talk/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577</link>
           <pubDate>Mon, 27 Apr 2015 10:43:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7577</guid>
-          <source url="http://talk.cregox.com/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577.rss">RE: [cregox talk] [portuguese] Cidadnia Portuguesa</source>
+          <source url="/talk/t/re-cregox-talk-portuguese-cidadnia-portuguesa/7577.rss">RE: [cregox talk] [portuguese] Cidadnia Portuguesa</source>
         </item>
   </channel>
 </rss>

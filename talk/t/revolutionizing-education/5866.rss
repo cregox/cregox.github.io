@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Revolutionizing education</title>
-    <link>http://talk.cregox.com/t/revolutionizing-education/5866</link>
+    <link>/talk/t/revolutionizing-education/5866</link>
     <description>I just saw the following video which I found in [fucking love science](http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education?utm_content=bufferc3784&amp;utm_medium=social&amp;utm_source=plus.google.com&amp;utm_campaign=buffer):
 https://www.youtube.com/watch?v=GEmuEWjHr5c
 
@@ -42,12 +42,12 @@ Make a group. A small group. Make the goal crystal clear within it. Grow. Spread
     <language>en</language>
     <lastBuildDate>Thu, 18 Dec 2014 10:05:15 +0000</lastBuildDate>
     <category>spoilers</category>
-    <atom:link href="http://talk.cregox.com/t/revolutionizing-education/5866.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/revolutionizing-education/5866.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Revolutionizing education</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I just saw the following video which I found in <a href="http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education?utm_content=bufferc3784&amp;utm_medium=social&amp;utm_source=plus.google.com&amp;utm_campaign=buffer">fucking love science</a>:<br></p><div class="lazyYT" data-youtube-id="GEmuEWjHr5c" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
@@ -79,12 +79,12 @@ Make a group. A small group. Make the goal crystal clear within it. Grow. Spread
 
 <p>(to be continued)</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/revolutionizing-education/5866/1">Read full topic</a></p>
+          <p><a href="/talk/t/revolutionizing-education/5866/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/revolutionizing-education/5866/1</link>
+        <link>/talk/t/revolutionizing-education/5866/1</link>
         <pubDate>Thu, 18 Dec 2014 10:05:15 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5866-1</guid>
-        <source url="http://talk.cregox.com/t/revolutionizing-education/5866.rss">Revolutionizing education</source>
+        <source url="/talk/t/revolutionizing-education/5866.rss">Revolutionizing education</source>
       </item>
   </channel>
 </rss>

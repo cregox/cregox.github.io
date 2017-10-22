@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Reality philosophy time - mostly about education</title>
-    <link>http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754</link>
+    <link>/talk/t/reality-philosophy-time-mostly-about-education/7754</link>
     <description>I just [wrote this](https://discuss.howtogeek.com/t/why-the-idea-of-free-content-can-work-against-you-on-the-internet/37668/7?u=cawas) on HTG:
 
 &gt; Some things in life can&#39;t be simply learned through analogies.
@@ -29,12 +29,12 @@ Meanwhile, we can make everyone&#39;s life more enjoyable by finding other ways 
     <language>en</language>
     <lastBuildDate>Wed, 18 Nov 2015 14:42:46 +0000</lastBuildDate>
     <category>spoilers</category>
-    <atom:link href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/reality-philosophy-time-mostly-about-education/7754.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Reality philosophy time - mostly about education</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>I just <a href="https://discuss.howtogeek.com/t/why-the-idea-of-free-content-can-work-against-you-on-the-internet/37668/7?u=cawas">wrote this</a> on HTG:</p>
 
@@ -61,12 +61,12 @@ Meanwhile, we can make everyone&#39;s life more enjoyable by finding other ways 
 
 <p>Meanwhile, we can make everyone's life more enjoyable by finding other ways of challenging our minds than killing each other, fighting over land or energy, and all else Lennon said, by just acquiring conscious of all this whole fantastic existence.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754/1">Read full topic</a></p>
+          <p><a href="/talk/t/reality-philosophy-time-mostly-about-education/7754/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754/1</link>
+        <link>/talk/t/reality-philosophy-time-mostly-about-education/7754/1</link>
         <pubDate>Wed, 18 Nov 2015 13:03:24 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7754-1</guid>
-        <source url="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754.rss">Reality philosophy time - mostly about education</source>
+        <source url="/talk/t/reality-philosophy-time-mostly-about-education/7754.rss">Reality philosophy time - mostly about education</source>
       </item>
   </channel>
 </rss>

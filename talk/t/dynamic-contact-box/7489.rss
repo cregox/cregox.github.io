@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Dynamic &quot;contact box&quot;</title>
-    <link>http://talk.cregox.com/t/dynamic-contact-box/7489</link>
+    <link>/talk/t/dynamic-contact-box/7489</link>
     <description>Hi, 
 
 I have a special request from a client. He wants a &quot;contact box&quot; that appears after some seconds.
@@ -20,12 +20,12 @@ Tor Martin</description>
     <language>en</language>
     <lastBuildDate>Thu, 19 Mar 2015 23:49:43 +0000</lastBuildDate>
     <category>closing</category>
-    <atom:link href="http://talk.cregox.com/t/dynamic-contact-box/7489.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/dynamic-contact-box/7489.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Dynamic &quot;contact box&quot;</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Looks like you want basically is a <a href="http://help.squarespace.com/guides/using-the-form-block#toc-enable-the-lightbox">lightbox form</a>. But with a little twist to make it "appear after some time". To make it in all pages, you can use the <a href="http://help.squarespace.com/guides/adding-content-to-a-footer">footer</a>.</p>
 
@@ -33,18 +33,18 @@ Tor Martin</description>
 
 <p>The delay, in fact, would be basically this, reversed: <a href="http://stackoverflow.com/questions/7288669/jquery-div-show-delay5000-hide-doesnt-work">http://stackoverflow.com/questions/7288669/jquery-div-show-delay5000-hide-doesnt-work</a></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/dynamic-contact-box/7489/2">Read full topic</a></p>
+          <p><a href="/talk/t/dynamic-contact-box/7489/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/dynamic-contact-box/7489/2</link>
+        <link>/talk/t/dynamic-contact-box/7489/2</link>
         <pubDate>Thu, 19 Mar 2015 23:49:43 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7489-2</guid>
-        <source url="http://talk.cregox.com/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
+        <source url="/talk/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
       </item>
       <item>
         <title>Dynamic &quot;contact box&quot;</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, </p>
 
@@ -58,12 +58,12 @@ Tor Martin</description>
 
 <p>Regards, <br>Tor Martin</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/dynamic-contact-box/7489/1">Read full topic</a></p>
+          <p><a href="/talk/t/dynamic-contact-box/7489/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/dynamic-contact-box/7489/1</link>
+        <link>/talk/t/dynamic-contact-box/7489/1</link>
         <pubDate>Thu, 19 Mar 2015 22:54:35 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7489-1</guid>
-        <source url="http://talk.cregox.com/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
+        <source url="/talk/t/dynamic-contact-box/7489.rss">Dynamic &quot;contact box&quot;</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Ubuntu is still rocking solid!</title>
-    <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686</link>
+    <link>/talk/t/ubuntu-is-still-rocking-solid/7686</link>
     <description>(Quick?) Nostalgic post.
 
 It&#39;s been almost 6 years since I used Ubuntu for at least 1 day. Really using it to accomplish anything for myself. Yesterday, that was working a bit on emails and studying.
@@ -42,12 +42,12 @@ One of those items keep coming back. **rsync**. I wondered why we still haven&#3
     <language>en</language>
     <lastBuildDate>Sun, 16 Aug 2015 04:45:42 +0000</lastBuildDate>
     <category>spoilers</category>
-    <atom:link href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/ubuntu-is-still-rocking-solid/7686.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Ubuntu is still rocking solid!</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>(Quick?) Nostalgic post.</p>
 
@@ -75,16 +75,16 @@ One of those items keep coming back. **rsync**. I wondered why we still haven&#3
 
 <p>Ubuntu now have a great network manager, but none of the other items! Maybe it has a better log system monitor, I haven't checked. But I doubt it.</p>
 
-<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
+<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
 
 <p>One of those items keep coming back. <strong>rsync</strong>. I wondered why we still haven't got this right anywhere, <strong>specially</strong> in Ubuntu where it should be easy to implement. Why not?!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686/1">Read full topic</a></p>
+          <p><a href="/talk/t/ubuntu-is-still-rocking-solid/7686/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686/1</link>
+        <link>/talk/t/ubuntu-is-still-rocking-solid/7686/1</link>
         <pubDate>Sun, 16 Aug 2015 04:45:42 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7686-1</guid>
-        <source url="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
+        <source url="/talk/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
       </item>
   </channel>
 </rss>

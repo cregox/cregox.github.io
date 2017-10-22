@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the private category</title>
-    <link>http://talk.cregox.com/t/about-the-private-category/7440</link>
+    <link>/talk/t/about-the-private-category/7440</link>
     <description>Welcome to [cregox public forums][1]!
 
 **All topics here are unlisted**. This means they are not displayed in any topic lists and **the only way to access them** is via direct link.
@@ -11,31 +11,31 @@
 
 
   [1]: http://talk.cregox.com
-  [2]: http://talk.cregox.com/c/support/private
-  [3]: http://talk.cregox.com/c/support
-  [4]: http://talk.cregox.com/t/about-the-support-category/5839</description>
+  [2]: /talk/c/support/private
+  [3]: /talk/c/support
+  [4]: /talk/t/about-the-support-category/5839</description>
     <language>en</language>
     <lastBuildDate>Mon, 02 Mar 2015 12:41:07 +0000</lastBuildDate>
     <category>private</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-private-category/7440.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-private-category/7440.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the private category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>!</p>
 
 <p><strong>All topics here are unlisted</strong>. This means they are not displayed in any topic lists and <strong>the only way to access them</strong> is via direct link.</p>
 
-<p><a href="http://talk.cregox.com/c/support/private">This category</a> is a subcategory of <a href="http://talk.cregox.com/c/support">support</a>. Refer to <a href="http://talk.cregox.com/t/about-the-support-category/5839">its about</a> for more info.</p>
+<p><a href="/talk/c/support/private">This category</a> is a subcategory of <a href="/talk/c/support">support</a>. Refer to <a href="/talk/t/about-the-support-category/5839">its about</a> for more info.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-private-category/7440/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-private-category/7440/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-private-category/7440/1</link>
+        <link>/talk/t/about-the-private-category/7440/1</link>
         <pubDate>Mon, 02 Mar 2015 12:35:52 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7440-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-private-category/7440.rss">About the private category</source>
+        <source url="/talk/t/about-the-private-category/7440.rss">About the private category</source>
       </item>
   </channel>
 </rss>

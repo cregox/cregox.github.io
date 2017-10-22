@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Spoiler tag not working</title>
-    <link>http://talk.cregox.com/t/spoiler-tag-not-working/7648</link>
+    <link>/talk/t/spoiler-tag-not-working/7648</link>
     <description>[spoiler]This should work.[/spoiler] Why doesn&#39;t it?
 
 The above line&#39;s source is like the below:
@@ -11,12 +11,12 @@ The above line&#39;s source is like the below:
     <language>en</language>
     <lastBuildDate>Wed, 17 Jun 2015 16:32:20 +0000</lastBuildDate>
     <category>meta</category>
-    <atom:link href="http://talk.cregox.com/t/spoiler-tag-not-working/7648.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/spoiler-tag-not-working/7648.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Spoiler tag not working</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><span class="spoiler">This should work.</span> Why doesn't it?</p>
 
@@ -24,12 +24,12 @@ The above line&#39;s source is like the below:
 
 <p><code>[spoiler]This should work.[/spoiler] Why doesn't it?</code></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/spoiler-tag-not-working/7648/1">Read full topic</a></p>
+          <p><a href="/talk/t/spoiler-tag-not-working/7648/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/spoiler-tag-not-working/7648/1</link>
+        <link>/talk/t/spoiler-tag-not-working/7648/1</link>
         <pubDate>Wed, 17 Jun 2015 16:32:20 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7648-1</guid>
-        <source url="http://talk.cregox.com/t/spoiler-tag-not-working/7648.rss">Spoiler tag not working</source>
+        <source url="/talk/t/spoiler-tag-not-working/7648.rss">Spoiler tag not working</source>
       </item>
   </channel>
 </rss>

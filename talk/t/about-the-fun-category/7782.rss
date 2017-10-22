@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the fun category</title>
-    <link>http://talk.cregox.com/t/about-the-fun-category/7782</link>
-    <description>Short posts (with descriptive long titles) about **funny things**. Hit the `watching` button to quickly get notified of [almost everything](http://talk.cregox.com/t/about-the-buffer-category/7780) cregox is up to, around whatafuck! :blowfish:</description>
+    <link>/talk/t/about-the-fun-category/7782</link>
+    <description>Short posts (with descriptive long titles) about **funny things**. Hit the `watching` button to quickly get notified of [almost everything](/talk/t/about-the-buffer-category/7780) cregox is up to, around whatafuck! :blowfish:</description>
     <language>en</language>
     <lastBuildDate>Sat, 16 Jan 2016 10:08:55 +0000</lastBuildDate>
     <category>fun</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-fun-category/7782.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-fun-category/7782.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the fun category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
-              <p>Short posts (with descriptive long titles) about <strong>funny things</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="http://talk.cregox.com/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, around whatafuck! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blowfish.png?v=1" title=":blowfish:" class="emoji" alt=":blowfish:"></p>
+              <p>Short posts (with descriptive long titles) about <strong>funny things</strong>. Hit the <code>watching</code> button to quickly get notified of <a href="/talk/t/about-the-buffer-category/7780">almost everything</a> cregox is up to, around whatafuck! <img src="/talk/images/emoji/emoji_one/blowfish.png?v=1" title=":blowfish:" class="emoji" alt=":blowfish:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-fun-category/7782/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-fun-category/7782/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-fun-category/7782/1</link>
+        <link>/talk/t/about-the-fun-category/7782/1</link>
         <pubDate>Sun, 27 Dec 2015 15:21:05 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7782-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-fun-category/7782.rss">About the fun category</source>
+        <source url="/talk/t/about-the-fun-category/7782.rss">About the fun category</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the support category</title>
-    <link>http://talk.cregox.com/t/about-the-support-category/5839</link>
+    <link>/talk/t/about-the-support-category/5839</link>
     <description>Welcome to [cregox public forums][1]!
 
 Any request for support should go here. Such as e-mails sent to [help@cregox.com][2].
@@ -15,16 +15,16 @@ This is traditionally a support page for my work as computer specialist, such as
   [3]: http://cregox.com/your-home
   [4]: http://specialists.squarespace.com/cregox
   [5]: http://cregox.com/projects
-  [6]: http://talk.cregox.com/t/using-these-forums-for-customer-support/7410?u=cawas</description>
+  [6]: /talk/t/using-these-forums-for-customer-support/7410?u=cawas</description>
     <language>en</language>
     <lastBuildDate>Mon, 29 Jun 2015 18:35:13 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-support-category/5839.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-support-category/5839.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the support category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Welcome to <a href="http://talk.cregox.com">cregox public forums</a>!</p>
 
@@ -32,12 +32,12 @@ This is traditionally a support page for my work as computer specialist, such as
 
 <p>This is traditionally a support page for my work as computer specialist, such as the <strong>discontinued</strong> one <a href="http://cregox.com/your-home">offered on "your-home"</a>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-support-category/5839/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-support-category/5839/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-support-category/5839/1</link>
+        <link>/talk/t/about-the-support-category/5839/1</link>
         <pubDate>Wed, 17 Dec 2014 14:03:22 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5839-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-support-category/5839.rss">About the support category</source>
+        <source url="/talk/t/about-the-support-category/5839.rss">About the support category</source>
       </item>
   </channel>
 </rss>

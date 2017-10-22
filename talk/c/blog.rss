@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>blog - cregox talk</title>
-    <link>http://talk.cregox.com/c/blog</link>
+    <link>/talk/c/blog</link>
     <description>Topics in the &#39;blog&#39; category A lot of cregox&#39;s ramblings and somewhat incoherent thoughts very much shaped by the brazilian culture. (There are more posts on the &lt;a href=&quot;/c/portuguese/blog&quot;&gt;portuguese category&lt;/a&gt;).</description>
     <language>en</language>
       <lastBuildDate>Thu, 23 Jun 2016 06:33:22 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/blog.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/blog.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Time to move again, with ai+mprove anywhere!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <h1>first, some nonsense rambling / making of this post</h1>
 
-<p><small>It have been a long time since I've posted anything anywhere. Now I need to start moving again... In many different senses. I've started writing this mostly as a rant, almost exactly 168 hours ago (1 week). Now I decided to edit it and include the idea I really want to share (improv everywhere). Take a look at the <a href="https://discourse-meta.s3-us-west-1.amazonaws.com/original/3X/e/9/e9ab87491b3d74473ec1e029b8e4b817b3d8c358.png" rel="nofollow">edit history</a> if you want to read more! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=2" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></small></p>
+<p><small>It have been a long time since I've posted anything anywhere. Now I need to start moving again... In many different senses. I've started writing this mostly as a rant, almost exactly 168 hours ago (1 week). Now I decided to edit it and include the idea I really want to share (improv everywhere). Take a look at the <a href="https://discourse-meta.s3-us-west-1.amazonaws.com/original/3X/e/9/e9ab87491b3d74473ec1e029b8e4b817b3d8c358.png" rel="nofollow">edit history</a> if you want to read more! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=2" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></small></p>
 
-<p>For one, I must kill most of my past online presence. No, I won't erase anything, hopefully, but some data might be lost in the process. I won't be able to keep this discourse forum for much longer, mostly because I find it idiotic how there's so much care for versioning and, yet, so much censorship, so I need to migrate to a better tool. And I won't be able to keep squarespace for basically the same reason: lack of properly saving data in a transparent way. So I need to move away from both. It is still same core reason <a href="http://talk.cregox.com/t/time-to-focus-on-versioning/5601">why I've moved the blog (from sqsp to dsc)</a>.</p>
+<p>For one, I must kill most of my past online presence. No, I won't erase anything, hopefully, but some data might be lost in the process. I won't be able to keep this discourse forum for much longer, mostly because I find it idiotic how there's so much care for versioning and, yet, so much censorship, so I need to migrate to a better tool. And I won't be able to keep squarespace for basically the same reason: lack of properly saving data in a transparent way. So I need to move away from both. It is still same core reason <a href="/talk/t/time-to-focus-on-versioning/5601">why I've moved the blog (from sqsp to dsc)</a>.</p>
 
 <p>Just a little while ago I was innocently <a href="http://stackoverflow.com/questions/2639915/why-the-mutable-default-argument-fix-syntax-is-so-ugly-asks-python-newbie/2639996?noredirect=1#comment63165843_2639996" rel="nofollow">talking on stackoverflow through comments</a> and they wiped a comment of mine, 3 times, probably because it contained <em>fucking</em>, <em>bullshit</em> and/or <em>censoring</em>, or maybe because I said I <em>hate</em> someone. It was something along these lines: I now officially hate Jeff Atwood from the bottom of my heart, along with all his work. I'm fucking tired of this censoring bullshit - hope I get a good content reviewer human this time (4th attempt), like on the first one (actually 0th attempt). I've been working as moderator in an online tool which most people think is all done by bots... Well, thing is it's still cheaper and better to hire people for that. And we make, ideally, 1% of mistakes.</p>
 
@@ -30,7 +30,7 @@
 
 <h1>how ai+mprove anywhere is being born</h1>
 
-<p>this is an idea I just had while waking up in the middle of sleep. it kinda came from brainstorming another initial idea with myself and it may have been inspired by <a href="http://talk.cregox.com/t/father-religion-society-and-science/7471?u=cregox">my annoying dad</a>'s own idea of just  getting a camera and doing whatever with it. he actually wanted me to try doing improv comedy on the streets without any scripting, and he got so hyped by himself he wanted to do it on his end (luckily he lives in another country than I for the past year) if only I would tell him I want him to do it. well, bad parents aside...</p>
+<p>this is an idea I just had while waking up in the middle of sleep. it kinda came from brainstorming another initial idea with myself and it may have been inspired by <a href="/talk/t/father-religion-society-and-science/7471?u=cregox">my annoying dad</a>'s own idea of just  getting a camera and doing whatever with it. he actually wanted me to try doing improv comedy on the streets without any scripting, and he got so hyped by himself he wanted to do it on his end (luckily he lives in another country than I for the past year) if only I would tell him I want him to do it. well, bad parents aside...</p>
 
 <p>what woke me up was thinking on how I could invite someone to take a weekend, record for 1 or 2 hours something live streaming (someone needs to be the cameraman since I have no drones) and try to somehow communicate with the audience - gather their suggestions in a "<a href="https://www.youtube.com/watch?v=tGLnFjJelBM" rel="nofollow">whose line is it anyway</a>" style, or something. I'm writing the ideas in order here...</p>
 
@@ -40,7 +40,7 @@
 
 <p>hopefully it will be always themed with Ai in mind... my experience with doing amateur-professional theater once tells me that's probably not possible, but now I'll try much harder to always inject a little something into the script. yes, since my first idea I wanted to use at least 8x times more than filming into scripting and planning.</p>
 
-<p>so, are you in Lisbon? do you want to take part of this? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>so, are you in Lisbon? do you want to take part of this? <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
 
 <p>another idea I had was making it live in many places, but let's take one step per time.</p>
 
@@ -48,30 +48,30 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/time-to-move-again-with-ai-mprove-anywhere/7866">Read full topic</a></p>
+            <p><a href="/talk/t/time-to-move-again-with-ai-mprove-anywhere/7866">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/time-to-move-again-with-ai-mprove-anywhere/7866</link>
+          <link>/talk/t/time-to-move-again-with-ai-mprove-anywhere/7866</link>
           <pubDate>Thu, 23 Jun 2016 06:33:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7866</guid>
-          <source url="http://talk.cregox.com/t/time-to-move-again-with-ai-mprove-anywhere/7866.rss">Time to move again, with ai+mprove anywhere!</source>
+          <source url="/talk/t/time-to-move-again-with-ai-mprove-anywhere/7866.rss">Time to move again, with ai+mprove anywhere!</source>
         </item>
         <item>
           <title>More craziness about randomness and lake ness</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><a href="https://dl.dropboxusercontent.com/s/r2w3ypibce3bfb7/2016-02-16%2014.33.41%20a%20wall.jpg?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/r2w3ypibce3bfb7/2016-02-16%2014.33.41%20a%20wall.jpg?dl=1" width="500" height="500"></a><br><em>a wall</em></p>
 
-<p>Disclaimer: following there is a sequence of apparently disconnected paragraphs... I hope I can look some other day back and this and connect them with some more sense than what I could today! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=1" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>Disclaimer: following there is a sequence of apparently disconnected paragraphs... I hope I can look some other day back and this and connect them with some more sense than what I could today! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=1" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
 
 <p>Almost 1 month ago something happened to my brain. I could have died at least twice. I'm now taking some psychiatric medicine trying to regulate it, ground down my thoughts. This whole "I'm truly crazy" universe is brand new to me and I don't know how to properly play in it.</p>
 
-<p>My ideas about Ai are slowly turning into ideas about <a href="http://talk.cregox.com/t/how-making-an-app-to-win-the-lottery-and-building-up-the-super-ai-are-related-enter-true-randomness-o-o/7846">randomness</a> and how they need to play together. It's the breath of life missing in Ai. Saying this is about as crazy as talking about the philosopher's stone or a holy grail.</p>
+<p>My ideas about Ai are slowly turning into ideas about <a href="/talk/t/how-making-an-app-to-win-the-lottery-and-building-up-the-super-ai-are-related-enter-true-randomness-o-o/7846">randomness</a> and how they need to play together. It's the breath of life missing in Ai. Saying this is about as crazy as talking about the philosopher's stone or a holy grail.</p>
 
 <p>What's even more crazy is realizing all the great ideas in history always came as waves which people captured around the globe way before we could communicate without pigeons. Wait, that's not the crazy part, that's just a fact. What if those ideas were brought up like this because someone had them and the instant you have a great idea it propagates as some kind of energy through the universe and anyone, including your own self who wanted it in your head at first, can capture them?</p>
 
@@ -91,22 +91,22 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/more-craziness-about-randomness-and-lake-ness/7851">Read full topic</a></p>
+            <p><a href="/talk/t/more-craziness-about-randomness-and-lake-ness/7851">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/more-craziness-about-randomness-and-lake-ness/7851</link>
+          <link>/talk/t/more-craziness-about-randomness-and-lake-ness/7851</link>
           <pubDate>Fri, 26 Feb 2016 19:14:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7851</guid>
-          <source url="http://talk.cregox.com/t/more-craziness-about-randomness-and-lake-ness/7851.rss">More craziness about randomness and lake ness</source>
+          <source url="/talk/t/more-craziness-about-randomness-and-lake-ness/7851.rss">More craziness about randomness and lake ness</source>
         </item>
         <item>
           <title>[RFC] cregox&#39;s International Movie Rating Scale</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/mx77w4r0owzpkws/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/mx77w4r0owzpkws/2015-10-15%2009.50.24%20porto%20beach.jpg?dl=0" width="666" height="500"></a>
 
@@ -122,11 +122,11 @@
 <p>. no good ending (this can easily lead to remove more than 1 star, and an open ending is no good)<br>. no tagline / message (ie too 'artistic' / meaningless)<br>. big science / consulting errors (it's not ok to hit people in the head as a plot device!)<br>. etc.</p>
 </blockquote></aside></p>
 
-<p>Also for the longest time, I wished to make a better <a href="http://talk.cregox.com/t/anything-advisor/7426">rating system</a> in general. Maybe <a href="http://talk.cregox.com/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox">the first manifestation</a> of that wish happened almost 1 year ago. Something like <a href="http://slant.co">slant.co</a> but maybe even simpler and even better.</p>
+<p>Also for the longest time, I wished to make a better <a href="/talk/t/anything-advisor/7426">rating system</a> in general. Maybe <a href="/talk/t/from-wildcard-through-computers-to-the-unknown/7636?u=cregox">the first manifestation</a> of that wish happened almost 1 year ago. Something like <a href="http://slant.co">slant.co</a> but maybe even simpler and even better.</p>
 
-<p>After (re)watching <a href="https://www.facebook.com/StrictlySexualMovie">Strictly Sexual</a> yesterday, finding it a 10, and having to re-scale it from 7, I've decided to finally starting do this. Funny enough, I've only watched it because it was the only option I had downloaded on my machine and I've miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">the Little Prince</a>) are usually even more interesting than my movement in itself! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>After (re)watching <a href="https://www.facebook.com/StrictlySexualMovie">Strictly Sexual</a> yesterday, finding it a 10, and having to re-scale it from 7, I've decided to finally starting do this. Funny enough, I've only watched it because it was the only option I had downloaded on my machine and I've miserably failed to popcorn [The Martian] since it leads to a weird oriental movie. The latest chain of events leading me to do such cool stuff (as this today or such as with <a href="/talk/t/when-is-10-not-enough-little-prince/7772">the Little Prince</a>) are usually even more interesting than my movement in itself! <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
-<p>Boy, this should help writing <a href="http://talk.cregox.com/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">the novel</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p>
+<p>Boy, this should help writing <a href="/talk/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">the novel</a>! <img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"> </p>
 
 <p></p></details></p>
 
@@ -144,7 +144,7 @@
 
 <p>The solution is dead simple and very "scientific": do it in parts.</p>
 
-<p>Out of 534 titles I've rated, currently <strong>69</strong> of them were a 10 by my previous criteria (it were 68 when I've checked, so I've promoted South Park from the 9 ones). Using IMRS, that number <strike>w</strike>could turn into 42. Seriously (wishful thinking). And of course I'd tweak it! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> <small>(truth is I'm still currently <strong>compiling</strong> the list to get to a real number and then a cool one, if they don't coincide)</small></p>
+<p>Out of 534 titles I've rated, currently <strong>69</strong> of them were a 10 by my previous criteria (it were 68 when I've checked, so I've promoted South Park from the 9 ones). Using IMRS, that number <strike>w</strike>could turn into 42. Seriously (wishful thinking). And of course I'd tweak it! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> <small>(truth is I'm still currently <strong>compiling</strong> the list to get to a real number and then a cool one, if they don't coincide)</small></p>
 
 <p>For movies, those are the current criteria: <small>(which may need to be improved if confirmed they're way too much complementary as they stand)</small></p>
 
@@ -156,7 +156,7 @@
 <li>
 <code>-</code> a piece of crap in this criteria like [Prometheus] could easily get a score of 12, never more.</li>
 <li>
-<code>0</code> <a href="http://talk.cregox.com/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817">Strictly Sexual</a> brings no big science topics to the table, I'd argue. I could easily be wrong.</li>
+<code>0</code> <a href="/talk/t/stricly-sexual-2008-22-24-is-a-little-underrated-jewel-and-almost-perfect-in-every-sense-consistent-caring/7817">Strictly Sexual</a> brings no big science topics to the table, I'd argue. I could easily be wrong.</li>
 <li>
 <code>1</code> [Interstellar], of course. Probably no better reference in this century, except maybe for [The Martian].</li>
 </ul>
@@ -197,12 +197,12 @@
 <li>
 <code>0</code> I can't tell if [Lion King] is -1 or 1, so I'd just fit it on 0. Don't let viewers in doubt!</li>
 <li>
-<code>1</code> Going the completely unexpected route, I'd argue [Stranger than Fiction] is completely plausible. We do shape our universe. Even if you read lots of what I write, this may come to you as a surprise (I sure hope you'll even ask me for a movie review there <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:">). Of course, my point here is <strong>this is not a scientific scale because rating movies is subjective</strong>.</li>
+<code>1</code> Going the completely unexpected route, I'd argue [Stranger than Fiction] is completely plausible. We do shape our universe. Even if you read lots of what I write, this may come to you as a surprise (I sure hope you'll even ask me for a movie review there <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:">). Of course, my point here is <strong>this is not a scientific scale because rating movies is subjective</strong>.</li>
 </ul>
 
 <h2>Tagline</h2>
 
-<p>Probably "Punchline" would <a href="http://www.allinterview.com/showanswers/33509/differnce-between-tag-lina-punch-line.html">be</a> more appropriate, but then the criteria acronym would fall apart! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>Probably "Punchline" would <a href="http://www.allinterview.com/showanswers/33509/differnce-between-tag-lina-punch-line.html">be</a> more appropriate, but then the criteria acronym would fall apart! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=1" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <p>The point here is having a clear message across. That's what stories are for. Parables (damn that P).</p>
 
@@ -223,7 +223,7 @@
 <li>
 <code>-</code> [Saw] is very culture specific and most people don't want to go that deep in the human pool. Great movies otherwise, from the little I saw. Very intelligent indeed.</li>
 <li>
-<code>0</code> [Perfume] is probably easy to tell it to anyone, isn't it? I don't know. Wished it was. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:">
+<code>0</code> [Perfume] is probably easy to tell it to anyone, isn't it? I don't know. Wished it was. <img src="/talk/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:">
 </li>
 <li>
 <code>1</code> [Chaplin]. Make it dialog free and it will probably fit here perfectly. I hate to admit [Tree of Life] gets a 1 here too.</li>
@@ -231,7 +231,7 @@
 
 <h2>Caring</h2>
 
-<p><small>Okay, 6 criteria would have been enough for now, and maybe there's a better 6 letter choice (if you're reading and paying attention I hope you know what I mean here). I'm also tired of writing this topic already...</small><br>Most people don't care. But how can a story care? Well, the one telling the story should. Care for what? For people. Wooooot for subjectivity!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> </p>
+<p><small>Okay, 6 criteria would have been enough for now, and maybe there's a better 6 letter choice (if you're reading and paying attention I hope you know what I mean here). I'm also tired of writing this topic already...</small><br>Most people don't care. But how can a story care? Well, the one telling the story should. Care for what? For people. Wooooot for subjectivity!! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"> </p>
 
 <ul>
 <li>
@@ -248,30 +248,30 @@
 
 <p>Of course, using percentage is always encouraged as well. So, for instance, 15 makes 93.75%.</p>
 
-<p>Enough said. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blush.png?v=1" title=":blush:" class="emoji" alt=":blush:"> </p>
+<p>Enough said. <img src="/talk/images/emoji/emoji_one/blush.png?v=1" title=":blush:" class="emoji" alt=":blush:"> </p>
 
 <h1>Phew</h1>
 
-<p>Writing this was a hours long yet fun exercise! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Who'd guess it all started with sex?</p>
+<p>Writing this was a hours long yet fun exercise! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Who'd guess it all started with sex?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815">Read full topic</a></p>
+            <p><a href="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815</link>
+          <link>/talk/t/rfc-cregoxs-international-movie-rating-scale/7815</link>
           <pubDate>Fri, 15 Jan 2016 07:53:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7815</guid>
-          <source url="http://talk.cregox.com/t/rfc-cregoxs-international-movie-rating-scale/7815.rss">[RFC] cregox&#39;s International Movie Rating Scale</source>
+          <source url="/talk/t/rfc-cregoxs-international-movie-rating-scale/7815.rss">[RFC] cregox&#39;s International Movie Rating Scale</source>
         </item>
         <item>
           <title>Differences between free-will, randomness and or determinism</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/nbwi28a8b6aloo3/2016-01-11%2018.30.28%20sunset%20dark%20light%20clouds.jpg?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/nbwi28a8b6aloo3/2016-01-11%2018.30.28%20sunset%20dark%20light%20clouds.jpg?dl=0" width="690" height="269"></a>
 
@@ -320,28 +320,28 @@
 
 <p>If our so called capacity of choice (often associated with "free will") is indeed an illusion, I find it very enjoyable how this deterministic universe can still uphold such a magnificent existential living experience. And finding a person who can agree, who got the same idea coming from a completely different point of view is kind of magical. It's probably the main reason why I go through so much trouble to write questions and answers here.</p>
 
-<p><small>( made into a blog post for local internet backup ; original question and answer are <a href="http://philosophy.stackexchange.com/a/10957/1670">from stack exchange philosophy</a> and are mostly unchanged here ; topic photo looks <strong>much better</strong> on the big screen than I expected! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> )</small></p>
+<p><small>( made into a blog post for local internet backup ; original question and answer are <a href="http://philosophy.stackexchange.com/a/10957/1670">from stack exchange philosophy</a> and are mostly unchanged here ; topic photo looks <strong>much better</strong> on the big screen than I expected! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> )</small></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/differences-between-free-will-randomness-and-or-determinism/7804">Read full topic</a></p>
+            <p><a href="/talk/t/differences-between-free-will-randomness-and-or-determinism/7804">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/differences-between-free-will-randomness-and-or-determinism/7804</link>
+          <link>/talk/t/differences-between-free-will-randomness-and-or-determinism/7804</link>
           <pubDate>Tue, 12 Jan 2016 16:24:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7804</guid>
-          <source url="http://talk.cregox.com/t/differences-between-free-will-randomness-and-or-determinism/7804.rss">Differences between free-will, randomness and or determinism</source>
+          <source url="/talk/t/differences-between-free-will-randomness-and-or-determinism/7804.rss">Differences between free-will, randomness and or determinism</source>
         </item>
         <item>
           <title>I truly hope the Discourse team can get better faster or quickly die trying</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510" href="//talk-cdn.cregox.com/uploads/default/original/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510.jpg" class="lightbox" title="5g8uKloTpS63gy8rgfttrkFdVBF.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510_1_690x388.jpg" width="690" height="388"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510" href="/talk/uploads/default/original/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510.jpg" class="lightbox" title="5g8uKloTpS63gy8rgfttrkFdVBF.jpg"><img src="/talk/uploads/default/optimized/1X/3a4d98b99d3ea2f3fe3981397eb8a2e8a4746510_1_690x388.jpg" width="690" height="388"><div class="meta">
 <span class="filename">5g8uKloTpS63gy8rgfttrkFdVBF.jpg</span><span class="informations">1920x1080 90.4 KB</span><span class="expand"></span>
 </div></a></div><br><em>uncalled "xango" sherlock for uncalled bugs - meaning <a href="https://what.thedailywtf.com/t/the-doing-it-wrong-of-the-discojuice-huffing-dude/53070/349?u=cregox">there are many bugs</a> that could have "easily" been fixed had the only team that can really do it make any priority out of fixing bugs</em></p>
 
@@ -382,9 +382,9 @@
 <p><aside class="quote"><blockquote><p><details><summary>I actually no longer have the <a href="https://meta.discourse.org/t/use-of-discourse-for-crowd-sourced-project-evaluation/37805/3?u=cregox">original post completely wiped by discourse team</a> because all the backup stuff I had in place (lazarus, discourse auto email me, copyless - I didn't copy, etc) things have <strong>failed</strong>. One of them was counting discourse was such a great tool (edit history). <strong>It isn't</strong>, especially when ill used by their mods (other than the <em>uncalled bugs</em>, of course).</summary><p><span class="mention">@Steve_Powell</span> I use discourse for about every thing. From blogging, to backing up internet media, talking with people or making a ticket system for my now dead startup. Only reason I can't say I've tried "anything similar" is because I don't have a crowd to toy with.</p>
 <p><em>(part edited out - rewritten from memory)</em><br>&gt; Lately I have been growing less and less fond of discourse (and Jeff). I hope the team can get bigger and faster as by the way things are going I fear they could go down like StackOverflow <em>did / is doing</em> IMHO. <small>(... can't remember a good part of it, but there was not much more ...)</small> It has been over 2 years since their beta release and I think still up to today, there is nothing that gets technically any close to it. Discourse is that awesome.</p>
 <p>Anyway, to me the biggest block for using discourse today is <strong>not so much</strong> the cost for hosting as it is the time required to get a basic setup up and running as you've experienced. Although the cost also seem to be much bigger than what could be... At least for pet projects as I've being using it.</p>
-<p>For any kind of crowd, I'd argue both those "blockages" are quite minor so, yeah, by all means, keep going for it! And share more of what you've done! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>For any kind of crowd, I'd argue both those "blockages" are quite minor so, yeah, by all means, keep going for it! And share more of what you've done! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
 <p>Also...</p>
-<p>I think <span class="mention">@michaeld</span> (from that discoursehosting service) would like to know about your usage case there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>I think <span class="mention">@michaeld</span> (from that discoursehosting service) would like to know about your usage case there! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
 <p></p></details></p></blockquote></aside></p>
 
 <p>Finally, here is Sam's (Jeff's right hand) PM to me, along with my obviously unanswered reply, to which I was honestly hoping to get answers:</p>
@@ -395,28 +395,28 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802">Read full topic</a></p>
+            <p><a href="/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802</link>
+          <link>/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802</link>
           <pubDate>Tue, 12 Jan 2016 14:18:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7802</guid>
-          <source url="http://talk.cregox.com/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss">I truly hope the Discourse team can get better faster or quickly die trying</source>
+          <source url="/talk/t/i-truly-hope-the-discourse-team-can-get-better-faster-or-quickly-die-trying/7802.rss">I truly hope the Discourse team can get better faster or quickly die trying</source>
         </item>
         <item>
           <title>Why novels don&#39;t convince as much as real stories?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><em>( <strong>edited</strong> for more clarity )</em></p>
 
-<p><small>also, for context, I wrote the post while I was very inspired and <a href="http://talk.cregox.com/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">writing the 3 novel chapters</a> that will probably not get any bigger unless people manifest themselves.</small></p>
+<p><small>also, for context, I wrote the post while I was very inspired and <a href="/talk/t/two-weeks-i-havent-updated-the-novel-any-ideas-or-feedback-anyone/7806">writing the 3 novel chapters</a> that will probably not get any bigger unless people manifest themselves.</small></p>
 
-<p><small>since then, I've also <a href="http://talk.cregox.com/t/fiction-can-never-be-as-convincing-as-stories-truly-based-on-real-facts-because-of-how-the-brain-works/7811?u=cregox">added a buffer post</a> about this.</small></p>
+<p><small>since then, I've also <a href="/talk/t/fiction-can-never-be-as-convincing-as-stories-truly-based-on-real-facts-because-of-how-the-brain-works/7811?u=cregox">added a buffer post</a> about this.</small></p>
 
 <p><strong>novels</strong>, being a creation of human imagination, and the hugely flawed human brain, have no validation on the much bigger REAL UNIVERSE, the one and only, basiux's true GOD (church of tech's god is basiux, but basiux's god is the universe).</p>
 
@@ -434,34 +434,34 @@
 
 <p></p></details></p>
 
-<p>that means the sci-fi part <strong>brings</strong> validation to fiction by using science. and, in the same way, we can make <strong>characters</strong> way more believable and deep by bringing in and mixing them up with real stories! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>that means the sci-fi part <strong>brings</strong> validation to fiction by using science. and, in the same way, we can make <strong>characters</strong> way more believable and deep by bringing in and mixing them up with real stories! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
 
 <p>very cool insight, huh?</p>
 
-<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/4362e2c8a11080cf60eb5880444d1e723a893ea0.gif" width="300" height="225"></p>
+<p><img src="/talk/uploads/default/original/1X/4362e2c8a11080cf60eb5880444d1e723a893ea0.gif" width="300" height="225"></p>
 
 <p>I mean, it should be blatantly obvious to most writers, but when you look at it by this perspective it probably can help you building characters very differently.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/why-novels-dont-convince-as-much-as-real-stories/7789">Read full topic</a></p>
+            <p><a href="/talk/t/why-novels-dont-convince-as-much-as-real-stories/7789">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/why-novels-dont-convince-as-much-as-real-stories/7789</link>
+          <link>/talk/t/why-novels-dont-convince-as-much-as-real-stories/7789</link>
           <pubDate>Wed, 30 Dec 2015 13:42:46 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7789</guid>
-          <source url="http://talk.cregox.com/t/why-novels-dont-convince-as-much-as-real-stories/7789.rss">Why novels don&#39;t convince as much as real stories?</source>
+          <source url="/talk/t/why-novels-dont-convince-as-much-as-real-stories/7789.rss">Why novels don&#39;t convince as much as real stories?</source>
         </item>
         <item>
           <title>Artificial neural networks, startup pirates and open Ai</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/44a4468950ab828e7b5c1a4ad21f8801331fbbfb" href="//talk-cdn.cregox.com/uploads/default/original/1X/44a4468950ab828e7b5c1a4ad21f8801331fbbfb.jpg" class="lightbox" title="4041578_f140be7579_b.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/44a4468950ab828e7b5c1a4ad21f8801331fbbfb_1_666x500.jpg" width="666" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/44a4468950ab828e7b5c1a4ad21f8801331fbbfb" href="/talk/uploads/default/original/1X/44a4468950ab828e7b5c1a4ad21f8801331fbbfb.jpg" class="lightbox" title="4041578_f140be7579_b.jpg"><img src="/talk/uploads/default/optimized/1X/44a4468950ab828e7b5c1a4ad21f8801331fbbfb_1_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">4041578_f140be7579_b.jpg</span><span class="informations">1024x768 339 KB</span><span class="expand"></span>
 </div></a></div><br><em>a biological network that resembles neural ones</em></p>
 
@@ -479,30 +479,30 @@
 
 <p>Only problem, in my humble opinion, is people are still clueless of what Ai even is.</p>
 
-<p>I'm still to see a project as good as Tamagotchi X to be made, which can bring such knowledge to people... If things keep going this fast, maybe before the end of the year some of the big guys will also make a much more polished version of it, like openai was to basiux! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt=":blush:"> </p>
+<p>I'm still to see a project as good as Tamagotchi X to be made, which can bring such knowledge to people... If things keep going this fast, maybe before the end of the year some of the big guys will also make a much more polished version of it, like openai was to basiux! <img src="/talk/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt=":blush:"> </p>
 
 <p>I'll have to re-invent myself once again, and I'll officially have lost that train. Probably.  And to think it all may have happened just because I didn't vote 3 times on myself, back on the startup pirates first day, idea selection... I like to think it was all to a good reason.</p>
 
-<p>In any case, it is very cool to see so up close how things are happening, and I'm glad to be alive in such an age in human evolution! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>In any case, it is very cool to see so up close how things are happening, and I'm glad to be alive in such an age in human evolution! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/artificial-neural-networks-startup-pirates-and-open-ai/7775">Read full topic</a></p>
+            <p><a href="/talk/t/artificial-neural-networks-startup-pirates-and-open-ai/7775">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/artificial-neural-networks-startup-pirates-and-open-ai/7775</link>
+          <link>/talk/t/artificial-neural-networks-startup-pirates-and-open-ai/7775</link>
           <pubDate>Thu, 17 Dec 2015 17:29:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7775</guid>
-          <source url="http://talk.cregox.com/t/artificial-neural-networks-startup-pirates-and-open-ai/7775.rss">Artificial neural networks, startup pirates and open Ai</source>
+          <source url="/talk/t/artificial-neural-networks-startup-pirates-and-open-ai/7775.rss">Artificial neural networks, startup pirates and open Ai</source>
         </item>
         <item>
           <title>When is 10 not enough, little prince?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><em>This is the first time she sees him:</em></p>
 
@@ -532,34 +532,34 @@
 
 <p>It touched me deeply, and it did so by touching both my heart and brains, like no other one ever did. 34 year old, happily married, with no kids due to life issues, no job and lots of work to do. Specially after being this inspired. =)</p>
 
-<p>This is how much Art can move people. And this is how much we need a good Ai movie. Nothing I can work on for the foreseeable future, unfortunately, but it could easily end up being ultimately what I came to do in this world. Add a single frame to a great Ai film which would trigger someone else to do something amazing! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>This is how much Art can move people. And this is how much we need a good Ai movie. Nothing I can work on for the foreseeable future, unfortunately, but it could easily end up being ultimately what I came to do in this world. Add a single frame to a great Ai film which would trigger someone else to do something amazing! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>Way more likely, I'll just keep on enjoying my life, though. And continue to be just another passenger in this deterministic universe.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">Read full topic</a></p>
+            <p><a href="/talk/t/when-is-10-not-enough-little-prince/7772">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772</link>
+          <link>/talk/t/when-is-10-not-enough-little-prince/7772</link>
           <pubDate>Wed, 09 Dec 2015 08:30:15 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7772</guid>
-          <source url="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772.rss">When is 10 not enough, little prince?</source>
+          <source url="/talk/t/when-is-10-not-enough-little-prince/7772.rss">When is 10 not enough, little prince?</source>
         </item>
         <item>
           <title>Why the &quot;financial system&quot; is broken</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/e43dfb2070b2a944e1ce9125386d6c418470052a" href="//talk-cdn.cregox.com/uploads/default/original/1X/e43dfb2070b2a944e1ce9125386d6c418470052a.jpg" class="lightbox" title="2014-06-19-bigstockTheLoveOfMoney302143011.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/e43dfb2070b2a944e1ce9125386d6c418470052a_1_690x460.jpg" width="690" height="460"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/e43dfb2070b2a944e1ce9125386d6c418470052a" href="/talk/uploads/default/original/1X/e43dfb2070b2a944e1ce9125386d6c418470052a.jpg" class="lightbox" title="2014-06-19-bigstockTheLoveOfMoney302143011.jpg"><img src="/talk/uploads/default/optimized/1X/e43dfb2070b2a944e1ce9125386d6c418470052a_1_690x460.jpg" width="690" height="460"><div class="meta">
 <span class="filename">2014-06-19-bigstockTheLoveOfMoney302143011.jpg</span><span class="informations">900x600 566 KB</span><span class="expand"></span>
-</div></a></div><br>I just created the "<a href="http://talk.cregox.com/t/about-the-free-goodies-category/7768">free goodies</a>" category:</p>
+</div></a></div><br>I just created the "<a href="/talk/t/about-the-free-goodies-category/7768">free goodies</a>" category:</p>
 
-<blockquote><p>Why "free goodies", though? I believe most good things in life <strong>must</strong> be for free, in one way or another. The <a href="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">current financial system model is broken</a> and that's a big reason why <a>basiux</a> was made non profit. Truth is I don't know of a better system and it's still one of our best technologies ever invented, which people struggle a lot to comprehend as being a tech, but <em>it's still broken nonetheless</em>.</p></blockquote>
+<blockquote><p>Why "free goodies", though? I believe most good things in life <strong>must</strong> be for free, in one way or another. The <a href="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">current financial system model is broken</a> and that's a big reason why <a>basiux</a> was made non profit. Truth is I don't know of a better system and it's still one of our best technologies ever invented, which people struggle a lot to comprehend as being a tech, but <em>it's still broken nonetheless</em>.</p></blockquote>
 
 <p>And probably <a href="http://discourse.reinventingorganizations.com/t/would-you-like-to-join-a-teal-practices-group-in-brighton/1886/5?u=cregox">writing a bit on teal practices</a> also triggered me to write this topic.</p>
 
@@ -575,7 +575,7 @@
 
 <p><a href="https://en.wikipedia.org/wiki/Template:Multiple_issues"><br></a><a href="https://dl.dropboxusercontent.com/s/j8n0lt7hef1x7bu/Screenshot%202015-12-02%2007.39.31.png?dl=1" target="_blank"><img src="https://dl.dropboxusercontent.com/s/j8n0lt7hef1x7bu/Screenshot%202015-12-02%2007.39.31.png?dl=1" width="690" height="160"></a><br></p>
 
-<p>But still mostly <em>love</em> wikipedia! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Regardless of what it says (or doesn't say, since <a href="https://en.wikipedia.org/wiki/Financial_system">"financial system"</a> is actually with "multiple issues" <a href="https://en.wikipedia.org/w/index.php?title=Financial_system&amp;oldid=693100751">right now</a>), what I meant by "financial system" is just how we currently use money. A better term might be "our current usage of money" but "financial system" just sound better.</p>
+<p>But still mostly <em>love</em> wikipedia! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"> Regardless of what it says (or doesn't say, since <a href="https://en.wikipedia.org/wiki/Financial_system">"financial system"</a> is actually with "multiple issues" <a href="https://en.wikipedia.org/w/index.php?title=Financial_system&amp;oldid=693100751">right now</a>), what I meant by "financial system" is just how we currently use money. A better term might be "our current usage of money" but "financial system" just sound better.</p>
 
 <p>For a little disclaimer, I'm no expert <a href="https://en.wikipedia.org/wiki/Economics">economist ±</a>, all I know about it is the <a href="https://en.wikipedia.org/wiki/Money">little I read ±</a>, a lot about doing calculations (far from samething as <a href="https://en.wikipedia.org/wiki/Math">math ±*</a>, which I'm also far from an expert) and hearing freakonomics. PS: those marked with <code>±</code> are all articles I haven't read, just scanned through and read tiny bits.</p>
 
@@ -583,7 +583,7 @@
 
 <blockquote>
 <p><strong>Spin off topic to come</strong>: Yeah, usually it's what I do when I link to wikipedia, because I judge I've read enough of it to get a good grasp on how it works, but of course not for every topic. Except here, in the <em>math</em> case (only used <code>±</code> there to call attention), like in most of wikipedia articles, the first paragraph was enough for me to get it and agree with it (unlike with the other 2 there). This, right here, should eventually spin off as a new topic "<em>how to properly use google and wikipedia ±", because [the official one is too big and looks too unfriendly</em>](https://en.wikipedia.org/wiki/Wikipedia:Researching_with_Wikipedia), plus it <em>probably</em> misses the main point.</p>
-<p><strong>Another spin off topic to come</strong>: Also, I'm now starting this new trend of using <code>±</code> to mark "<em>links I haven't fully read, but scanned over and agreed with</em>" <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=1" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> This alone is probably a good reason to make a topic just to explain it to google. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p><strong>Another spin off topic to come</strong>: Also, I'm now starting this new trend of using <code>±</code> to mark "<em>links I haven't fully read, but scanned over and agreed with</em>" <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=1" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> This alone is probably a good reason to make a topic just to explain it to google. <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
 </blockquote>
 
 <p>Back to the topic...</p>
@@ -594,7 +594,7 @@
 
 <h1>Bitcoin apocalypse</h1>
 
-<p>I'll probably (yet again) need to write a new topic on this alone... Too much time used for the current topic already for today. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:"></p>
+<p>I'll probably (yet again) need to write a new topic on this alone... Too much time used for the current topic already for today. <img src="/talk/images/emoji/emoji_one/frowning.png?v=1" title=":frowning:" class="emoji" alt=":frowning:"></p>
 
 <p>Bitcoins can bring us much smaller and faster transactions. About the same way credit cards created a few business that didn't exist, so will bitcoin when they become common place. One of the new business that may arise would be very crucial and change the financial system completely.</p>
 
@@ -604,38 +604,38 @@
 
 <h1>In any case...</h1>
 
-<p>Yeah, that's basically what I mean with <strong>the financial system is broken</strong>. It's only logical, isn't it? <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sparkles.png?v=1" title=":sparkles:" class="emoji" alt=":sparkles:"></p>
+<p>Yeah, that's basically what I mean with <strong>the financial system is broken</strong>. It's only logical, isn't it? <img src="/talk/images/emoji/emoji_one/sparkles.png?v=1" title=":sparkles:" class="emoji" alt=":sparkles:"></p>
 
-<p>I sure forgot to mention or include a lot of concepts here (still trying to better learn how to compress data in my mind). One instance is I didn't even talked about <a href="https://en.wikipedia.org/wiki/Basic_income">basic income</a>; or how Ai is going to disrupt everything, even if it never develops out of weak Ai. Or the <a href="https://en.wikipedia.org/wiki/Burning_Man">burning man</a>, a living experimental money-free community of 50k people for just 1 week. But if writing the previous topic chapter was already over my time budget, keep trying to think of things I forgot and compressing them in just won't happen now! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sweat.png?v=1" title=":sweat:" class="emoji" alt=":sweat:"></p>
+<p>I sure forgot to mention or include a lot of concepts here (still trying to better learn how to compress data in my mind). One instance is I didn't even talked about <a href="https://en.wikipedia.org/wiki/Basic_income">basic income</a>; or how Ai is going to disrupt everything, even if it never develops out of weak Ai. Or the <a href="https://en.wikipedia.org/wiki/Burning_Man">burning man</a>, a living experimental money-free community of 50k people for just 1 week. But if writing the previous topic chapter was already over my time budget, keep trying to think of things I forgot and compressing them in just won't happen now! <img src="/talk/images/emoji/emoji_one/sweat.png?v=1" title=":sweat:" class="emoji" alt=":sweat:"></p>
 
-<p>It's also not like the topic wasn't already dense enough (hurray to double negatives!). <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>It's also not like the topic wasn't already dense enough (hurray to double negatives!). <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/why-the-financial-system-is-broken/7769">Read full topic</a></p>
+            <p><a href="/talk/t/why-the-financial-system-is-broken/7769">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/why-the-financial-system-is-broken/7769</link>
+          <link>/talk/t/why-the-financial-system-is-broken/7769</link>
           <pubDate>Wed, 02 Dec 2015 08:35:11 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7769</guid>
-          <source url="http://talk.cregox.com/t/why-the-financial-system-is-broken/7769.rss">Why the &quot;financial system&quot; is broken</source>
+          <source url="/talk/t/why-the-financial-system-is-broken/7769.rss">Why the &quot;financial system&quot; is broken</source>
         </item>
         <item>
           <title>Feature suggestions - Insisting with GitHub</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>quest</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Continuing from a recent blog post:</p>
 
 <aside class="quote" data-post="1" data-topic="7757">
   <div class="title">
     <div class="quote-controls"></div>
-    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
-    <a href="http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox">How you could end up working with the best group you could even dream of!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+    <img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757?u=cregox">How you could end up working with the best group you could even dream of!</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
   </div>
   <blockquote>Since I've saw a video from <a href="http://discourse.reinventingorganizations.com/t/a-theoretical-model-for-hiring-and-paying-any-newbie-in-a-teal-company/1877?u=cregox">reinventing organization</a> I keep on wanting to find such a group to work with. Along with my goals and history, GitHub may prove to be the best current place I could aim for. Even more than Google, despite the current release of TensorFlow. Maybe. 
 
@@ -648,34 +648,34 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 
 <h1>Insisting?</h1>
 
-<p>Yeah, <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4">insisting</a>. GitHub is currently the closest financially successful company of my dreams, in which I'd love to be working with. The first one would be, of course, <a href="http://patreon.com/cregox">my own</a> (which still couldn't find its social position / financial freedom). Plus, I'd be really surprised if they're not interested in developing <a href="http://basiux.org">at least weak Ai</a>. And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>Yeah, <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4">insisting</a>. GitHub is currently the closest financially successful company of my dreams, in which I'd love to be working with. The first one would be, of course, <a href="http://patreon.com/cregox">my own</a> (which still couldn't find its social position / financial freedom). Plus, I'd be really surprised if they're not interested in developing <a href="http://basiux.org">at least weak Ai</a>. And, as far as things are going, I could easily change my mind setting GitHub to my first if it continues to surprise me! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
 <p>Well...</p>
 
 <p>I had today this little feature suggestion and since I couldn't find anywhere there to publish, or maybe even if I did find I should probably organize them somewhere to build up a history of applying to work there, here I want to open a topic to keep bringing up ideas.</p>
 
-<p>The <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">first idea I wanted to suggest back when I started this</a> (and I'm not sure where I've posted it now, since it isn't there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I'm pretty sure it's not just building CSS there. But still, it would be way much better than the current tracker, which isn't bad, but like any other similar tool, it's still way behind discourse.</p>
+<p>The <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">first idea I wanted to suggest back when I started this</a> (and I'm not sure where I've posted it now, since it isn't there) was simply using discourse instead of their current Issue tracker. Should definitely fork it or make a plugin so it would have a GitHub look and feeling... I'm pretty sure it's not just building CSS there. But still, it would be way much better than the current tracker, which isn't bad, but like any other similar tool, it's still way behind discourse.</p>
 
-<p>Done! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Done! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758">Read full topic</a></p>
+            <p><a href="/talk/t/feature-suggestions-insisting-with-github/7758">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758</link>
+          <link>/talk/t/feature-suggestions-insisting-with-github/7758</link>
           <pubDate>Thu, 19 Nov 2015 16:30:56 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7758</guid>
-          <source url="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
+          <source url="/talk/t/feature-suggestions-insisting-with-github/7758.rss">Feature suggestions - Insisting with GitHub</source>
         </item>
         <item>
           <title>How you could end up working with the best group you could even dream of!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Since I've saw a video from <a href="http://discourse.reinventingorganizations.com/t/a-theoretical-model-for-hiring-and-paying-any-newbie-in-a-teal-company/1877?u=cregox">reinventing organization</a> I keep on wanting to find such a group to work with. Along with my goals and history, GitHub <strong>may</strong> prove to be the best current place I could aim for. Even more than Google, despite the current release of TensorFlow. Maybe.</p>
 
@@ -689,36 +689,36 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 
 <blockquote><p>How? Set your life goal at something you love more than anything else, considering your whole life history, past and future (not present). Think about who you are, who people think you are, who you want to be, who everyone might want you to be. Pick 1 utopy. Take all the time you need to figure it out. It could be decades. Then, you'll reach the easy part, which should be obvious: chase it with all you've got. Insist. Finally, when you've built something and got your reward, it's time to give back. Which means, before you get there, you could seek for those people who were already there. They'll be trying to help you and everyone else.</p></blockquote>
 
-<p>Your dream could as well be something as apparently small as filling the world with Tsurus made of origami. Or be the next Steve Jobs, which might never happen again and even if it does, there can be only 1 per generation, or century, or whatever. That shouldn't stop you from trying and keep refining your goals while you trail the path until you finally find a fitting place! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/boom.png?v=0" title=":boom:" class="emoji" alt=":boom:"></p>
+<p>Your dream could as well be something as apparently small as filling the world with Tsurus made of origami. Or be the next Steve Jobs, which might never happen again and even if it does, there can be only 1 per generation, or century, or whatever. That shouldn't stop you from trying and keep refining your goals while you trail the path until you finally find a fitting place! <img src="/talk/images/emoji/emoji_one/boom.png?v=0" title=":boom:" class="emoji" alt=":boom:"></p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/7cb12f2537886bf2f1c185fd6647d493183aa822" href="//talk-cdn.cregox.com/uploads/default/original/1X/7cb12f2537886bf2f1c185fd6647d493183aa822.jpg" class="lightbox" title="Cranes_made_by_Origami_paper.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/7cb12f2537886bf2f1c185fd6647d493183aa822_1_690x421.jpg" width="690" height="421"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/7cb12f2537886bf2f1c185fd6647d493183aa822" href="/talk/uploads/default/original/1X/7cb12f2537886bf2f1c185fd6647d493183aa822.jpg" class="lightbox" title="Cranes_made_by_Origami_paper.jpg"><img src="/talk/uploads/default/optimized/1X/7cb12f2537886bf2f1c185fd6647d493183aa822_1_690x421.jpg" width="690" height="421"><div class="meta">
 <span class="filename">Cranes_made_by_Origami_paper.jpg</span><span class="informations">3000x1834 1.73 MB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p>As for me? Right now I'm going to <a href="http://talk.cregox.com/t/feature-suggestions-insisting-with-github/7758?u=cregox">insist with GitHub</a> and, of course, <a href="http://basiux.org">Ai</a>.</p>
+<p>As for me? Right now I'm going to <a href="/talk/t/feature-suggestions-insisting-with-github/7758?u=cregox">insist with GitHub</a> and, of course, <a href="http://basiux.org">Ai</a>.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757">Read full topic</a></p>
+            <p><a href="/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757</link>
+          <link>/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757</link>
           <pubDate>Thu, 19 Nov 2015 16:28:04 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7757</guid>
-          <source url="http://talk.cregox.com/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757.rss">How you could end up working with the best group you could even dream of!</source>
+          <source url="/talk/t/how-you-could-end-up-working-with-the-best-group-you-could-even-dream-of/7757.rss">How you could end up working with the best group you could even dream of!</source>
         </item>
         <item>
           <title>Let&#39;s make a podcast?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Who's in?</p>
 
-<p>I will make everything needed to make it work, you just need to be a guest or panelist, whatever suits you. And, of course, I do accept producers contributions... I just doubt there will be any. I do need at least 1 person to be almost as committed as I am to do it, though. Even someone who doesn't want to record, just help with producing, <a href="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751?u=cregox">marketing</a>, etc. Make it work.</p>
+<p>I will make everything needed to make it work, you just need to be a guest or panelist, whatever suits you. And, of course, I do accept producers contributions... I just doubt there will be any. I do need at least 1 person to be almost as committed as I am to do it, though. Even someone who doesn't want to record, just help with producing, <a href="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751?u=cregox">marketing</a>, etc. Make it work.</p>
 
 <p>The theme is yet to be defined. I like arts, tech, science, singularity and everything in between. There will be no politics, no religion and <strong>no possessions</strong>, in lack of a better word. Might be "no privacy" or, in other words, transparency. Free speech. All related. Probably this should be the first topic...</p>
 
@@ -728,34 +728,34 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 
 <p>There's a huge market for this and a gap in content. A position screaming to be filled. And I'm already producing lots of quality, but unorganised content anyway. This might help me organizing (kinda linked with the whyx project).</p>
 
-<p>Name suggestions? English only, please. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>Name suggestions? English only, please. <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt=":wink:"></p>
 
 <p>I'm thinking in just releasing media under "cregox", but obviously this is also not settled yet.</p>
 
-<p>PS: this is my first post made entirely on a cell phone browser! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>PS: this is my first post made entirely on a cell phone browser! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
-<p>PPS: this is also the post that made me want to open up the "blog draft" (renamed into "spoilers") category. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt=":blush:"> </p>
+<p>PPS: this is also the post that made me want to open up the "blog draft" (renamed into "spoilers") category. <img src="/talk/images/emoji/emoji_one/blush.png?v=0" title=":blush:" class="emoji" alt=":blush:"> </p>
 
 <p>(and, as usual, this is a beta publishing which will continue to be edited)</p>
             </blockquote>
             <p>Posts: 6</p>
             <p>Participants: 3</p>
-            <p><a href="http://talk.cregox.com/t/lets-make-a-podcast/7753">Read full topic</a></p>
+            <p><a href="/talk/t/lets-make-a-podcast/7753">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/lets-make-a-podcast/7753</link>
+          <link>/talk/t/lets-make-a-podcast/7753</link>
           <pubDate>Tue, 17 Nov 2015 09:35:33 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7753</guid>
-          <source url="http://talk.cregox.com/t/lets-make-a-podcast/7753.rss">Let&#39;s make a podcast?</source>
+          <source url="/talk/t/lets-make-a-podcast/7753.rss">Let&#39;s make a podcast?</source>
         </item>
         <item>
           <title>My social unfair undervaluation and why the financial system is broken</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>quest</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>I'm no Ph.Doctor. I've got almost no project to show off. No portfolio that matches what I can do. No social position. Like most people. It would be easy to fool myself I'm normal, in that sense.</p>
 
@@ -770,7 +770,7 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 <p>For practical purposes, we do have a roadmap, but with no particular order yet:</p>
 <p>- <strong>Whyx</strong> is a TED presentation format to basiux<br>- <strong>Mariox</strong> will be a Seth's Mar i/o port to run in any webbrowser and beat Super Mario 1 - that would be basiux engine version 1.0<br>- <strong>Marioxx</strong> should use basiux engine to make Mario talk, with a secret twist<br>- <strong>Hutter</strong> might get off the roadmap, but it could be the first basiux engine made to compress data</p>
 <p>Today we need €1k per month to allocate 1 mostly still bio-human resource (cregox) to be 24/7 dedicated working in basiux.</p>
-<p>By all means, keep on reading and digging us up! Do your homework while Whyx isn't ready. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>By all means, keep on reading and digging us up! Do your homework while Whyx isn't ready. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 </blockquote></aside></p>
 
 <p>This should be a long post...</p>
@@ -781,7 +781,7 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 
 <p>Now I do. Now I need it. Maybe I should try here, in Portugal, even without being a citizen or even a recognized human with a home. My wife is a citizen, though.</p>
 
-<p>I need financial peace to invest in this project. To make it happen. And <a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750?u=cregox">I can make it happen</a>.</p>
+<p>I need financial peace to invest in this project. To make it happen. And <a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750?u=cregox">I can make it happen</a>.</p>
 
 <h1>Broken Financial System</h1>
 
@@ -796,15 +796,15 @@ Even if they aren't, chasing straight for your top most dream is the only way of
 <aside class="quote" data-post="1" data-topic="7769">
   <div class="title">
     <div class="quote-controls"></div>
-    <img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
-    <a href="http://talk.cregox.com/t/why-the-financial-system-is-broken/7769?u=cregox">Why the "financial system" is broken</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
+    <img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">
+    <a href="/talk/t/why-the-financial-system-is-broken/7769?u=cregox">Why the "financial system" is broken</a> <a class="badge-wrapper  bullet" href="/c/blog"><span class="badge-category-bg" style="background-color: #F7941D;"></span><span style="color: #FFFFFF;" data-drop-close="true" class="badge-category clear-badge" title='Place to "blog" post about anything and talk about it. (There are more posts on the portuguese category).'>blog</span></a>
   </div>
   <blockquote>
 <a href="http://images.huffingtonpost.com/2014-06-19-bigstockTheLoveOfMoney302143011.jpg" target="_blank">[image]</a>
 
-I just created the "<a href="http://talk.cregox.com/t/about-the-free-goodies-category/7768">free goodies</a>" category: 
+I just created the "<a href="/talk/t/about-the-free-goodies-category/7768">free goodies</a>" category: 
 
-Why "free goodies", though? I believe most good things in life must be for free, in one way or another. The <a href="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">current financial system model is broken</a> and that's a big reason why <a>basiux</a> was made non profit. Truth is I don't know of a better system and it's still one of our best technologies ever invented, which people struggle a lot to comprehend as being a tech, but it's still broken nonetheless. 
+Why "free goodies", though? I believe most good things in life must be for free, in one way or another. The <a href="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">current financial system model is broken</a> and that's a big reason why <a>basiux</a> was made non profit. Truth is I don't know of a better system and it's still one of our best technologies ever invented, which people struggle a lot to comprehend as being a tech, but it's still broken nonetheless. 
 
 How is money a technology?
 
@@ -821,7 +821,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>This whole topic is not about <a href="http://www.cregox.com/blog/2014/05/i-have-failed-now-what.html">being humble</a>.</p>
 
-<p>If you need further "proof" how about asserting my intelligence? If you can agree <a href="http://cauecmrego.blogspot.pt/2014/08/intelligence-is-ones-capacity-to.html">intelligence is capacity to predict the future</a>, here is 1 evidence I've got plenty smartness in my mind: I just found out <a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750?u=cregox">I had forgotten (repeated link)</a> I predicted <a href="http://talk.cregox.com/t/how-i-would-build-intelligent-machines/71">I would work with Ai at least 1 year ago</a>. It is in my subconsciousness. If you <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">dig me up</a>, you'll see plenty of things I've said or suggested that later became reality. I do this since I'm a little kid, except by then I was predicting things that already existed - without being aware of their existence.</p>
+<p>If you need further "proof" how about asserting my intelligence? If you can agree <a href="http://cauecmrego.blogspot.pt/2014/08/intelligence-is-ones-capacity-to.html">intelligence is capacity to predict the future</a>, here is 1 evidence I've got plenty smartness in my mind: I just found out <a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750?u=cregox">I had forgotten (repeated link)</a> I predicted <a href="/talk/t/how-i-would-build-intelligent-machines/71">I would work with Ai at least 1 year ago</a>. It is in my subconsciousness. If you <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">dig me up</a>, you'll see plenty of things I've said or suggested that later became reality. I do this since I'm a little kid, except by then I was predicting things that already existed - without being aware of their existence.</p>
 
 <p>Of course, I'm not perfect. I'm pretty sure there's a high percentage of things I predict that go wrong. But the point is there is a high amount of things that go right. I'll predict one extra thing right now: eventually I will feel the need and most likely will end up editing this post to include more evidences of both sides. It's a "risky" bet as I just implied, but we can only be eventually right about the future if we try betting on it. We can only learn to walk (which is a controlled future prediction of falling down and preventing it, at each step, really hard for a machine to reproduce) by falling down many times. And, once we learn, we still eventually fall down still.</p>
 
@@ -829,51 +829,51 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>In short, he basically invented a high tech JukeBox for trucks, so they would better market themselves on the streets instead of using the horn as they were used to, which was highly profitable for a short period. And, well, I'm a lot like him. Every close friend keep reminding me of that. I agree, it's more of him in me than I like to admit. Because, well, he's also a terrible and diabolic person inside - most likely due to mental illness, but still very harmful nonetheless. Nobody wants to get close to him. Nobody ever did. He drove my mom completely nuts. But let's leave him aside. I'm not him.</p>
 
-<p>I've just posted more about me and most of my professional life, as a <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">progammer*</a>, on <a href="https://medium.com/@cauerego/well-let-me-give-you-my-personal-story-as-a-very-related-anecdote-312cafaf1a5c">medium</a>. It was, basically, <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/3">yet another job application</a> except, this time, in a very different format from the norm. Yet again. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"> We've got to really love our work to make it valuable because, well, work is really hard no matter how much you love it or hate it. And this might be a good instance of why it's so important to love it. It's so you can at least enjoy parts of it while doing it. The more, the merrier. For everyone involved, really (go <a href="http://talk.cregox.com/t/found-you-on-teal-forum-like-you-am-a-strong-a-i-researcher/7687">teal - huge link there about how I perceive organizations which probably deserves a whole section here but got not even a topic yet!</a>)</p>
+<p>I've just posted more about me and most of my professional life, as a <a href="/talk/t/yeah-im-also-a-progammer/7676">progammer*</a>, on <a href="https://medium.com/@cauerego/well-let-me-give-you-my-personal-story-as-a-very-related-anecdote-312cafaf1a5c">medium</a>. It was, basically, <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/3">yet another job application</a> except, this time, in a very different format from the norm. Yet again. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"> We've got to really love our work to make it valuable because, well, work is really hard no matter how much you love it or hate it. And this might be a good instance of why it's so important to love it. It's so you can at least enjoy parts of it while doing it. The more, the merrier. For everyone involved, really (go <a href="/talk/t/found-you-on-teal-forum-like-you-am-a-strong-a-i-researcher/7687">teal - huge link there about how I perceive organizations which probably deserves a whole section here but got not even a topic yet!</a>)</p>
 
 <p>Oh, and one more thing you might want to know about me...</p>
 
 <h1>
-<a href="http://talk.cregox.com/t/porn-and-viruses/7732">I don't give a fuck</a>...</h1>
+<a href="/talk/t/porn-and-viruses/7732">I don't give a fuck</a>...</h1>
 
-<p>... For a lot of things people usually do. <em>And I often can <strong>sound</strong> very arrogant</em>, but I'm really not. It's all context, labels and language. Do you know what I do give a fuck, controversially? <strong>People</strong>. Not about language, not about what you think you know you think you want, not about politics, not about <a href="http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689">privacy</a>, not about death, not about many controversial topics. Just people. I will throw myself in front of a bus to save Hitler, if I'm in my regular mood and get caught by surprise. I have done similar things, so it becomes easy to analyze this in retrospect, looking at myself from outside.</p>
+<p>... For a lot of things people usually do. <em>And I often can <strong>sound</strong> very arrogant</em>, but I'm really not. It's all context, labels and language. Do you know what I do give a fuck, controversially? <strong>People</strong>. Not about language, not about what you think you know you think you want, not about politics, not about <a href="/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689">privacy</a>, not about death, not about many controversial topics. Just people. I will throw myself in front of a bus to save Hitler, if I'm in my regular mood and get caught by surprise. I have done similar things, so it becomes easy to analyze this in retrospect, looking at myself from outside.</p>
 
 <p>I'm just a fucking grain of sand, trying to enjoy the present. And, to do so, I need every other grain of sand in my slightest sight to be able to do so on their own as well. It's in my nature.</p>
 
 <p>Does any of this ring you a bell? A piano maybe?</p>
 
-<p>Yesterday I've took many hours to make <a href="http://coroachada.github.io">a website</a> for "<a href="http://talk.cregox.com/t/narrative-clip-and-privacy/7699">Coro da Achada</a>". It's using Jekyll and it's already better than the current tech behind basiux's website. I wanted to share my adaptation of <em>Imagine</em> with them, while giving something back, since they don't have a nice website and etc. It's a free hosting and for adding the actual content there, it took me much less than 1 hour, but it's hard to precise since it was a combined development. It's still lacking the music, for one because I don't have it, and for two because, well, they don't even know I've done this yet, or that I would do it. I hope I can tell them in the next 2 days before they hear from elsewhere, see if they approve it (I think they will) and then I can help them start to improve it.</p>
+<p>Yesterday I've took many hours to make <a href="http://coroachada.github.io">a website</a> for "<a href="/talk/t/narrative-clip-and-privacy/7699">Coro da Achada</a>". It's using Jekyll and it's already better than the current tech behind basiux's website. I wanted to share my adaptation of <em>Imagine</em> with them, while giving something back, since they don't have a nice website and etc. It's a free hosting and for adding the actual content there, it took me much less than 1 hour, but it's hard to precise since it was a combined development. It's still lacking the music, for one because I don't have it, and for two because, well, they don't even know I've done this yet, or that I would do it. I hope I can tell them in the next 2 days before they hear from elsewhere, see if they approve it (I think they will) and then I can help them start to improve it.</p>
 
-<p>I've made many web sites in my life. From squarespace in 2015, going through wordpress, asp, html1.0 or department of sao paulo's security back in 2000, really, really many websites. And that one, right there, is <strong>by far</strong> the best one. Made in just less than 1 day. Thanks to all great open and free resources we got today. Also <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">mostly thanks to GitHub</a> and <a href="http://mojombo.github.io/">this crazy guy</a>. Why is it so good? Well, there are many technicalities about it, but basically because it's free, fast, beautiful (thanks mostly to twitter's bootstrap), versioned, open <em>and</em>, as such, so easy to manage without any Content Management System useless panels. It's even easy to add other free CMS'es on top of it, if you need to edit on the web browser itself. And the tech reason I decided to do it was <a href="https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/">this post</a>.</p>
+<p>I've made many web sites in my life. From squarespace in 2015, going through wordpress, asp, html1.0 or department of sao paulo's security back in 2000, really, really many websites. And that one, right there, is <strong>by far</strong> the best one. Made in just less than 1 day. Thanks to all great open and free resources we got today. Also <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661/4?u=cregox">mostly thanks to GitHub</a> and <a href="http://mojombo.github.io/">this crazy guy</a>. Why is it so good? Well, there are many technicalities about it, but basically because it's free, fast, beautiful (thanks mostly to twitter's bootstrap), versioned, open <em>and</em>, as such, so easy to manage without any Content Management System useless panels. It's even easy to add other free CMS'es on top of it, if you need to edit on the web browser itself. And the tech reason I decided to do it was <a href="https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/">this post</a>.</p>
 
-<p><strong>Do you want a website for you?</strong> Go this route. By very far the best anyone can do today to have an online presence. ( which just brought me an idea for a nice reward on patreon... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"> ) And if, maybe, you wonder why <code>cregox.com</code> isn't there, you're probably not paying much attention but it's due to lack of cregox's time.</p>
+<p><strong>Do you want a website for you?</strong> Go this route. By very far the best anyone can do today to have an online presence. ( which just brought me an idea for a nice reward on patreon... <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"> ) And if, maybe, you wonder why <code>cregox.com</code> isn't there, you're probably not paying much attention but it's due to lack of cregox's time.</p>
 
 <h1>More to come</h1>
 
-<p>I'll be eventually <a href="https://meta.discourse.org/t/free-to-edit-post-at-any-time/35516?u=cawas">editing</a> this post further. At very least, to add some links and cool pictures... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>I'll be eventually <a href="https://meta.discourse.org/t/free-to-edit-post-at-any-time/35516?u=cawas">editing</a> this post further. At very least, to add some links and cool pictures... <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
 
 <p>And I'll probably keep editing this while there is no conversation or any sense to notify anyone.</p>
 
-<p><small>Feels so lonely here... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/star.png?v=0" title=":star:" class="emoji" alt=":star:"> </small></p>
+<p><small>Feels so lonely here... <img src="/talk/images/emoji/emoji_one/star.png?v=0" title=":star:" class="emoji" alt=":star:"> </small></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">Read full topic</a></p>
+            <p><a href="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751</link>
+          <link>/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751</link>
           <pubDate>Sun, 15 Nov 2015 11:57:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7751</guid>
-          <source url="http://talk.cregox.com/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751.rss">My social unfair undervaluation and why the financial system is broken</source>
+          <source url="/talk/t/my-social-unfair-undervaluation-and-why-the-financial-system-is-broken/7751.rss">My social unfair undervaluation and why the financial system is broken</source>
         </item>
         <item>
           <title>From God&#39;s Debris to data loss... Why people love forgetting so much?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <h2>I kinda <strong>hate</strong> forgetting.</h2>
 
@@ -881,7 +881,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>This will be very dense...</p>
 
-<p>To me, <em>forgetting</em> is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone's life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>To me, <em>forgetting</em> is something we evolved to do mostly due to physical limitations. And, maybe at some consequence level from that as well, for organizing data. But the second reasoning is at a null point right now! Computers can already organize all of everyone's life data, at least in written text. Easily. With really fast access. And the only current physical limitation is storing everything else (yet, anyway), such as images, sounds and so many other things we do experience... But still, quite an awesome technological feat there! <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
 
 <p>Granted, there is a value in customizing search results. And not only for each person, but for each usage. When you search for "apple" you might want to know more about the fruit or the company, depending on your current mindset context, which might be far from obvious. On another hand, outdated data can also get too much neural connections in it and gain a bad rank up - since it's outdated. It's still better to demote it (for being old) than to forget / erase it. We might still want or need old data, eventually. And that's the same basic principle that could be applied to define which apple we're looking for - need dynamic weights on context. Not just <em>forgetting</em> things.</p>
 
@@ -891,7 +891,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <h2>Enter yet again, the skeptics</h2>
 
-<p>Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin' dedicated hour to finally find it. And indeed, <a href="http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science">it was wiped</a> (<small><a href="https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf">here is the print of the wiped "broken" link</a> in which <span class="mention">@user6907</span> is Scott Adams - only logged in users with permission can see it</small>). Again. At least, like <a href="http://talk.cregox.com/t/only-for-geniuses-and-not-for-stack-exchangers/68">before</a>, it was not 100% trashed away, or else I couldn't recover it. <em>Cool enough, that "before" post linked there is by far the highest visited page on cregox.com <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sunglasses.png?v=2" title=":sunglasses:" class="emoji" alt=":sunglasses:">. Anyway...</em></p>
+<p>Today I was trying, once more, to find something I wrote on the interwebs and I was almost positive where I had done it and thinking it was deleted. Took me about 1 friggin' dedicated hour to finally find it. And indeed, <a href="http://skeptics.stackexchange.com/questions/9074/how-much-of-gods-debris-is-supported-by-science">it was wiped</a> (<small><a href="https://dl.dropboxusercontent.com/u/140249/cregox/physics%20-%20How%20much%20of%20God%27s%20Debris%20is%20supported%20by%20science_%20-%20Skeptics%20Stack%20Exchange.pdf">here is the print of the wiped "broken" link</a> in which <span class="mention">@user6907</span> is Scott Adams - only logged in users with permission can see it</small>). Again. At least, like <a href="/talk/t/only-for-geniuses-and-not-for-stack-exchangers/68">before</a>, it was not 100% trashed away, or else I couldn't recover it. <em>Cool enough, that "before" post linked there is by far the highest visited page on cregox.com <img src="/talk/images/emoji/emoji_one/sunglasses.png?v=2" title=":sunglasses:" class="emoji" alt=":sunglasses:">. Anyway...</em></p>
 
 <p>The <strong>serendipity</strong> (universal conspiration) of how, after that, I also found a very valuable piece of information (see below) to me is quite entertaining and important. To me only. The chain started with someone opening up a slack <span class="hashtag">#ai</span> channel, then me participating in some conversations there, ending up talking about books with that same one, and how the last one I've read was God's Debris, which is an interesting read despite being filled with woo and terrible so called "science". Awfully terrible.</p>
 
@@ -915,7 +915,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>Also <em>(I forgot what I was going to write here, lol)</em>.</p>
 
-<p>Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I'll just hit "Create Topic" now, and eventually edit it later. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/ocean.png?v=2" title=":ocean:" class="emoji" alt=":ocean:"> </p>
+<p>Usually I would make this a blog draft (got many) and later on edit to improve it, raise it to a better reading levell, with images, less text, etc. But my draft is getting bigger. Its output is less than its input. And this post is really important to me, so... I'll just hit "Create Topic" now, and eventually edit it later. <img src="/talk/images/emoji/emoji_one/ocean.png?v=2" title=":ocean:" class="emoji" alt=":ocean:"> </p>
 
 <h1>Too Long</h1>
 
@@ -923,65 +923,65 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>Point I was trying to make probably was along these lines: </p>
 
-<p>People love forgetting because our <strong>brain needs</strong> to. It's only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make <strong>life</strong> so much more fun and interesting! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>People love forgetting because our <strong>brain needs</strong> to. It's only natural. But, with all artificial improvements, we should rationalize that better and embrace forgetting less and less stuff. Because it does make <strong>life</strong> so much more fun and interesting! <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=2" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">Read full topic</a></p>
+            <p><a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750</link>
+          <link>/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750</link>
           <pubDate>Sun, 15 Nov 2015 11:19:01 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7750</guid>
-          <source url="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss">From God&#39;s Debris to data loss... Why people love forgetting so much?</source>
+          <source url="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750.rss">From God&#39;s Debris to data loss... Why people love forgetting so much?</source>
         </item>
         <item>
           <title>Cheap philosophical links about the financial rabbit hole</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/6620a502cee2119576dd38281650ae0236e1eb8f" href="//talk-cdn.cregox.com/uploads/default/original/1X/6620a502cee2119576dd38281650ae0236e1eb8f.jpg" class="lightbox" title="oryx_and_crake__green_rabbit_by_jason_courtney.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/6620a502cee2119576dd38281650ae0236e1eb8f_1_658x500.jpg" width="658" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/6620a502cee2119576dd38281650ae0236e1eb8f" href="/talk/uploads/default/original/1X/6620a502cee2119576dd38281650ae0236e1eb8f.jpg" class="lightbox" title="oryx_and_crake__green_rabbit_by_jason_courtney.jpg"><img src="/talk/uploads/default/optimized/1X/6620a502cee2119576dd38281650ae0236e1eb8f_1_658x500.jpg" width="658" height="500"><div class="meta">
 <span class="filename">oryx_and_crake__green_rabbit_by_jason_courtney.jpg</span><span class="informations">900x683 138 KB</span><span class="expand"></span>
-</div></a></div><br><small><em>Rabbit found <a href="http://jason-courtney.deviantart.com/art/Oryx-And-Crake-Green-rabbit-148955049">on deviantart</a> - went for bunnies thinking first about Alice's, then hats, then Bugs's...</em> <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> </small></p>
+</div></a></div><br><small><em>Rabbit found <a href="http://jason-courtney.deviantart.com/art/Oryx-And-Crake-Green-rabbit-148955049">on deviantart</a> - went for bunnies thinking first about Alice's, then hats, then Bugs's...</em> <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> </small></p>
 
 <p>This post <a href="http://stackoverflow.com/a/33669507/274502">started on stackoverflow</a>... Might seem completely unrelated, hope the link makes it at least a bit more clear.</p>
 
-<p>In my humble opinion <a href="http://talk.cregox.com/t/narrative-clip-and-privacy/7699?u=cregox">privacy</a> (oh <a href="http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689">privacy</a>), security <sup>(to be linked, eventually)</sup> and even the <em>financial system</em> <sup>(more to be said much later on)</sup> as a whole must be rethought and remade.</p>
+<p>In my humble opinion <a href="/talk/t/narrative-clip-and-privacy/7699?u=cregox">privacy</a> (oh <a href="/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689">privacy</a>), security <sup>(to be linked, eventually)</sup> and even the <em>financial system</em> <sup>(more to be said much later on)</sup> as a whole must be rethought and remade.</p>
 
-<p>Trying not to suggest (or am I?) I do have a better solution. Just that we need to <strong>start looking at it</strong> (like <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">to super ai</a>) and <em>in different ways</em> <sup>(lots of promised future links huh?)</sup>.</p>
+<p>Trying not to suggest (or am I?) I do have a better solution. Just that we need to <strong>start looking at it</strong> (like <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2?u=cregox">to super ai</a>) and <em>in different ways</em> <sup>(lots of promised future links huh?)</sup>.</p>
 
-<p>Automation through technology is <a href="https://en.wikipedia.org/wiki/Basic_income">killing our current economic models for a lot of people</a> (including <a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661?u=cregox">me</a>, of course).</p>
+<p>Automation through technology is <a href="https://en.wikipedia.org/wiki/Basic_income">killing our current economic models for a lot of people</a> (including <a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661?u=cregox">me</a>, of course).</p>
 
 <p>I'll keep it this "short" this time, and let the links speak for themselves.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748">Read full topic</a></p>
+            <p><a href="/talk/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748</link>
+          <link>/talk/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748</link>
           <pubDate>Thu, 12 Nov 2015 10:36:45 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7748</guid>
-          <source url="http://talk.cregox.com/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748.rss">Cheap philosophical links about the financial rabbit hole</source>
+          <source url="/talk/t/cheap-philosophical-links-about-the-financial-rabbit-hole/7748.rss">Cheap philosophical links about the financial rabbit hole</source>
         </item>
         <item>
           <title>Xkcd was dead staple horse wrong about passwords</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <h1>xkcd is freaking awesome!</h1>
 
-<p><a href="http://talk.cregox.com/t/whats-the-slowest-moving-object-in-space-xkcd/7595">I love xkcd</a>. What's not to love about <a href="http://xkcd.com/about/">Randall</a>'s <a href="https://what-if.xkcd.com/">brilliant work</a>?</p>
+<p><a href="/talk/t/whats-the-slowest-moving-object-in-space-xkcd/7595">I love xkcd</a>. What's not to love about <a href="http://xkcd.com/about/">Randall</a>'s <a href="https://what-if.xkcd.com/">brilliant work</a>?</p>
 
-<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/0d8c458f17313331468cb45f233d38acae2b1262.png" width="440" height="345"><br>The fan base is so huge, and his witty so obscure, he got <a href="https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom">this fanbased site explaining his comics. Do click here to read the very funny Bobby Tables</a>. At least I think any progammer<a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">*</a> would find it funny. Certainly you need to know more than a bit about coding software to get it anyway.</p>
+<p><img src="/talk/uploads/default/original/1X/0d8c458f17313331468cb45f233d38acae2b1262.png" width="440" height="345"><br>The fan base is so huge, and his witty so obscure, he got <a href="https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom">this fanbased site explaining his comics. Do click here to read the very funny Bobby Tables</a>. At least I think any progammer<a href="/talk/t/yeah-im-also-a-progammer/7676">*</a> would find it funny. Certainly you need to know more than a bit about coding software to get it anyway.</p>
 
 <h1>But...</h1>
 
@@ -989,7 +989,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <hr>
 
-<p>Authentication in general <a href="http://talk.cregox.com/t/passwords/7760">have always bothered me</a>. So much I just started making a <a href="http://talk.cregox.com/t/passwords/7760">wiki about this topic</a> (and this is how the cregox's wiki category was born!).</p>
+<p>Authentication in general <a href="/talk/t/passwords/7760">have always bothered me</a>. So much I just started making a <a href="/talk/t/passwords/7760">wiki about this topic</a> (and this is how the cregox's wiki category was born!).</p>
 
 <p>And even today we are still lagging behind finding good ways of properly implementing it with computers. In general, anyway - of course ssh keys have been around for a long time, but <em>not even</em> most DevOps use it as often as they should. Or would anyone bother to argue otherwise?</p>
 
@@ -1053,24 +1053,24 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743">Read full topic</a></p>
+            <p><a href="/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743</link>
+          <link>/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743</link>
           <pubDate>Tue, 03 Nov 2015 09:30:45 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7743</guid>
-          <source url="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743.rss">Xkcd was dead staple horse wrong about passwords</source>
+          <source url="/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743.rss">Xkcd was dead staple horse wrong about passwords</source>
         </item>
         <item>
           <title>How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg" width="480" height="480"></p>
+              <p><img src="/talk/uploads/default/original/1X/74e125fdcbcf9c3c007e08d57de976f99df519d8.jpg" width="480" height="480"></p>
 
 <h3>Disclaimers</h3>
 
@@ -1143,32 +1143,32 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>But google says otherwise. You might be led to believe it could take many minutes, maybe as much as 10. Which can easily be extrapolated by "well, maybe it takes 15". Before you know it, you're easily wasting hours waiting for it.</p>
 
-<p>So, there you go. Hope this might have been of any help to you! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>So, there you go. Hope this might have been of any help to you! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702">Read full topic</a></p>
+            <p><a href="/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702</link>
+          <link>/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702</link>
           <pubDate>Mon, 28 Sep 2015 06:19:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7702</guid>
-          <source url="http://talk.cregox.com/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss">How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</source>
+          <source url="/talk/t/how-ive-installed-cyanogenmod-on-the-motorola-razr-hd-gsm-the-xt925/7702.rss">How I&#39;ve Installed CyanogenMod on the Motorola RAZR HD (GSM) - the &quot;xt925&quot;</source>
         </item>
         <item>
           <title>Narrative clip and privacy</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><a href="https://en.wikipedia.org/wiki/Autism"><img src="//talk-cdn.cregox.com/uploads/default/original/1X/4252ce989219d825420334db42aea631235bf51b.jpg" alt="Repetitively stacking or lining up objects is associated with autism." width="365" height="500"></a></p>
+              <p><a href="https://en.wikipedia.org/wiki/Autism"><img src="/talk/uploads/default/original/1X/4252ce989219d825420334db42aea631235bf51b.jpg" alt="Repetitively stacking or lining up objects is associated with autism." width="365" height="500"></a></p>
 
 <p>I probably have some considerable level of <a href="https://en.wikipedia.org/wiki/Autism">autism</a>, although I don't recall ever doing any repetitive stacking out of coding universe.</p>
 
-<p>Yesterday I went to "<a href="http://www.centromariodionisio.org/casadaachada_coro.php">Coro da Achada</a>" for the second time. <strong>Lovely</strong> place, despite being too politic to my taste. During the weekly rehearsals, at least the ones I were there, nobody really talks about any politics, so fine by me as I really, really rather focus on what matters to me: science and arts! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
+<p>Yesterday I went to "<a href="http://www.centromariodionisio.org/casadaachada_coro.php">Coro da Achada</a>" for the second time. <strong>Lovely</strong> place, despite being too politic to my taste. During the weekly rehearsals, at least the ones I were there, nobody really talks about any politics, so fine by me as I really, really rather focus on what matters to me: science and arts! <img src="/talk/images/emoji/emoji_one/slightly_smiling.png?v=1" title=":slightly_smiling:" class="emoji" alt=":slightly_smiling:"></p>
 
 <p>That's subject to a whole other topic, so, anyway...</p>
 
@@ -1176,11 +1176,11 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>The songs are mostly cheerful, despite of the focus being "<strong>politics intervention</strong>", as they say. I've got little clue of what that means. The first time I thought "politics, I better stay out". Now I thought "well, maybe this makes sense to me if the intervention is to add science!". One can only dream.</p>
 
-<p>Maybe one day, since people there are so nice, if I stick around enough, we can even sign about <a href="http://basiux.com">basiux</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>Maybe one day, since people there are so nice, if I stick around enough, we can even sign about <a href="http://basiux.com">basiux</a>! <img src="/talk/images/emoji/emoji_one/smiley.png?v=1" title=":smiley:" class="emoji" alt=":smiley:"></p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/acaf3ddf5be016c510fb01a9fab6135dc6898d0e" href="//talk-cdn.cregox.com/uploads/default/original/1X/acaf3ddf5be016c510fb01a9fab6135dc6898d0e.jpg" class="lightbox" title="150727_150229.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/acaf3ddf5be016c510fb01a9fab6135dc6898d0e_1_374x500.jpg" width="374" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/acaf3ddf5be016c510fb01a9fab6135dc6898d0e" href="/talk/uploads/default/original/1X/acaf3ddf5be016c510fb01a9fab6135dc6898d0e.jpg" class="lightbox" title="150727_150229.jpg"><img src="/talk/uploads/default/optimized/1X/acaf3ddf5be016c510fb01a9fab6135dc6898d0e_1_374x500.jpg" width="374" height="500"><div class="meta">
 <span class="filename">150727_150229.jpg</span><span class="informations">1484x1979 82.6 KB</span><span class="expand"></span>
-</div></a></div><br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c" href="//talk-cdn.cregox.com/uploads/default/original/1X/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c.jpg" class="lightbox" title="150727_150250.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c_1_375x500.jpg" width="375" height="500"><div class="meta">
+</div></a></div><br><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c" href="/talk/uploads/default/original/1X/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c.jpg" class="lightbox" title="150727_150250.jpg"><img src="/talk/uploads/default/optimized/1X/1b63cb78853f9094ccaf3ca8c34558bc1db11a3c_1_375x500.jpg" width="375" height="500"><div class="meta">
 <span class="filename">150727_150250.jpg</span><span class="informations">1944x2592 402 KB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -1188,7 +1188,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>Since then I've been using it almost every day. Some people asked me "what's that?", I answered "it's narrative clip, takes 2 pictures per minute". Now I've updated to "1 picture every 10 seconds". Yesterday I was surprised with the first bad reaction, and a massive one. They really wanted to convince me I was doing something wrong and wrong. I couldn't understand what was so wrong about it.</p>
 
-<p>So I researched, just now, briefly. Found <a href="https://support.getnarrative.com/hc/en-us/articles/202246638-Common-Sense-For-Wearing-Not-Wearing-The-Narrative-Clip?flash_digest=a95dde914d3d71728a57c3e4c2f02525aab5fb99">this</a><img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>So I researched, just now, briefly. Found <a href="https://support.getnarrative.com/hc/en-us/articles/202246638-Common-Sense-For-Wearing-Not-Wearing-The-Narrative-Clip?flash_digest=a95dde914d3d71728a57c3e4c2f02525aab5fb99">this</a><img src="/talk/images/emoji/emoji_one/smile.png?v=1" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <blockquote>
 <h2>Common Sense For Wearing/Not Wearing The Narrative Clip</h2>
@@ -1221,30 +1221,30 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>I do know I love using whatever technology that helps my memory, and patching the intrinsic brain malfunctions associated with it that most people don't know or like to admit it exists.</p>
 
-<p>Narrative clip is still not it, but a great usage to it for instance would be remembering every single thing I ate. With the right A.I., which could come only after the singularity, it can easily lead to such a improvement leap in my own health. This may never happen, but it isn't too hard to see the benefits of <a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">never forgetting things</a>.</p>
+<p>Narrative clip is still not it, but a great usage to it for instance would be remembering every single thing I ate. With the right A.I., which could come only after the singularity, it can easily lead to such a improvement leap in my own health. This may never happen, but it isn't too hard to see the benefits of <a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">never forgetting things</a>.</p>
 
-<p>What are the downsides? The only one I can see is being overwhelmed, but that only happens if you still want to control everything! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>What are the downsides? The only one I can see is being overwhelmed, but that only happens if you still want to control everything! <img src="/talk/images/emoji/emoji_one/wink.png?v=1" title=":wink:" class="emoji" alt=":wink:"></p>
 
 <div class="lazyYT" data-youtube-id="SXi38hV9zvQ" data-youtube-title="Instinct - Illusions Scene" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/narrative-clip-and-privacy/7699">Read full topic</a></p>
+            <p><a href="/talk/t/narrative-clip-and-privacy/7699">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/narrative-clip-and-privacy/7699</link>
+          <link>/talk/t/narrative-clip-and-privacy/7699</link>
           <pubDate>Thu, 17 Sep 2015 11:27:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7699</guid>
-          <source url="http://talk.cregox.com/t/narrative-clip-and-privacy/7699.rss">Narrative clip and privacy</source>
+          <source url="/talk/t/narrative-clip-and-privacy/7699.rss">Narrative clip and privacy</source>
         </item>
         <item>
           <title>Moving to Portugal, 3 weeks in, quick update</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Being married to a citizen sure make some things easy, but it still isn't as smooth as you might expect. We're both brazilians. She got her portuguese license past year. Now we're trying to get mine.</p>
 
@@ -1256,34 +1256,34 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 <li><p>In Portugal, for opening a bank account, you need a "residential proof". But it doesn't need a portuguese one! Once we learned that, it was easy, specially thanks to the awesome ActivoBank.</p></li>
 <li><p>Buy monthly plans as soon as possible. No matter what other people say, anything else will probably not be worth it. For instance, on our mobile plan, finding the best discount make it worth paying for 2 years, even if we'd stay only 1, because it already pays off in that first 12 months. For the first month, you probably is going to benefit with a monthly transportation plan as well.</p></li>
 <li><p>If you're flying on the cheap, don't take small connections. Or bring only hand bags. Assume all your luggage will be lost on connections with less than 2 hours, even if within the same company.</p></li>
-<li><p>AirBnb super hosts are awesome! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p></li>
+<li><p>AirBnb super hosts are awesome! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p></li>
 <li><p>Do eat "pasteis de nata de belem" as frequent as possible. Or stroopwafels. Etc.</p></li>
 </ul>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/50e10d9100e9f53a36baf68dffdc4dd59c253704" href="//talk-cdn.cregox.com/uploads/default/original/1X/50e10d9100e9f53a36baf68dffdc4dd59c253704.JPG" class="lightbox" title="Past%C3%A9is_de_Bel%C3%A9m.JPG"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/50e10d9100e9f53a36baf68dffdc4dd59c253704_1_686x500.JPG" width="686" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/50e10d9100e9f53a36baf68dffdc4dd59c253704" href="/talk/uploads/default/original/1X/50e10d9100e9f53a36baf68dffdc4dd59c253704.JPG" class="lightbox" title="Past%C3%A9is_de_Bel%C3%A9m.JPG"><img src="/talk/uploads/default/optimized/1X/50e10d9100e9f53a36baf68dffdc4dd59c253704_1_686x500.JPG" width="686" height="500"><div class="meta">
 <span class="filename">Past%C3%A9is_de_Bel%C3%A9m.JPG</span><span class="informations">2316x1687 1.41 MB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/moving-to-portugal-3-weeks-in-quick-update/7698">Read full topic</a></p>
+            <p><a href="/talk/t/moving-to-portugal-3-weeks-in-quick-update/7698">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/moving-to-portugal-3-weeks-in-quick-update/7698</link>
+          <link>/talk/t/moving-to-portugal-3-weeks-in-quick-update/7698</link>
           <pubDate>Sat, 12 Sep 2015 23:56:54 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7698</guid>
-          <source url="http://talk.cregox.com/t/moving-to-portugal-3-weeks-in-quick-update/7698.rss">Moving to Portugal, 3 weeks in, quick update</source>
+          <source url="/talk/t/moving-to-portugal-3-weeks-in-quick-update/7698.rss">Moving to Portugal, 3 weeks in, quick update</source>
         </item>
         <item>
           <title>What does public sex and smartphones have in common?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/b6a9e9c1b335cd99afcba4bd29b630982751ce28.jpg" width="615" height="409"></p>
+              <p><img src="/talk/uploads/default/original/1X/b6a9e9c1b335cd99afcba4bd29b630982751ce28.jpg" width="615" height="409"></p>
 
 <p>Does the image of any amount of people having sex in public bother you? Have you stumbled anywhere near people doing it? Do you get annoyed by it in the internet as well? <strong>Why?</strong></p>
 
@@ -1307,7 +1307,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>Anyway, all I wanted initially in this post was to remove, completely, all the smartphone locking, making it easier for me to use it. And no, I don't think iPhone's digital is the right way to go there.</p>
 
-<p>Being able to only access the phone physically is already enough security (or digital privacy) for me right now. That is in contrast with desktops and servers, that need password to prevent remote access, which makes it so easy to break in. Because <a href="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72">people won't use good passwords</a>.</p>
+<p>Being able to only access the phone physically is already enough security (or digital privacy) for me right now. That is in contrast with desktops and servers, that need password to prevent remote access, which makes it so easy to break in. Because <a href="/talk/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72">people won't use good passwords</a>.</p>
 
 <p>In the inability to do so, I wanted to, at least, not allow anyone else to lock me out. So I have to set a PIN before they do it. Now, with a PIN set, how can I remove the need for me to keep typing it all the time in the lock screen? iPhone came up with a very clever way, with a somewhat good finger sensor. </p>
 
@@ -1321,11 +1321,11 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <h2>Back to society</h2>
 
-<p><a href="http://talk.cregox.com/t/narrative-clip-and-privacy/7699">I just posted</a> another bunch of text about privacy which was on draft for little more than 1 week:</p>
+<p><a href="/talk/t/narrative-clip-and-privacy/7699">I just posted</a> another bunch of text about privacy which was on draft for little more than 1 week:</p>
 
 <aside class="quote" data-post="1" data-topic="7699"><div class="title">
 <div class="quote-controls"></div>
-<img alt="" width="20" height="20" src="//talk-cdn.cregox.com/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
+<img alt="" width="20" height="20" src="/talk/user_avatar/talk.cregox.com/cregox/40/60_1.png" class="avatar">cregox:</div>
 <blockquote>
 <p>About a week ago I was discussing privacy with other tech geeks, talking about firefox, passwords, tor, and digital privacy in general. One of them caught my idea of "it's all about miss communication" within seconds. And he kept thinking about it. And I kept thinking about how fast he got it.</p>
 <p>My conclusion was that privacy, like vaccine, is important to those who can suffer it. You should vaccine yourself and be aware of privacy because even if it doesn't matter at all to you, it matters to some people, and it threatens their life. Not only politicians and diplomats, but whoever lives on the edge.</p>
@@ -1339,38 +1339,38 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>I guess the only way to "resolve privacy" is with very well spread information, which we're still very far, far away. A biological evolution would be needed and it's easy to predict either cybertech or genetic engineering should be able to resolve it, eventually.</p>
 
-<p>Although <a href="http://basiux.com">of course I believe A.I.</a> will do it first. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>Although <a href="http://basiux.com">of course I believe A.I.</a> will do it first. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>You may say that the world could easily become a <strong>very boring</strong> place if we can reach this <a href="https://www.youtube.com/watch?v=yRhq-yO1KN8">Imagined</a> Utopia... Utopian worlds are never real, though. It's just we setting up a drive to walk a path full of mesmerising realisations of what the universe already reserved for us to find, should we choose that path. And I will choose utopian paths over dystopian ones. Every time.</p>
 
-<p>Although there are fun alternative realities created by our beloved science fiction stories, that are in neither such polarised choices, that look like could be quite enjoyable and fun... <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+<p>Although there are fun alternative realities created by our beloved science fiction stories, that are in neither such polarised choices, that look like could be quite enjoyable and fun... <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
 
-<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/7b8aa685c000b629b3a1557ddae7bde030b67b7c.jpg" width="480" height="360"><br><small><em>I won't say from which movie this is, because then it could be a big spoiler despite being from 2006. ( And spoilers tags are <a href="https://meta.discourse.org/t/spoiler-tag-not-working-with-cdn-and-cors/30232/2">still not working</a> here! )</em></small></p>
+<p><img src="/talk/uploads/default/original/1X/7b8aa685c000b629b3a1557ddae7bde030b67b7c.jpg" width="480" height="360"><br><small><em>I won't say from which movie this is, because then it could be a big spoiler despite being from 2006. ( And spoilers tags are <a href="https://meta.discourse.org/t/spoiler-tag-not-working-with-cdn-and-cors/30232/2">still not working</a> here! )</em></small></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689">Read full topic</a></p>
+            <p><a href="/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689</link>
+          <link>/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689</link>
           <pubDate>Mon, 17 Aug 2015 21:09:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7689</guid>
-          <source url="http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689.rss">What does public sex and smartphones have in common?</source>
+          <source url="/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689.rss">What does public sex and smartphones have in common?</source>
         </item>
         <item>
           <title>We need to accelerate the singularity!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>We just need to do it, before general intelligence gets dangerous!</p>
 
 <p>Artificial Super Intelligence is our current Holy Grail. It may be unattainable, it may not exist. But it may also be like going to the Moon! Although, unlike the main cold war escape device, it would possibly be reached only once and with more benefits that we could ever even imagine.</p>
 
-<p>There's too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, <a href="http://talk.cregox.com/t/what-is-the-basiux/7675/1">enough have already been said</a>. By <a href="http://s.cregox.com/basiux-research">many people</a>.</p>
+<p>There's too much to be said about ASI and the technological singularity that would follow. Too much. And, fortunately, <a href="/talk/t/what-is-the-basiux/7675/1">enough have already been said</a>. By <a href="http://s.cregox.com/basiux-research">many people</a>.</p>
 
 <p>What about the dangers <a href="http://futureoflife.org/AI/open_letter">many experts and smart people have about AI</a>? It's actually about AGI.</p>
 
@@ -1380,7 +1380,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <hr>
 
-<p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/6c28518e0c95679ab3d6348856998f1da61a0c0f.gif" width="173" height="173"></p>
+<p><img src="/talk/uploads/default/original/1X/6c28518e0c95679ab3d6348856998f1da61a0c0f.gif" width="173" height="173"></p>
 
 <p>As a first step towards <a href="http://basiux.com">basiux</a>, I want to develop an <em>Artificial Neural Network</em>, probably in node.js and using jasmine, able to take some parameters to keep on <em>Deep Learning</em> a very specific task: to compress data. Like never before.</p>
 
@@ -1388,36 +1388,36 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>The problem is we're on our own expenses, and we've currently got zero.</p>
 
-<p>Being a <a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">progammer*</a> myself I like to believe I could <em>probably</em> build this if I had more time at hands. Maybe I'll still be able to do it by finding most of that work done, <a href="http://neuralnetworksanddeeplearning.com/sai.html">somewhere</a>.</p>
+<p>Being a <a href="/talk/t/yeah-im-also-a-progammer/7676">progammer*</a> myself I like to believe I could <em>probably</em> build this if I had more time at hands. Maybe I'll still be able to do it by finding most of that work done, <a href="http://neuralnetworksanddeeplearning.com/sai.html">somewhere</a>.</p>
 
 <p>Meanwhile, it would be great finding someone who can engage us in this quest. Ideally looking for friends who could slowly join in (<a href="https://www.americanexpress.com/us/small-business/openforum/articles/stop-looking-for-a-co-founder/">not a cofounder</a>).</p>
 
 <blockquote><p><strong>Can you take this challenge?</strong></p></blockquote>
 
-<p>That is, <a href="https://www.quora.com/What-is-the-likelihood-of-a-good-idea-being-stolen/answer/Sramana-Mitra-1">if you've got the idea</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"> (if you didn't, do ask away below, <a href="https://gitter.im/basiux/square">on gitter</a> or any nice public places)</p>
+<p>That is, <a href="https://www.quora.com/What-is-the-likelihood-of-a-good-idea-being-stolen/answer/Sramana-Mitra-1">if you've got the idea</a>! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"> (if you didn't, do ask away below, <a href="https://gitter.im/basiux/square">on gitter</a> or any nice public places)</p>
 
 <p>Or maybe, and <em>just maybe</em>, it's time to <a href="https://xkcd.com/1060/">start thinking on crowdsourcing</a>.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681">Read full topic</a></p>
+            <p><a href="/talk/t/we-need-to-accelerate-the-singularity/7681">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681</link>
+          <link>/talk/t/we-need-to-accelerate-the-singularity/7681</link>
           <pubDate>Tue, 04 Aug 2015 01:07:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7681</guid>
-          <source url="http://talk.cregox.com/t/we-need-to-accelerate-the-singularity/7681.rss">We need to accelerate the singularity!</source>
+          <source url="/talk/t/we-need-to-accelerate-the-singularity/7681.rss">We need to accelerate the singularity!</source>
         </item>
         <item>
           <title>Yeah, I&#39;m also a progammer*</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/365a52ccb1d78553077075e3fe5d5e948e5fb713.png" width="632" height="449"> <br><em>some traditional "art" I've made as a kid, using a mouse and a magazine to copy it from.</em></p>
+              <p><img src="/talk/uploads/default/original/1X/365a52ccb1d78553077075e3fe5d5e948e5fb713.png" width="632" height="449"> <br><em>some traditional "art" I've made as a kid, using a mouse and a magazine to copy it from.</em></p>
 
 <p>this post has probably nothing to do with Peter Spidey there.</p>
 
@@ -1437,34 +1437,34 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>so, I'm actually a <strong>progammer</strong>.</p>
 
-<p>and what's that "<strong>gammer</strong>"? since it's a new word I suppose I'm inventing, I'm also defining it as a person who knows how to code, who likes games, dislike grammar, enjoys creativity, skepticism and high tech above all. in other words, as myself! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="64" height="64"></p>
+<p>and what's that "<strong>gammer</strong>"? since it's a new word I suppose I'm inventing, I'm also defining it as a person who knows how to code, who likes games, dislike grammar, enjoys creativity, skepticism and high tech above all. in other words, as myself! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="64" height="64"></p>
 
 <p>just like there is art in programming it's as well in inventing new words. or etc.</p>
 
-<p>and if you do identify with this and don't know how to code (yet), you could call yourself simply a <strong>gammer</strong>. or not. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
+<p>and if you do identify with this and don't know how to code (yet), you could call yourself simply a <strong>gammer</strong>. or not. <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="64" height="64"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676">Read full topic</a></p>
+            <p><a href="/talk/t/yeah-im-also-a-progammer/7676">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/yeah-im-also-a-progammer/7676</link>
+          <link>/talk/t/yeah-im-also-a-progammer/7676</link>
           <pubDate>Sun, 26 Jul 2015 07:32:48 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7676</guid>
-          <source url="http://talk.cregox.com/t/yeah-im-also-a-progammer/7676.rss">Yeah, I&#39;m also a progammer*</source>
+          <source url="/talk/t/yeah-im-also-a-progammer/7676.rss">Yeah, I&#39;m also a progammer*</source>
         </item>
         <item>
           <title>What is the basiux?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Would you try to guess what war, global warming, alien invasion, asteroids, and technology have in common?</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/ab3077737db8929f8091402370f4529f8f7274a3" href="//talk-cdn.cregox.com/uploads/default/original/1X/ab3077737db8929f8091402370f4529f8f7274a3.jpeg" class="lightbox" title="182693-970x600-1.jpeg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/ab3077737db8929f8091402370f4529f8f7274a3_1_690x426.jpeg" width="690" height="426"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/ab3077737db8929f8091402370f4529f8f7274a3" href="/talk/uploads/default/original/1X/ab3077737db8929f8091402370f4529f8f7274a3.jpeg" class="lightbox" title="182693-970x600-1.jpeg"><img src="/talk/uploads/default/optimized/1X/ab3077737db8929f8091402370f4529f8f7274a3_1_690x426.jpeg" width="690" height="426"><div class="meta">
 <span class="filename">182693-970x600-1.jpeg</span><span class="informations">970x600 92.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -1482,7 +1482,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>But how can we control such a supreme being to serve us instead of exterminating us all?</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/c9ada45d9b4b0b6b5012ccf70effc31030943b6d" href="//talk-cdn.cregox.com/uploads/default/original/1X/c9ada45d9b4b0b6b5012ccf70effc31030943b6d.jpg" class="lightbox" title="ecc076b22b30ebdc676720be7f22b580.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/c9ada45d9b4b0b6b5012ccf70effc31030943b6d_1_290x500.jpg" width="290" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/c9ada45d9b4b0b6b5012ccf70effc31030943b6d" href="/talk/uploads/default/original/1X/c9ada45d9b4b0b6b5012ccf70effc31030943b6d.jpg" class="lightbox" title="ecc076b22b30ebdc676720be7f22b580.jpg"><img src="/talk/uploads/default/optimized/1X/c9ada45d9b4b0b6b5012ccf70effc31030943b6d_1_290x500.jpg" width="290" height="500"><div class="meta">
 <span class="filename">ecc076b22b30ebdc676720be7f22b580.jpg</span><span class="informations">681x1174 74.4 KB</span><span class="expand"></span>
 </div></a></div><br><em>Leeloo is, at best, an improved Artificial General Intelligence (A.G.I.), in our scale here</em></p>
 
@@ -1508,28 +1508,28 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/what-is-the-basiux/7675">Read full topic</a></p>
+            <p><a href="/talk/t/what-is-the-basiux/7675">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/what-is-the-basiux/7675</link>
+          <link>/talk/t/what-is-the-basiux/7675</link>
           <pubDate>Sat, 25 Jul 2015 00:29:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7675</guid>
-          <source url="http://talk.cregox.com/t/what-is-the-basiux/7675.rss">What is the basiux?</source>
+          <source url="/talk/t/what-is-the-basiux/7675.rss">What is the basiux?</source>
         </item>
         <item>
           <title>Don&#39;t know why I can&#39;t stop applying for jobs</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>quest</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/844133da5352dc4810b619946f2cd85d93a0654d" href="//talk-cdn.cregox.com/uploads/default/original/1X/844133da5352dc4810b619946f2cd85d93a0654d.JPG" class="lightbox" title="IMG_0770.JPG"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/844133da5352dc4810b619946f2cd85d93a0654d_1_375x500.JPG" width="375" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/844133da5352dc4810b619946f2cd85d93a0654d" href="/talk/uploads/default/original/1X/844133da5352dc4810b619946f2cd85d93a0654d.JPG" class="lightbox" title="IMG_0770.JPG"><img src="/talk/uploads/default/optimized/1X/844133da5352dc4810b619946f2cd85d93a0654d_1_375x500.JPG" width="375" height="500"><div class="meta">
 <span class="filename">IMG_0770.JPG</span><span class="informations">1536x2048 1.36 MB</span><span class="expand"></span>
 </div></a></div><br><em>One of the many humorous and <strong>foolish</strong> road signs in New Zealand</em></p>
 
-<p>I should be focusing much more time on <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2">researching and building intelligence</a>, instead (and I still hope I will).</p>
+<p>I should be focusing much more time on <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/2">researching and building intelligence</a>, instead (and I still hope I will).</p>
 
 <p>So I wonder why I'm not making it. Why do I insist on "wasting" time trying to get a job?!</p>
 
@@ -1537,7 +1537,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>Before my latest job (best one I've had in my life for brief 2 years) back in 2011 I had tried applying for about 100 jobs in a few months. I can safely say that because only by email I know I've sent 70 applications, most of which are just ignored. In fact, I got the job through an indication and no application, just like 80 to 90% of my previous jobs. Granted, one of the best ones was without any indication and such isolated anecdotes really means nothing, but they're the most reliable data points I've got that work for myself.</p>
 
-<p>For little more than 1 year now I do keep trying to apply, mostly for online jobs. I must have over 200 scattered applications. <a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658">Some</a> are dreadful and way too hard. They're probably missing the point, although most big companies do go through excruciating processes even tougher than that. But there are ones that are even fun, since they simply ask questions which eventually makes me reflect about myself.</p>
+<p>For little more than 1 year now I do keep trying to apply, mostly for online jobs. I must have over 200 scattered applications. <a href="/talk/t/a-feedback-for-my-application-at-crossover/7658">Some</a> are dreadful and way too hard. They're probably missing the point, although most big companies do go through excruciating processes even tougher than that. But there are ones that are even fun, since they simply ask questions which eventually makes me reflect about myself.</p>
 
 <p>Last fun one was Clevertech and I wanted to bring some of my answers here. Mostly because of this question and its hidden characters limit, which ended up not being the only one. I had to reduce 2 answers there (basically removing the negativity) and decided to keep the originals here.</p>
 
@@ -1593,22 +1593,22 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
             </blockquote>
             <p>Posts: 6</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661">Read full topic</a></p>
+            <p><a href="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661</link>
+          <link>/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661</link>
           <pubDate>Tue, 14 Jul 2015 17:17:25 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7661</guid>
-          <source url="http://talk.cregox.com/t/dont-know-why-i-cant-stop-applying-for-jobs/7661.rss">Don&#39;t know why I can&#39;t stop applying for jobs</source>
+          <source url="/talk/t/dont-know-why-i-cant-stop-applying-for-jobs/7661.rss">Don&#39;t know why I can&#39;t stop applying for jobs</source>
         </item>
         <item>
           <title>A feedback for my application at crossover</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>blog</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <a href="https://dl.dropboxusercontent.com/s/flkma4908enla97/Screenshot%202015-07-02%2018.48.01.png?dl=0" target="_blank"><img src="https://dl.dropboxusercontent.com/s/flkma4908enla97/Screenshot%202015-07-02%2018.48.01.png?dl=0" width="690" height="354"></a>
 
@@ -1616,7 +1616,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>this is a readme file I've sent over to a tech trial application I was assigned while applying for a job at <a href="https://www.crossover.com/">crossover</a>. they asked me to deliver a complex dummy application made from scratch within 3 days, and I simply couldn't do it in such short and surprising notice. in retrospect I probably could have predicted it before I pressed the <code>start process</code> button, but I didn't.</p>
 
-<p>so, below, there's the file at its integrity. picture you're the examiner getting basically this single file instead of sources and screen recordings as requested and, like the examiner probably will, just ignore it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
+<p>so, below, there's the file at its integrity. picture you're the examiner getting basically this single file instead of sources and screen recordings as requested and, like the examiner probably will, just ignore it. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
 
 <h1>disclaimer</h1>
 
@@ -1635,8 +1635,8 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 <p>For one, I'm on a mac, with no access to a windows machine and it's been a while since I've used .NET with MVC (so I would really need to use all the time given to get to a good result).</p>
 <p>If you really want me to give me a new assignment for Monday (maybe just switch me to Java) I could make a commitment... But, since we've got to this point, I rather ask you to consider my different application. I will upload a clever solution, later on.</p>
 <p>Another thing is I only ever intended applying for this job to start in September, when I'll be finished moving from Brazil to Portugal. Yeah, next week I may have no good internet access at home, as part of this moving process. This is one big reason why I rushed a bit trying to finish this process now.</p>
-<p>Finally, I really want to invest all my time until then with a very important <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653">personal project</a>. Right now I'm choosing to codename it either <strong>cregox sam</strong> or <strong>sargix</strong>, which you'll soon be able to google for if you really want to know more.</p>
-<p>In any case, I'm still quite interested in this opportunity so please let me know if we can move forward! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
+<p>Finally, I really want to invest all my time until then with a very important <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653">personal project</a>. Right now I'm choosing to codename it either <strong>cregox sam</strong> or <strong>sargix</strong>, which you'll soon be able to google for if you really want to know more.</p>
+<p>In any case, I'm still quite interested in this opportunity so please let me know if we can move forward! <img src="/talk/images/emoji/emoji_one/wink.png?v=0" title=":wink:" class="emoji" alt="wink" width="64" height="64"></p>
 </blockquote>
 
 <h1>honestly</h1>
@@ -1674,7 +1674,7 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>this is a big reason I keep feeling I shouldn’t even bother wasting my time applying, honestly. I’m not even sure why I bother, I probably shouldn’t. and probably nobody is reading this far anyway. maybe the bigger reason I’m trying is I’m still very lost in my career positioning, although that will change soon enough.</p>
 
-<p>not sorry if I’m being too bluntly honest, even if mostly with criticisms! I really do love transparency. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
+<p>not sorry if I’m being too bluntly honest, even if mostly with criticisms! I really do love transparency. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
 
 <blockquote><ul><li>It cannot use any 3rd party XXX frameworks, not even open source ones.</li></ul></blockquote>
 
@@ -1699,21 +1699,21 @@ Gotta love <a href="https://en.wikipedia.org/wiki/Technology">wikip…</a>
 
 <p>I understand this whole process exists both to filter and qualify candidates, and I haven’t even got to talk with a human being yet. that part makes a lot of sense to be able to find the top candidates, from an HR and its resources point of view. but not so much from the candidate point of view.</p>
 
-<p>this conflict of interests makes the whole proposition behind crossover a bit dubious to me, but I still found the process appealing enough to try. maybe I shouldn’t. while I’m confused about it, and got time to try, I’ll keep trying, in hope to be proved wrong! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
+<p>this conflict of interests makes the whole proposition behind crossover a bit dubious to me, but I still found the process appealing enough to try. maybe I shouldn’t. while I’m confused about it, and got time to try, I’ll keep trying, in hope to be proved wrong! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt="stuck_out_tongue_winking_eye" width="64" height="64"></p>
 
 <p>waiting for talking to a person soon. cheers.</p>
             </blockquote>
             <p>Posts: 47</p>
             <p>Participants: 18</p>
-            <p><a href="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658">Read full topic</a></p>
+            <p><a href="/talk/t/a-feedback-for-my-application-at-crossover/7658">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658</link>
+          <link>/talk/t/a-feedback-for-my-application-at-crossover/7658</link>
           <pubDate>Thu, 02 Jul 2015 22:17:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7658</guid>
-          <source url="http://talk.cregox.com/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
+          <source url="/talk/t/a-feedback-for-my-application-at-crossover/7658.rss">A feedback for my application at crossover</source>
         </item>
   </channel>
 </rss>

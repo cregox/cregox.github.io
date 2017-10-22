@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Welcome to cregox talk</title>
-    <link>http://talk.cregox.com/t/welcome-to-cregox-talk/6</link>
+    <link>/talk/t/welcome-to-cregox-talk/6</link>
     <description>cregox talk is a random forum-ish place where we can talk about anything! *We shall never delete or moderate a post that isn&#39;t considered clear spam.*
 
 # **Who is it for?**
@@ -13,11 +13,11 @@ There are 3 commandments of what should be avoided at all costs (never forbidden
 
 no religion
 no politics
-no possessions &lt;small&gt;(under [review](http://talk.cregox.com/t/lets-make-a-podcast/7753) of a better short term for the general idea)&lt;/small&gt;
+no possessions &lt;small&gt;(under [review](/talk/t/lets-make-a-podcast/7753) of a better short term for the general idea)&lt;/small&gt;
 
 ## **What can you find here?**
 
-A lot of confusing texts, mostly around [categories on buffer](http://talk.cregox.com/c/buffer), probably still such as: tech, science, skepticism, philosophy, entertainment, porn, intelligence and some meta. You know, anything that matters! :D
+A lot of confusing texts, mostly around [categories on buffer](/talk/c/buffer), probably still such as: tech, science, skepticism, philosophy, entertainment, porn, intelligence and some meta. You know, anything that matters! :D
 
 # **Why should you come here?**
 
@@ -35,9 +35,9 @@ Think of [quora][6] and [reddit][7], if you will, but using this open source tec
 
 
   [1]: http://www.discourse.org
-  [2]: http://talk.cregox.com/t/similar-web-sites-forums/52/1
+  [2]: /talk/t/similar-web-sites-forums/52/1
   [3]: http://blog.codinghorror.com/
-  [4]: http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas
+  [4]: /talk/t/a-beginning-for-the-forums-here/7?u=cawas
   [5]: http://www.theskepticsguide.org/
   [6]: http://www.quora.com
   [7]: http://www.reddit.com
@@ -48,12 +48,12 @@ Think of [quora][6] and [reddit][7], if you will, but using this open source tec
     <language>en</language>
     <lastBuildDate>Sun, 11 Dec 2016 14:48:46 +0000</lastBuildDate>
     <category>meta</category>
-    <atom:link href="http://talk.cregox.com/t/welcome-to-cregox-talk/6.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/welcome-to-cregox-talk/6.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Welcome to cregox talk</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/system">@system</a> wrote:</p>
+          <p><a href="/talk/u/system">@system</a> wrote:</p>
           <blockquote>
               <p>cregox talk is a random forum-ish place where we can talk about anything! <em>We shall never delete or moderate a post that isn't considered clear spam.</em></p>
 
@@ -63,32 +63,32 @@ Think of [quora][6] and [reddit][7], if you will, but using this open source tec
 
 <p>There are 3 commandments of what should be avoided at all costs (never forbidden). These are among the most circular and vicious popular subjects in the world today (and for the longest time):</p>
 
-<p>no religion<br>no politics<br>no possessions <small>(under <a href="http://talk.cregox.com/t/lets-make-a-podcast/7753">review</a> of a better short term for the general idea)</small></p>
+<p>no religion<br>no politics<br>no possessions <small>(under <a href="/talk/t/lets-make-a-podcast/7753">review</a> of a better short term for the general idea)</small></p>
 
 <h2><strong>What can you find here?</strong></h2>
 
-<p>A lot of confusing texts, mostly around <a href="http://talk.cregox.com/c/buffer">categories on buffer</a>, probably still such as: tech, science, skepticism, philosophy, entertainment, porn, intelligence and some meta. You know, anything that matters! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/smiley.png?v=3" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>A lot of confusing texts, mostly around <a href="/talk/c/buffer">categories on buffer</a>, probably still such as: tech, science, skepticism, philosophy, entertainment, porn, intelligence and some meta. You know, anything that matters! <img src="/talk/images/emoji/emoji_one/smiley.png?v=3" title=":smiley:" class="emoji" alt=":smiley:"></p>
 
 <h1><strong>Why should you come here?</strong></h1>
 
-<p>Because <a href="http://talk.cregox.com/t/similar-web-sites-forums/52/1">you could not find anywhere else good enough</a>! There are many communities out there, but they're either too restrictive (I ended up finding up that even "the daily wtf" is <a href="https://what.thedailywtf.com/topic/21279/unofficial-w-e-tldr-stuff-thread-spoilers-still-needed-nsfw/13">too restrictive to my taste</a>) and/or got a bad forums software.</p>
+<p>Because <a href="/talk/t/similar-web-sites-forums/52/1">you could not find anywhere else good enough</a>! There are many communities out there, but they're either too restrictive (I ended up finding up that even "the daily wtf" is <a href="https://what.thedailywtf.com/topic/21279/unofficial-w-e-tldr-stuff-thread-spoilers-still-needed-nsfw/13">too restrictive to my taste</a>) and/or got a bad forums software.</p>
 
 <p>In fact, if you do know of anywhere else, please let us know! We'd love to go there. Just keep in mind the tool has to be at least as good as <a href="https://nodebb.org/">nodeBB</a>, <a href="http://flarum.org/">flarum</a> or even the one we're still using here, as legacy, <a href="http://discourse.org">discourse.org</a> (beware <a href="http://blog.cregox.com/2015/12/25/new-blog-platform-once-again.html">Jeff is an ass</a>).</p>
 
 <h1><strong>Where can you read more (links, resources, etc)?</strong></h1>
 
-<p>The <a href="http://talk.cregox.com/t/a-beginning-for-the-forums-here/7?u=cawas">forum</a> was born from a fan (<a class="mention" href="/users/cregox">@cregox</a>) of <a href="http://www.theskepticsguide.org/">SGU</a> who was too excited about using the most advanced forums tool there was back then and wanted to use it for free expression of anything in their mind.</p>
+<p>The <a href="/talk/t/a-beginning-for-the-forums-here/7?u=cawas">forum</a> was born from a fan (<a class="mention" href="/users/cregox">@cregox</a>) of <a href="http://www.theskepticsguide.org/">SGU</a> who was too excited about using the most advanced forums tool there was back then and wanted to use it for free expression of anything in their mind.</p>
 
 <h2><strong>Why you talk so much about that discourse thing?</strong></h2>
 
 <p>Think of <a href="http://www.quora.com">quora</a> and <a href="http://www.reddit.com">reddit</a>, if you will, but using this open source technology made by the same guys from <a href="http://www.stackexchange.com">StackOverflow</a>. You'll <em>probably</em> only be able to understand how good this is once you start using it, and once we do have a community to power it up. So, do try out <a href="https://www.discourse.org/faq/customers">some similar sites with bigger communities (these are their paying customers)</a>. But <strong>don't go too far into building a huge community</strong>, or <a href="https://what.thedailywtf.com/t/tdwtf-forum-faq/370">you could easily break the toy</a>.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/welcome-to-cregox-talk/6/1">Read full topic</a></p>
+          <p><a href="/talk/t/welcome-to-cregox-talk/6/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/welcome-to-cregox-talk/6/1</link>
+        <link>/talk/t/welcome-to-cregox-talk/6/1</link>
         <pubDate>Fri, 06 Jun 2014 19:41:00 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-6-1</guid>
-        <source url="http://talk.cregox.com/t/welcome-to-cregox-talk/6.rss">Welcome to cregox talk</source>
+        <source url="/talk/t/welcome-to-cregox-talk/6.rss">Welcome to cregox talk</source>
       </item>
   </channel>
 </rss>

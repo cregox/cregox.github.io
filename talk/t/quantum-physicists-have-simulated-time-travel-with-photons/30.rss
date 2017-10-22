@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Quantum physicists have simulated time travel with photons!</title>
-    <link>http://talk.cregox.com/t/quantum-physicists-have-simulated-time-travel-with-photons/30</link>
+    <link>/talk/t/quantum-physicists-have-simulated-time-travel-with-photons/30</link>
     <description>http://www.iflscience.com/physics/scientists-have-simulated-time-travel-photons
 
 Anyone care to explain what this means to someone who don&#39;t understand quantum physics? :P
@@ -11,12 +11,12 @@ I bet it means nothing! :(</description>
     <language>en</language>
     <lastBuildDate>Tue, 24 Jun 2014 00:37:17 +0000</lastBuildDate>
     <category>chaotic science</category>
-    <atom:link href="http://talk.cregox.com/t/quantum-physicists-have-simulated-time-travel-with-photons/30.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/quantum-physicists-have-simulated-time-travel-with-photons/30.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Quantum physicists have simulated time travel with photons!</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><a href="http://www.iflscience.com/physics/scientists-have-simulated-time-travel-photons" class="onebox" target="_blank">http://www.iflscience.com/physics/scientists-have-simulated-time-travel-photons</a></p>
 
@@ -24,12 +24,12 @@ I bet it means nothing! :(</description>
 
 <p>I bet it means nothing! <img src="//talk.cregox.com/images/emoji/emoji_one/frowning.png" title=":frowning:" class="emoji" alt="frowning" width="64" height="64"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/quantum-physicists-have-simulated-time-travel-with-photons/30/1">Read full topic</a></p>
+          <p><a href="/talk/t/quantum-physicists-have-simulated-time-travel-with-photons/30/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/quantum-physicists-have-simulated-time-travel-with-photons/30/1</link>
+        <link>/talk/t/quantum-physicists-have-simulated-time-travel-with-photons/30/1</link>
         <pubDate>Tue, 24 Jun 2014 00:37:17 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-30-1</guid>
-        <source url="http://talk.cregox.com/t/quantum-physicists-have-simulated-time-travel-with-photons/30.rss">Quantum physicists have simulated time travel with photons!</source>
+        <source url="/talk/t/quantum-physicists-have-simulated-time-travel-with-photons/30.rss">Quantum physicists have simulated time travel with photons!</source>
       </item>
   </channel>
 </rss>

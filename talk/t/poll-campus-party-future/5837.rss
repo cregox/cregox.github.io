@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Poll: Campus Party Future</title>
-    <link>http://talk.cregox.com/t/poll-campus-party-future/5837</link>
+    <link>/talk/t/poll-campus-party-future/5837</link>
     <description> - Sim
  - Não
 
@@ -13,12 +13,12 @@ Temos [até dia 22 para fazer inscrição][1]. O que acham vale a pena?
     <language>en</language>
     <lastBuildDate>Wed, 17 Dec 2014 13:37:11 +0000</lastBuildDate>
     <category>edu cash</category>
-    <atom:link href="http://talk.cregox.com/t/poll-campus-party-future/5837.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/poll-campus-party-future/5837.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Poll: Campus Party Future</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <ul>
 <li>Sim</li>
@@ -27,12 +27,12 @@ Temos [até dia 22 para fazer inscrição][1]. O que acham vale a pena?
 
 <p>Temos <a href="https://acumbamail.com/envio/ver/57309/4f43452c-e509-11e3-b0cb-02163e4563a2/c6780a96-8578-11e4-ad64-0050569a455d/">até dia 22 para fazer inscrição</a>. O que acham vale a pena?</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/poll-campus-party-future/5837/1">Read full topic</a></p>
+          <p><a href="/talk/t/poll-campus-party-future/5837/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/poll-campus-party-future/5837/1</link>
+        <link>/talk/t/poll-campus-party-future/5837/1</link>
         <pubDate>Wed, 17 Dec 2014 13:37:11 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-5837-1</guid>
-        <source url="http://talk.cregox.com/t/poll-campus-party-future/5837.rss">Poll: Campus Party Future</source>
+        <source url="/talk/t/poll-campus-party-future/5837.rss">Poll: Campus Party Future</source>
       </item>
   </channel>
 </rss>

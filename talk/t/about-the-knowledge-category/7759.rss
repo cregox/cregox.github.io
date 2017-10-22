@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the wiki category</title>
-    <link>http://talk.cregox.com/t/about-the-knowledge-category/7759</link>
+    <link>/talk/t/about-the-knowledge-category/7759</link>
     <description>cregox knowledge database, the wiki way, constantly changing and improving (until basiux can take over).
 
 - Why should you use this category? What is it for?
@@ -19,12 +19,12 @@ This should be a summary of cregox. So, not merging and yes it&#39;s needed! :)<
     <language>en</language>
     <lastBuildDate>Fri, 20 Nov 2015 07:50:46 +0000</lastBuildDate>
     <category>wiki</category>
-    <atom:link href="http://talk.cregox.com/t/about-the-knowledge-category/7759.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/about-the-knowledge-category/7759.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the wiki category</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>cregox knowledge database, the wiki way, constantly changing and improving (until basiux can take over).</p>
 
@@ -38,14 +38,14 @@ This should be a summary of cregox. So, not merging and yes it&#39;s needed! :)<
 
 <ul><li>Do we need this category? Can we merge with another category, or subcategory?</li></ul>
 
-<p>This should be a summary of cregox. So, not merging and yes it's needed! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>This should be a summary of cregox. So, not merging and yes it's needed! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/about-the-knowledge-category/7759/1">Read full topic</a></p>
+          <p><a href="/talk/t/about-the-knowledge-category/7759/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/about-the-knowledge-category/7759/1</link>
+        <link>/talk/t/about-the-knowledge-category/7759/1</link>
         <pubDate>Fri, 20 Nov 2015 07:05:20 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7759-1</guid>
-        <source url="http://talk.cregox.com/t/about-the-knowledge-category/7759.rss">About the wiki category</source>
+        <source url="/talk/t/about-the-knowledge-category/7759.rss">About the wiki category</source>
       </item>
   </channel>
 </rss>

@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>wiki - cregox talk</title>
-    <link>http://talk.cregox.com/c/wiki</link>
+    <link>/talk/c/wiki</link>
     <description>Topics in the &#39;wiki&#39; category cregox knowledge database, the wiki way, constantly changing and improving (until basiux can take over).</description>
     <language>en</language>
       <lastBuildDate>Fri, 20 Nov 2015 09:07:07 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/wiki.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/wiki.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Passwords</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>wiki</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Related topics:</p>
 
 <ul>
 <li>
-<a href="http://talk.cregox.com/t/faq-guidelines/50">http://talk.cregox.com/t/faq-guidelines/50</a> (staff only)</li>
-<li><a href="http://talk.cregox.com/t/password-strength/10">http://talk.cregox.com/t/password-strength/10</a></li>
+<a href="/talk/t/faq-guidelines/50">/talk/t/faq-guidelines/50</a> (staff only)</li>
+<li><a href="/talk/t/password-strength/10">/talk/t/password-strength/10</a></li>
 <li>
-<a href="http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743">http://talk.cregox.com/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743</a> (u2f)</li>
+<a href="/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743">/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743</a> (u2f)</li>
 <li>
-<a href="http://talk.cregox.com/t/2011-feb-google-sidewiki-secondary-password/7463">http://talk.cregox.com/t/2011-feb-google-sidewiki-secondary-password/7463</a> (old)</li>
+<a href="/talk/t/2011-feb-google-sidewiki-secondary-password/7463">/talk/t/2011-feb-google-sidewiki-secondary-password/7463</a> (old)</li>
 <li>
-<a href="http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72">http://talk.cregox.com/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72</a> (secure questions)</li>
+<a href="/talk/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72">/talk/t/are-you-a-programmer-do-you-want-to-create-a-login-registration-form-do-you-want-it-to-be-good/72</a> (secure questions)</li>
 <li>
-<a href="http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689">http://talk.cregox.com/t/what-does-public-sex-and-smartphones-have-in-common/7689</a> (smartphones)</li>
+<a href="/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689">/talk/t/what-does-public-sex-and-smartphones-have-in-common/7689</a> (smartphones)</li>
 <li>
-<a href="http://talk.cregox.com/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67">http://talk.cregox.com/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67</a> (<em>"Also, here's my credit card password. Go wild!".</em>)</li>
+<a href="/talk/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67">/talk/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67</a> (<em>"Also, here's my credit card password. Go wild!".</em>)</li>
 </ul>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/passwords/7760">Read full topic</a></p>
+            <p><a href="/talk/t/passwords/7760">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/passwords/7760</link>
+          <link>/talk/t/passwords/7760</link>
           <pubDate>Fri, 20 Nov 2015 09:07:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7760</guid>
-          <source url="http://talk.cregox.com/t/passwords/7760.rss">Passwords</source>
+          <source url="/talk/t/passwords/7760.rss">Passwords</source>
         </item>
         <item>
           <title>About the wiki category</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>wiki</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>cregox knowledge database, the wiki way, constantly changing and improving (until basiux can take over).</p>
 
@@ -63,19 +63,19 @@
 
 <ul><li>Do we need this category? Can we merge with another category, or subcategory?</li></ul>
 
-<p>This should be a summary of cregox. So, not merging and yes it's needed! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>This should be a summary of cregox. So, not merging and yes it's needed! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/about-the-knowledge-category/7759">Read full topic</a></p>
+            <p><a href="/talk/t/about-the-knowledge-category/7759">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/about-the-knowledge-category/7759</link>
+          <link>/talk/t/about-the-knowledge-category/7759</link>
           <pubDate>Fri, 20 Nov 2015 07:05:20 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7759</guid>
-          <source url="http://talk.cregox.com/t/about-the-knowledge-category/7759.rss">About the wiki category</source>
+          <source url="/talk/t/about-the-knowledge-category/7759.rss">About the wiki category</source>
         </item>
   </channel>
 </rss>

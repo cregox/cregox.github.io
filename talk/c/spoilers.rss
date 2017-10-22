@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>spoilers - cregox talk</title>
-    <link>http://talk.cregox.com/c/spoilers</link>
+    <link>/talk/c/spoilers</link>
     <description>Topics in the &#39;spoilers&#39; category It&#39;s all a matter of organizing data, anyway.</description>
     <language>en</language>
       <lastBuildDate>Thu, 07 Jul 2016 20:22:36 +0000</lastBuildDate>
-      <atom:link href="http://talk.cregox.com/c/spoilers.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="/talk/c/spoilers.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>I kinda envy Snowden, but privacy isn&#39;t that important, nope</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>This is a very early draft!</p>
 
@@ -30,30 +30,30 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href="http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871">Read full topic</a></p>
+            <p><a href="/talk/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871</link>
+          <link>/talk/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871</link>
           <pubDate>Thu, 07 Jul 2016 20:22:36 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7871</guid>
-          <source url="http://talk.cregox.com/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871.rss">I kinda envy Snowden, but privacy isn&#39;t that important, nope</source>
+          <source url="/talk/t/i-kinda-envy-snowden-but-privacy-isnt-that-important-nope/7871.rss">I kinda envy Snowden, but privacy isn&#39;t that important, nope</source>
         </item>
         <item>
           <title>Why books are way too outdated</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><img src="//talk-cdn.cregox.com/uploads/default/original/1X/f9e90d92c54dd658726d2b0fc038e67586f7ea4c.jpg" width="468" height="309"><br><em>Other than this image, I won't even dig into the whole ecological killing trees aspect of books! Just had to mention it. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></em></p>
+              <p><img src="/talk/uploads/default/original/1X/f9e90d92c54dd658726d2b0fc038e67586f7ea4c.jpg" width="468" height="309"><br><em>Other than this image, I won't even dig into the whole ecological killing trees aspect of books! Just had to mention it. <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></em></p>
 
-<p><strong>Kind of</strong> continuing from <a href="http://talk.cregox.com/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">From God's Debris to data loss... Why people love forgetting so much?</a>...</p>
+<p><strong>Kind of</strong> continuing from <a href="/talk/t/from-gods-debris-to-data-loss-why-people-love-forgetting-so-much/7750">From God's Debris to data loss... Why people love forgetting so much?</a>...</p>
 
 <p>I really <strong>hate</strong> books.</p>
 
-<p>I hardly ever read 'em, for the longest time. I think that Debris one could be the only one I've read (from beginning to end) in this century. And only because it was a less than 100 pages <em>pdf</em>. Now, for <a href="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713/3?u=cregox">someone who claims</a> to be able to get a phd in 1 year (given enough resources) and who keeps on writing and <a href="https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070">rambling incoherently</a> about so many topics, how can this make any sense? Do I write for nobody to read? You may ask.</p>
+<p>I hardly ever read 'em, for the longest time. I think that Debris one could be the only one I've read (from beginning to end) in this century. And only because it was a less than 100 pages <em>pdf</em>. Now, for <a href="/talk/t/the-singularity-is-it-just-silly/7713/3?u=cregox">someone who claims</a> to be able to get a phd in 1 year (given enough resources) and who keeps on writing and <a href="https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070">rambling incoherently</a> about so many topics, how can this make any sense? Do I write for nobody to read? You may ask.</p>
 
 <p>When people write a book, they / we usually have to keep 2 things in mind: reaching out to a significant number of other people (a.k.a. sales) and being as much self contained as possible. In other words, the book should always explain itself for the target audience it wants to be read. As much as possible, it must not rely on any outside concepts.</p>
 
@@ -105,26 +105,26 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/why-books-are-way-too-outdated/7777">Read full topic</a></p>
+            <p><a href="/talk/t/why-books-are-way-too-outdated/7777">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/why-books-are-way-too-outdated/7777</link>
+          <link>/talk/t/why-books-are-way-too-outdated/7777</link>
           <pubDate>Mon, 21 Dec 2015 16:50:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7777</guid>
-          <source url="http://talk.cregox.com/t/why-books-are-way-too-outdated/7777.rss">Why books are way too outdated</source>
+          <source url="/talk/t/why-books-are-way-too-outdated/7777.rss">Why books are way too outdated</source>
         </item>
         <item>
           <title>Manifesto to facebook and why we should befriend everyone</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>I'll be writing this on [spoilers], editing it all first, and then moving it to [blog]...</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/fd5cbae314377e1defb8f95770908a97617928b8" href="//talk-cdn.cregox.com/uploads/default/original/1X/fd5cbae314377e1defb8f95770908a97617928b8.jpg" class="lightbox" title="imagine.jpg"><img src="//talk-cdn.cregox.com/uploads/default/optimized/1X/fd5cbae314377e1defb8f95770908a97617928b8_1_666x500.jpg" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/fd5cbae314377e1defb8f95770908a97617928b8" href="/talk/uploads/default/original/1X/fd5cbae314377e1defb8f95770908a97617928b8.jpg" class="lightbox" title="imagine.jpg"><img src="/talk/uploads/default/optimized/1X/fd5cbae314377e1defb8f95770908a97617928b8_1_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">imagine.jpg</span><span class="informations">2592x1944 2.03 MB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -136,7 +136,7 @@
 
 <p>Then, soon after, I posted this, now on my mac:</p>
 
-<blockquote><p>Okay, before the "next post" just an update to the previous one, which is much related, I promise...<br>This post was about an advice I gave out on quora, per request. It's all explained there:<br>i.e. "how to stay happy even if lucky bucks don't come your way and you're forever money less" <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">﻿<a href="http://qr.ae/RbMOCD">http://qr.ae/RbMOCD</a> 5 upvotes, 213 views in a question with over 200 answers in just a few hours is not bad! smile emoticon I guess what I'm writing is starting to make sense to people.</p></blockquote>
+<blockquote><p>Okay, before the "next post" just an update to the previous one, which is much related, I promise...<br>This post was about an advice I gave out on quora, per request. It's all explained there:<br>i.e. "how to stay happy even if lucky bucks don't come your way and you're forever money less" <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=0" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">﻿<a href="http://qr.ae/RbMOCD">http://qr.ae/RbMOCD</a> 5 upvotes, 213 views in a question with over 200 answers in just a few hours is not bad! smile emoticon I guess what I'm writing is starting to make sense to people.</p></blockquote>
 
 <h1>How the brain / mind works</h1>
 
@@ -150,9 +150,9 @@
 
 <p>Pay special attention to the 2 videos under <a href="http://basiux.org">basiux.org</a></p>
 
-<h2>Link between <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">Little Prince</a> and going facebook berzerk</h2>
+<h2>Link between <a href="/talk/t/when-is-10-not-enough-little-prince/7772">Little Prince</a> and going facebook berzerk</h2>
 
-<p>The link is, of course, only in my mind. But it's a very strong one. I hope by the time I finish this post, it may be clear to a lot of people who actually read it. Maybe first you should see <a href="http://talk.cregox.com/t/when-is-10-not-enough-little-prince/7772">my review of the movie</a>, to get a glimpse of what it meant to me.</p>
+<p>The link is, of course, only in my mind. But it's a very strong one. I hope by the time I finish this post, it may be clear to a lot of people who actually read it. Maybe first you should see <a href="/talk/t/when-is-10-not-enough-little-prince/7772">my review of the movie</a>, to get a glimpse of what it meant to me.</p>
 
 <p>Then, realize the size of the art industry, if you haven't. U$ 66 billion just in what people call "art", mostly paintings. Paintings. Plus U$ 32 billion just in US films 2013. And U$ 25 billion for US games in 2010, which was more than double the previous 2 years. Music, U$ 125 billion. Just those sum up to U$ 248 b. It's hard to find a summary of all arts, but if those are the high ones from the top of my mind, we can extrapolate there must be about U$ 500 b.</p>
 
@@ -162,7 +162,7 @@
 
 <p>Art move people. And it moved me. Big time, this once.</p>
 
-<p>My reasoning about adding everyone in facebook as a friend is already explained in the rest of this post. The idea, well, it came from watching Little Prince. I believe I've switched my mind state to a more love giving one. Hoping to be able to stay at it now. I had previously <a href="http://talk.cregox.com/t/quick-random-thought-about-wtf-contact-requests/7646">stated</a> I would throw wtf images at random people requesting online friendship. Well, I will still do it, but now, I'll also accept it instead.</p>
+<p>My reasoning about adding everyone in facebook as a friend is already explained in the rest of this post. The idea, well, it came from watching Little Prince. I believe I've switched my mind state to a more love giving one. Hoping to be able to stay at it now. I had previously <a href="/talk/t/quick-random-thought-about-wtf-contact-requests/7646">stated</a> I would throw wtf images at random people requesting online friendship. Well, I will still do it, but now, I'll also accept it instead.</p>
 
 <h1>Buffer app</h1>
 
@@ -194,7 +194,7 @@
 
 <h2>Even my dad, who "cursed" me with science and skepticism</h2>
 
-<p>The usage of "curse" here is sarcastic. Because <a href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754?u=cregox">people say ignorance is bliss</a>. I don't talk to him for months now, and I still want to keep it that way. Blocking him. But we are still friends, and I still love him. Not because he brought me The Little Prince as a Kid, or taught me how to use a video camera when no other kid had one I had all toys I wanted. But because he's my father. And part of our universe, you know, the big bang one.</p>
+<p>The usage of "curse" here is sarcastic. Because <a href="/talk/t/reality-philosophy-time-mostly-about-education/7754?u=cregox">people say ignorance is bliss</a>. I don't talk to him for months now, and I still want to keep it that way. Blocking him. But we are still friends, and I still love him. Not because he brought me The Little Prince as a Kid, or taught me how to use a video camera when no other kid had one I had all toys I wanted. But because he's my father. And part of our universe, you know, the big bang one.</p>
 
 <h2>More on my previous behavior</h2>
 
@@ -210,26 +210,26 @@
 
 <h1>Too Long; Didn't Read!</h1>
 
-<p><a href="http://coroachada.github.io/letras/#imagine">Imagine all the people. Loving every one...</a> Yes, this is all about "spreading the love" and "paying forward". Why limiting ourselves so damn much while we can be so much more together?! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p><a href="http://coroachada.github.io/letras/#imagine">Imagine all the people. Loving every one...</a> Yes, this is all about "spreading the love" and "paying forward". Why limiting ourselves so damn much while we can be so much more together?! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771">Read full topic</a></p>
+            <p><a href="/talk/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771</link>
+          <link>/talk/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771</link>
           <pubDate>Wed, 09 Dec 2015 06:10:03 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7771</guid>
-          <source url="http://talk.cregox.com/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771.rss">Manifesto to facebook and why we should befriend everyone</source>
+          <source url="/talk/t/manifesto-to-facebook-and-why-we-should-befriend-everyone/7771.rss">Manifesto to facebook and why we should befriend everyone</source>
         </item>
         <item>
           <title>Reality philosophy time - mostly about education</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>I just <a href="https://discuss.howtogeek.com/t/why-the-idea-of-free-content-can-work-against-you-on-the-internet/37668/7?u=cawas">wrote this</a> on HTG:</p>
 
@@ -258,22 +258,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754">Read full topic</a></p>
+            <p><a href="/talk/t/reality-philosophy-time-mostly-about-education/7754">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754</link>
+          <link>/talk/t/reality-philosophy-time-mostly-about-education/7754</link>
           <pubDate>Wed, 18 Nov 2015 13:03:24 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7754</guid>
-          <source url="http://talk.cregox.com/t/reality-philosophy-time-mostly-about-education/7754.rss">Reality philosophy time - mostly about education</source>
+          <source url="/talk/t/reality-philosophy-time-mostly-about-education/7754.rss">Reality philosophy time - mostly about education</source>
         </item>
         <item>
           <title>Uncalled feedback with an agenda</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><em>(supposed to be a public email, actually. not sure if I'll ever send it though)</em></p>
 
@@ -297,24 +297,24 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742">Read full topic</a></p>
+            <p><a href="/talk/t/uncalled-feedback-with-an-agenda/7742">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742</link>
+          <link>/talk/t/uncalled-feedback-with-an-agenda/7742</link>
           <pubDate>Sun, 01 Nov 2015 20:35:48 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7742</guid>
-          <source url="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
+          <source url="/talk/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
         </item>
         <item>
           <title>Making of MarioxX</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <blockquote><p>This may become a spin off from: <a href="http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">http://talk.cregox.com/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5</a></p></blockquote>
+              <blockquote><p>This may become a spin off from: <a href="/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5">/talk/t/thanks-to-mari-o-time-to-focus-on-ai/7653/5</a></p></blockquote>
 
 <div class="lazyYT" data-youtube-id="Ysxz5Ug70G0" data-youtube-title='Julia Sweeney has "The Talk"' data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
@@ -324,7 +324,7 @@
 
 <div class="lazyYT" data-youtube-id="XEVlyP4_11M" data-youtube-title="Government Surveillance: Last Week Tonight with John Oliver (HBO)" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
-<p>All this MarioxX idea actually came from these 2 videos (plus my whole current life context, of course), with nothing specifically related to the whole Ai topic. Ai relates to anything, but not the other way around yet! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=3" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">.</p>
+<p>All this MarioxX idea actually came from these 2 videos (plus my whole current life context, of course), with nothing specifically related to the whole Ai topic. Ai relates to anything, but not the other way around yet! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue_winking_eye.png?v=3" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">.</p>
 
 <h1>Watch the videos before continue on reading!</h1>
 
@@ -336,40 +336,40 @@
 
 <p>For instance, where babies come from? <em>Storks</em> bring them, of course. Or whatever, really:</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk-cdn.cregox.com/uploads/default/ac864cc9edd5569675b0b7405d701a07f653c2e5" href="https://talk-cdn.cregox.com/uploads/default/original/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5.gif" class="lightbox" title="where-babies-come-from-3.gif"><img src="https://talk-cdn.cregox.com/uploads/default/optimized/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5_1_690x220.gif" width="690" height="220"><div class="meta">
+<p><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/ac864cc9edd5569675b0b7405d701a07f653c2e5" href="/talk/uploads/default/original/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5.gif" class="lightbox" title="where-babies-come-from-3.gif"><img src="/talk/uploads/default/optimized/1X/ac864cc9edd5569675b0b7405d701a07f653c2e5_1_690x220.gif" width="690" height="220"><div class="meta">
 <span class="filename">where-babies-come-from-3.gif</span><span class="informations">1343x430 25.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 
 <p>But how babies are made? Well, now we can say something along the lines of women getting on top of men, with no need for details:</p>
 
-<p><img src="https://talk-cdn.cregox.com/uploads/default/original/1X/7112d19219577c000ceb9fef655329a6cb12490d.gif" width="376" height="485"><br><em>- Aight, we're naked and I'm on top of you ... How long is it until we get to orgasm?</em><br><em>- No idea - but now I know why mama always have headaches ...</em></p>
+<p><img src="/talk/uploads/default/original/1X/7112d19219577c000ceb9fef655329a6cb12490d.gif" width="376" height="485"><br><em>- Aight, we're naked and I'm on top of you ... How long is it until we get to orgasm?</em><br><em>- No idea - but now I know why mama always have headaches ...</em></p>
 
 <p>Kids will soon just be entertained away by Mario anyway, and fade away to other questions / things to do.</p>
 
-<p>The MarioxX chatbot doesn't need to be as awesome as <a href="http://talk.cregox.com/t/t-mobile-jessica-chatbot/7738/1">T-Jessica</a>, although if it can be done from basiux version MarioX that in itself would probably make it way more impressive!</p>
+<p>The MarioxX chatbot doesn't need to be as awesome as <a href="/talk/t/t-mobile-jessica-chatbot/7738/1">T-Jessica</a>, although if it can be done from basiux version MarioX that in itself would probably make it way more impressive!</p>
 
 <p>Of course at some point kids will find out "Santa isn't real" and adults might realize . But MarioxX's goal is not to be 100% honest. She (the basiux engine) will want to analyze the audience before giving any sensible information out. Because she will know that language is really complicated and subjective, and that each culture have their own archetypes or sets of beliefs.</p>
 
-<p>Now the beginning of the roadmap is basically ready! <img src="https://talk-cdn.cregox.com/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Now the beginning of the roadmap is basically ready! <img src="/talk/images/emoji/emoji_one/slight_smile.png?v=3" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/making-of-marioxx/7741">Read full topic</a></p>
+            <p><a href="/talk/t/making-of-marioxx/7741">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/making-of-marioxx/7741</link>
+          <link>/talk/t/making-of-marioxx/7741</link>
           <pubDate>Sun, 01 Nov 2015 10:42:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7741</guid>
-          <source url="http://talk.cregox.com/t/making-of-marioxx/7741.rss">Making of MarioxX</source>
+          <source url="/talk/t/making-of-marioxx/7741.rss">Making of MarioxX</source>
         </item>
         <item>
           <title>People curated products and Jobs</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>(maybe this will become a short blog post or edited for a better size and meaning)</p>
 
@@ -381,26 +381,26 @@
 
 <p>Maybe that's precisely why. When the company gets big enough, anyone can create an identity in it, identify the pattern and repeat. Make it immortal, so we won't miss it when the actual creator dies. Walt Disney and Elvis still live long after death.</p>
 
-<p>In any case... I'd just like to see more humanised smartphone models / brands so I could find someone to follow... For one because Apple did lose theirs, for two because it was never my ideal and for three because when I do find one, I'd like to be able to follow the person, even if they change brands / companies, until they may become an immortal brand, if I get that lucky! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>In any case... I'd just like to see more humanised smartphone models / brands so I could find someone to follow... For one because Apple did lose theirs, for two because it was never my ideal and for three because when I do find one, I'd like to be able to follow the person, even if they change brands / companies, until they may become an immortal brand, if I get that lucky! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/people-curated-products-and-jobs/7737">Read full topic</a></p>
+            <p><a href="/talk/t/people-curated-products-and-jobs/7737">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/people-curated-products-and-jobs/7737</link>
+          <link>/talk/t/people-curated-products-and-jobs/7737</link>
           <pubDate>Sat, 31 Oct 2015 01:46:12 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7737</guid>
-          <source url="http://talk.cregox.com/t/people-curated-products-and-jobs/7737.rss">People curated products and Jobs</source>
+          <source url="/talk/t/people-curated-products-and-jobs/7737.rss">People curated products and Jobs</source>
         </item>
         <item>
           <title>Why you should go visit Iguazu Falls</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>(taking notes, much to edit)</p>
 
@@ -422,24 +422,24 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730">Read full topic</a></p>
+            <p><a href="/talk/t/why-you-should-go-visit-iguazu-falls/7730">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730</link>
+          <link>/talk/t/why-you-should-go-visit-iguazu-falls/7730</link>
           <pubDate>Fri, 16 Oct 2015 12:43:00 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7730</guid>
-          <source url="http://talk.cregox.com/t/why-you-should-go-visit-iguazu-falls/7730.rss">Why you should go visit Iguazu Falls</source>
+          <source url="/talk/t/why-you-should-go-visit-iguazu-falls/7730.rss">Why you should go visit Iguazu Falls</source>
         </item>
         <item>
           <title>&quot;The Singularity&quot; is it just silly?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p><a href="http://www.ai-forum.org/topic.asp?forum_id=1&amp;topic_id=6493">Necromancing 12 years topic</a>! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+              <p><a href="http://www.ai-forum.org/topic.asp?forum_id=1&amp;topic_id=6493">Necromancing 12 years topic</a>! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
 
 <p>What you guys think about it today?</p>
 
@@ -459,22 +459,22 @@
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713">Read full topic</a></p>
+            <p><a href="/talk/t/the-singularity-is-it-just-silly/7713">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713</link>
+          <link>/talk/t/the-singularity-is-it-just-silly/7713</link>
           <pubDate>Thu, 08 Oct 2015 15:58:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7713</guid>
-          <source url="http://talk.cregox.com/t/the-singularity-is-it-just-silly/7713.rss">&quot;The Singularity&quot; is it just silly?</source>
+          <source url="/talk/t/the-singularity-is-it-just-silly/7713.rss">&quot;The Singularity&quot; is it just silly?</source>
         </item>
         <item>
           <title>Ubuntu is still rocking solid!</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>(Quick?) Nostalgic post.</p>
 
@@ -502,28 +502,28 @@
 
 <p>Ubuntu now have a great network manager, but none of the other items! Maybe it has a better log system monitor, I haven't checked. But I doubt it.</p>
 
-<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
+<p>The forums suck bad. They should have updated it at least to Xen Forums, or something. Or at least <a href="http://discourse.ubuntu.com/">I thought so</a> for a little while! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue"> Another awesome job, ubuntu!!</p>
 
 <p>One of those items keep coming back. <strong>rsync</strong>. I wondered why we still haven't got this right anywhere, <strong>specially</strong> in Ubuntu where it should be easy to implement. Why not?!</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686">Read full topic</a></p>
+            <p><a href="/talk/t/ubuntu-is-still-rocking-solid/7686">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686</link>
+          <link>/talk/t/ubuntu-is-still-rocking-solid/7686</link>
           <pubDate>Sun, 16 Aug 2015 04:45:41 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7686</guid>
-          <source url="http://talk.cregox.com/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
+          <source url="/talk/t/ubuntu-is-still-rocking-solid/7686.rss">Ubuntu is still rocking solid!</source>
         </item>
         <item>
           <title>What&#39;s wrong with our education system?</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>(long way to go - draft)</p>
 
@@ -535,22 +535,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601">Read full topic</a></p>
+            <p><a href="/talk/t/whats-wrong-with-our-education-system/7601">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601</link>
+          <link>/talk/t/whats-wrong-with-our-education-system/7601</link>
           <pubDate>Fri, 08 May 2015 22:14:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7601</guid>
-          <source url="http://talk.cregox.com/t/whats-wrong-with-our-education-system/7601.rss">What&#39;s wrong with our education system?</source>
+          <source url="/talk/t/whats-wrong-with-our-education-system/7601.rss">What&#39;s wrong with our education system?</source>
         </item>
         <item>
           <title>Because money isn&#39;t everything</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>Not so sure why <a href="http://gmailblog.blogspot.com.br/2015/03/smartbox-by-inbox-mailbox-of-tomorrow.html">I'</a>m writing this whole post...</p>
 
@@ -574,11 +574,11 @@
 <li>persuade me you did appreciate my work, because I did my best for every single one of you. People have always been my priority.</li>
 </ul>
 
-<p>I was thinking about the movie, which I didn't watch at full... "<em>What can I do for you, that you couldn't do yourselves?</em>". Well, the answer is pretty obvious. You've already had the trouble to pay me to do it! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
+<p>I was thinking about the movie, which I didn't watch at full... "<em>What can I do for you, that you couldn't do yourselves?</em>". Well, the answer is pretty obvious. You've already had the trouble to pay me to do it! <img src="/talk/images/emoji/emoji_one/stuck_out_tongue.png?v=0" title=":stuck_out_tongue:" class="emoji" alt="stuck_out_tongue" width="20" height="20"></p>
 
-<p>So, my plan is getting my free time this month, going through the websites from <a href="http://talk.cregox.com/groups/customers/members">all of you who did register on these forums</a> (plus a few more old ones who never had the chance of doing so) and trying my best to figure out something nice to set up.</p>
+<p>So, my plan is getting my free time this month, going through the websites from <a href="/talk/groups/customers/members">all of you who did register on these forums</a> (plus a few more old ones who never had the chance of doing so) and trying my best to figure out something nice to set up.</p>
 
-<p>I'll probably not be able to do it properly with everyone, and I'm not sure how to proceed after that... But at very least I'll have something done, even if only an unlisted page which you may be able to use it later. If you don't like it, I hope you'll at least realize the value of this attempt. <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/sweat_smile.png?v=0" title=":sweat_smile:" class="emoji" alt="sweat_smile" width="20" height="20"> </p>
+<p>I'll probably not be able to do it properly with everyone, and I'm not sure how to proceed after that... But at very least I'll have something done, even if only an unlisted page which you may be able to use it later. If you don't like it, I hope you'll at least realize the value of this attempt. <img src="/talk/images/emoji/emoji_one/sweat_smile.png?v=0" title=":sweat_smile:" class="emoji" alt="sweat_smile" width="20" height="20"> </p>
 
 <p>Of course I do have some "hidden" goals with doing this, it's not all that <a href="http://en.wikipedia.org/wiki/Altruism"><em>altruistic</em></a>. <strong>It never is</strong>. It's our nature to fight for our own lives or else we'd be already dead. In the end, I want to help building up a better humanity (for myself including). Maybe the most selfish thing I want from all that is the satisfying feeling in knowing I did help. That I did matter. I guess the human meaning of <em>selflessness</em> could be something like "<em>helping another person more than yourself</em>". Funny thing how important it is to us to be that person.</p>
 
@@ -596,22 +596,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/because-money-isnt-everything/7516">Read full topic</a></p>
+            <p><a href="/talk/t/because-money-isnt-everything/7516">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/because-money-isnt-everything/7516</link>
+          <link>/talk/t/because-money-isnt-everything/7516</link>
           <pubDate>Thu, 02 Apr 2015 00:30:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7516</guid>
-          <source url="http://talk.cregox.com/t/because-money-isnt-everything/7516.rss">Because money isn&#39;t everything</source>
+          <source url="/talk/t/because-money-isnt-everything/7516.rss">Because money isn&#39;t everything</source>
         </item>
         <item>
           <title>More about me (big draft)</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <blockquote><p>In 2014 a friend offered me a gig for $1k to make his web page secure, he was making a simple web game that would be worth some prizes. I told him that was something I never did before, but we agreed I would do it. Then I've abandoned it in the first day, telling him I couldn't do it properly with such a short due date (about 2 weeks). Soon he found someone else who did it. Later on he showed me the final result. I was surprised I couldn't find a breach within 20 minutes, but it still took me less than 1 hour to find it, to which I could have abused and win over $1k in prizes. Instead I just told him what was the glitch, and he thanked me.</p></blockquote>
 
@@ -619,22 +619,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/more-about-me-big-draft/7409">Read full topic</a></p>
+            <p><a href="/talk/t/more-about-me-big-draft/7409">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/more-about-me-big-draft/7409</link>
+          <link>/talk/t/more-about-me-big-draft/7409</link>
           <pubDate>Thu, 19 Feb 2015 18:41:58 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7409</guid>
-          <source url="http://talk.cregox.com/t/more-about-me-big-draft/7409.rss">More about me (big draft)</source>
+          <source url="/talk/t/more-about-me-big-draft/7409.rss">More about me (big draft)</source>
         </item>
         <item>
           <title>Please, keep the critical thinking always on</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>( picture to be edited in with all big skeptics guys. for now the list is: penn &amp; teller, carl, steven, neil, randi and bill nye )</p>
 
@@ -646,22 +646,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342">Read full topic</a></p>
+            <p><a href="/talk/t/please-keep-the-critical-thinking-always-on/7342">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342</link>
+          <link>/talk/t/please-keep-the-critical-thinking-always-on/7342</link>
           <pubDate>Tue, 03 Feb 2015 14:05:51 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7342</guid>
-          <source url="http://talk.cregox.com/t/please-keep-the-critical-thinking-always-on/7342.rss">Please, keep the critical thinking always on</source>
+          <source url="/talk/t/please-keep-the-critical-thinking-always-on/7342.rss">Please, keep the critical thinking always on</source>
         </item>
         <item>
           <title>Big wip - A world with true free speech</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p><a href="http://9gag.tv/p/a50pYj/would-you-do-it-if-mom-could-hear-you" class="onebox" target="_blank">http://9gag.tv/p/a50pYj/would-you-do-it-if-mom-could-hear-you</a></p>
 
@@ -677,22 +677,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061">Read full topic</a></p>
+            <p><a href="/talk/t/big-wip-a-world-with-true-free-speech/7061">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061</link>
+          <link>/talk/t/big-wip-a-world-with-true-free-speech/7061</link>
           <pubDate>Tue, 27 Jan 2015 17:26:37 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-7061</guid>
-          <source url="http://talk.cregox.com/t/big-wip-a-world-with-true-free-speech/7061.rss">Big wip - A world with true free speech</source>
+          <source url="/talk/t/big-wip-a-world-with-true-free-speech/7061.rss">Big wip - A world with true free speech</source>
         </item>
         <item>
           <title>Revolutionizing education</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>I just saw the following video which I found in <a href="http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education?utm_content=bufferc3784&amp;utm_medium=social&amp;utm_source=plus.google.com&amp;utm_campaign=buffer">fucking love science</a>:<br></p><div class="lazyYT" data-youtube-id="GEmuEWjHr5c" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
 
@@ -726,22 +726,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/revolutionizing-education/5866">Read full topic</a></p>
+            <p><a href="/talk/t/revolutionizing-education/5866">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/revolutionizing-education/5866</link>
+          <link>/talk/t/revolutionizing-education/5866</link>
           <pubDate>Thu, 18 Dec 2014 10:05:15 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-5866</guid>
-          <source url="http://talk.cregox.com/t/revolutionizing-education/5866.rss">Revolutionizing education</source>
+          <source url="/talk/t/revolutionizing-education/5866.rss">Revolutionizing education</source>
         </item>
         <item>
           <title>DOTA counter strike style</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
               <p>If you're looking for the next thing to do, title is pretty descriptive enough. But I'll elaborate.</p>
 
@@ -767,38 +767,38 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/dota-counter-strike-style/5812">Read full topic</a></p>
+            <p><a href="/talk/t/dota-counter-strike-style/5812">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/dota-counter-strike-style/5812</link>
+          <link>/talk/t/dota-counter-strike-style/5812</link>
           <pubDate>Tue, 16 Dec 2014 14:51:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-5812</guid>
-          <source url="http://talk.cregox.com/t/dota-counter-strike-style/5812.rss">DOTA counter strike style</source>
+          <source url="/talk/t/dota-counter-strike-style/5812.rss">DOTA counter strike style</source>
         </item>
         <item>
           <title>About the spoilers category</title>
           <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
           <category>spoilers</category>
           <description><![CDATA[
-            <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+            <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
             <blockquote>
-              <p>Originally this would be called "open draft" but I thought it was too big. Fuck closed drafts! Open source everything!! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
+              <p>Originally this would be called "open draft" but I thought it was too big. Fuck closed drafts! Open source everything!! <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt=":smile:"></p>
 
 <p>It's all a matter of organizing data, anyway.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href="http://talk.cregox.com/t/about-the-open-draft-category/5811">Read full topic</a></p>
+            <p><a href="/talk/t/about-the-open-draft-category/5811">Read full topic</a></p>
           ]]></description>
-          <link>http://talk.cregox.com/t/about-the-open-draft-category/5811</link>
+          <link>/talk/t/about-the-open-draft-category/5811</link>
           <pubDate>Tue, 16 Dec 2014 14:41:52 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">talk.cregox.com-topic-5811</guid>
-          <source url="http://talk.cregox.com/t/about-the-open-draft-category/5811.rss">About the spoilers category</source>
+          <source url="/talk/t/about-the-open-draft-category/5811.rss">About the spoilers category</source>
         </item>
   </channel>
 </rss>

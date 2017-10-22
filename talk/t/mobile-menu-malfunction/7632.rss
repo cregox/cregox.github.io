@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Mobile menu malfunction</title>
-    <link>http://talk.cregox.com/t/mobile-menu-malfunction/7632</link>
+    <link>/talk/t/mobile-menu-malfunction/7632</link>
     <description>Hi, could you take a look at this page again: https://tinaandersenfotograf.squarespace.com/
 
 Not sure what has happened, but the mobile menu is not working.
@@ -13,54 +13,54 @@ Tor M</description>
     <language>en</language>
     <lastBuildDate>Wed, 20 May 2015 20:40:08 +0000</lastBuildDate>
     <category>support</category>
-    <atom:link href="http://talk.cregox.com/t/mobile-menu-malfunction/7632.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/mobile-menu-malfunction/7632.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Mobile menu malfunction</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Intriguing.</p>
 
 <p>Maybe the support could bring it up, or maybe they only have as much as we do under <code>settings/billing/login-history</code> which helps very little to nothing in determining that.</p>
 
-<p>If it was me, this must be broken for a long time! <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/open_mouth.png?v=0" title=":open_mouth:" class="emoji" alt="open_mouth" width="20" height="20"></p>
+<p>If it was me, this must be broken for a long time! <img src="/talk/images/emoji/emoji_one/open_mouth.png?v=0" title=":open_mouth:" class="emoji" alt="open_mouth" width="20" height="20"></p>
 
 <p>I only identified it because I noticed it was lines not included in my files on record, dated Feb 20th.</p>
 
 <p>I also never use <code>*</code> constructor, so I'm only guessing here it was probably her copying and pasting some code from somewhere.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/mobile-menu-malfunction/7632/4">Read full topic</a></p>
+          <p><a href="/talk/t/mobile-menu-malfunction/7632/4">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/mobile-menu-malfunction/7632/4</link>
+        <link>/talk/t/mobile-menu-malfunction/7632/4</link>
         <pubDate>Wed, 20 May 2015 20:40:08 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7632-4</guid>
-        <source url="http://talk.cregox.com/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
+        <source url="/talk/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
       </item>
       <item>
         <title>Mobile menu malfunction</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
-              <p>You are fast <img src="//talk-cdn.cregox.com/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> </p>
+              <p>You are fast <img src="/talk/images/emoji/emoji_one/smile.png?v=0" title=":smile:" class="emoji" alt="smile" width="20" height="20"> </p>
 
 <p>Are you able to see who added the code? Neither the client of myself "talk code", so I´m wondering who could have done it?</p>
 
 <p>Thanks!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/mobile-menu-malfunction/7632/3">Read full topic</a></p>
+          <p><a href="/talk/t/mobile-menu-malfunction/7632/3">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/mobile-menu-malfunction/7632/3</link>
+        <link>/talk/t/mobile-menu-malfunction/7632/3</link>
         <pubDate>Wed, 20 May 2015 20:29:38 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7632-3</guid>
-        <source url="http://talk.cregox.com/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
+        <source url="/talk/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
       </item>
       <item>
         <title>Mobile menu malfunction</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p>Someone added this code to custom CSS:</p>
 
@@ -72,33 +72,33 @@ Tor M</description>
 
 <p>I'm not sure what was the intention there, so I commented it out and, sure enough, it's good again.</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/mobile-menu-malfunction/7632/2">Read full topic</a></p>
+          <p><a href="/talk/t/mobile-menu-malfunction/7632/2">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/mobile-menu-malfunction/7632/2</link>
+        <link>/talk/t/mobile-menu-malfunction/7632/2</link>
         <pubDate>Wed, 20 May 2015 20:26:40 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7632-2</guid>
-        <source url="http://talk.cregox.com/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
+        <source url="/talk/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
       </item>
       <item>
         <title>Mobile menu malfunction</title>
         <dc:creator><![CDATA[@tormartin tormartin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/tormartin">@tormartin</a> wrote:</p>
+          <p><a href="/talk/u/tormartin">@tormartin</a> wrote:</p>
           <blockquote>
               <p>Hi, could you take a look at this page again: <a href="https://tinaandersenfotograf.squarespace.com/" rel="nofollow">https://tinaandersenfotograf.squarespace.com/</a></p>
 
-<p>Not sure what has happened, but the mobile menu is not working.<br><div class="lightbox-wrapper"><a data-download-href="//talk-cdn.cregox.com/uploads/default/4dabf77f70bba22c55333bb3914474c1e403612b" href="//talk-cdn.cregox.com/uploads/default/135/990a63ef54655a04.png" class="lightbox" title="Screen Shot 2015-05-20 at 22.18.38.png"><img src="//talk-cdn.cregox.com/uploads/default/_optimized/501/d8c/df4894241c_540x500.png" width="540" height="500"><div class="meta">
+<p>Not sure what has happened, but the mobile menu is not working.<br><div class="lightbox-wrapper"><a data-download-href="/talk/uploads/default/4dabf77f70bba22c55333bb3914474c1e403612b" href="/talk/uploads/default/135/990a63ef54655a04.png" class="lightbox" title="Screen Shot 2015-05-20 at 22.18.38.png"><img src="/talk/uploads/default/_optimized/501/d8c/df4894241c_540x500.png" width="540" height="500"><div class="meta">
 <span class="filename">Screen Shot 2015-05-20 at 22.18.38.png</span><span class="informations">916x848 61.5 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
 <p>Thanks, <br>Tor M</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/mobile-menu-malfunction/7632/1">Read full topic</a></p>
+          <p><a href="/talk/t/mobile-menu-malfunction/7632/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/mobile-menu-malfunction/7632/1</link>
+        <link>/talk/t/mobile-menu-malfunction/7632/1</link>
         <pubDate>Wed, 20 May 2015 20:21:26 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7632-1</guid>
-        <source url="http://talk.cregox.com/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
+        <source url="/talk/t/mobile-menu-malfunction/7632.rss">Mobile menu malfunction</source>
       </item>
   </channel>
 </rss>

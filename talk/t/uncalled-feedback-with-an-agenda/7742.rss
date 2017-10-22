@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Uncalled feedback with an agenda</title>
-    <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742</link>
+    <link>/talk/t/uncalled-feedback-with-an-agenda/7742</link>
     <description>*(supposed to be a public email, actually. not sure if I&#39;ll ever send it though)*
 
 To: [Chris Nicholson][1], about [his and my answer on quora][2].
@@ -31,12 +31,12 @@ That&#39;s mostly what basiux will be or die trying!
     <language>en</language>
     <lastBuildDate>Sun, 01 Nov 2015 20:35:48 +0000</lastBuildDate>
     <category>spoilers</category>
-    <atom:link href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/t/uncalled-feedback-with-an-agenda/7742.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Uncalled feedback with an agenda</title>
         <dc:creator><![CDATA[@cregox Caue Rego]]></dc:creator>
         <description><![CDATA[
-          <p><a href="http://talk.cregox.com/u/cregox">@cregox</a> wrote:</p>
+          <p><a href="/talk/u/cregox">@cregox</a> wrote:</p>
           <blockquote>
               <p><em>(supposed to be a public email, actually. not sure if I'll ever send it though)</em></p>
 
@@ -58,12 +58,12 @@ That&#39;s mostly what basiux will be or die trying!
 
 <p>That's mostly what basiux will be or die trying!</p>
           </blockquote>
-          <p><a href="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742/1">Read full topic</a></p>
+          <p><a href="/talk/t/uncalled-feedback-with-an-agenda/7742/1">Read full topic</a></p>
         ]]></description>
-        <link>http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742/1</link>
+        <link>/talk/t/uncalled-feedback-with-an-agenda/7742/1</link>
         <pubDate>Sun, 01 Nov 2015 20:35:48 +0000</pubDate>
         <guid isPermaLink="false">talk.cregox.com-post-7742-1</guid>
-        <source url="http://talk.cregox.com/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
+        <source url="/talk/t/uncalled-feedback-with-an-agenda/7742.rss">Uncalled feedback with an agenda</source>
       </item>
   </channel>
 </rss>
