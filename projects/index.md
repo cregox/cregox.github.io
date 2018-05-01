@@ -18,7 +18,7 @@ coding
 production
 
 - [Abaixa Tampa (Lower the toilet lid)](http://abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months
-- [Funny or Die with Jean Claude](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), "cool" video made in about 5 days
+- [Funny or Die with Jean Claude Van Damme and Guz](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), "cool" video made in about 5 days, in a basketball court
 
 slightly related
 
