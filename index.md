@@ -22,9 +22,9 @@ how can I help you today? it's probably better to **search** for it:
 
 or go [straight to google](https://www.google.com/?q=site:cregox.com+[random]).
 
-or, or perhaps you want to check our [basiux](http://basiux.org) project (super A.i.)? "watch" some [fas tv](/tv)?
+perhaps you want to lay back and "watch" some [fas tv](/tv)?
 
-wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
+might you be wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;
@@ -32,7 +32,9 @@ wondering what's up with my writing style, [locaws](https://medium.cregox.com/lo
     var term = sample([
         'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
-        'data', 'backup', 'science', 'skeptic', 'spam', 'magic'
+        'data', 'backup', 'science', 'skeptic', 'spam', 'magic',
+        'ahoxus', 'religion', 'nynphormartisct', 'crazy', 'art',
+        'wanderful', 'video', 'film', 'rating', 'scale'
     ]);
     var linksUpdated = [];
     updateGoogleLinks();
