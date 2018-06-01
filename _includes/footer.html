@@ -1,18 +1,21 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <!--h2 class="footer-heading">{{ site.title }}</h2-->
+    {% comment %}
+    <h2 class="footer-heading">{{ site.title }}</h2>
+    {% endcomment %}
 
     <div class="footer-col-wrapper">
+      {% comment %}
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
+      {% endcomment %}
 
-      <div class="footer-col  footer-col-2">
+      <div class="footer-col  footer-col-1">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -45,15 +48,17 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <a href="{{ site.github_url }}">
-          <img alt="github source" src="/img/octocat willieladalle.png" height="50">
+      <div class="footer-col  footer-col-2">
+        <a href="{{ site.github_url }}/{% file.path %}">
+          <img alt="github source" src="/img/octocat willieladalle.png" height="16">
         </a>
       </div>
 
+      {% comment %}
       <div class="footer-col  footer-col-4">
         <p class="text">{{ site.description }}</p>
       </div>
+      {% endcomment %}
     </div>
 
   </div>
