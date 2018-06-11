@@ -1,17 +1,15 @@
 # Site settings
 title: cregox (caue rego)
-#email: caue@cregox.com
-# description: > # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://cregox.com # the base hostname & protocol for your site
-enforce_ssl: "cregox.com"
+email: b@cregox.net
+description: get to know us a bit more
+image: /contact/caue on ana boat.jpeg
+baseurl: "" # site's subpath, e.g. /blog/
+url: https://cregox.net # the base hostname & protocol for your site
+enforce_ssl: "cregox.net"
 github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
 github_username: cauerego
-google_analytics: # placed on head include
+google_analytics: UA-4687862-8 # placed on head include
 
 defaults:
   -
