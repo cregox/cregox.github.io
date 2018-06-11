@@ -2,7 +2,7 @@
 title: cregox (caue rego)
 email: b@cregox.net
 description: get to know us a bit more
-image: /contact/caue on ana boat.jpeg
+image: /contact/caue%20on%20ana%20boat.jpeg
 baseurl: "" # site's subpath, e.g. /blog/
 url: https://cregox.net # the base hostname & protocol for your site
 enforce_ssl: "cregox.net"
