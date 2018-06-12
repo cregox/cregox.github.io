@@ -3,6 +3,7 @@ permalink: /
 layout: default
 title: home
 published: true
+image: /cregox_ana_boat_thumb.jpg
 ---
 
 how can I help you today? it's probably better to **search** for it:
