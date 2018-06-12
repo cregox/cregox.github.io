@@ -5,8 +5,9 @@
 
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
-
+    {% if page.image || site.image %}
     <meta property="og:image" content="{{ page.image | default: site.image | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %}
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
