@@ -18,9 +18,9 @@ how can I help you today? it's probably better to **search** for it:
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search linktarget="_self" enableAutoComplete="true"></gcse:search>
+<gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
 
-or go [straight to google](https://www.google.com/?q=site:cregox.com+[random]).
+or go [straight to google](https://www.google.com/search?q=site:cregox.com+[random]).
 
 perhaps you want to lay back and "watch" some [fas tv](/tv)?
 
