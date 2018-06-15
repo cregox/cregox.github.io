@@ -1,7 +1,7 @@
 ---
 layout: page
 title: no cover
-published: false
+published: true
 ---
 
 i hate cover letters. and you should too. here's why.
