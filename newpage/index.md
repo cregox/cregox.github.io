@@ -26,16 +26,18 @@ that's all. write right there everything you think there should be on this page!
 however, see if you can also:
 - name it `index.md`;
 - add this front matter to the top, replace the title for whatever you want, or remove it: 
+
 ```
 ---
 layout: page
-title: [jesus] or whatever
+title: whatever you like
 published: false
 ---
 
 ```
 
 - again, optional, but try styling it up with markdown!
+
 ```
 it's very easy to make some words **bold** and other words *italic* with markdown. you can even [link to Google!](http://google.com)
 
