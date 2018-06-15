@@ -1,5 +1,4 @@
 ---
-permalink: /
 layout: default
 title: home
 published: true
@@ -19,7 +18,7 @@ how can I help you today? it's probably better to **search** for it:
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search defaultToRefinement="main"></gcse:search>
+<gcse:search linktarget="_self" enableAutoComplete="true"></gcse:search>
 
 or go [straight to google](https://www.google.com/?q=site:cregox.com+[random]).
 
