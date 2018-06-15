@@ -25,6 +25,7 @@ that's all. write right there everything you think there should be on this page!
 
 <details>
 <summary>however, it'd be really nice if you can also do the following (open here):</summary>
+<p>
 
 - name it `index.md`;
 - add this front matter to the top, replace the title for whatever you want, or remove it: 
@@ -74,6 +75,7 @@ if you'd like to quote someone, use the > character before the line:
 > ice cream. the finest solid-ish food made out of liquids ever devised... for ever.
 > - who cares who said that?
 ```
+</p>
 </details>
 
 
