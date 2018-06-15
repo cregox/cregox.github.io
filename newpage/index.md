@@ -23,7 +23,9 @@ you can skip straight to the last step/item, on the big link below, to create a 
 
 that's all. write right there everything you think there should be on this page! :)
 
-however, see if you can also:
+<details>
+<summary>however, it'd be really nice if you can also do the following (open here):</summary>
+
 - name it `index.md`;
 - add this front matter to the top, replace the title for whatever you want, or remove it: 
 
@@ -72,6 +74,8 @@ if you'd like to quote someone, use the > character before the line:
 > ice cream. the finest solid-ish food made out of liquids ever devised... for ever.
 > - who cares who said that?
 ```
+</details>
+
 
 even just **creating the file** and writing your suggestion in plain text is already simple enough (other than needing to login) and much better than trying any other contact form! please try that first. :D
 
