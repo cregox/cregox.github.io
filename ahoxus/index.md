@@ -23,7 +23,7 @@ now...
 why are we writing this clueless manifesto?
 
 <details>
-  <summary>well, this is what i just wrote, in a [genius](https://genius.com/2942509) message, directly to the source...</summary>
+<summary>well, this is what i just wrote, in a [genius](https://genius.com/2942509) message, directly to the source...</summary>
 
 > hey there, sia girl!
 > 
