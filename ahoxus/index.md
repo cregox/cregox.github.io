@@ -39,9 +39,9 @@ why are we writing this clueless manifesto?
 but when trying to send it, i kept getting a 403 forbidden message. [lol](https://genius.com/discussions/284677-How-can-i-message-an-artist). i gave that up and sent it over twitter instead. at this point, this whole page was already finished, and i wasn't expecting having to reduce the message...
 
 <details>
-<summary>but it was probably for the best!</summary>
+<summary markdown="span">but it was probably for the best!</summary>
 
-> hey there, sia girl! check out the music video script in: http://cregox.net/ahoxus and this is the pitch: "inner voices" is emotional like sia’s, but happy and lyric-less. it’s also cutless like gambino’s, but with no politics ever. perhaps we can add meaningless lyrics, to improve the production value. keep in mind, however, the main take away messages should always be on video, something as culture-independent as possible!
+> @Sia hey there, sia girl! check out the music video script in: http://cregox.net/ahoxus and this is the pitch: "inner voices" is emotional like sia’s, but happy and lyric-less. it’s also cutless like gambino’s, but with no politics ever. all as culture-independent as possible!
 </details>
 
 as much as we want to be that breakthrough instance of overcoming immense obstacles, we don't mind doing it in other ways. right now it's time to try everything.
