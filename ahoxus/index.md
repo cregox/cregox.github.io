@@ -23,7 +23,7 @@ now...
 why are we writing this clueless manifesto?
 
 <details>
-<summary>well, this is what i just wrote, in a [genius](https://genius.com/2942509) message, directly to the source...</summary>
+<summary markdown="span">well, this is what i just wrote, in a [genius](https://genius.com/2942509) message, directly to the source...</summary>
 
 > hey there, sia girl!
 > 
@@ -36,10 +36,18 @@ why are we writing this clueless manifesto?
 > from the following link you can see everything we and i've done so far (including the script and some very amateur video testing), and go as deeps as you wish into my oddly artistic mind: http://cregox.net/ahoxus
 </details>
 
+but when trying to send it, i kept getting a 403 forbidden message. [lol](https://genius.com/discussions/284677-How-can-i-message-an-artist). i gave that up and sent it over twitter instead. at this point, this whole page was already finished, and i wasn't expecting having to reduce the message...
+
+<details>
+<summary>but it was probably for the best!</summary>
+
+> hey there, sia girl! check out the music video script in: http://cregox.net/ahoxus and this is the pitch: "inner voices" is emotional like sia’s, but happy and lyric-less. it’s also cutless like gambino’s, but with no politics ever. perhaps we can add meaningless lyrics, to improve the production value. keep in mind, however, the main take away messages should always be on video, something as culture-independent as possible!
+</details>
+
 as much as we want to be that breakthrough instance of overcoming immense obstacles, we don't mind doing it in other ways. right now it's time to try everything.
 
 do you care?
 
 we do. [soon](ahoxus.org) we'll be able to show just how much.
 
-PS: this is a inner section of ahoxus. there will be no direct link from the site to here.
+<small>PS: this is an insider section of ahoxus. there will be no direct link from the site into here... transparency is better offered in many layers.</small>
