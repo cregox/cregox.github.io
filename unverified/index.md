@@ -5,9 +5,11 @@ published: true
 
 > why unverified? because i'd sure enjoy to be verified, but not in the way it's currently being done.
 
-## preface
+# preface
 
-this is basically a blog post about a blot and a post! so meta... ok...
+this is basically a blog post about a blog and a post! so meta... :D
+
+ok...
 
 many [blog](/blog) links are broken in this site. this page is about yet another one...
 
@@ -31,7 +33,7 @@ while searching google for "why does twitter verify accounts" i found [this inte
 
 _(disclaimer: please, keep in mind that while I appreciate sarcasm, i try to avoid it at all costs when writing "in public". i write in a very peculiar way and often people might think i'm being sarcastic. i'm not.)_
 
-![some lost image which i sadly may never recover!](http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5431aecfe4b002112adab0e1/1412542167373/?format=500w)
+![some-lost-image-which-i-sadly-may-never-recover!](http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5431aecfe4b002112adab0e1/1412542167373/?format=500w)
 
 "verified" to me should mean one thing only: twitter somehow approves such person is who they claim to be. that's all.
 
@@ -54,6 +56,7 @@ all that said, having my own niche of fans, or clients, or something from which 
 i may never be polite enough even for that, though. or optimistic enough. who knows what choices we make can lead us to where we envision ourselves today? i believe that the future is set in hard stone and we can only learn how to enjoy the ride (check my other blog post for more on that).
 
 ![proudly unverified](cregox_unverified.jpeg)
+
 _proudly unverified_
 
 anyway... in fact, i just decided to hack my way in this "verified" twitter bullshit. take a look at my new profile image on the side.
