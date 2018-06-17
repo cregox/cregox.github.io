@@ -1,16 +1,29 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
+> why unverified? because i'd sure enjoy to be verified, but not in the way it's currently being done.
+
 ## preface
-many [blog](/blog) links are broken, this is about yet another one. it used to be http://cregox.com/blog/2014/10/5/twitter-verified
 
-but now it is [http://cregox.net/talk/t/twitter-verified/3479.html](http://cregox.net/talk/t/twitter-verified/3479.html).
+this is basically a blog post about a blot and a post! so meta... ok...
 
-anyway, i prefer to post it here in an updated format, since i want to keep this as my landing page from twitter (and would then need to update images on the damaged archive)!
+many [blog](/blog) links are broken in this site. this page is about yet another one...
 
-on another note, pages still show no modification or creation date in this site, but you can still figure them out by looking at the source. at least until we implement [some kind](http://talk.jekyllrb.com/t/trying-to-include-date-page-updated/1290/2) of auto date generation on jekyll.
+once upon a time, this link http://cregox.com/blog/2014/10/5/twitter-verified used to exist.
+
+now it doesn't. but it was migrated and poorly archived into [http://cregox.net/talk/t/twitter-verified/3479.html](http://cregox.net/talk/t/twitter-verified/3479.html).
+
+below there's mostly a copy of that same blog post. but i re-read it and edited it with my current knowledge of english. keep in mind i wrote it in 2014. and you can see every edit history in this site pretty much like in wikipedia, but more resourceful. thanks to git.
+
+also, i'm editing it below because i want to keep this as my landing page from twitter... and, for such, i'd want to at least update the broken images from the damaged archive! as an added benefit, i get a better url. and updated ideas.
+
+it was fun reading such things from my 4-years-ago-self, and editing them. sometimes i can't understand anything i wrote even last week, but i guess i've been improving and that haven't happen so much recently. :)
+
+on a side note... posting this blog post from 2014 (below) brought to my attention i haven't commented anywhere that pages on this site still show no modification or creation date. you can still figure them out by looking at the source, if you will. sorry that's the only way, at least until we implement [some kind](http://talk.jekyllrb.com/t/trying-to-include-date-page-updated/1290/2) of auto date generation on jekyll... which may never happen! ;P
+
+cheers.
 
 # twitter verified
 
@@ -18,23 +31,33 @@ while searching google for "why does twitter verify accounts" i found [this inte
 
 _(disclaimer: please, keep in mind that while I appreciate sarcasm, i try to avoid it at all costs when writing "in public". i write in a very peculiar way and often people might think i'm being sarcastic. i'm not.)_
 
-![some lost image](http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5431aecfe4b002112adab0e1/1412542167373/?format=500w)
+![some lost image which i sadly may never recover!](http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5431aecfe4b002112adab0e1/1412542167373/?format=500w)
 
-"verified" to me should mean one thing only: twitter somehow approves such person is who they claim to be. that's all. and that could be done in a much smarter way, by letting the community regulate itself. i was hoping that was what i'd read on mashable, due to its title, but instead i saw a tech savy old man talking how he would like "verified" should work. and i think it's all reasonable, but not tech-savy enough.
+"verified" to me should mean one thing only: twitter somehow approves such person is who they claim to be. that's all.
 
-What he want from it? Does he just want it to be "people I know" to filter his home? Or does he want someone to curate "very interesting smart people" for serendipity? A mix of both, or something else? I just know he is being at least a bit too much of a cry baby, imho. A assumed nobody. ;P
+and that could be done in a much smarter way, by letting the community regulate itself.
 
-I want to be verified by a good community system, not by this flawed twitter one. I want to be famous and considerated "interesting" by Shatner, and lots of other folks (couple of other cool old hags that comes to mind are Dvorak and Laporte, from twit before twitter) though I don't care that much. They won't help me pay my bills. And since I couldn't care much less about PR, twitter, facebook, and so many other social medias, I probably never will get to that point in which they'd see me before I'm too old for them to be alive.
+i was hoping that was what i'd read on mashable, due to its title. instead, i saw a tech savy old man talking how he would like "verified" to work. and i think it's all very reasonable... but not tech-savy enough.
 
-I definetly don't want to make a life style out of popularity. Never did. I don't know what I do want from life. I find it easier live day by day and discover things I don't want from it. Then eventually change even those. But having my own niche of fans or clients from which I could survive doing something I love wouldn't hurt! =)
+what he want from it? does he just want it to be a "people i know" filter to his twitter home? or does he want someone to curate "very interesting smart people" for serendipity? a mix of both, or something else? i just know he is being at least a bit too much of a cry baby, imho. ok, i'm an assumed nobody, who cares, right? ;P
 
-I may never be polite enough even for that, though. Or optimistic enough. Who knows what choices we make can lead us to where we envision ourselves today? I only believe that the future is set in hard stone and we can only learn how to enjoy the ride (check my other blog post for more on that).
+well, i do.
 
-![proudly unverified](http://static1.squarespace.com/static/537cf764e4b02cb9fe050f36/t/5431b28ce4b0311721a42213/1412543118478/?format=500w)
+i want to be verified by a good community system, not by this flawed twitter one. i want to be famous and considerated "interesting" by Shatner, and lots of other folks (couple of other cool old hags that comes to mind are Dvorak and Laporte, from twit before twitter)...
 
-Anyway... In fact, I just decided to hack my way in this "verified" twitter bullshit. Take a look at my new profile image on the side.
+but i don't really care that much. they won't help me pay my bills. and since I couldn't care less about PR, twitter, facebook, and so many other social media thingies, i probably will never be oficially verified.
 
-Reason I'm posting this? Just because I felt like answering him, and maybe he'd read and engage in some kind of healthy discussion. That would be wicked cool. In fact, I'd enjoy talking about this with anyone with similar views from him. Or anyone willing to engage, really. I'm desperate! (ok, I like to think this was sarcasm)
+and i definetly don't want to make a life style out of popularity. never did. i don't know what i do want from life. i find it easier to live day by day and discover things i **don't** want. then, eventually, avoid 'em or change my taste.
 
-Reason I was googling? I couldn't understand why twitter verification was so flawed. Now I think I do. Or at least I felt I didn't have to google any further. Thanks mr shatner! ;)
+all that said, having my own niche of fans, or clients, or something from which i could survive doing something i love wouldn't hurt! =)
 
+i may never be polite enough even for that, though. or optimistic enough. who knows what choices we make can lead us to where we envision ourselves today? i believe that the future is set in hard stone and we can only learn how to enjoy the ride (check my other blog post for more on that).
+
+![proudly unverified](cregox_unverified.jpeg)
+_proudly unverified_
+
+anyway... in fact, i just decided to hack my way in this "verified" twitter bullshit. take a look at my new profile image on the side.
+
+reason i'm posting this? because i felt like answering him, and maybe he'd read and engage in some kind of healthy discussion. that would be wicked cool! in fact, i'd enjoy talking about this with anyone with similar views from him. or anyone willing to engage, really. i'm desperate! (ok, I like to think this was sarcasm)
+
+reason i was googling? i couldn't understand why twitter verification was so flawed. now i think i do. or at least i felt i didn't have to google any further. thanks mr shatner! ;)
