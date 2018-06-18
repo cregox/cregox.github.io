@@ -1,7 +1,6 @@
 ---
-permalink: /casting/
 layout: page
-title: casting
+image: cregox_finland_small.jpg
 published: true
 ---
 
