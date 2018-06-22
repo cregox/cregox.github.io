@@ -6,15 +6,13 @@ published: true
 
 greetings!
 
-i'd love to get casted in any project which would let me do more than acting.
+and welcome to my filming related projects.
 
-ideally, i'd be today getting classes in some sort of group like [ETA](http://www.estudiodetreinamento.com.br/) but focused on videos. they basically teach theater, free of fees (with cheapest rates) and most of their income comes from student plays, starting from the very 1st module. we learn how to get income as an artist. but i still couldn't find such a group here in Lisbon.
+![myself in finland, photo by @guzforster](cregox_finland_(by_guz).jpg)
 
-despite being a nice actor (proportional to the amount of practice) and generally above average in almost anything i do (sports being one exception) i'm also way too inexperienced in making scenes to get spotted as a professional there. who knows? one day i could get the guts to go live like an artist, "dumped in the streets" (because the absolute majority of artists get no money) and enable myself to start working with some kind of art 24/7... in fact, this may happen in 2018 now.
+i was participating in [ETA](http://www.estudiodetreinamento.com.br/) for the first module of 3 months. it's a theater course free of fees (with cheapest rates) and most of the income comes from students plays, starting from the very 1st module. we learn how to hunt for money as artists.
 
-but i still have little to show as an artist - <small>if you want to start **digging** me up online, however... boy, as a web freak i've created small "artistic" little pieces, such as [this old thing](https://en.wikipedia.org/wiki/User:Cregox/-%3F_wiki%3F) (which is now broken and I don't recall [what was it](https://en.wikipedia.org/w/index.php?title=User:Cregox&oldid=220362058) but it sure was a form of art!). for a terrible instance, [my mom](https://www.quora.com/What-kind-of-hobbies-do-highly-intelligent-i-e-those-with-intelligence-levels-beyond-the-exceptional-people-have/answer/Caue-Rego?srid=ptsW) surely loves every little thing i do over all of her 4 kids. i believe it has to do with "[my artistic side](https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel)" which me, her and some friends can see.</small>
-
-anyway, below I'm trying to gather a collection of relevant links. hope you can enjoy!
+fine amateur actor, still with lots to learn and very little to show as an artist - <small>if you want to start **digging** me up online, however... boy, as a web freak i've created small "artistic" little pieces, such as [this old thing](https://en.wikipedia.org/wiki/User:Cregox/-%3F_wiki%3F) (which is now broken and I don't recall [what was it](https://en.wikipedia.org/w/index.php?title=User:Cregox&oldid=220362058) but it sure was a form of art!). for a terrible instance, [my mom](https://www.quora.com/What-kind-of-hobbies-do-highly-intelligent-i-e-those-with-intelligence-levels-beyond-the-exceptional-people-have/answer/Caue-Rego?srid=ptsW) surely loves every little thing i do over all of her 4 kids. i believe it has to do with "[my artistic side](https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel)" which me, her and some friends can see.</small>
 
 media
 
