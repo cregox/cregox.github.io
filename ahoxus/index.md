@@ -8,6 +8,14 @@ published: true
 
 ok, not quite...
 
+# latest
+
+we're working on new shorter and simpler ideas. more to come soon!
+
+let's make some lemonade, kind of! :)
+
+# outdated take
+
 we actually want to produce [inner voices](https://trello.com/b/2m0jFNqT/inner-voices), a very short music video with a happy tune and fun approach to small things in life that could make a huge difference if [enough people would absorb](https://ncase.me/crowds/) just a little of the concepts brought in it. it'd be our first showcase work.
 
 you can read the [full script here](https://docs.google.com/document/d/1fxKT1NOhUoV2Ziq1q1pwqZC9w6iz9yPJYcSGN5zGThw/edit?usp=sharing).
@@ -48,6 +56,6 @@ as much as we want to be that breakthrough instance of overcoming immense obstac
 
 do you care?
 
-we do. [soon](ahoxus.org) we'll be able to show just how much.
+we do. [soon](//ahoxus.org) we'll be able to show just how much.
 
 <small>PS: this is an insider section of ahoxus. there will be no direct link from the site into here... transparency is better offered in many layers.</small>
