@@ -1,29 +1,20 @@
 ---
 permalink: /projects/
 layout: page
-title: projects
 published: true
-menu: true
 redirect_from: /project/
 ---
 
+will probably move to [proud](/proud)
+
 coding
 
+- **this site** is all open *source*d, simplistic yet powerful (although overlooked) and shall be appreciated one day
 - [basiux](http://basiux.org) contains a small neat javascript Ai I've ported from another language in about 3 days
 - [formigas](http://scratch.mit.edu/projects/17273607/#player), another tiny game in MIT's Scratch made in about 5 days
-- [pcsedados](/pcsedados) service order system made in 2003 for about 2 months, still in use today
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a background queue
 - [luckyshit](/luckyshit), very tiny game in [Unity3D](http://answers.unity3d.com/users/822/cawas.html) made in about 10 hours
-
-production
-
-- [Abaixa Tampa (Lower the toilet lid)](http://abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months
-- [Funny or Die with Jean Claude Van Damme and Guz](http://www.funnyordie.com/videos/f6f674e14c/just-a-regular-damme-day), "cool" video made in about 5 days, in a basketball court
-
-slightly related
-
 - [StackOverflow](http://stackoverflow.com/story/cauerego) and [GitHub](https://github.com/cauerego) profiles
-- [Some photos for casting](https://b.cregox.com/caue-casting)
 
 ![sky walk over Auckland](skywalkcauerecorte.jpg)
 *it's a me! in one of my "enjoying life" projects. :)*
