@@ -1,5 +1,5 @@
 ---
-permalink: /proud/
+title: proud
 layout: page
 published: true
 menu: true
