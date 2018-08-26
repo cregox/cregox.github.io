@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+title: projects
 layout: page
 published: true
 redirect_from: /project/
