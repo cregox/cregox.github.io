@@ -5,11 +5,13 @@ title: benevolent artificial super intelligence user experience
 published: true
 ---
 
-page under construction...
+it's easy to come up with arbitrary summaries in retrospect.
 
-this was actually the result of this project: a very happy and satisfied mother, filming her son in the first and last presentation of the project: https://photos.app.goo.gl/DK74wJMQrUDRP2wS7
+basiux is no more. the result was [a small presentation in a "reach for the moon" event on a London Google office](https://photos.app.goo.gl/DK74wJMQrUDRP2wS7). for my mom. she was filming it. so happily and satisfied, she has been glowing ever since. the first and last presentation of the project. she had missed, after all, [the first and only theater play he had produced](/proud).
 
-more to come soon...
+the site is now obsolete. probably too buggy. the idea was transformed into something else and the will evolved into another goal. a reachable one. but that subjective result, a radiant mother, will endure.
+
+it was worth it.
 
 below, outdated data points, probably still somewhat relevant.
 
