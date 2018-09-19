@@ -8,13 +8,25 @@ published: true
 
 ok, not quite...
 
-# latest
+while [the website](//ahoxus.org) is still under construction, i'll keep using this to "publish" some messed up personal notes which shall later be cut out into edit history.
 
-we're working on new shorter and simpler ideas. more to come soon!
+# credits
 
-let's make some lemonade, kind of! :)
+ahoxus is a small team of people led by #cregox who's greatly inspired by (in random order): #stephendubner, #mandygresh, #stevennovella, #timurban, #ncase, #sergeybrin, #terryjones, #stevejobs, #fernandatakai, #johnlennon, #dannyrubin, #haroldramis and many more TK.
 
-# outdated take
+we value technology, spirituality, philosophy, science and, above all, [having fun](/tv).
+
+below is just some highly **outdated** writings related to building ahoxus.
+
+---
+
+# intermission
+
+working on new, shorter and simpler ideas.
+
+let's make some *lemonade*, kind of! :)
+
+# oldest take
 
 we actually want to produce [inner voices](https://trello.com/b/2m0jFNqT/inner-voices), a very short music video with a happy tune and fun approach to small things in life that could make a huge difference if [enough people would absorb](https://ncase.me/crowds/) just a little of the concepts brought in it. it'd be our first showcase work.
 
