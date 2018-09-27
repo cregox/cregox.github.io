@@ -13,10 +13,10 @@ you may:
 
 - mail [help@cregox.net](mailto:help@cregox.net).
 - reach me online. on **skype** at _**caue.rego**_, hangouts with **caue.rego@gmail.com**, whatsapp, telegram, twitter, facebook, etc.
-- **try** calling me with [google](https://en.wikipedia.org/wiki/GrandCentral) at **+1 732 7377346** or while i'm in portugal at **+351 939981666**.
+- **try** calling me with [google](//en.wikipedia.org/wiki/GrandCentral) at **+1 732 7377346** or while i'm in portugal at **+351 939981666**.
 - be creative, surprise me. :)
 
 i usually reply in a few hours. if i don't answer in a couple of days, by all means do nag me again.
 
 ![ana boat](caue on ana boat.jpeg)
-*I wish I lived in such a boat... Flying in the sky...*
+*i wish i lived in such a boat... flying in the sky...*
