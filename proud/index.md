@@ -18,8 +18,8 @@ now, i do have worthy coding projects, which were fun to build, and that's all:
 - [basiux](/basiux) contains a small neat javascript Ai I've ported from another language in about 3 days.
 - [formigas](//scratch.mit.edu/projects/17273607/#player), another tiny game in MIT's Scratch made in about 5 days.
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a background queue.
-- [luckyshit](/luckyshit), very tiny game in [Unity3D](http://answers.unity3d.com/users/822/cawas.html) made in about 10 hours.
-- [StackOverflow](//stackoverflow.com/story/cauerego) and [GitHub](https://github.com/cauerego) profiles.
+- [luckyshit](/luckyshit), very tiny game in [Unity3D](//answers.unity3d.com/users/822/cawas.html) made in about 10 hours.
+- [StackOverflow](//stackoverflow.com/story/cauerego) and [GitHub](//github.com/cauerego) profiles.
 
 and here are completely unimpressive projects:
 
