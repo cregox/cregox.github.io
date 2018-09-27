@@ -28,4 +28,4 @@ and here are completely unimpressive projects:
 - [homemade videos](//www.youtube.com/c/CaueRego).
 
 ![sky walk over Auckland](../projects/skywalkcauerecorte.jpg)
-*it's a me! in one of my "enjoying life" projects, which i do almost daily. :)*
+*it's a me! in one of my "enjoying life" [fun](/tv) projects, which i do almost daily. :)*
