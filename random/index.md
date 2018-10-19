@@ -4,13 +4,13 @@ layout: page
 published: true
 ---
 
-lucky number, between 0 and infinity: 
+lucky number, between 0 and [<max>infinity</max>](javascript:max): 
 
-# <lucky>-1</lucky>
+# [<lucky>-1</lucky>](javascript:start())
 
 [go to a new random page](https://www.google.com/doodles), provided by google and "magic"! or...
 
-refresh this page to generate a new reference.
+click on the number to get a new one.
 
 <br><br>
 

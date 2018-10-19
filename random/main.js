@@ -9,10 +9,12 @@
 /*eslint-disable semi */
 'use strict';
 
+const lucky = document.querySelector('lucky')
+const maxEl = document.querySelector('max')
 const audioInputSelect = document.querySelector('select#audioSource')
 const videoSelect = document.querySelector('select#videoSource')
 const selectors = [audioInputSelect, videoSelect]
-
+let maxN = 0
 
 function gotDevices(deviceInfos) {
   // Handles being called several times to update labels. Preserve values.
@@ -56,16 +58,37 @@ function handleError(error) {
   console.log('navigator.getUserMedia error: ', error)
 }
 
+function max () {
+  // maxN = number input
+  if (maxN < 1) maxEl.textContent = 'infinity'
+  else maxEl.textContent = maxN
+}
 
-function stop() {
+let sum // for debugging
+function stop () {
   if (window.stream) {
+    sum += track.captureStream()
     window.stream.getTracks().forEach(track => {
       track.stop()
     })
+    lucky.textContent = encode(JSON.stringify(sum))
   }    
 }
 
-function start() {
+function encode(str) {
+  return str.replace(/./g, function(c) {
+    return ('00' + c.charCodeAt(0)).slice(-3)
+  })
+}
+
+function decode(str) {
+  return str.replace(/.{3}/g, function(c) {
+    return String.fromCharCode(c)
+  })
+}
+
+function start () {
+  sum = 0
   stop()
   const audioSource = audioInputSelect.value
   const videoSource = videoSelect.value
