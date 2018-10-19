@@ -46,33 +46,39 @@ function gotDevices(deviceInfos) {
 navigator.mediaDevices.enumerateDevices().then(gotDevices).catch(handleError);
 
 function gotStream(stream) {
-  window.stream = stream; // make stream available to console
-  videoElement.srcObject = stream;
+  window.stream = stream // make stream available to console
+  videoElement.srcObject = stream
   // Refresh button list in case labels have become available
-  return navigator.mediaDevices.enumerateDevices();
+  return navigator.mediaDevices.enumerateDevices()
 }
 
 function handleError(error) {
-  console.log('navigator.getUserMedia error: ', error);
+  console.log('navigator.getUserMedia error: ', error)
+}
+
+
+function stop() {
+  if (window.stream) {
+    window.stream.getTracks().forEach(track => {
+      track.stop()
+    })
+  }    
 }
 
 function start() {
-  if (window.stream) {
-    window.stream.getTracks().forEach(track => {
-      track.stop();
-    });
-  }
-  const audioSource = audioInputSelect.value;
-  const videoSource = videoSelect.value;
+  stop()
+  const audioSource = audioInputSelect.value
+  const videoSource = videoSelect.value
   const constraints = {
     audio: {deviceId: audioSource ? {exact: audioSource} : undefined},
     video: {deviceId: videoSource ? {exact: videoSource} : undefined}
-  };
-  navigator.mediaDevices.getUserMedia(constraints).then(gotStream).then(gotDevices).catch(handleError);
+  }
+  navigator.mediaDevices.getUserMedia(constraints).then(gotStream).then(gotDevices).catch(handleError)
+  setTimeout(stop, 1000)
 }
 
-audioInputSelect.onchange = start;
+audioInputSelect.onchange = start
 
-videoSelect.onchange = start;
+videoSelect.onchange = start
 
 start();
