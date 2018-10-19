@@ -22,9 +22,6 @@ const audioInputSelect = document.querySelector('select#audioSource')
 const videoSelect = document.querySelector('select#videoSource')
 const selectors = [audioInputSelect, videoSelect]
 
-const stream = window.stream // frames per second
-console.log('will start stream capture from canvas element: ', stream)
-
 function max () {
   // maxN = number input
   if (maxN < 1) maxEl.textContent = 'infinity'
@@ -63,6 +60,9 @@ function handleStop(event) {
 
 // The nested try blocks will be simplified when Chrome 47 moves to Stable
 function startRecording() {
+  const stream = window.stream // frames per second
+  console.log('will start stream capture from canvas element: ', stream)
+  
   let options = {mimeType: 'video/webm'}
   recordedBlobs = []
   try {
