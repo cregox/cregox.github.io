@@ -74,11 +74,11 @@ function start() {
     video: {deviceId: videoSource ? {exact: videoSource} : undefined}
   }
   navigator.mediaDevices.getUserMedia(constraints).then(gotStream).then(gotDevices).catch(handleError)
-  setTimeout(stop, 1000)
+  setTimeout(stop, 2000)
 }
 
 audioInputSelect.onchange = start
 
 videoSelect.onchange = start
 
-start();
+setTimeout(start, 1)
