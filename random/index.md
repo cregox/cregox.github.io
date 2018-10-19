@@ -4,7 +4,7 @@ layout: page
 published: true
 ---
 
-lucky number, between 0 and [<max>infinity</max>](javascript:max): 
+lucky number, between 0 and [<max>infinity</max>](javascript:max()): 
 
 # [<lucky>-1</lucky>](javascript:start())
 
@@ -22,19 +22,17 @@ it's basically [the source of everything](/talk/t/true-randomness-app-why-it-cou
 
 computers can't generate those without help from the real world.
 
-this page can help.
-
-and for that, we need [access to the camera and microphone](javascript:start()).
+thus why we need [access to the camera and microphone](javascript:start()).
 
 nothing will be recorded. remember, the source code is completely open.
 
-why?
+why true random?
 
 not only this offers better chances of getting winning lottery numbers...
 
-a true random number culture can change the world! TK
+a true random number culture can change the world! **TK**
 
-feel free to change the **noise** sources:
+feel free to tweak the **noise** sources settings:
 
 <link rel="stylesheet" href="main.css">
 
