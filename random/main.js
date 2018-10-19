@@ -1,9 +1,8 @@
 /*
-*  Copyright (c) 2015 The WebRTC project authors. All Rights Reserved.
-*
-*  Use of this source code is governed by a BSD-style license
-*  that can be found in the LICENSE file in the root of the source
-*  tree.
+*  sources:
+*  https://webrtc.github.io/samples/
+*    canvas-record (stream capture)
+*    input-output (query media devices microphone camera)
 */
 
 /*eslint-disable semi */
@@ -11,10 +10,35 @@
 
 const lucky = document.querySelector('lucky')
 const maxEl = document.querySelector('max')
+let maxN = 0
+
+const mediaSource = new MediaSource();
+mediaSource.addEventListener('sourceopen', handleSourceOpen, false);
+let mediaRecorder;
+let recordedBlobs;
+let sourceBuffer;
+
 const audioInputSelect = document.querySelector('select#audioSource')
 const videoSelect = document.querySelector('select#videoSource')
 const selectors = [audioInputSelect, videoSelect]
-let maxN = 0
+
+function max () {
+  // maxN = number input
+  if (maxN < 1) maxEl.textContent = 'infinity'
+  else maxEl.textContent = maxN
+}
+
+function encode(str) {
+  return str.replace(/./g, function(c) {
+    return ('00' + c.charCodeAt(0)).slice(-3)
+  })
+}
+
+function decode(str) {
+  return str.replace(/.{3}/g, function(c) {
+    return String.fromCharCode(c)
+  })
+}
 
 function gotDevices(deviceInfos) {
   // Handles being called several times to update labels. Preserve values.
@@ -58,33 +82,15 @@ function handleError(error) {
   console.log('navigator.getUserMedia error: ', error)
 }
 
-function max () {
-  // maxN = number input
-  if (maxN < 1) maxEl.textContent = 'infinity'
-  else maxEl.textContent = maxN
-}
-
-let sum // for debugging
+let sum // for easy debugging
 function stop () {
   if (window.stream) {
-    sum += track.captureStream()
+    sum += window.stream.captureStream() //not working, went for canvas-record now
     window.stream.getTracks().forEach(track => {
       track.stop()
     })
     lucky.textContent = encode(JSON.stringify(sum))
   }    
-}
-
-function encode(str) {
-  return str.replace(/./g, function(c) {
-    return ('00' + c.charCodeAt(0)).slice(-3)
-  })
-}
-
-function decode(str) {
-  return str.replace(/.{3}/g, function(c) {
-    return String.fromCharCode(c)
-  })
 }
 
 function start () {
