@@ -10,7 +10,9 @@ this is your [**true** random](//random.org) lucky number:
 
 refresh this page to generate a new reference.
 
-you may change the **noise** sources:
+<br><br>
+
+feel free to change the **noise** sources:
 
 <link rel="stylesheet" href="main.css">
 
