@@ -9,7 +9,6 @@
 /*eslint-disable semi */
 'use strict';
 
-const videoElement = document.querySelector('video')
 const audioInputSelect = document.querySelector('select#audioSource')
 const videoSelect = document.querySelector('select#videoSource')
 const selectors = [audioInputSelect, videoSelect]
@@ -48,7 +47,6 @@ navigator.mediaDevices.enumerateDevices().then(gotDevices).catch(handleError)
 
 function gotStream(stream) {
   window.stream = stream // make stream available to console
-//  videoElement.srcObject = stream
   // Refresh button list in case labels have become available
   return navigator.mediaDevices.enumerateDevices()
 }
