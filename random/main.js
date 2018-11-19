@@ -168,4 +168,4 @@ audioInputSelect.onchange = start
 
 videoSelect.onchange = start
 
-setTimeout(start, 1)
+//setTimeout(start, 1)
