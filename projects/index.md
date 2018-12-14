@@ -5,12 +5,10 @@ published: true
 redirect_from: /project/
 ---
 
-will probably move to [proud](/proud)
+coding projects, that is. actually [proud](/proud) of many more. 
 
-coding
-
-- **this site** is all open *source*d, simplistic yet powerful (although overlooked) and shall be appreciated one day
-- [basiux](http://basiux.org) contains a small neat javascript Ai I've ported from another language in about 3 days
+- **this site** is all open *source*d, simplistic yet powerful (although overlooked) and shall be appreciated one day!
+- [basiux](http://basiux.org) contains a small neat javascript Ai i've ported from another language in about 3 days
 - [formigas](http://scratch.mit.edu/projects/17273607/#player), another tiny game in MIT's Scratch made in about 5 days
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a background queue
 - [luckyshit](/luckyshit), very tiny game in [Unity3D](http://answers.unity3d.com/users/822/cawas.html) made in about 10 hours
