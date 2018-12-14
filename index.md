@@ -5,8 +5,6 @@ published: true
 image: /cregox_ana_boat_thumb.jpg
 ---
 
-how can I help you today? it's probably better to **search** for it:
-
 <script>
   (function() {
     var cx = '010647840594061099018:ofzvp-qmvj4';
@@ -20,11 +18,11 @@ how can I help you today? it's probably better to **search** for it:
 </script>
 <gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
 
-or go [straight to google](https://www.google.com/search?q=site:cregox.com+[random]).
+still can't find it? try going [straight to google](https://www.google.com/search?q=site:cregox.com+[random]).
 
-perhaps you want to lay back and "watch" some [fas tv](/tv)?
+or perhaps just lay back and "watch" some [fas tv](/tv).
 
-might you be wondering what's up with my writing style, [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41)?
+about the lower case writing style, go to [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41).
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;
