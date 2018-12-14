@@ -19,10 +19,13 @@ coincidentally, it's:
 ### here's the most relevant part, after clicking [services] / [hire]:
 
 [![pcsedados hire tax id](pcsedados hire tax id.png)](http://www.pcsedados.com.br/servicos/contr_recdados.asp)
+*not so [proud](/proud) of the outdated code layout behind that ASP file, with over 30kb and 700 lines!*
 
 instead of login and password, your "tax id" is all we need.
 
-we went with the idea to store data which was already [publicly available]() anyway. simple.
+we went with the idea to store data which was, somehow, already publicly available (even if not by any simple means).
+
+keep it simple. very little "privacy" in favor of much easier process.
 
 time have spoken: over 10 years with no issues.
 
