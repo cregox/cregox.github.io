@@ -21,7 +21,7 @@ trying to answer that is like trying to predict the future.
 
 i want to keep all my data, or as much as possible (specially textual and such small data points).
 
-i need to. for [sanity (funny enough, tried using my backups to find this link and 2 failed due to searching issues(*))]().
+we need to. for [sanity](https://curiosity.com/topics/burned-out-this-research-backed-quiz-could-tell-you-curiosity/). funny enough, 2 of my backups failed to find this link due to searching issues(*).
 
 can we trust ourselves to always do it manually?
 
@@ -37,7 +37,7 @@ a bit more in practice, computer wise, in the past i've used a combination of 1 
 
 guess we'll have to _keep on trying_...
 
-(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: chao..[.]() i mean, [gratitude](https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/).
+(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: chao..[.](/ahoxus) i mean, [gratitude](https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/).
 
 ![walking on autumn leaves](walking on autumn leaves.gif)
 
@@ -46,6 +46,9 @@ guess we'll have to _keep on trying_...
 PS: to be more specific...
 
 - the local backup was apple's time machine. the mac would also have a dropbox folder synced into google drive.
-- now, with chromebook, time machine and dropbox are gone, as backup tools. but dropbox was never a reliable one to begin with, and time machine, well, i forgot its password (not to mention it's also quite unreliable, being a single physical disk and all). even while using 2 password managers. because none of them reminds me of saving a disk encryption key. privacy getting in the way of security, once again!
-- the 2 backups that failed to find data i was looking for were hangouts and getpocket. i know the data is there, i could find it in one of them later, but the SEARCH failed to find it. completely frustrating. thankfuly, google helped. with the right keywords. and only because the old link wasn't broken (yet), of course. old internet links are bound to be broken faster than my memory of them. mostly. even with the web archives. plural. fundamentaly stupid ideas based on the bigger stupidity of flawed internet protocols that don't include personal backups as the one i envision here.
+- now, with chromebook, time machine and dropbox are gone, as backup tools. but dropbox was never reliable to begin with, and time machine, well, i forgot the password (not to mention it's also quite unreliable, being a single physical disk and all). even while using 2 password managers. because none of them reminds us of saving a disk encryption key. privacy getting in the way of security, once again!
+- the 2 backups that failed to find data i was looking for were hangouts and getpocket. i know the data is there, i could find it in pocket later and i'm positive i've shared it, but both SEARCHES failed to find it. completely frustrating. thankfuly, google helped. with the right keywords. and only because the old link wasn't broken (yet), of course. old internet links are bound to be broken faster than my memory of them. mostly. even with the web archives. plural. (those archives are, btw, fundamentaly stupid ideas based on the bigger stupidity of flawed internet protocols that don't include personal backups as the one i envision here).
 - google in general, its "tracking", gmail (i do forward them all to a backup gmail), getpocket and ifttt are my main web content true backup tools. everything else is manual, including freaking google takeout and, in a way, drive.
+- a few hours later, and after going through almost all my 882 pocketed items about curiosity, i gave up on finding the link for sanity i had in mind. and i blame my poor backups for that! i may try again later, when i get one with proper search. or perhaps if you, dear reader (is anyone even there?), snag me for it.
+- since we're talking about sanity, chaos and all that, perhaps it's good to mention on another random topic i just stumbled: how [we should not force ourselves to sleep](https://curiosity.com/topics/maybe-you-should-be-sleeping-twice-a-day-like-they-did-in-olden-times-curiosity/) as another heatlhy measure. it's not about 8 hours or anything more than trusting your feelings. i use no alarms and lose no flights (due to sleep, anyway). and speaking of health... we should [exercise. less](https://curiosity.com/topics/a-huge-study-shows-just-how-much-exercise-you-need-to-boost-your-mental-health-curiosity/).
+- yes, i know [i rely a lot on curiosity](https://curiosity.com/4577272747245185158/likes/topics/). it's [worth it](https://curiosity.com/topics/you-can-find-your-lifes-purpose-with-a-japanese-concept-called-ikigai-curiosity/). you should too. with proper backups! ;P
