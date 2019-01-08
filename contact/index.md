@@ -1,10 +1,10 @@
 ---
 permalink: /contact/
+redirect_from: /contacts/
 layout: page
 title: contact
 published: true
 menu: true
-redirect_from: /contacts/
 ---
 
 aha, no form here!
