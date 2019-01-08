@@ -1,5 +1,6 @@
 ---
 permalink: /backup/
+redirect_from: /backups/
 layout: page
 title: backup manifesto
 published: true
@@ -43,12 +44,12 @@ guess we'll have to _keep on trying_...
 
 <small>_[should we](/contact) be using less gif's?_</small>
 
-PS: to be more specific...
+PS: to be more specific about a few things...
 
 - the local backup was apple's time machine. the mac would also have a dropbox folder synced into google drive.
 - now, with chromebook, time machine and dropbox are gone, as backup tools. but dropbox was never reliable to begin with, and time machine, well, i forgot the password (not to mention it's also quite unreliable, being a single physical disk and all). even while using 2 password managers. because none of them reminds us of saving a disk encryption key. privacy getting in the way of security, once again!
 - the 2 backups that failed to find data i was looking for were hangouts and getpocket. i know the data is there, i could find it in pocket later and i'm positive i've shared it, but both SEARCHES failed to find it. completely frustrating. thankfuly, google helped. with the right keywords. and only because the old link wasn't broken (yet), of course. old internet links are bound to be broken faster than my memory of them. mostly. even with the web archives. plural. (those archives are, btw, fundamentaly stupid ideas based on the bigger stupidity of flawed internet protocols that don't include personal backups as the one i envision here).
 - google in general, its "tracking", gmail (i do forward them all to a backup gmail), getpocket and ifttt are my main web content true backup tools. everything else is manual, including freaking google takeout and, in a way, drive.
-- a few hours later, and after going through almost all my 882 pocketed items about curiosity, i gave up on finding the link for sanity i had in mind. and i blame my poor backups for that! i may try again later, when i get one with proper search. or perhaps if you, dear reader (is anyone even there?), snag me for it.
+- a few hours later, and after going through almost all my 882 pocketed items about curiosity, i gave up on finding the link for sanity i had in mind. it was something about how the mind needs to feel security in life and i related it with how i do it by using backups. at least in my mind. and i blame my poor backups for that being unable to find it! i may try again later, when i get one with proper search. or perhaps if you, dear reader (is anyone even there?), snag me for it.
 - since we're talking about sanity, chaos and all that, perhaps it's good to mention on another random topic i just stumbled: how [we should not force ourselves to sleep](https://curiosity.com/topics/maybe-you-should-be-sleeping-twice-a-day-like-they-did-in-olden-times-curiosity/) as another heatlhy measure. it's not about 8 hours or anything more than trusting your feelings. i use no alarms and lose no flights (due to sleep, anyway). and speaking of health... we should [exercise. less](https://curiosity.com/topics/a-huge-study-shows-just-how-much-exercise-you-need-to-boost-your-mental-health-curiosity/).
 - yes, i know [i rely a lot on curiosity](https://curiosity.com/4577272747245185158/likes/topics/). it's [worth it](https://curiosity.com/topics/you-can-find-your-lifes-purpose-with-a-japanese-concept-called-ikigai-curiosity/). you should too. with proper backups! ;P
