@@ -1,8 +1,8 @@
 ---
+redirect_from: /project/
 title: projects
 layout: page
 published: true
-redirect_from: /project/
 ---
 
 coding projects, that is. actually [proud](/proud) of many more. 
