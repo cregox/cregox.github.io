@@ -1,1 +1,1 @@
-# go to [cregox](https://cregox.com)
+# go to [cregox](https://cregox.net)

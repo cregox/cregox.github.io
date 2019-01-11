@@ -17,9 +17,9 @@ fine amateur actor, still with lots to learn and very little to show as an artis
 media
 
 - [youtube](https://www.youtube.com/c/cauerego) have some weak videos i've made, might be worth it as a fringe reference.
-- [casting](https://b.cregox.com/caue-casting) is a more traditional (and boring) style if you're into this
+- [casting](https://b.cregox.net/caue-casting) is a more traditional (and boring) style if you're into this
 - probably i should use more [instagram](https://www.instagram.com/cregox/), haha
-- [random fun](/random), [why not](http://talk.cregox.com/t/focus-on-mario-forget-the-rest-of-universe/7919)? randomness kinda says a lot about my current idea-project
+- [random fun](/random), [why not](http://talk.cregox.net/t/focus-on-mario-forget-the-rest-of-universe/7919)? randomness kinda says a lot about my current idea-project
 - back to [myself](/myself) then, with more actual real photos
 
 somewhat relevant projects
@@ -29,5 +29,5 @@ somewhat relevant projects
 
 "poetry" (or some sort of art in form of text)
 
-- [talk.cregox.com](http://talk.cregox.com/) a ["ghost town"](http://talk.cregox.com/t/a-beginning-for-the-forums-here/7#7) I've made and home to most of my [blog](/blog) as an [inform**art**icist](http://talk.cregox.com/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914) and [progammer*](http://talk.cregox.com/t/yeah-im-also-a-progammer/7676)
-- [The next Ai poca lips](http://blog.cregox.com/the-next-ai-poca-lips-r23K6m6)
+- [talk.cregox.net](http://talk.cregox.net/) a ["ghost town"](http://talk.cregox.net/t/a-beginning-for-the-forums-here/7#7) I've made and home to most of my [blog](/blog) as an [inform**art**icist](http://talk.cregox.net/t/to-kstanley-can-a-neat-mario-start-up-a-basiux/7914) and [progammer*](http://talk.cregox.net/t/yeah-im-also-a-progammer/7676)
+- [The next Ai poca lips](http://blog.cregox.net/the-next-ai-poca-lips-r23K6m6)

@@ -18,11 +18,11 @@ image: /cregox_ana_boat_thumb.jpg
 </script>
 <gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
 
-still can't find it? try going [straight to google](https://www.google.com/search?q=site:cregox.com+[random]).
+still can't find it? try going [straight to google](https://www.google.com/search?q=site:cregox.net+[random]).
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
-about the lower case writing style, go to [locaws](https://medium.cregox.com/lower-case-writing-style-905e1d700f41).
+about the lower case writing style, go to [locaws](https://medium.cregox.net/lower-case-writing-style-905e1d700f41).
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;

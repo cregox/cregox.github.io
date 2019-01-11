@@ -8,7 +8,7 @@ published: true
 
 i've wrote too much about backup. a lot of times.
 
-it always ends up being about how i was trying to [keep some of my data to myself](https://medium.cregox.com/how-to-keep-all-your-data-to-yourself-930ac30cae7d).
+it always ends up being about how i was trying to [keep some of my data to myself](https://medium.cregox.net/how-to-keep-all-your-data-to-yourself-930ac30cae7d).
 
 one of the big beauties of computers is how they turn copying data into an easy task.
 

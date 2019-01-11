@@ -6,14 +6,14 @@ published: true
 
 one day we shall move everything into one platform!
 
-but, for now, **the main one is [medium](https://medium.cregox.com)**.
+but, for now, **the main one is [medium](https://medium.cregox.net)**.
 
 meanwhile...
 
 still got those 3 (not 4 anymore, the one from squarespace is no more):
 
 - [oldest](http://cauecmrego.blogspot.com) (blogspot)
-- [archived](http://talk.cregox.com/c/blog) (discourse) used to be also a forum (includes almost* every posts from squarespace).
+- [archived](http://talk.cregox.net/c/blog) (discourse) used to be also a forum (includes almost* every posts from squarespace).
 - [experimental](http://blog.cregox.net) (jekyll) mainly for toying around, I guess. but might become the main one.
 
 # * note
