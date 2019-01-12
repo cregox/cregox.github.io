@@ -25,6 +25,6 @@ a single recognizable piece can be worth more than a thousand of films of any si
 
 and dozens of nice shorts will raise the bar higher than one or two meaningless videos (like the ones in this page).
 
-we are always shooting to the stars and, being unable to aim for a large amount of production, there's this peculiar and pesky detail oriented thing that can lead to something unique.
+we are always shooting to the stars and, being unable to aim for a large amount of production, there's this peculiar and pesky detail oriented thing that shall, *someday* lead to something unique.
 
 someday!
