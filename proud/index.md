@@ -10,7 +10,7 @@ although i've worked writing code for most of my career, what i'm most proud of 
 - [your home](/your-home) was an accidental bootstrap i've created and discontinued during 6 months. 10% of it was about coding, the rest was divided among marketing, support and managing the business.
 - [pcsedados](/pcsedados) service order system made in 2003 for about 2 months, still in use today. granted, most of it was coding, but the things i'm satisfied about it are basically the logic behind it and its longetivity.
 - [abaixa tampa (lower the toilet lid)](//abaixatampa.wordpress.com/), a theater play in portuguese made in 3 months. i've co-wrote and co-stared in it, being one of the most proeminent actor in both ends, on my very first professional-ish experience in front of an audience. got lots of and only nice feedback from it.
-- [just a regular damme day](//youtu.be/fxMaeJjY4jk), "cool" video made in about 5 days, in a basketball court. first and only video i'm glad to have done, so far...
+- [just a regular damme day](//youtu.be/fxMaeJjY4jk), "cool" [video](/video) made in about 5 days, in a basketball court. first and only video i'm glad to have done, so far...
 
 now, i do have worthy coding projects, which were fun to build, and that's all:
 
