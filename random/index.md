@@ -19,7 +19,7 @@ i do these manifestos now, instead. eventually, as usual. [chaotically, if you w
 
 perhaps vsauce brought the best explanation of randomness.
 
-<span class="youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/9rIy0xY99a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+<span markdown="span" class="youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/9rIy0xY99a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 
 it's no coincidence he ends the video talking about "god".
 
