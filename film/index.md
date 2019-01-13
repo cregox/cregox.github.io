@@ -13,9 +13,9 @@ wait, what? is cregox also a film maker?
 
 he wished. the potential is certainly there:
 
-<span class="youtube"><iframe width="1280" height="720" src="https://www.youtube.com/embed/fxMaeJjY4jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/fxMaeJjY4jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<span class="youtube"><iframe width="1280" height="720" src="https://www.youtube.com/embed/x1rP7zmmTX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/x1rP7zmmTX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 but what's the difference between an amateur and a professional?
 
