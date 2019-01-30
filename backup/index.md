@@ -38,7 +38,7 @@ a bit more in practice, computer wise, in the past i've used a combination of 1 
 
 guess we'll have to _keep on trying_...
 
-(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: chao..[.](/ahoxus) i mean, [gratitude](https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/).
+(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: chao[.](/random).[.](/ahoxus) i mean, [gratitude](https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/).
 
 ![walking on autumn leaves](walking on autumn leaves.gif)
 
