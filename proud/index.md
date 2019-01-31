@@ -16,7 +16,7 @@ now, i do have worthy coding projects, which were fun to build (and that's about
 
 - **this very site** is all open *source*d, with the simple yet powerful jekyll and github.
 - [basiux](/basiux) contains a small neat javascript Ai I've ported from another language in about 3 days from december 2015.
-- [formigas](//scratch.mit.edu/projects/17273607/#player), another tiny game in MIT's Scratch made in about 5 days from january 2014.
+- [formigas](/formigas), another tiny game in MIT's Scratch made in about 5 days from january 2014.
 - [trefnoc](/trefnoc) is a (now disfunct) python script to convert videos in a background queue from may 2010.
 - [luckyshit](/luckyshit), very tiny game in [Unity3D](//answers.unity3d.com/users/822/cawas.html) made in about 10 hours guess when? september 2014.
 - [StackOverflow](//stackoverflow.com/story/cauerego) and [GitHub](//github.com/cauerego) profiles.
