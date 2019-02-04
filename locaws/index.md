@@ -21,16 +21,14 @@ there’s absolutely no science here this time. got a will to do this, and done.
 
 even my name. starting to write it in unison everywhere.
 
-out of respect, let’s keep your name the same way you write them or, if unknown, with the default first bigger letter.
+why even keep your name the same way you write them? rather just use uppercase when emphasis is needed. because not always can we use bold, italics or font size. and because we can!
 
-but not your city or whatever else. unless we feel like it.
+and, for no good reason, I’ll keep the “I” big. or not.
 
-and, for no good reason, I’ll keep the “I” big.
-
-this is a work in progress for a long time. and it will keep changing.
+this is a work in progress. it has been for a long time. and it will keep changing.
 
 can’t promise to hold on any of this.
 
 live with it! ;)
 
-*originally [posted on medium](https://medium.com/cregox/lower-case-writing-style-905e1d700f41) back in 2017-05-14*
+*originally [posted on medium](https://medium.com/cregox/lower-case-writing-style-905e1d700f41) back in 2017-05-14 and modified*
