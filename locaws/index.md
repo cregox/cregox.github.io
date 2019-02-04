@@ -1,14 +1,13 @@
 ---
-title: locaws
+title: lower case writing style
 layout: page
 published: true
 ---
 
-# lower case writing style
-
 or locaws. haha, so funny! not.
 
-!(neil ball)[neil ball.png]
+![neil ball](neil ball.png)
+
 <small>*[why didn’t he flinch?](https://www.youtube.com/watch?v=DVSYA1RnSMQ) randomized!*</small>
 
 why do we use a different set of letter drawings to start every sentence? isn’t the ponctuation enough to separate them? i think it is.
