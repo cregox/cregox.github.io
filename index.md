@@ -22,7 +22,7 @@ still can't find it? try going [straight to google](https://www.google.com/searc
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
-about the lower case writing style, go to [locaws](https://medium.cregox.net/lower-case-writing-style-905e1d700f41).
+about the lower case writing style, go to [locaws](/locaws).
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;
