@@ -4,9 +4,7 @@ image: cregox_finland_small.jpg
 published: true
 ---
 
-# greetings!
-
-and welcome to my acting and [producing](/film) related projects page.
+greetings, and welcome to my acting and [producing](/film) related projects page.
 
 ![myself in finland, photo by @guzforster](cregox_finland_(by_guz).jpg)
 
