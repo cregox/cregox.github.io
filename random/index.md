@@ -1,4 +1,5 @@
 ---
+title: random
 redirect_from:
   - /chaos/
   - /rnd/
