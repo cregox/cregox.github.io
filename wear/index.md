@@ -13,7 +13,7 @@ i've never thought about my style up to late february 2019.
 
 now i'll venture into a new business and career, mostly unrelated to my typical IT experience, and i need a new look.
 
-people wear "business casual", but i'll go "business wild". it must be practical.
+people wear "business casual", but i'll go "business wild". it must be practical, good quality, cheap, solid, clean and exquisite.
 
 - no hemming. ever. that's blasphemy!
 
