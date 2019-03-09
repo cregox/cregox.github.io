@@ -1,4 +1,5 @@
 ---
+title: film
 redirect_from:
   - /films/
   - /movie/
