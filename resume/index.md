@@ -9,8 +9,8 @@ published: true
 menu: true
 ---
 
-[skills self evaluation](http://s.cregox.com/skills)
+[skills self evaluation](/skills)
 
-[![resume](caue rego resume.png)](http://s.cregox.com/resume)
+[![resume](caue rego resume.png)](http://b.cregox.net/resume)
 
-[download compressed pdf](http://s.cregox.com/download-resume)
+[download compressed pdf](http://b.cregox.net/download-resume)
