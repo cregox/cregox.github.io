@@ -4,7 +4,6 @@ email: b@cregox.net
 description: get to know us a bit more
 baseurl: "" # site's subpath, e.g. /blog/
 url: https://cregox.net # the base hostname & protocol for your site
-enforce_ssl: "cregox.net"
 github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
 github_username: cauerego
