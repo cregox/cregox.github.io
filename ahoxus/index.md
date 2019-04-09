@@ -6,9 +6,10 @@ published: true
 
 **we are creating a system to induce a natural money flow into life.**
 
-[the website](//ahoxus.org) is still under construction, but it does give a teaser for a lemonade video.
+<a href="//ahoxus.org">
+![ahoxus](ahoxus_small.png)
 
-ahoxus is a small team of people led by #cregox who's greatly inspired by (in [random](/random) order): #stephendubner, #mandygresh, #stevennovella, #timurban, #ncase, #sergeybrin, #terryjones, #stevejobs, #fernandatakai, #johnlennon, #dannyrubin, #haroldramis, #gilliantans, #jimmywales and many more TK.
+ahoxus</a> is a small team of people led by #cregox. who, in turn, is inspired by (in [random](/random) order): #stephendubner, #mandygresh, #stevennovella, #timurban, #ncase, #sergeybrin, #terryjones, #stevejobs, #fernandatakai, #johnlennon, #dannyrubin, #haroldramis, #gilliantans, #jimmywales and many more TK.
 
 we value technology, spirituality, philosophy, science and, above all, [having fun](/tv).
 
