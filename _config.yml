@@ -1,7 +1,7 @@
 # Site settings
 title: cregox (caue rego)
-email: im@cregox.net
-description: get to know us a bit more
+email: help@cregox.net
+description: do worry, plus be happy
 baseurl: "" # site's subpath, e.g. /blog/
 url: https://cregox.net # the base hostname & protocol for your site
 github_url: https://github.com/cregox/cregox.github.io
