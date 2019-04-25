@@ -30,9 +30,10 @@ there's this little card game called "the mind". i won't link it here because i 
 
 the awesome [golden feather]() puzzle can better illustrate what kind of timing. or the incredible [fireflies from ncase (explorable explanations)](https://ncase.me/fireflies/). in short: synchronization.
 
+<!--
 in other words, with spoilers for the mind game,
 >! synchronization can be much improved by counting seconds.
-
+-->
 there.
 
 and, what comes first? the brain, the mind or the spirit? is spirit and mind even different things?
