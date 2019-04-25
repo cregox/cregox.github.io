@@ -18,9 +18,9 @@ now i don't do blog anymore. among many reasons, also because it has no versioni
 
 i do these manifestos now, instead. eventually, as usual. [chaotically, if you will](/ahoxus).
 
-perhaps vsauce brought the best explanation of randomness.
+perhaps [vsauce brought the best explanation of randomness ever](https://www.youtube.com/watch?v=9rIy0xY99a0&list=PLXtN19u-oGmv7rme9MVeAmrP0XjbTPYhv&index=8&t=0s).
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/9rIy0xY99a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/9rIy0xY99a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>https://www.youtube.com/watch?v=9rIy0xY99a0&list=PLXtN19u-oGmv7rme9MVeAmrP0XjbTPYhv&index=8&t=0s</iframe>
 
 it's no coincidence he ends the video talking about "god".
 
