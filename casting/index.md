@@ -1,7 +1,8 @@
 ---
 title: casting
-layout: page
+description: yes, cregox can act and produce amateur films!
 image: cregox_finland_small.jpg
+layout: page
 published: true
 ---
 

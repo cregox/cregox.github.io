@@ -1,8 +1,9 @@
 ---
-layout: default
 title: home
-published: true
+description: do worry, plus be happy, and do it!
 image: /cregox_ana_boat_thumb.jpg
+layout: default
+published: true
 ---
 
 hello!

@@ -1,4 +1,7 @@
 ---
+title: twitter unverified
+description: cregox is proudly not verified on twitter and elsewhere
+image: cregox_unverified.jpeg
 layout: page
 published: true
 ---
@@ -27,7 +30,7 @@ on a side note... posting this blog post from 2014 (below) brought to my attenti
 
 cheers.
 
-# twitter verified
+## twitter verified
 
 while searching google for "why does twitter verify accounts" i found [this interesting piece by William Shatner](http://mashable.com/2014/06/24/william-shatner-twitter-verified/).
 
