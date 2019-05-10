@@ -1,7 +1,8 @@
 # Site settings
-title: cregox (caue rego)
+title: cregox
 email: help@cregox.net
-description: do worry, plus be happy
+description: do worry, plus be happy # default, also for opengraph
+image: /cregox_ana_boat_thumb.jpg # doesn't work for anything, expected og
 baseurl: "" # site's subpath, e.g. /blog/
 url: https://cregox.net # the base hostname & protocol for your site
 github_url: https://github.com/cregox/cregox.github.io
