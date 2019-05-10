@@ -1,32 +1,37 @@
 ---
-permalink: /tv/
-layout: page
 title: fas tv
+description: (outdated) list of fun, awesome, and science items from the cregox web.
+image: community pool.gif
+redirect_from:
+  - /fun/
+  - /fastv/
+  - /fas-tv/
+layout: page
 published: true
 fastv: https://plus.google.com/collection/4Qqrb
 drive: https://drive.google.com/open?id=0B7x-Yn04UquwWEpGdFZPT0F5Nkk
 ---
 
-at some point in 2015 I thought it would be fun to try making something like [9gag tv](http://9gag.com/tv) or [iflscience](http://www.iflscience.com/team/elise-andrew/) (later on I found out about something [similar](https://www.patreon.com/lolhehehe) to my will, except I have no wish to produce anything in non-english).
+[neverthink.tv](https://neverthink.tv/code) is not quite as [random](https://neverthink.tv/random) as i'd wish, but that's almost the whole idea, right there!
 
-I ended up creating [a private category (you won't be able to see this link) in talk](https://talk.cregox.net/c/fas-tv) called "fas tv", to see how good (or bad) I could build it over some time, before publishing. had this written on its about:
+at some point in 2015 i thought it would be fun to try making something like [9gag tv](http://9gag.com/tv) or [iflscience](http://www.iflscience.com/team/elise-andrew/) (later on i found out about something [similar](https://www.patreon.com/lolhehehe) to my will, except i have no wish to produce anything in non-english).
+
+i ended up creating a "fas tv" google plus collection:
 
 > curated [f]un, [a]wesome and [s]cience items from the web. content that could show in an **adult** TV. only our very favourite ones.
 
-well, it never worked.
+well, it never worked. and google plus is now dead.
 
-I still **may** try to resurrect this project since I actually got [plenty related offline files]({{page.drive}}) I wished to share in a more interesting fashion (and probably not everything). also because (as evident from the collection below) links break. and it hurts. [me](/backup). :(
+still, i actually got [plenty related offline files]({{page.drive}}) i wish to share in a more interesting fashion (and probably not everything).
 
-although it will probably stay dead (or undead).
-
-meanwhile, I think there's a **good and fun** collection of links that came out of all this: [the google plus one]({{page.fastv}}). which I ocasionally still update. ps: the [one already mentioned in g drive]({{page.drive}}) isn't quite a "good" collection... it's just a random one. and so it's probably only fun(-ish) to me and perhaps a few other folks who may never get to see it.
+more than just about sharing links, it should also prevent them from breaking. [me hates that](/backup). :(
 
 tl;dr;
 
-here's the one result from this (yet another) failed project:
+fas tv is no more. for now. and probably forever.
 
-# [cregox fas tv on g+]({{page.fastv}})
+[let me know](/contact) if you'd like me to do something about it.
 
-[![community pool](community pool.gif)]({{page.fastv}})
+![community pool](community pool.gif)
 
 <small>_community series - almost as good as scrubs_</small>
