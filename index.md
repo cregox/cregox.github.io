@@ -5,6 +5,10 @@ published: true
 image: /cregox_ana_boat_thumb.jpg
 ---
 
+hello!
+
+please, search below for anything related to cregox that might entice you. such as "damme" or "random".
+
 <script>
   (function() {
     var cx = '010647840594061099018:ofzvp-qmvj4';
@@ -18,11 +22,11 @@ image: /cregox_ana_boat_thumb.jpg
 </script>
 <gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
 
-still can't find it? try going [straight to google](https://www.google.com/search?q=site:cregox.net+[random]).
+still can't find something in specific? try going [straight to google](https://www.google.com/search?q=site:cregox.net+[random]).
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
-about the lower case writing style, go to [locaws](/locaws).
+<small>_[(disclaimer about the lower case writing style)](/locaws)_</small>
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;
