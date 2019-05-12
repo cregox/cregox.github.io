@@ -1,13 +1,14 @@
 ---
 title: wear
+description: what i need on my first stitchfix
+image: cregox unu animated.gif
 layout: page
-image: ../casting/cregox_finland_small.jpg
 published: true
 ---
 
 please, check photos under [/casting](/casting) for now.
 
-<!-- just a code placeholder ![myself in finland, photo by @guzforster](../casting/cregox_finland_(by_guz).jpg) -->
+![cregox working at real estate]({{ page.image }})
 
 i've never thought about my style up to late february 2019.
 
