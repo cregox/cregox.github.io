@@ -8,8 +8,6 @@ published: true
 
 you might prefer to see the [portfolio](/portfolio) instead!
 
-see my [portfolio](/portfolio) instead!
-
 although i've worked writing code for most of my career, what i'm most proud of have very little to do with computers (mostly from the magical/sabbatical [2014](/2014)!):
 
 - [your home](/your-home) was an accidental bootstrap i've created and discontinued during 6 months starting october 2014. 10% of it was about coding, the rest was divided among marketing, support and managing the business.
