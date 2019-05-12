@@ -10,7 +10,7 @@ twitter_username: cauerego
 github_username: cauerego
 google_analytics: UA-4687862-8 # placed on head include
 
-# widely used external links
+# (hopefuly) widely used external links
 a:
   caue:
     casting: https://b.cregox.net/caue-casting
@@ -20,16 +20,6 @@ a:
   eta: http://www.estudiodetreinamento.com.br/
   abaixatampa: http://abaixatampa.wordpress.com/
   damme: http://youtu.be/fxMaeJjY4jk
-  cregox:
-    wiki:
-      game: https://en.wikipedia.org/wiki/User:Cregox/-%3F_wiki%3F
-      old:
-        user: https://en.wikipedia.org/w/index.php?title=User:Cregox&oldid=220362058
-    quora:
-      sandra: https://www.quora.com/What-kind-of-hobbies-do-highly-intelligent-i-e-those-with-intelligence-levels-beyond-the-exceptional-people-have/answer/Caue-Rego?srid=ptsW
-    github:
-      wiki:
-        novel: https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel
 
 defaults:
   -
