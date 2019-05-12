@@ -1,16 +1,18 @@
 ---
-permalink: /resume/
+title: resume
+description: (see portfolio instead!) cregox's curriculum vitae or resume
+image: caue rego resume.png
 redirect_from:
   - /curriculum/
   - /cv/
 layout: page
-title: resume
 published: true
-menu: true
 ---
 
-[skills self evaluation](/skills)
+this is cute and all, but you might want to see the [portfolio](/portfolio) instead!
 
-[![resume](caue rego resume.png)](http://b.cregox.net/resume)
+[skills self evaluation]({{ site.a.skills }})
+
+[![resume]({{ page.image }})](http://b.cregox.net/resume)
 
 [download compressed pdf](http://b.cregox.net/download-resume)
