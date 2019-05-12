@@ -14,12 +14,14 @@ google_analytics: UA-4687862-8 # placed on head include
 a:
   caue:
     casting: https://b.cregox.net/caue-casting
+    github: https://github.com/cauerego
   skills: https://b.cregox.net/skills
   youtube: https://www.youtube.com/c/cauerego
   instagram: https://www.instagram.com/cregox/
   eta: http://www.estudiodetreinamento.com.br/
   abaixatampa: http://abaixatampa.wordpress.com/
   damme: http://youtu.be/fxMaeJjY4jk
+  stackoverflow: http://stackoverflow.com/story/cauerego
 
 defaults:
   -
