@@ -7,7 +7,7 @@ redirect_from:
   - /special-thanks/
 layout: page
 published: true
-menu: false
+menu: true
 ---
 
 how to touch people? you know, deep inside. the right way.
