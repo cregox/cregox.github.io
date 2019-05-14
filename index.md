@@ -1,7 +1,7 @@
 ---
 title: home
-description: do worry, plus be happy, and do it!
-image: /cregox_ana_boat_thumb.jpg
+description: do worry, plus be happy... and do it!
+image: cregox avatar.jpg
 layout: default
 published: true
 ---
