@@ -26,7 +26,7 @@ perhaps you'll want to [get in touch](/contact) and give us some feedback as wel
 </details>
 
 <details>
-  <summary markdown="span">[revolut](https://revolut.com/cauedbqm) is nice as well.</summary>
+  <summary markdown="span">[revolut](https://revolut.com/r/cauedbqm) is nice as well.</summary>
   
   send money to [contact](/contact): <b>+1 732 7377346</b> or <b>caue.rego@gmail.com</b>
   
