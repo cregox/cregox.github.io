@@ -1,6 +1,7 @@
 ---
 title: thanks
 description: because yes, we should all practice more gratitude. and help each other.
+image: leiria flower.jpg
 redirect_from:
   - /touch/
   - /thank/
@@ -9,6 +10,8 @@ layout: page
 published: true
 menu: true
 ---
+
+![gratitude in the small things](moving leiria flower.gif)
 
 how to touch people? you know, deep inside. the right way.
 
