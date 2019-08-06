@@ -5,4 +5,4 @@ published: true
 ---
 
 to schedule some loving time with the red one,
-go to https://doodle.com/cregox
+go to [the doodle](https://doodle.com/cregox)
