@@ -26,4 +26,4 @@ born "caue rego" (plus more names) and turned into web "cregox", i'm just a [ran
 - [some photos](/caue-casting) for [casting](/casting), lol. if you enjoy feeling ashamed for other people.
 - [homemade]({{ site.a.youtube }}) [videos](/videos) are 2 links where you can find more shameless trash i've recorded in motion.
 - [i advise against building resumes](/resume). this one was even fun to create and maintain, but never gave me anything. because resumes don't bring work! networking and profiles meant to [help](/thanks) others, do.
-- [ahoxus](/ahoxus) is my newest thing (may 2019). we now buy and sell houses. and we will be able to get you up to a 0 fee. starting in portugal.
+- [ahoxus](/ahoxus) is my newest thing (may 2019). it's a morphing project about life, still looking for its shape.
