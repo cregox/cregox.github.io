@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cregox.net
+Token: 0411c20a3ccad6930a81cfe7cf8f618beb8bbd539c87756526be19e5fc704cd7
