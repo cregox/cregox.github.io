@@ -9,6 +9,7 @@ github_url: https://github.com/cregox/cregox.github.io
 twitter_username: cauerego
 github_username: cauerego
 google_analytics: UA-4687862-8 # placed on head include
+include: [".well-known"]
 
 # (hopefuly) widely used external links
 a:
