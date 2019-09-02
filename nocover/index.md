@@ -1,13 +1,17 @@
 ---
-layout: page
 title: no cover
+redirect_from:
+  - /cover/
+  - /letter/
+  - /coverletter/
+layout: page
 published: true
 ---
 
 i hate cover letters. and you should too. here's why.
 
-keep in mind, this is no blog post. and i couldn't quickily fine one.
-so i'll collect a many links here and keep the text to as short as i can.
+keep in mind, this is no blog post. and i couldn't quickily find one.
+so i'll collect many links here and keep it as short as i can.
 
 # job vacancies are overestimated
 
@@ -25,21 +29,22 @@ that's really what the resume should be all about... if we stop grinding.
 
 then again, this is the hardest path. it's so much easier to go with haseeb's excelent guides, as already mentioned.
 yes, we still have to count on luck... but not really.
-if we keep on going and insisting, with so much demand we're deemed to find something.
-thus, cover letters.
+if we keep on going and insisting, given there's so much demand for "talents", we're destined to find something.
+thus, cover letters?!
 
 fuck that.
 
 # then what?
 
-portfolio. of one's life. and i've got plenty of it, as instance. just [hit home](/) and google me up, with the customized engine there.
+portfolio. of one's life. and yes, i've got plenty of it. take it as an instance for you, if you will. am i putting myself as an example or trying to justify my past? please, be my judge.
+just [hit home](/) and google me up, with the customized engine there.
 
 [get to know yourself](https://waitbutwhy.com/2018/04/picking-career.html). [deeply](https://trello.com/b/HmA5nlx6/self-knowledge).
 
 that's a lot of what [ahoxus](/ahoxus) is all about, but that's a spin off topic...
 
 the main take away is to do everything you can, daily, to chase your dreams. regardless of life. because of life.
-it is beautiful, after all. [enjoy](/tv).
+it is beautiful, after all. [enjoy](/tv). [act](film) (in the sense of making an action, or doing it, or moving)!
 
 <small>PS: and do yourself a favor, write your own generic cover letter, inside your own portfolio, to link it everytime you feel the urge to apply to a vacancy for any reason.
 it can save us a lot of time!</small>
