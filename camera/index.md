@@ -5,7 +5,7 @@ published: false
 
 this is basically a [very good checklist](/checklist) for what a perfect camera app would look like, for me (and hopefully some inspired developer). and not the first [version](https://cregox.net/talk/t/digressing-about-a-hypothetical-point-and-shoot-to-end-all-point-and-shoots/7647/3ba8f.html?u=cregox).
 
-most of it was adapted from that 2015 post linked above, about point and shoot, before black mirror i think.
+most of it was adapted from that 2015 post linked above, about point and shoot, before black mirror's grain i think (oops).
 
 # nice
 - panorama. google camera is probably the best one for this, on android. yes, the iPhone is still generally better, somehow.
