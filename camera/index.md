@@ -52,4 +52,4 @@ do notice none of the essentials add anything to the GUI. they're all "hidden" f
 
 i'd go as far as to say that ideally it would video record the whole moment you have a camera on, and create auto generated thumbnails out of best moments around the few seconds you'd press the shutter button, while still keeping the video later on in case you want to and it isn't garbage. sadly the narrative clip 2 didn't manage to do this. nor anyone else since.
 
-oh... and google camera should be open source! can you, dear googler who just read all this, help with this quest? it'd make [things](https://www.celsoazevedo.com/files/android/google-camera/how-to/) so much better, thanks!
+oh... and google camera should [be open source](/oss)! can you, dear googler who just read all this, help with this quest? it'd make [things](https://www.celsoazevedo.com/files/android/google-camera/how-to/) so much better, thanks!
