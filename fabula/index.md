@@ -35,7 +35,7 @@ the sun shines over the earth.
 
 a spiderman drawing in a computer. and superman.
 
-the grown up unnamed kid is now playing world of warcraft. a computer game, played online by thousands of people at the same time, fighting mostly against computer medieval magical monsters.
+the now grown up One kid is playing world of warcraft. a computer game, played online by thousands of people at the same time, fighting mostly against computer medieval magical monsters.
 
 beside another virgin grown up. both silently.
 
