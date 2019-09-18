@@ -85,8 +85,5 @@ grey crayon.
 
 someone’s driving. alone. for a long time. in the city. in the mountains. traveling. going to work. basically no laughing. sometimes practicing singing.
 
-one note turns into orgastic moaning. now in a bed. two more attractive people, dressed in black, are doing tantra massage to One (who always looks very different, a different person even, but clearly the same soul). it’s no big deal, but there is some learning of new techniques that increasingly improve the sex performance, such as the moaning.
-
-the Other One is outside of the room. working. trying to ignore One’s sexual activities.
-
+one note turns into orgastic moaning. now in a bed. two more attractive people, dressed in black, are doing tantra massage to One (who always looks very different, a different person even, but clearly the same soul). it’s no big deal, but there is some learning of new techniques that increasingly improve the sex performance, such as the moaning. still remarkable!
 TK world needs harmony, even if all each one of us need is love. and what balance means, yin yang? reality needs it? dunbar number, big numbers, randomness etc.
