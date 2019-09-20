@@ -31,7 +31,8 @@ ahoxus: https://ahoxus.org
 #mairasardao
 "many more [TK](/tk)"
 </span>
-<script src="/core/random.js" async></script>
+{% include random_js.html %}
+<!--script src="/core/random.js" async></script-->
 
 we value technology, spirituality, philosophy, science and, somewhat above all, [having fun](/tv).
 
