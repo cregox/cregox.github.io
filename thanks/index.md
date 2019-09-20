@@ -25,7 +25,7 @@ this is my never ending, and always in need of update, list of people i'm thankf
 
 _(means their touch might work on you to.)_ ;)
 
-in [random](/random) order. whenever we reload this page, they'll appear in a different order. or just <a href="javascript:shuffle()">touch here</a>.
+in [random](/random) order. <a href="javascript:shuffle()">truly</a>.
 
 <span id="random">
 sandraclark
