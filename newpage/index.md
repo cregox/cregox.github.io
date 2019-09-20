@@ -13,11 +13,13 @@ menu: false
 
 yes, you can help to build cregox and learn some coding in the process!
 
+there are basically 3 options:
+
 - give [feedback or suggest something](/feedback) (even a new page, and give us [work](/pay)) by [**contacting us**](/contact). beware that it might take more time to become alive.
 
 - do some work yourself (along with lots of learning): use [**GitHub and make a Pull Request**](https://help.github.com/articles/creating-new-files/).
 
-- create a new file:
+- creating a new file (start in the line below)!
 
 <details>
 <summary markdown="span">learn markdown (optional)</summary>
