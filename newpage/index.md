@@ -1,22 +1,30 @@
 ---
+title: suggest a new page
+description: help to build cregox!
+image: building.jpg
+permalink: /newpage/
+redirect_from:
+  - /build/
+  - /suggest/
 layout: page
-title: new page
 published: true
+menu: false
 ---
 
-probably the easiest way (for *you*) to **suggest a new page** is by [contacting us](/contact). but that might take a while...
+yes, you can help to build cregox and learn some coding in the process!
 
-if you want to give more details or actually do some work (along with learning), you could instead use [GitHub and make a Pull Request](https://help.github.com/articles/creating-new-files/).
+- give [feedback or suggest something](/feedback) (even a new page, and give us [work](/pay)) by [**contacting us**](/contact). beware that it might take more time to become alive.
 
-actually...
+- do some work yourself (along with lots of learning): use [**GitHub and make a Pull Request**](https://help.github.com/articles/creating-new-files/).
 
-it's even **simpler** than *that*!
+- create a new file:
 
-you can skip straight to the last step/item, on the big link below, to create a new file:
+<details>
+<summary markdown="span">learn markdown (optional)</summary>
 
-# learn markdown (optional)
 - learn a little of [github markdown](https://guides.github.com/features/mastering-markdown/) (if you want to actually format your contribution), or;
 - see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage/index.md) (click on the [raw] button, ignore the script part), then...
+</details>
 
 # [**create a new file**](https://github.com/cregox/cregox.github.io/new/master/[jesus])
 (you'll need to login or create an account)
@@ -27,15 +35,30 @@ that's all. write right there everything you think there should be on this page!
 <summary markdown="span">however, it'd be really nice if you can also do the following (open here):</summary>
 
 - name it `index.md`;
-- add this front matter to the top, replace the title for whatever you want, or remove it: 
+- add this front matter to the top, replace the title for whatever you want, or just remove the whole line: 
 
 ```
 ---
+title: *literally write here whatever you want*
 layout: page
-title: whatever you like
 published: false
 ---
+```
 
+- (optional) advanced front matter (also what we use, mostly). yes, you can even upload an image, but we won't tell you here how (yet):
+
+```
+---
+title: could be anything
+description: this is good for opengraph
+image: spaces allowed.jpg
+permalink: /anything/
+redirect_from:
+  - /could/
+  - /be/
+layout: page
+published: true
+---
 ```
 
 - again, optional, but try styling it up with markdown!
@@ -77,9 +100,9 @@ if you'd like to quote someone, use the > character before the line:
 
 </details>
 
-even just **creating the file** and writing your suggestion in plain text is already simple enough (other than needing to login) and much better than trying any other contact form! please try that first. :D
+even just **creating the file** and writing your suggestion in plain text is already simple enough (other than needing to login) and much better than trying any other contacting form! please try that first. :D
 
-perhaps *somewhere* in the future we will replace this process with something even simpler...
+we do wish to, in the future, replace this process with something even simpler... but don't hold your sweat on it.
 
 meanwhile, <br>
 **thanks** for your willingness to help! :)
