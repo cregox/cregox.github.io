@@ -9,8 +9,29 @@ ahoxus: https://ahoxus.org
 
 [![ahoxus](ahoxus_small.png)]({{ page.ahoxus }})
 
-[ahoxus]({{ page.ahoxus }}) is a small team of people inspired by (in [random](/random) order): #stephendubner, #mandygresh, #stevennovella, #timurban, #ncase, #sergeybrin, #terryjones, #stevejobs, #fernandatakai, #johnlennon, #dannyrubin, #haroldramis, #gilliantans, #jimmywales, #cregox, #sandraclark, #mairasardao and many more TK.
+[ahoxus]({{ page.ahoxus }}) is a small team of people inspired by (in [random](/random) order, <a href="javascript:shuffle()">truly</a>):
 
-we value technology, spirituality, philosophy, science and, above all, [having fun](/tv).
+<span id="random">
+#stephendubner
+#mandygresh
+#stevennovella
+#timurban
+#ncase
+#sergeybrin
+#terryjones
+#stevejobs
+#fernandatakai
+#johnlennon
+#dannyrubin
+#haroldramis
+#gilliantans
+#jimmywales
+#cregox
+#sandraclark
+#mairasardao
+"many more [TK](/tk)"
+</span>
+
+we value technology, spirituality, philosophy, science and, somewhat above all, [having fun](/tv).
 
 <small>*transparency is better offered in layers.*</small>
