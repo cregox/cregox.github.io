@@ -8,8 +8,11 @@ layout: page
 published: true
 ---
 
+below is "truly" random.
+
 <small>looking for the first [cregox/random](/lucky)?</small>
 
+<span>
 [what is random?](http://cregox.net/talk/t/differences-between-free-will-randomness-and-or-determinism/7804.html)
 
 i tried to blog about it many times, as you may be able to read from that link.
@@ -31,3 +34,6 @@ because once we become smart enough (and this happens every second both for the 
 with that in mind, let us hail [a flying spaghetti monster](https://www.venganza.org/). or whatever.
 
 ![fsm](https://www.venganza.org/wp-content/uploads/2018/12/card8.jpg)
+</span>
+
+{% include random_js.html %}
