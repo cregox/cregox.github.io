@@ -4,6 +4,7 @@ description: this is good for opengraph
 image: wtf.jpg
 permalink: /tk/
 redirect_from:
+  - /TK/
   - /come/
   - /writing/
 layout: page
