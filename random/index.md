@@ -37,7 +37,7 @@ randomness is basically patterns we can't recognize. in other words, a sort of i
 
 because once we become smart enough (and this happens every second both for the individual and the collective) we learn more about new patterns that were unrecognizable before.
 
-<!--/span-+>
+<!--/span-->
 
 with that in mind, let us hail [a flying spaghetti monster](https://www.venganza.org/). or whatever.
 
