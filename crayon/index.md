@@ -10,7 +10,7 @@ layout: page
 published: true
 ---
 
-this is a [big draft](https://medium.com/p/3723dd82f169/edit) of a [real story](/story) about nothing. lots of [TK](/TK) because it'll still change a lot. take 4 minutes and enjoy!
+this is a [big draft](https://medium.com/@e339ab942529/3723dd82f169?sk=) of a [real story](/story) about nothing. lots of [TK](/TK) because it'll still change a lot. take 4 minutes and enjoy!
 
 ---
 
