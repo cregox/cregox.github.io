@@ -120,7 +120,10 @@ function getParameterByName (name, result, url) {
     if (!results || !results[2]) return result
     return decodeURIComponent(results[2].replace(/\+/g, " "))
 }
-document.querySelectorAll('a[href*="[jesus]"]').forEach(function (item) {
-    item.href = item.href.replace('[jesus]', getParameterByName('a', 'dummy-newpage'))
+jesus = getParameterByName('a', 'dummy-newpage')
+document.querySelectorAll('a[href*="#jesus"]').forEach(function(item){
+    item.href = item.href.replace('#jesus', jesus)
 })
+item = document.body
+item.innerHTML = item.innerHTML.replace('#jesus', jesus)
 </script>
