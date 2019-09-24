@@ -9,6 +9,8 @@ layout: page
 published: true
 ---
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/MIhyxHgLWes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 "what's [ahoxus](/ahoxus)?" one might ask.
 
 it's a project about improving life. it goes through a farm, an eco village, a community, a tribe.
@@ -22,5 +24,3 @@ and this page is a draft. [TK](/tk)
 from the title to the video, i'm not sure what form it'll take. for now, it's mostly a place holder for the video i promised to share with [CO project farm](https://www.coproject.co/volunteer)
 
 please, enjoy!
-
-**soon**
