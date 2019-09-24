@@ -41,6 +41,6 @@ reality isn't made to be filled with justice. and it's actually already perfectl
 
 take what's good for you and moved on.
 
-capitalism is the accumulation of money. and there's a balance to it. my number to the world today is "14k income, at most". dig into tamera, live a humble life style, and try to understand why. i bet you'll be much happier.
+capitalism is the accumulation of money. and there's a balance to it. my number to the world today is "14k income, at most". dig into [tamera](/tamera), live a humble life style, and try to understand why. i bet you'll be much happier.
 
 cheers!
