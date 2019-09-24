@@ -11,7 +11,7 @@ published: true
 menu: true
 ---
 
-<small>looking for the manifesto about [capitalism](/capitalism)?</small>
+<small>*looking for the manifesto about [capitalism](/capitalism)?*</small>
 
 [thank you so much](/thanks) for your will to invest in cregox! this helps supporting all our free work.
 
