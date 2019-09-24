@@ -28,7 +28,7 @@ there are basically 3 options:
 - see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage/index.md) (click on the [raw] button, ignore the script part), then...
 </details>
 
-# [**create a new file**](https://github.com/cregox/cregox.github.io/new/master/[jesus])
+# [**create a new file "#jesus"**](https://github.com/cregox/cregox.github.io/new/master/[jesus])
 (you'll need to login or create an account)
 
 that's all. write right there everything you think there should be on this page! :)
