@@ -22,9 +22,9 @@ many times.
 
 perhaps the first one i wanted to call myself Gabriel, just because i was in love with the number 7, it has 7 letters and starts with the 7th letter from the alphabet. but i was never really serious about it.
 
-https://www.slant.co/users/cregox
+[in retrospect](https://www.slant.co/users/cregox) (or is it hindsight?), caue rego was born in 1981, reborn in 2005 as cregox and in 2009 as a private maica. now for a kind of prediction, perhaps 2019 will be known as the [ahoxus](/ahoxus) rebirth mark!
 
-now i am.
+so yeah, now i am very serious about this name changing thing.
 
 and i want a very logical and creative name. easy to spell in English and Portuguese. that i'll put in my documents. single and unique.
 
