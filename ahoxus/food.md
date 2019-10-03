@@ -1,5 +1,5 @@
 ---
-title: food
+title: ahoxus > food
 description: are you really hungry?
 image: hunger.jpg
 permalink: /ahoxus/food/
@@ -11,7 +11,7 @@ layout: page
 published: true
 ---
 
-mind over body.
+mind over body?
 
 food is definitely necessary for life. but just how much? and how many people are really dying of starvation today?
 
