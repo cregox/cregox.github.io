@@ -2,8 +2,9 @@
 title: food
 description: are you really hungry?
 image: hunger.jpg
-permalink: /food/
+permalink: /ahoxus/food/
 redirect_from:
+  - /food/
   - /hunger/
   - /mind/
 layout: page
