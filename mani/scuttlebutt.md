@@ -4,7 +4,7 @@ description: it's not social media
 image: public toilet.jpg
 permalink: /scuttlebutt/
 redirect_from:
-  - /manniverse/
+  - /manyverse/
   - /facebook/
 layout: page
 published: true
@@ -22,4 +22,4 @@ just want to say what's so different about it: [**backup**](/backup). yes, it's 
 
 in this sense, it's much better concerned about [privacy](/privacy) than even emails! it's still far from being as functional as it should, but at least the theory and ideas are sound. well done.
 
-and i want to give you my profile link here. perhaps it'll work properly one day. TK
+[let me know](/contact) if you want to connect with me there! it might be fun. 😁
