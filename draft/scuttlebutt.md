@@ -6,7 +6,7 @@ permalink: /scuttlebutt/
 redirect_from:
   - /manyverse/
   - /facebook/
-layout: page
+layout: draft
 published: true
 ---
 
