@@ -7,7 +7,7 @@ redirect_from:
   - /nuts/
   - /insane/
   - /normal/
-layout: page
+layout: draft
 published: true
 ---
 
