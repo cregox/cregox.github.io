@@ -6,7 +6,7 @@ permalink: /crayon/
 redirect_from:
   - /could/
   - /be/
-layout: page
+layout: draft
 published: true
 ---
 
