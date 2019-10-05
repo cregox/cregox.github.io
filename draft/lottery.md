@@ -11,6 +11,8 @@ layout: page
 published: true
 ---
 
+# how would a humane lottery look like
+
 it would try as best as possible to evoke the players luck. and be very upfront about it.
 
 it would also try to bring on more winners, so smaller prizes, with much bigger chances. meaning that if you play for long enough, you'll win, eventually. and, if after a while you don't win, at least you get most of your money back. perhaps even a bit more. some sort of savings with benefits.
