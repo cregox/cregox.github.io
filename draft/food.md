@@ -7,7 +7,7 @@ redirect_from:
   - /food/
   - /hunger/
   - /mind/
-layout: page
+layout: draft
 published: true
 ---
 
