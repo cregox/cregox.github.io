@@ -8,7 +8,7 @@ redirect_from:
   - /freedom/
   - /forgotten/
   - /data/
-layout: page
+layout: draft
 published: true
 ---
 
