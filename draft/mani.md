@@ -6,7 +6,7 @@ permalink: /mani/
 redirect_from:
   - /manifesto/
   - /newblog/
-layout: page
+layout: draft
 published: true
 ---
 
