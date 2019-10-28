@@ -12,6 +12,8 @@ published: true
 
 [TK](/tk)
 
-meanwhile, please try to enjoy [casting](/casting) or [fastv](/tv).
+![me](cregox_finland_small.jpg)
+
+meanwhile, for more, please try to enjoy [casting](/casting) or [fastv](/tv).
 
 sorry and cheers! 😁
