@@ -8,6 +8,7 @@ redirect_from:
   - /chaosup/
 layout: page
 published: true
+ahoxus: https://ahoxus.org
 ---
 
 **we are creating systems to improve life.**
