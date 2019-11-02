@@ -2,7 +2,7 @@
 title: pixel 3
 description: my worst purchase ever
 image: pixel3.jpg
-permalink: /tk/
+permalink: /pixel3/
 redirect_from:
   - /argh/
   - /evil/
@@ -10,7 +10,7 @@ layout: page
 published: false
 ---
 
-originally posted on [reddit]().
+originally posted on [reddit](https://www.reddit.com/r/ProjectFi/comments/ayz6o5/comment/encpau1).
 
 # how my $999 loss to pixel 3 google fi stupid promo might teach you something about their store
 
