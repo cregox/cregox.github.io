@@ -2,6 +2,7 @@
 title: invest
 description: show us our money!
 image: piracicaba water flow.jpg
+permalink: /pay/
 redirect_from:
   - /cash/
   - /money/
@@ -33,6 +34,14 @@ perhaps you'll want to [get in touch](/contact) and give us some feedback as wel
   send money to [contact](/contact): <b>+1 732 7377346</b> or <b>caue.rego@gmail.com</b>
   
   [why (and what is) revolut?](https://char.gd/blog/2018/the-best-of-europes-startup-banks-compared)
+</details>
+
+<details>
+  <summary markdown="span">[activobank](https://activobank.pt) for old farts, using swift.</summary>
+  
+  ACTVPTPL
+  
+  PT50-0023-0000-45471423515-94
 </details>
 
 <details>
