@@ -1,19 +1,26 @@
 ---
-title: lottery
-description: how would a humane lottery look like
+title: caxanga game
+description: how to earn money while playing with "randomness"?
 image: money.jpg
-permalink: /lottery/
+permalink: /caxanga/
 redirect_from:
+  - /lottery/
   - /humane/
-  - /money/
+  - /money/0
   - /finance/
-layout: page
+layout: draft
 published: true
 ---
 
-# how would a humane lottery look like
+# how to earn money while playing with "randomness"?
 
-it would try as best as possible to evoke the players luck. and be very upfront about it.
+first of all, full transparency and using bitcoins!
+
+caxanga is originally a name from a song.
+
+it's now also a name for a game and a healing event, by ahoxus.
+
+# TK previous lottery idea
 
 it would also try to bring on more winners, so smaller prizes, with much bigger chances. meaning that if you play for long enough, you'll win, eventually. and, if after a while you don't win, at least you get most of your money back. perhaps even a bit more. some sort of savings with benefits.
 
