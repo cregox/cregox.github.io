@@ -6,7 +6,7 @@ permalink: /aueoiae/
 redirect_from:
   - /aue/
   - /oiae/
-layout: page
+layout: draft
 published: true
 ---
 
@@ -34,9 +34,9 @@ but also to call people for doing the same. think about you. who you are. who yo
 
 at the same time, i don't want to rush it. so, for now, it's still on the idea stage.
 
-i like **aueoiae**, but i still need to do the math to see if everyone could have a 7 letters name (intuitively i think 10000000 is big enough and small enough as to encompass good spelling combinations) and to know if this is even actually a good enough spelling. that people can get it easily, was per my goal.
+for instance, i like **aueoiae**, but i still need to know if this is a good enough spelling. that people can get it easily, as per my goal.
 
-i also want it to signify nothing that exists, to be completely new. not everyone will want this, at all. but i'm pretty positive it's my case.
+i also want it to signify nothing that exists, to be completely new. not everyone will want this, at all (probably most people won't ever bother anyway). meanwhile, i'm pretty positive it's my case. i [really want](/reality) a new name. but which one?
 
 we'll see. i'll probably update this soon enough!
 
