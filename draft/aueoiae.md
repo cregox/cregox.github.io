@@ -1,5 +1,5 @@
 ---
-title: aueoiae
+title: aue oiae
 description: cregox's new name candidate
 image: aueoiae.jpg
 permalink: /aueoiae/
