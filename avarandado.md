@@ -6,7 +6,7 @@ permalink: /avarandado/
 redirect_from:
   - /beach/
   - /house/
-layout: page
+layout: draft
 published: true
 ---
 
