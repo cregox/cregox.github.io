@@ -2,6 +2,7 @@
 title: fas tv
 description: (outdated) list of fun, awesome, and science items from the cregox web.
 image: community pool.gif
+permalink: /tv/
 redirect_from:
   - /fun/
   - /fastv/
@@ -28,10 +29,10 @@ more than just about sharing links, it should also prevent them from breaking. [
 
 tl;dr;
 
-fas tv is no more. for now. and probably forever.
+fas tv is no more. for now. and perhaps forever!
 
 [let me know](/contact) if you'd like me to do something about it.
 
-![community pool](community pool.gif)
+[![community pool](community pool.gif)](https://photos.app.goo.gl/TX8Zyo3Yk4PDihWHA)
 
 <small>_community series - almost as good as scrubs_</small>
