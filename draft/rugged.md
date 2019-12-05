@@ -18,7 +18,7 @@ just read somewhere that pixel book and samsung are scored among the best in a d
 
 first, yeah, i don't keep dropping laptops to test them irl. but i did drop my rugged asus many times and it did last solid. plus, i did use it on construction sites, with dust, and it was once again solid. that test forgets these aspects, apparently, for some reason. plus it's still much cheaper, i guess...
 
-not to mention google warranty sucks balls globally, google store is completely evil as i've already shared my $999 stolen story, and samsung is, and will always be, a mediocre company with mediocre products, exactly the chinese version of microsoft. i will never buy or support them in any way. i've probably wrote more about why, already.
+not to mention [google warranty sucks balls globally](/google), [google store is completely evil as i've already shared my $999 stolen story](/free999), and samsung is, and will always be, a mediocre company with mediocre products, exactly [the chinese version of microsoft](/microsoft). i will never buy or support them in any way. i've probably wrote more about why, already.
 
 rugged, to me, means resilient. it's not just to some unreliable unfocused drop test, but to everything. what's the point of a caterpillar phone with an outdated os which will quickly be disfuncional? sadly, computers, especially cell phones, have a short life time anyway. we need either a better life cycle for them, which includes taking care of the dead, rather than zombies that have their body alive but no soul or brains anymore.
 
