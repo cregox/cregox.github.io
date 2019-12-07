@@ -10,6 +10,7 @@ redirect_from:
 layout: page
 published: true
 menu: true
+iban: https://www.iban.com/glossary
 ---
 
 <small>*looking for the manifesto about [capitalism](/capitalism)?*</small>
@@ -33,7 +34,13 @@ perhaps you'll want to [get in touch](/contact) and give us some feedback as wel
 <details>
   <summary markdown="span">**revolut** works fine.</summary>
   
-  using you [revolut account](https://revolut.com/r/cauedbqm) send money to [contact](/contact): <b>+1 732 7377346</b> or <b>caue.rego@gmail.com</b>
+  using your [revolut account](https://revolut.com/r/cauedbqm) send money to [contact](/contact): <b>+1 732 7377346</b> or <b>caue.rego@gmail.com</b>
+
+  you can also send it through [iban, bic, sepa and swift]({{ page.iban }}):
+
+  REVOGB21
+
+  GB10 REVO 0099 7007 1522 88
   
   [why (and what is) revolut?](https://char.gd/blog/2018/the-best-of-europes-startup-banks-compared)
 </details>
@@ -41,7 +48,7 @@ perhaps you'll want to [get in touch](/contact) and give us some feedback as wel
 <details>
   <summary markdown="span">**activobank** for old farts, using **iban**.</summary>
   
-  [activobank](https://activobank.pt) is by far the best portuguese bank, for remote and online operations around [bic, sepa and swift](https://www.iban.com/glossary).
+  [activobank](https://activobank.pt) is by far the best portuguese bank, for remote and online operations around [bic, sepa and swift]({{ page.iban }}).
   
   ACTVPTPL
   
