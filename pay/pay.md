@@ -19,9 +19,21 @@ iban: https://www.iban.com/glossary
 
 perhaps you'll want to [get in touch](/contact) and give us some feedback as well.
 
+as of today (dec 2019), there's no silver bullet way to send money to someone over the web:
+
 <details>
-  <summary markdown="span">for now (nov 2019) **bitcoin** is the ideal mean.</summary>
+  <summary markdown="span">perhaps the easiest way for you today is **transfer wise**.</summary>
   
+  although they actually make it much harder on me, because they offer way too many options and apparently no central way to deal with them. i could literally create an account and get [bank information for a direct deposit in 6 different currencies](https://transferwise.com/gb/borderless/card) but it's probably best for you to just open an account there... yes this may look like it's harder, but if you haven't done any other way before, just go and try all other options and you'll see.
+
+  [referral link](https://transferwise.com/invite/a/cauer11) to create an account there and [get a discount on your first transfer](https://transferwise.com/help/21/inviting-friends/2566789/how-does-a-free-transfer-work). 
+</details>
+
+<details>
+  <summary markdown="span">for now **bitcoin** is the general ideal mean for me.</summary>
+  
+  it's no piece of cake though, sadly. it's ideal because it's by far the lowest tax and it's as close to direct transaction as computer money will ever get.
+
   in case you might be wondering, we use [blockchain.info luxembourg](https://www.blockchain.com/wallet).
   
   ![blockchain](blockchain.info wallet 1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT.png)
