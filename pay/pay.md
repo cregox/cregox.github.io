@@ -24,9 +24,9 @@ as of today (dec 2019), there's no silver bullet way to send money to someone ov
 <details>
   <summary markdown="span">perhaps the easiest way for you today is **transfer wise**.</summary>
   
-  although they actually make it much harder on me, because they offer way too many options and apparently no central way to deal with them. i could literally create an account and get [bank information for a direct deposit in 6 different currencies](https://transferwise.com/gb/borderless/card) but it's probably best for you to just open an account there... yes this may look like it's harder, but if you haven't done any other way before, just go and try all other options and you'll see.
+  <small>disclaimer: although they actually make it much harder on me, because they offer way too many options and apparently no central way to deal with them. i could literally create an account and get [bank information for a direct deposit in 6 different currencies](https://transferwise.com/gb/borderless/card) but it's probably best for you to just open an account there... yes this may look like it's harder, but if you haven't done any other way before, just go and try all other options and you'll see.</small>
 
-  [referral link](https://transferwise.com/invite/a/cauer11) to create an account there and [get a discount on your first transfer](https://transferwise.com/help/21/inviting-friends/2566789/how-does-a-free-transfer-work). 
+  [**referral link**](https://transferwise.com/invite/a/cauer11) to create an account there and [get a discount on your first transfer](https://transferwise.com/help/21/inviting-friends/2566789/how-does-a-free-transfer-work). please, send it to caue.rego@gmail.com and _choose one **iban**_ below.
 </details>
 
 <details>
