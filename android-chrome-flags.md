@@ -17,57 +17,68 @@ also trying to keep an [updated wiki](https://en.m.wikipedia.org/wiki/Talk:Googl
 
    chrome://flags/
 
-Contextual Search definitions
-Enables tap-activated contextual definitions of words on a page to be presented in the caption of the Tap to Search Bar. – Android
+- Contextual Search definitions
 
-[#contextual-search-definitions](chrome://flags/#contextual-search-definitions)
+  Enables tap-activated contextual definitions of words on a page to be presented in the caption of the Tap to Search Bar. – Android
 
-Contextual Search ML tap suppression
-Enables tap gestures to be suppressed to improve CTR by applying machine learning. The "Contextual Search Ranker prediction" flag must also be enabled! – Android
+  #contextual-search-definitions
 
-#contextual-search-ml-tap-suppression
+- Contextual Search ML tap suppression
 
-Contextual Search Ranker prediction
-Enables prediction of tap gestures using Assist-Ranker machine learning. – Android
+  Enables tap gestures to be suppressed to improve CTR by applying machine learning. The "Contextual Search Ranker prediction" flag must also be enabled! – Android
 
-#contextual-search-ranker-query
+  #contextual-search-ml-tap-suppression
 
-Contextual Search second tap triggering
-Enables triggering on a second tap gesture even when Ranker would normally suppress that tap. – Android
+- Contextual Search Ranker prediction
 
-#contextual-search-second-tap
+  Enables prediction of tap gestures using Assist-Ranker machine learning. – Android
 
-Overscroll history navigation
-History navigation in response to horizontal overscroll. – Windows, Linux, Chrome OS, Android
+  #contextual-search-ranker-query
 
-#overscroll-history-navigation
+- Contextual Search second tap triggering
 
-Chrome Duet
-Enables Chrome Duet, split toolbar Chrome Home, on Android. – Android
+  Enables triggering on a second tap gesture even when Ranker would normally suppress that tap. – Android
 
-#enable-chrome-duet
+  #contextual-search-second-tap
 
-Enable Autofill refresh style (Android)
-Enable modernized style for Autofill on Android – Android
+- Overscroll history navigation
 
-#enable-autofill-refresh-style
+  History navigation in response to horizontal overscroll. – Windows, Linux, Chrome OS, Android
 
-Omnibox rich entity suggestions
-Display entity suggestions using images and an enhanced layout; showing more context and descriptive text about the entity. – Mac, Windows, Linux, Chrome OS, Android
+  #overscroll-history-navigation
 
-#omnibox-rich-entity-suggestions
+- Chrome Duet
 
-Enable the revamped context menu
-Enables a revamped context menu when a link, image, or video is long pressed within Chrome. – Android
+  Enables Chrome Duet, split toolbar Chrome Home, on Android. – Android
 
-#enable-revamped-context-menu
+  #enable-chrome-duet
 
-An ephemeral Preview Tab in an Overlay Panel
-Enable a 'Preview page/image' at a linked page into an overlay. – Android
+- Enable Autofill refresh style (Android)
 
-#enable-ephemeral-tab
+  Enable modernized style for Autofill on Android – Android
 
-Android Chrome UI dark mode
-If enabled, user can enable Android Chrome UI dark mode through settings. – Android
+  #enable-autofill-refresh-style
 
-#enable-android-night-mode
+- Omnibox rich entity suggestions
+
+  Display entity suggestions using images and an enhanced layout; showing more context and descriptive text about the entity. – Mac, Windows, Linux, Chrome OS, Android
+
+  #omnibox-rich-entity-suggestions
+
+- Enable the revamped context menu
+
+  Enables a revamped context menu when a link, image, or video is long pressed within Chrome. – Android
+
+  #enable-revamped-context-menu
+
+- An ephemeral Preview Tab in an Overlay Panel
+
+  Enable a 'Preview page/image' at a linked page into an overlay. – Android
+
+  #enable-ephemeral-tab
+
+- Android Chrome UI dark mode
+
+  If enabled, user can enable Android Chrome UI dark mode through settings. – Android
+
+  #enable-android-night-mode
