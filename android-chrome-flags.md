@@ -1,20 +1,21 @@
 ---
-title: tk
-description: og
-image: tk.jpg
-permalink: /tk/
+title: android chrome flags
+description: hidden settings that should be enabled by default
+image: secret.jpg
+permalink: /android-chrome-flags/
 redirect_from:
-  - /could/
-  - /be/
+  - /android/
+  - /chrome/
+  - /flags/
 layout: page
 published: true
 ---
 
-i just want to keep, somewhere online, an updated and simple list of flags that should be enabled by default. this is my list. feel free to update it or suggest a better place!
-
-   chrome://flags/
+i just want to keep, somewhere online, an updated and simple list of flags that should be enabled by default. this is my list. you can suggest improvements or even a better place!
 
 also trying to keep an [updated wiki](https://en.m.wikipedia.org/wiki/Talk:Google_Chrome#flags,_on_android)
+
+   chrome://flags/
 
 Contextual Search definitions
 Enables tap-activated contextual definitions of words on a page to be presented in the caption of the Tap to Search Bar. – Android
