@@ -1,34 +1,36 @@
 ---
 title: suggest a new page
-description: help to build cregox!
+description: help to build the website!
 image: building.jpg
 permalink: /newpage/
 redirect_from:
   - /build/
   - /suggest/
+  - /new/
 layout: page
 published: true
 menu: false
+root: https://github.com/cregox/cregox.github.io
 ---
 
-yes, you can help to build cregox and learn some coding in the process!
+yes, you can help to build cregox and even learn some coding in the process!
 
 there are basically 3 options:
 
-- give [feedback or suggest something](/feedback) (even a new page, and give us [work](/pay)) by [**contacting us**](/contact). beware that it might take more time to become alive.
+- give [feedback or suggest something](/feedback) (even a new page, and give us [work](/work)) by [**contacting us**](/contact). beware that it might take more time to become alive.
 
 - do some work yourself (along with lots of learning): use [**GitHub and make a Pull Request**](https://help.github.com/articles/creating-new-files/).
 
-- creating a new file (start in the line below)!
+- create a new file (start in the line below)!
 
 <details>
 <summary markdown="span">learn markdown (optional)</summary>
 
 - learn a little of [github markdown](https://guides.github.com/features/mastering-markdown/) (if you want to actually format your contribution), or;
-- see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage.md) (click on the [raw] button, ignore the script part), then...
+- see samples, [such as our other files]({{ page.root }}?files=1) or [this own]({{ page.root }}/blob/master/newpage.md) (click on the [raw] button, ignore the script part), then...
 </details>
 
-# [**create a new file for "#jesus"**](https://github.com/cregox/cregox.github.io/new/master/#jesus)
+# [**create a new file for "#jesus"**]({{ page.root }}/new/master/#jesus)
 (you'll need to login or create an account)
 
 that's all. write right there everything you think there should be on this page! :)
@@ -36,12 +38,12 @@ that's all. write right there everything you think there should be on this page!
 <details>
 <summary markdown="span">however, it'd be really nice if you can also do the following (open here):</summary>
 
-- name it `index.md`;
+- name it `whatever.md` or _something_ (like #jesus.md) - just hit backspace on the space for name and add ".md";
 - add this front matter to the top, replace the title for whatever you want, or just remove the whole line: 
 
 ```
 ---
-title: *literally write here whatever you want*
+title: whatever
 layout: page
 published: false
 ---
@@ -58,7 +60,7 @@ permalink: /anything/
 redirect_from:
   - /could/
   - /be/
-layout: page
+layout: draft
 published: true
 ---
 ```
