@@ -25,7 +25,7 @@ there are basically 3 options:
 <summary markdown="span">learn markdown (optional)</summary>
 
 - learn a little of [github markdown](https://guides.github.com/features/mastering-markdown/) (if you want to actually format your contribution), or;
-- see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage/index.md) (click on the [raw] button, ignore the script part), then...
+- see samples, [such as our other files](https://github.com/cregox/cregox.github.io) or [this own](https://github.com/cregox/cregox.github.io/blob/master/newpage.md) (click on the [raw] button, ignore the script part), then...
 </details>
 
 # [**create a new file for "#jesus"**](https://github.com/cregox/cregox.github.io/new/master/#jesus)
