@@ -1,15 +1,17 @@
 ---
 title: what's capitalism
-description: and why is it only yet another misunderstood tool
+description: why is it only yet another misunderstood tool
 image: money.jpg
 permalink: /capitalism/
 redirect_from:
   - /capital/
   - /happiness/
   - /happy/
-layout: page
+layout: draft
 published: true
 ---
+
+{{ page.description }}
 
 >"Money Can't Buy Happiness" Isn't Always True
 
@@ -33,14 +35,26 @@ published: true
 
 in other words: yes money definitely buys happiness for the vast majority of people! but higher than 75k income, in this american average study, it only buys satisfaction. and, so, there's clearly more to happiness than just money. because those few fortunate ones who went over 75k could statistically prove it to us, even though it's still very satisfying to keep earning more.
 
-now... i can safely say that for a single person (yes, of all ages, an average for the whole life), that number could actually be around 14k. at most. at the very worst! and the only reason i came up with this number is because i myself lived very happily with less than 10k, but i would say there's margin for improvement in my case. not sure how much exactly, though. what does this tell you?
+now... i can safely say that for a single person (yes, of all ages, an average for the whole life), that number could actually be around 14k. at most. at the very most/worst! and the only reason i came up with this number is because i myself lived very happily with less than 10k, but i would say there's margin for improvement in my case. not sure how much exactly, though. what does this tell you?
 
-to me, it means that the developed world culture is probably ill both in only being able to find happiness after that huge amount of money, and in still finding satisfaction with more accumulation. more and more power! that's exactly what could be changed for a more balanced world... or would it be a more just world? in the later case, i would just drop this whole paragraph idea from my religion.
+to me, it means that the developed world culture is probably ill both in only being able to find happiness after that huge amount of money, and in still finding satisfaction with more accumulation. more and more power! that's exactly what could be changed for a more balanced world... or would it be a more just world? in the later case, i would drop this whole paragraph idea from my religion.
 
-reality isn't made to be filled with justice. and it's actually already perfectly balanced! it's all always a matter of finding internal harmony. and mine says that a huge change is on my way. to continue with radically changing my reality. which can also lead to such a change for many other people. perhaps even a big majority. i don't know. and i don't care that much. i just love you all and try my best to provide with what i can, as this single cell organism i am. we all are.
+reality isn't made to be filled with justice. and it's actually already perfectly balanced! it's all always a matter of finding internal harmony. always.
 
-take what's good for you and moved on.
+take what's good for you and move on. although, first, be absolute sure that it is good for you and don't fool yourself!
 
-capitalism is the accumulation of money. and there's a balance to it. my number to the world today is "14k income, at most". dig into [tamera](/tamera), live a humble life style, and try to understand why. i bet you'll be much happier.
+because we can easily fall into the trap of selfishly rejoicing from looking around and seeing people in apparently much worse situation than ours and think "wow, my life isn't so bad after all". very dangerous exercise. it leads to a lack of empathy that forgets how much better we can feel and become once we actually help each other and simply stop being sorry for ourselves, no matter what!
+
+capitalism is the accumulation of money. and there's a balance to it. my number to the world today is "14k income, at most". dig into [tamera](/tamera), live a humble life style, and try to understand why. i'd bet you'll be much happier, if i had any capital for such things... 😁😆 yet, here i am, being my time, hoping these words will reach you in good time and be of some use. granted, it's not just for you... i take pleasure just in writing this. helps me organising the ideas in my head. but, still... i could do it privately. or share only with friends. and not risk looking stupid in public. it's not such a low bet.
+
+instead of fearing the always imminent possibility of descapitalisation (or losing capital), embrace it with joy. spending money consciously can bring this easing emotion. take it as if it will happen sooner or later and use this beautiful resource given to you by your amazing luck of being born in the right place to give back and forgive this financial and cultural war that started so long ago nobody even knows anymore why we are fighting so much.
+
+and if you ever succeed in balancing this all out, please let us know how!
 
 cheers!
+
+# related
+
+- [is nothing in life really free, or are the best things in life free?](/free)
+
+- [contribute with us!](/donate)
