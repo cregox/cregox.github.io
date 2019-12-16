@@ -11,7 +11,7 @@ layout: draft
 published: true
 ---
 
-{{ page.description }}
+_{{ page.description }}_
 
 >"Money Can't Buy Happiness" Isn't Always True
 
