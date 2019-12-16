@@ -65,3 +65,9 @@ in the case of content makers... guess what? we all make content.
 even more than a bunch of people probably read even this gigantic brain dump. which might interest nobody else. it's still content done exactly like i'd hope you'll now do!
 
 cheers! 😘
+
+# related
+
+- [but what is capitalism anyway?](/capitalism)
+
+- [feeling like donating 2 bucks?](/donate)
