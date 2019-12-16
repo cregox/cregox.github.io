@@ -11,27 +11,27 @@ layout: draft
 published: true
 ---
 
-_{{ page.description }}_
+### {{ page.description }}
 
->"Money Can't Buy Happiness" Isn't Always True
-
+># ["Money Can't Buy Happiness" Isn't Always True](https://curiosity.com/topics/money-cant-buy-happiness-isnt-always-true-curiosity/)
+>
 >by Ashley Hamer, curiosity.com
-
+>
 >March 18, 2017
-
+>
 >We all know the tired cliché: "Money can't buy you happiness." But when you compare a Hollywood billionaire to someone who just got evicted from their apartment, the phrase starts to lose its meaning. Clearly, there's a certain amount of money that can mean the difference between happiness and misery. But what amount is that? In 2010, researchers decided to find out, and their answer was pretty interesting.
-
->#Day to Day vs. Big Picture
+>
+>## Day to Day vs. Big Picture
+>
 >For their study, which was published in the journal PNAS, Daniel Kahneman and Angus Deacon differentiated between two types of happiness. The first they called emotional well-being, defined as a person's day-to-day emotional experience — "the frequency and intensity of experiences of joy, stress, sadness, anger, and affection that make one's life pleasant or unpleasant," as the researchers put it. The second they called life evaluation, defined as the self-perception of one's life as a whole.
-
+>
 >To gauge people's feelings on these two metrics, They analyzed 450,000 responses to the Gallup-Healthways Well-Being Index, which is a daily survey of U.S. residents conducted by the Gallup Organization. The survey asked questions about things like how they were feeling yesterday and how they see life as a whole, in addition to basic demographic information such as gender, age, and income. Questions about emotional experiences were things like "Did you feel stress during a lot of the day yesterday?" and "Did you smile or laugh a lot yesterday?" Life assessment, meanwhile, required people to imagine a ladder with numbered rungs — rung 0 at the bottom, representing the worst possible life, and rung 10 at the top, representing the best. The survey then asked, "On which step of the ladder would you say you personally feel you stand at this time?"
-
->#Pennies From Heaven
+>
+>## Pennies From Heaven
+>
 >Here's what they found: When it comes to emotional well-being, money certainly does buy happiness — but only to a point. The more money you make, the more your day-to-day happiness improves until you hit around $75,000 per year. After that, the improvement levels off. That means someone who makes $150,000 per year isn't likely to have a significantly happier day than someone making $75k. But when it comes to life evaluation? That's a whole different ballgame. No matter their income bracket, people who make more money have a more favorable evaluation of their own life as a whole. The study concluded that "high income buys life satisfaction but not happiness, and that low income is associated both with low life evaluation and low emotional well-being."
-
+>
 >Why is this? Kahneman and Deacon have some ideas. "Low income exacerbates the emotional pain associated with such misfortunes as divorce, ill health, and being alone," they write. It could be that once you have enough to weather the storms that head your way, it doesn't matter how much extra you make — your day-to-day life is pretty much stable. But, the researchers note, it's generally recognized that overall life evaluation is tied to your level of education, which in turn is tied to your income. In that way, the fact that money can buy you a positive assessment of your life makes sense. Maybe it's time we all asked for a raise.
-
->- text from [https://curiosity.com/topics/money-cant-buy-happiness-isnt-always-true-curiosity/](https://curiosity.com/topics/money-cant-buy-happiness-isnt-always-true-curiosity/)
 
 in other words: yes money definitely buys happiness for the vast majority of people! but higher than 75k income, in this american average study, it only buys satisfaction. and, so, there's clearly more to happiness than just money. because those few fortunate ones who went over 75k could statistically prove it to us, even though it's still very satisfying to keep earning more.
 
