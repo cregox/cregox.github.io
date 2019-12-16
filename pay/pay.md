@@ -7,6 +7,7 @@ redirect_from:
   - /cash/
   - /money/
   - /invest/
+  - /donate/
 layout: page
 published: true
 menu: true
@@ -15,7 +16,7 @@ iban: https://www.iban.com/glossary
 
 <small>*looking for the manifesto about [capitalism](/capitalism)?*</small>
 
-[thank you so much](/thanks) for your will to invest in cregox! this helps supporting all our free work.
+[thank you so much](/thanks) for your will to invest in or donate to cregox! this helps supporting all our free work.
 
 perhaps you'll want to [get in touch](/contact) and give us some feedback as well.
 
