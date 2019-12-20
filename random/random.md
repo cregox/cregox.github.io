@@ -43,3 +43,40 @@ because once we become smart enough (and this happens every second both for the 
 with that in mind, let us hail [a flying spaghetti monster](https://www.venganza.org/). or whatever.
 
 ![fsm](https://www.venganza.org/wp-content/uploads/2018/12/card8.jpg)
+
+but also...
+
+# logical true randomness
+
+**disclaimer**: this is still a huge TK of my understandings. i'll need to verify some points (and just link to others i'm already certain).
+
+computers are logical machines. they're the best tool we have to transform pure logic into art. creation.
+
+still, it's in their nature to be completely deterministic and, thus, predictable. indeed, a **software** is unable to generate randomness in a practical sense (actually, it wouldn't be technically impossible to do so). as much as they can look random to us, it's either because they're making a complex pattern our brain can't readily unscramble (but other computers can) or they're collecting noise from the hardware, in other words, completely outside the logic we program them into (mostly through bugs).
+
+and this very nature can easily lead to a huge mistake: [believing **computers** can't be unpredictable](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity).
+
+a computer is composed of hardware and software. one never existed without the other. in fact, computers are, and have always been, in practice, at least somewhat unpredictable (given the bugs and hardware malfunction).
+
+true random number generators are no misnomer. they generate real unpredictable numbers, for every and all practical purposes:
+
+- any computer can generate completely random and unpredictable numbers, which not even quantum computers can predict TK.
+- flipping a coin, on the other hand, can be 100% predictable TK, even if so many things around it is random. so can dice rolls.
+- the hardware used to generate "true" randomness from radiation decay or whatever TK is created based on the belief of what's random, but by far are not the only ways to do it.
+- random.org built a whole business of making random numbers from atmospheric noise because it is truly random.
+
+the misunderstanding here arises because of a few technicalities...
+
+a single home computer device don't have any of those hardware random generators. but they could still use microphone, camera, keyboard striking, mouse, or finger movement among others to generate the so called true randomness, or randomness that nobody and no machine can predict. but this takes quite some time and effort to generate a single number. and TK thousands of numbers are usually needed to cryptograph operations in the way computing is structured today. reason why this isn't used.
+
+whatever technique we use today to generate the true number will be time intensive, compared to the speed computers need those numbers for cryptography. thus we use those numbers as seeds. then add the same pseudo number generators algorithms to increment the seed. and that can, indeed, lead to some practical issues in cryptography, reason why it's argued they're not truly random. but they are. at least once. because the seeds always are.
+
+a pseudo number generators is like a scrambled puzzle, all pieces faced up. a whole picture is there and we can see it all scrambled, but we can't humanly see the end result without putting the pieces together (at least enough of them). a computer, however, can put it together in a fraction of a second. 
+
+meanwhile true randomness is like a scrambled egg. nobody would ever be able to unscramble it, tell how the egg was exactly or predict how the scrambled egg will look like before scrambling it. and a true number generator can do that. even if it's eggs and puzzles all mixed together. although we can still unscramble the puzzle.
+
+the trick is that cryptography needs only eggs. puzzles are useless. and in this computer analogy, it's like scrambling the egg (making the seed) takes a lot of effort. so, instead, we take a picture of a scrambled egg and just scramble the puzzle. by making the puzzle big enough and using different strategies on which algorithms to use, we make them random enough.
+
+yes, quantum computing can break this model, but never the seed. even the fastest most advanced computer would need to simulate the entire conditions around what generated the seed in order to predict the next seed... in practice, it's impossible.
+
+now, i haven't even brought up how a software can generate a true random number, in theory... the short version is: ai. just like a single human behaviour can easily be random to us, another intelligent being will, necessarily, be able to be random. the catch 22 here is how to make such an intelligent ai smarter than humans and i would argue that it needs a true random generator to begin with. but this could be a paradox resolved by itself, creating both at the exact same time.
