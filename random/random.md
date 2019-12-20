@@ -2,6 +2,7 @@
 title: random
 permalink: /random/
 redirect_from:
+  - /determinism/
   - /chaos/
   - /rnd/
   - /god/
