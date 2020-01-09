@@ -12,7 +12,7 @@ layout: draft
 published: true
 ---
 
-# how to earn money while playing with "randomness"?
+# {{ page.description }}
 
 think of flipping a fair coin.
 
@@ -34,7 +34,7 @@ and we can statistically measure how much that prize will be given the game bein
 
 unlike a casino, though, our idea is to use that data to better understand the specific kind of "randomness" around the game being played. beyond statistics. beyond fantasy game players, which is considered a game of ability and not luck. so way beyond luck. and then use this understanding to paint a better picture of "randomness".
 
-keep in mind that we call "random" whatever is beyond our understanding of reality. and being able to see it with any kind of clarity is like exploring mars: we don't know what we can find there, but we certainly know it's the kind of thing that inspire generations! it depends on how well we can sell the idea, but the idea is real and present. not only that, it can indeed lead to innovations beyond our comprehension.
+keep in mind that we call ["random"](/random) whatever is beyond our understanding of reality. and being able to see it with any kind of clarity is like exploring mars: we don't know what we can find there, but we certainly know it's the kind of thing that inspire generations! it depends on how well we can sell the idea, but the idea is real and present. not only that, it can indeed lead to innovations beyond our comprehension.
 
 # caxanga check list
 
