@@ -10,6 +10,8 @@ layout: page
 published: true
 ---
 
+![ok, a dead tree may not be the most descriptive image of a soul... but close enough?]({{ page.image }})
+
 ### {{ page.description }}
 
 to me, a dancing soul can be translated into a tingling brain. singing along is advised! skipping the songs you may not enjoy, as well. those lists are quite [random](/random) or ecletic, given my limitations.
