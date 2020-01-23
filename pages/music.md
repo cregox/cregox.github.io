@@ -1,7 +1,7 @@
 ---
 title: music
 description: make your soul dance!
-image: soul.jpg
+image: ./soul.jpg
 permalink: /music/
 redirect_from:
   - /songs/
