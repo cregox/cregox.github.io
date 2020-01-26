@@ -10,7 +10,7 @@ layout: page
 published: true
 ---
 
-[> some photos from where i've been to, after tamera <](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
+[> photos from places after tamera <](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
 
 [![tamera symbol]({{ page.image }})](https://tamera.org)
 
