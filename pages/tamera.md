@@ -10,11 +10,11 @@ layout: page
 published: true
 ---
 
-[some photos, after tamera](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
+[some photos from where i've been to, after tamera](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
 
-![tamera symbol]({{ page.image }})
+[![tamera symbol]({{ page.image }})](https://tamera.org)
 
-[tamera](tamera.org) to me is a turning point. a realization of a dream, even if only still just a tiny part of it. it showed me it's possible to live a completely [fulfilling life](/capitalism) with just a few people around and the same goal.
+to me it is a turning point. a realization of a dream, even if only still just a tiny part of it. it showed me it's possible to live a completely [fulfilling life](/capitalism) with just a few people around and the same goal.
 
 when i started [ahoxus](/ahoxus) in 2018 i only had in mind things i didn't want to repeat from the [basiux](/basiux). i didn't realize it was about tamera but, in retrospect, it was.
 
