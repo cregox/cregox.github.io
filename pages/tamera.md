@@ -1,7 +1,7 @@
 ---
 title: tamera
 description: not yet ahoxus
-image: /pages/tamera symbol.jpg
+image: /pages/tamera symbol.jpeg
 permalink: /tamera/
 redirect_from:
   - /healing/
