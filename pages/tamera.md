@@ -1,7 +1,7 @@
 ---
 title: tamera
 description: not yet ahoxus
-image: tamera symbol.jpg
+image: /pages/tamera symbol.jpg
 permalink: /tamera/
 redirect_from:
   - /healing/
@@ -11,6 +11,8 @@ published: true
 ---
 
 [some photos, after tamera](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
+
+![tamera symbol]({{ page.image }})
 
 [tamera](tamera.org) to me is a turning point. a realization of a dream, even if only still just a tiny part of it. it showed me it's possible to live a completely [fulfilling life](/capitalism) with just a few people around and the same goal.
 
