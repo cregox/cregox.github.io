@@ -1,9 +1,13 @@
 ---
-title: toon blast
+title: whatever games
 description: what the fuck?!
 image: time.jpg
-permalink: /toon blast/
+permalink: /whatever games/
 redirect_from:
+  - /whatever/
+  - /games/
+  - /vainglory/
+  - /toon blast/
   - /toonblast/
   - /toon/
   - /blast/
@@ -11,13 +15,13 @@ layout: page
 published: true
 ---
 
-# {{ page.description }}
+### {{ page.description }}
 
-just giving a clear sign to get in touch with me, if you ever look for cregox or ["ahoxus"](/ahoxus) from this game...
+did you get here looking for cregox or ["ahoxus"](/ahoxus) from whatever one of those (or other) games?
 
-I'll eventually write more about it, but might be suffice to copy a few things I've been doing such as:
+{{ page.redirect_from }}
 
-# copy and paste, no further explanation yet
+then perhaps you want to know a bit more about me... 😁😘
 
 ## my dating profile
 
