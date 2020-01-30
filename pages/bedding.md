@@ -1,6 +1,6 @@
 ---
 title: bed making
-description: #freebed
+description: "#freebed"
 image: /pages/nice bed making.jpg
 permalink: /bedding/
 redirect_from:
