@@ -6,7 +6,7 @@ permalink: /hypnosis/
 redirect_from:
   - /mind control/
   - /meditation/
-layout: page
+layout: draft
 published: true
 ---
 
