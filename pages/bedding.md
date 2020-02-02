@@ -15,6 +15,6 @@ published: true
 
 # {{ page.description }}
 
-because a bed **well made** [can be good for your health!](http://archive.ph/1lUfh)
+because a bed **well made** (which might mean the opposite of what you'd think) [can be good for your health!](http://archive.ph/1lUfh)
 
-and [you only live once](//ahoxus.org/yolo)!
+and since [you only live once](//ahoxus.org/yolo), it also saves precious time!
