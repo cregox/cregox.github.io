@@ -14,4 +14,4 @@ for now, just a link to my favourite topics [there](https://curiosity.com/457727
 
 also, keep in mind that science should also always be [fun](/tv)!
 
-even if it often gets [too serious or out of track](/tamera). or, even ["worse"](/language), [too utopian](https://ncase.me/ballot)... it's probably better to [stick with fun](https://ncase.me/firefly). 😘
+even if it often gets [too serious or out of track](/tamera). or, even ["worse"](/language), [too utopian](https://ncase.me/ballot)... it's probably better to [stick with fun](https://ncase.me/fireflies). 😘
