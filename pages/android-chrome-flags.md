@@ -89,11 +89,6 @@ Suggests to the user to close Tabs that haven't been used beyond a configurable 
 
 #enable-close-tab-suggestions
 
-Tab Grid Layout
-Allows users to see their tabs in a grid layout in the tab switcher. – Android
-
-#enable-tab-grid-layout
-
 Tab Groups
 Allows users to create groups to better organize their tabs. – Android
 
