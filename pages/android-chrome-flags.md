@@ -17,7 +17,9 @@ published: true
 
 i intend to keep, as a backup and sharing, somewhere online, an updated and simple list of flags that should be enabled by default. suggestions are (currently) encouraged!
 
-   chrome://flags/
+<span class="flags">
+```
+chrome://flags/
 
 Contextual Search definitions
 Enables tap-activated contextual definitions of words on a page to be presented in the caption of the Tap to Search Bar. – Android
@@ -63,6 +65,16 @@ Chrome Sharing Hub
 Enables the Chrome Sharing Hub/custom share sheet. – Android
 
 #chrome-sharing-hub
+
+Enables live page sharing of offline pages
+Enables to share current loaded page as offline page by saving as MHTML first. – Android
+
+#offline-pages-live-page-sharing
+
+Enable offering upload of Autofilled credit cards
+Enables a new option to upload credit cards to Google Payments for sync to all Chrome devices. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-autofill-credit-card-upload
 
 Omnibox rich entity suggestions
 Display entity suggestions using images and an enhanced layout; showing more context and descriptive text about the entity. – Mac, Windows, Linux, Chrome OS, Android
@@ -128,3 +140,5 @@ Android Chrome UI dark mode
 If enabled, user can enable Android Chrome UI dark mode through settings. – Android
 
 #enable-android-night-mode
+```
+</span>
