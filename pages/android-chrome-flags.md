@@ -15,7 +15,7 @@ published: true
 
 # {{ page.description }}
 
-an updated and simple list of flags that should be enabled by default. feel free!
+an updated (80.0.3987.87) and simple list of flags that should be enabled by default. feel free!
 
 ```
 chrome://flags/
@@ -44,11 +44,6 @@ Contextual Search second tap triggering
 Enables triggering on a second tap gesture even when Ranker would normally suppress that tap. – Android
 
 #contextual-search-second-tap
-
-Chrome Duet
-Enables Chrome Duet, split toolbar Chrome Home, on Android. – Android
-
-#enable-chrome-duet
 
 Chrome Sharing Hub
 Enables the Chrome Sharing Hub/custom share sheet. – Android
@@ -110,11 +105,6 @@ Tracks tab engagement and lifetime metrics. – Android
 
 #enable-tab-engagement-reporting
 
-Duet-TabStrip Integration
-Allows users to access integration of Duet and TabStrip. – Android
-
-#enable-duet-tabstrip-integration
-
 An ephemeral Preview Tab in an Overlay Panel
 Enable a 'Preview page/image' at a linked page into an overlay. – Android
 
@@ -132,12 +122,22 @@ If enabled, user can enable Android Chrome UI dark mode through settings. – An
 
 ```
 
-these don't exist anymore as of today! 😔
+broken! 😔
 
 ```
 Overscroll history navigation
 History navigation in response to horizontal overscroll. – Windows, Linux, Chrome OS, Android
 
 #overscroll-history-navigation
+
+Chrome Duet
+Enables Chrome Duet, split toolbar Chrome Home, on Android. – Android
+
+#enable-chrome-duet
+
+Duet-TabStrip Integration
+Allows users to access integration of Duet and TabStrip. – Android
+
+#enable-duet-tabstrip-integration
 
 ```
