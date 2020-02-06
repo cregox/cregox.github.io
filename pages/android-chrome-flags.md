@@ -17,7 +17,6 @@ published: true
 
 an updated and simple list of flags that should be enabled by default. feel free!
 
-<!--span class="flags"-->
 ```
 chrome://flags/
 
@@ -46,20 +45,10 @@ Enables triggering on a second tap gesture even when Ranker would normally suppr
 
 #contextual-search-second-tap
 
-Overscroll history navigation
-History navigation in response to horizontal overscroll. – Windows, Linux, Chrome OS, Android
-
-#overscroll-history-navigation
-
 Chrome Duet
 Enables Chrome Duet, split toolbar Chrome Home, on Android. – Android
 
 #enable-chrome-duet
-
-Chrome Duet Labels
-Enables Chrome Duet (split toolbar) labels. – Android
-
-#enable-chrome-duet-labels
 
 Chrome Sharing Hub
 Enables the Chrome Sharing Hub/custom share sheet. – Android
@@ -140,5 +129,15 @@ Android Chrome UI dark mode
 If enabled, user can enable Android Chrome UI dark mode through settings. – Android
 
 #enable-android-night-mode
+
 ```
-<!--/span-->
+
+these don't exist anymore as of today! 😔
+
+```
+Overscroll history navigation
+History navigation in response to horizontal overscroll. – Windows, Linux, Chrome OS, Android
+
+#overscroll-history-navigation
+
+```
