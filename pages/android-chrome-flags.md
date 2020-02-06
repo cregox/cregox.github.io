@@ -15,9 +15,9 @@ published: true
 
 # {{ page.description }}
 
-i intend to keep, as a backup and sharing, somewhere online, an updated and simple list of flags that should be enabled by default. suggestions are (currently) encouraged!
+an updated and simple list of flags that should be enabled by default. feel free!
 
-<span class="flags">
+<!--span class="flags"-->
 ```
 chrome://flags/
 
@@ -141,4 +141,4 @@ If enabled, user can enable Android Chrome UI dark mode through settings. – An
 
 #enable-android-night-mode
 ```
-</span>
+<!--/span-->
