@@ -7,11 +7,14 @@ redirect_from:
   - /fun/
   - /fastv/
   - /fas-tv/
+  - /fas tv/
 layout: page
 published: true
 fastv: https://plus.google.com/collection/4Qqrb
 drive: https://drive.google.com/open?id=0B7x-Yn04UquwWEpGdFZPT0F5Nkk
 ---
+
+- the tv is currently on [google drive]({{page.drive}}).
 
 [neverthink.tv](https://neverthink.tv/code) is not quite as [random](https://neverthink.tv/random) as i'd wish, but that's almost the whole idea, right there!
 
@@ -23,7 +26,7 @@ i ended up creating a "fas tv" google plus collection:
 
 well, it never worked. and google plus is now dead.
 
-still, i actually got [plenty related offline files]({{page.drive}}) i wish to share in a more interesting fashion (and probably not everything).
+still, i actually got [**plenty related files**]({{page.drive}}) i wish to share in a more interesting fashion (and probably not everything).
 
 more than just about sharing links, it should also prevent them from breaking. [me hates that](/backup). :(
 
