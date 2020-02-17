@@ -20,7 +20,7 @@ in early 2014 i started to get flooded on twitter by indonesians.
 
 so i ended up changing my twitter handle from @cawas to @cauerego and slowly moved away from that alias into cregox.
 
-funny enough, today i've got some emails from netflix into my gcawas@gmail probably due to the same reasons.
+funny enough, today (2020 feb) i've got some emails from netflix into my gcawas@gmail probably due to the same reasons.
 
 perhaps i'll have to dig deeper to understand exactly how their language leads to those unexpected events...
 
