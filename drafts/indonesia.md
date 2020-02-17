@@ -1,7 +1,7 @@
 ---
 title: cawas at indonesia
 description: to me, it was my childhood nickname
-image: /pages/indonesia.webp
+image: /pages/indonesia.webp.webp
 permalink: /indonesia/
 redirect_from:
   - /cawas/
