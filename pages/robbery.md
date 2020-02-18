@@ -1,7 +1,7 @@
 ---
 title: a robbery reflection
 description: first, the story of a robbery
-image: /pages/pistol.jpg
+image: /pages/pistol.png
 permalink: /robbery/
 redirect_from:
   - /sampa/
