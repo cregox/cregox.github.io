@@ -14,7 +14,7 @@ published: true
 
 # {{ page.description }}
 
-i was recently [reminded by facebook](https://www.facebook.com/1191230431/posts/10222316109390221/?sfnsn=mo) of a very [old story of mine](https://cregox.net/talk/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67.html).
+i was recently [reminded by facebook (link to a post there, which is basically about another person's take off a very similar experience they just had, followed by a very similar reflection)](https://m.facebook.com/story.php?story_fbid=10157009995805868&id=514295867) of a very [old story of mine](https://cregox.net/talk/t/let-us-all-love-sao-paulo-shall-we-a-robbery-tale-followed-by-an-inspiring-idea/67.html).
 
 it's a reflection about caring for anyone and everyone... and nobody, all at once.
 
