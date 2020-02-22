@@ -1,20 +1,25 @@
 ---
-permalink: /pcsedados/
-layout: page
 title: pc's & dados
+description: og
+image: pcsedados home.gif
+permalink: /pcsedados/
+redirect_from:
+  - /pcs e dados/
+  - /pc's e dados/
+layout: page
 published: true
 ---
 
-[![pcsedados home](pcsedados home.gif)](http://www.pcsedados.com.br/)
+[![pcsedadosb home]({{ page.image }})](http://www.pcsedados.com.br/)
 
-this is, to date, about 14 years later, my coding project I'm most proud of. done in 2003.
+this is, to date, about 17 years later, my coding project I'm most proud of. done in 2003.
 
 coincidentally, it's:
 
 - still working
 - the longest one running
 - even helping to keep the business up
-- and required almost no maintenance ever
+- and required almost no (technical) maintenance ever
 
 ### here's the most relevant part, after clicking [services] / [hire]:
 
@@ -42,7 +47,7 @@ me and a web designer were the whole team working on it. using asp and access, s
 
 ### ugly and outdated, isn't it?
 
-not much more than the rest of the web, though. below there are some references also for fun:
+not much more than the rest of the web, though. below there are some references from the same year. also for fun:
 
 [![nintendo 2003](nintendo 2003.png)](http://web.archive.org/web/20030401081820/http://www.nintendo.com/index.jsp)
 
