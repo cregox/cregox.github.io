@@ -5,6 +5,7 @@ redirect_from:
   - /determinism/
   - /chaos/
   - /rnd/
+  - /rng/
   - /god/
 layout: page
 published: true
@@ -25,7 +26,7 @@ here is one of my previous ramblings about [what is random?](http://cregox.net/t
 
 now i don't do blog anymore. among many reasons, also because it has no versioning. no [true backup](/backup).
 
-i do these manifestos now, instead. eventually, as usual. [chaotically, if you will](/ahoxus).
+i do these manifestos, instead. eventually, as usual. [chaotically, if you will](/ahoxus).
 
 how random is talking about blogging and manifestos in a random manifesto in here? not much, actually...
 
@@ -41,11 +42,11 @@ because once we become smart enough (and this happens every second both for the 
 
 <!--/span-->
 
-with that in mind, let us hail [a flying spaghetti monster](https://www.venganza.org/). or whatever.
+with that in mind, let us hail [a flying spaghetti monster](https://www.venganza.org/). or whatever. chaos, perhaps?
 
 ![fsm](https://www.venganza.org/wp-content/uploads/2018/12/card8.jpg)
 
-but also...
+on a second thought...
 
 # logical true randomness
 
@@ -82,4 +83,18 @@ yes, quantum computing can break this model, but never the seed. even the fastes
 
 now, i haven't even brought up how a software can generate a true random number, in theory... the short version is: ai. just like a single human behaviour can easily be random to us, another intelligent being will, necessarily, be able to be random. the catch 22 here is how to make such an intelligent ai smarter than humans and i would argue that it needs a true random generator to begin with. but this could be a paradox resolved by itself, creating both at the exact same time.
 
-after all, [randomness do help math in ways most people (including me) will never comprehend](https://www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/), although to me it's very clear that's basically tapping into god. 😁
+after all, [randomness do help math in ways most people (including me) will never comprehend](https://www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/), although to me it's very clear that's basically tapping into god. chaos, perhaps? 😁
+
+# chaos?
+
+just something more intelligent than we could ever be. that permeates everything, everywhere, all the time. impossible to tell, since it's per definition something we can't recognize. and even if it's somehow all the same thing, we'll never know. fits perfectly into the definition of a god, doesn't it?
+
+in any case, for studying the creation of intelligence, machine learning and all that as already mentioned, it's a very important and overlooked distinction there. randomness and [chaos](https://en.m.wikipedia.org/wiki/chaos). a word without a definite consensus on which definition we should commonly use, as evident in the previous link. the [suggestion here](https://en.m.wikipedia.org/wiki/Chaos_(cosmogony)) is to adapt from mythology:
+
+> Chaos (Ancient Greek: χάος, romanized: khaos) refers to the void state preceding the creation of the universe or cosmos in the Greek creation myths, or to the initial "gap" created by the original separation of heaven and earth.[1][2][3]
+
+it's true randomness and completely unpredictable. it's what we need the most when writing neural networks, but most of us keep using just whatever randomness without making the distinction. and in the sum of many operations using plain dumb randomness the ai takes much longer to evolve its intelligence. the connection with chaos.
+
+of course, this is all just my gut feeling, after playing with the [basiux](/basiux). a feeling strong enough to make me keep writing so much about it, years after i abandoned it. even if it may look completely incoherent. just to register it. and hopefully find the right destination in the back of someone's mind.
+
+thanks for reading! 😁😘
