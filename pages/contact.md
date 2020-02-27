@@ -2,6 +2,7 @@
 title: contact
 description: direct ways to find cregox, including email and phone.
 image: /contact/cregox_ana_boat_thumb.jpg
+permalink: /contact/
 redirect_from: /contacts/
 layout: page
 published: true
