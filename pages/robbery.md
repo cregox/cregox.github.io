@@ -6,6 +6,7 @@ permalink: /robbery/
 redirect_from:
   - /sampa/
   - /reflection/
+  - /theft/
 layout: page
 published: true
 ---
