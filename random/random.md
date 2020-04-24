@@ -54,7 +54,7 @@ on a second thought...
 
 computers are logical machines. they're the best tool we have to transform pure logic into art. creation.
 
-still, it's in their nature to be completely deterministic and, thus, predictable. indeed, a **software** is unable to generate randomness in a practical sense (actually, it wouldn't be technically impossible to do so). as much as they can look random to us, it's either because they're making a complex pattern our brain can't readily unscramble (but other computers can) or they're collecting noise from the hardware, in other words, completely outside the logic we program them into (mostly through bugs).
+still, it's in their nature to be completely deterministic and, thus, predictable. indeed, a **software** is unable to generate randomness in a practical sense (actually, it wouldn't be technically impossible to do so). as much as they can look random to us, it's either because they're making a complex pattern [our brain](/brain) can't readily unscramble (but other computers can) or they're collecting noise from the hardware, in other words, completely outside the logic we program them into (mostly through bugs).
 
 and this very nature can easily lead to a huge mistake: [believing **computers** can't be unpredictable](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity).
 
