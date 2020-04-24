@@ -1,5 +1,6 @@
 ---
 title: film
+permalink: /film/
 redirect_from:
   - /films/
   - /movie/
