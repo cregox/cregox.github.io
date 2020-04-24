@@ -16,8 +16,8 @@ there's so much that can be said about [the brain (by all means, watch all video
 
 but now it's tremendous controversy time: how the mind might be connected to a [black hole](https://www.youtube.com/watch?v=KikdPbX7z8Q&list=PLXtN19u-oGmv7rme9MVeAmrP0XjbTPYhv).
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/videoseries?list=PLXtN19u-oGmv7rme9MVeAmrP0XjbTPYhv&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_30 minutes in loop, just leave it playing while reading._
+{% include youtube.html id='videoseries?list=PLXtN19u-oGmv7rme9MVeAmrP0XjbTPYhv&autoplay=1' ratio='56.25%' %}
+_30 minutes in loop, just leave it playing while reading. then move on to the next video in the list!_
 
 ah, the brain.
 
