@@ -75,4 +75,3 @@ feel free to tweak the **noise** sources settings:
 
 <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
 <script src="main.js" async></script>
-<script src="lib-ga.js"></script>
