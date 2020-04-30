@@ -9,7 +9,7 @@ layout: page
 published: true
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/MIhyxHgLWes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='MIhyxHgLWes' ratio='56.25%' %}
 
 "what's [ahoxus](/ahoxus)?" one might ask.
 
