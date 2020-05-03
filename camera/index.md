@@ -9,6 +9,8 @@ most of it was adapted from that 2015 post linked above, about point and shoot, 
 
 # nice
 - panorama. google camera is probably the best one for this, on android. yes, the iPhone is still generally better, somehow.
+- stabilize. google does offer an api for this, should be simple.
+- zoom. because getting close to insects can't focus as good as a zoom. and digital zoom is better than cropping, thanks to ai and fast processors.
 - photo sphere. gcam must be the only one with this, but it crashes on some phones.
 - lens blur. again, kudos to google!
 - speak recognition (say "cheese")
