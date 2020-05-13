@@ -8,7 +8,7 @@ published: true
 
 hello!
 
-please, search below for anything related to cregox that might entice you. such as "damme" or "random".
+please, search below for anything related to cregox that might entice you. such as "damme", "[ahoxus](/ahoxus)" or "random".
 
 <script>
   (function() {
