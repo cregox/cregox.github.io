@@ -27,7 +27,9 @@ still can't find something in specific? try going [straight to google](https://w
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
-<small>_missing cookies? sorry, [we don't track](/tracking)! 😁😘 [(disclaimer about the lower case writing style)](/locaws)_</small>
+<small> missing cookies? [really](/reality)?! sorry, [we don't track](/tracking)! 😁😘 </small>
+
+<small> _[(disclaimer about the lower case writing style)](/locaws)_ </small>
 
 <script> (function() {
     window.onhashchange = updateGoogleLinks;
