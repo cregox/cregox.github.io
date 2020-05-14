@@ -50,6 +50,14 @@ the whole system, in its turn, is made of cultural beliefs. such as money.
 
 and the money system is filled with beliefs around statistics and tracking. because they are ready ways to exploit ignorance and generate more immediate money.
 
-for sure, of they're so easy, i should be able to use it to my own advantage...
+for sure, if it's so easy, i should be able to use it to my own advantage...
 
 perhaps i will, eventually. perhaps. i. will...
+
+for now, i'll keep it low profile.
+
+and thank [dries for doing it right so much longer ago while helping me to remove tracking even from youtube!](https://dri.es/how-to-remove-youtube-tracking) (also thanks to youtube for offering that option).
+
+cheers!
+
+(still TK)
