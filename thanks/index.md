@@ -11,9 +11,9 @@ published: true
 menu: true
 ---
 
-<video controls autoplay loop>
-  <source src="leiria flower boomerang.mp4" type="video/mp4" />
-  ![gratitude in the small things](moving leiria flower.gif)
+<video autoplay loop>
+  <source src="leiria flower boomerang.mp4" />
+  <img title="gratitude in the small things" src="moving leiria flower.gif" alt="a sunflower in a small old town pedestrian street" />
 </video>
 
 how to touch people? you know, deep inside. the right way.
