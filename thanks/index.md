@@ -11,7 +11,10 @@ published: true
 menu: true
 ---
 
-![gratitude in the small things](moving leiria flower.gif)
+<video controls autoplay loop>
+  <source src="leiria flower boomerang.mp4" type="video/mp4" />
+  ![gratitude in the small things](moving leiria flower.gif)
+</video>
 
 how to touch people? you know, deep inside. the right way.
 
