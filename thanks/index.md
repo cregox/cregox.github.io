@@ -12,7 +12,7 @@ menu: true
 ---
 
 <video autoplay loop>
-  <source src="leiria flower boomerang.mp4" />
+  <source src="leiria flower boomerang.mp4" poster="{{ page.image }}" />
   <img title="gratitude in the small things" src="moving leiria flower.gif" alt="a sunflower in a small old town pedestrian street" />
 </video>
 
