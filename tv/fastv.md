@@ -14,6 +14,8 @@ fastv: https://plus.google.com/collection/4Qqrb
 drive: https://drive.google.com/open?id=0B7x-Yn04UquwWEpGdFZPT0F5Nkk
 ---
 
+# {{ page.description }}
+
 - the "tv" is currently on [google drive]({{page.drive}}).
 
 [neverthink.tv](https://neverthink.tv/code) is not quite as [random](/random) as i'd wish, but that's almost the whole idea right there... although [tiktok](https://tiktok.com/@cregox) would be a much better UX in general: just one big "random channel". jump into similar things as you wish. etc.
