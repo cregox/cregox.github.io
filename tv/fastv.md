@@ -14,11 +14,11 @@ fastv: https://plus.google.com/collection/4Qqrb
 drive: https://drive.google.com/open?id=0B7x-Yn04UquwWEpGdFZPT0F5Nkk
 ---
 
-- the tv is currently on [google drive]({{page.drive}}).
+- the "tv" is currently on [google drive]({{page.drive}}).
 
-[neverthink.tv](https://neverthink.tv/code) is not quite as [random](https://neverthink.tv/random) as i'd wish, but that's almost the whole idea, right there!
+[neverthink.tv](https://neverthink.tv/code) is not quite as [random](/random) as i'd wish, but that's almost the whole idea right there... although [tiktok](https://tiktok.com/@cregox) would be a much better UX in general: just one big "random channel". jump into similar things as you wish. etc.
 
-at some point in 2015 i thought it would be fun to try making something like [9gag tv](http://9gag.com/tv) or [iflscience](http://www.iflscience.com/team/elise-andrew/) (later on i found out about something [similar](https://www.patreon.com/lolhehehe) to my will, except i have no wish to produce anything in non-english).
+at some point in 2015 i thought it would be fun to try making something like [9gag tv](http://9gag.com/tv) or [iflscience](http://www.iflscience.com/team/elise-andrew/) (or even curiosity.com in 2019, which is sadly dead now). later on i found out about something [similar](https://www.patreon.com/lolhehehe) to my will, except i have no wish to produce anything in non-english.
 
 i ended up creating a "fas tv" google plus collection:
 
@@ -26,16 +26,16 @@ i ended up creating a "fas tv" google plus collection:
 
 well, it never worked. and google plus is now dead.
 
-still, i actually got [**plenty related files**]({{page.drive}}) i wish to share in a more interesting fashion (and probably not everything).
+still, i actually got [**plenty related files**]({{page.drive}}) i wish to share in a more interesting fashion (and probably not everything from there).
 
 more than just about sharing links, it should also prevent them from breaking. [me hates that](/backup). :(
 
 tl;dr;
 
-fas tv is no more. for now. and perhaps forever!
+fas tv is no more. for now!
 
-[let me know](/contact) if you'd like me to do something about it.
+i know you'd love me to do something about it... we'll see.
 
 [![community pool](community pool.gif)](https://photos.app.goo.gl/TX8Zyo3Yk4PDihWHA)
 
-<small>_community series - almost as good as scrubs_</small>
+<small>_community was almost as good as scrubs_</small>
