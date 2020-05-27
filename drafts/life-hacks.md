@@ -7,7 +7,7 @@ redirect_from:
   - /lifehacks/
   - /life/
   - /hacks/
-layout: drafts
+layout: draft
 published: true
 ---
 
