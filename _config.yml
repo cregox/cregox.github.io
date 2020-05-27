@@ -31,12 +31,16 @@ a:
 defaults:
   -
     scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  -
+    scope:
       path: "talk"
       type: pages
     values:
       layout: talk # overrides previous default layout
       google_analytics: # placed on files by httrack and talk layout
-
 
 # Build settings
 markdown: kramdown
