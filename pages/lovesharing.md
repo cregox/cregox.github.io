@@ -6,7 +6,7 @@ permalink: /lovesharing/
 redirect_from:
   - /love/
   - /sharing/
-layout: drafts
+layout: draft
 published: true
 ---
 
