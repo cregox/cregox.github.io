@@ -61,3 +61,13 @@ and thank [dries for doing it right so much longer ago while helping me to remov
 cheers!
 
 (still TK)
+
+as the big draft this is, just want to mention [this tweet](https://twitter.com/supercast/status/1278769161699811333?s=20) i stumbled upon right now:
+
+> Serial, w/ ~250M listeners, makes about $0.002/listener via $500,000 in annual ad revenue.
+
+> Chapo Trap House, w/ ~2M listeners, makes over $1/listener via $2,000,000 in annual paid membership revenue.
+
+> How does Chapo Trap House do it? They offer a $5/month membership.
+
+a simple and practical example of how much better a no ads model can be.
