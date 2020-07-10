@@ -27,7 +27,9 @@ published: true
 
 - i'll soon start to "delete" **everything** i have from the big ones. gradually. including github.
 
-- but i'll first create better things in their place. still need to find, for instance, a better (and still free) place for my [google](/google) photos, notes, and music... especially the videos.
+- but i'll first create better things in their place. still need to find, for instance, a better (and still free) place for my [google](/google) photos, notes, music, etc... especially the videos.
+
+- by "etc" i mean some easy ones such as youtube, gboard, translate, podcasts, gmail, or news; some i don't really care enough, but would be nice to find a nice open alternative like pixel recorder, earth, fit, or lens; then the ones quite hard to replace: drive, camera, pixel buds, nokia, and i'm still probably missing at least one more.
 
 - and i'll not really delete any data from free hosting. i'll just stop using them. for these things, they're basically the same, with the added benefit of an extra backup point.
 
