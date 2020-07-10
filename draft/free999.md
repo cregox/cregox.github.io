@@ -17,6 +17,8 @@ google's pixel 3 isn't one of them. neither best nor free.
 
 plus, google's word is worthless...
 
+so much so, [i'm deleting it from my life](/delete).
+
 # how you might turn a $999 loss into something interesting
 
 [i first "published" this story on reddit.](https://www.reddit.com/r/ProjectFi/comments/ayz6o5/comment/encpau1), framed completely different.
