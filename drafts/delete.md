@@ -40,3 +40,16 @@ published: true
 - boy, it'll be hard to transform this into a [nice](/credibility) "giving" text. although all my content is usually very giving almost everyone finds it too hard to digest! 😒 i'm getting better... 😏
 
 cheers! 😘
+
+# also, no humanity
+
+they basically have products and services that might even be technically good (google), although they're mostly really not (microsoft)...
+
+but what they all have in common is complete lack of humanity (facebook), meaning... TK
+
+whatsapp
+
+tinder
+
+bumble
+
