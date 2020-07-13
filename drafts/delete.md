@@ -45,7 +45,15 @@ cheers! 😘
 
 they basically have products and services that might even be technically good (google), although they're mostly really not (microsoft)...
 
-but what they all have in common is complete lack of humanity (facebook), meaning... TK
+but what they all have in common is complete lack of humanity (facebook), meaning they don't care for each person as a person. numbers is all that matters.
+
+how to turn around?
+
+there's no shortcut an no easy way. [ahoxus](/ahoxus) is my personal answer, and it can work for literally anyone... but in practice, it doesn't. because it's hard.
+
+# list of deleted apps
+
+on the first few days, just to begin with...
 
 whatsapp
 
@@ -53,3 +61,6 @@ tinder
 
 bumble
 
+i would love to delete telegram too, but still could find [no alternative](https://restoreprivacy.com/secure-encrypted-messaging-services/). signal is not friendly to multiple devices. wickr is too extreme on privacy, harmful even. wire i'll still try again, but unless it offers more than telegram i won't switch just for better privacy. i need just better backup!
+
+still a big TK.
