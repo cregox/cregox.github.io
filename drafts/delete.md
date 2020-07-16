@@ -15,7 +15,9 @@ published: true
 
 ![death]({{ page.image }})
 
-- this is inspired by [edward cant](https://pornblock.co.uk/), starting with his "delete facebook", probably the most recent endeavor there.
+today (july 10th 2020) i almost got my car stuck in an off road slope hole again (i'll later add some pictures from the first time). and, once more, i got tricked by bad google maps to even go there. thankfully, my previous experience saved me from bigger issues this time. plus, this pushed me to finally switch to [open source maps, osm](https://osmand.net/), which i had installed for some months (*and* even paid for) but haven't switched because of favourites, mostly.
+
+- this page is also heavily inspired by [edward cant](https://pornblock.co.uk/), starting with his "delete facebook", probably the most recent endeavor there.
 
 - [obviously](/privacy) i **strongly** disagree with the focus on privacy concerns.
 
@@ -37,11 +39,11 @@ published: true
 
 - then again, find your center, inner piece, etc. mine [was in portugal](/tamera) and still [is](/ahoxus). no idea what it'll [b](/basiux)e. just that [it will be](/fun)!
 
-- boy, it'll be hard to transform this into a [nice](/credibility) "giving" text. although all my content is usually very giving almost everyone finds it too hard to digest! 😒 i'm getting better... 😏
+- boy, it'll be hard to transform this into a [nice](/credibility) "giving" text. although all my content is usually very giving, almost everyone seem to find it too hard to digest! 😒 i'm getting better... 😏
 
 cheers! 😘
 
-# also, no humanity
+# part 2, no humanity
 
 they basically have products and services that might even be technically good (google), although they're mostly really not (microsoft)...
 
@@ -55,12 +57,26 @@ there's no shortcut an no easy way. [ahoxus](/ahoxus) is my personal answer, and
 
 on the first few days, just to begin with...
 
+hangouts
+
+skype
+
 whatsapp
 
 tinder
 
 bumble
 
-i would love to delete telegram too, but still could find [no alternative](https://restoreprivacy.com/secure-encrypted-messaging-services/). signal is not friendly to multiple devices. wickr is too extreme on privacy, harmful even. wire i'll still try again, but unless it offers more than telegram i won't switch just for better privacy. i need just better backup!
+i would love to delete telegram too, but still could find [no alternative](https://restoreprivacy.com/secure-encrypted-messaging-services/). signal is not friendly to multiple devices and it breaks sms way too often. wickr is too extreme on privacy, harmful even. wire i'll still try again, but unless it offers more than telegram i won't switch just for better privacy. i need just better backup!
 
 still a big TK.
+
+# part 3, updates
+
+edition might be mostly lost in git history, like the rest of this website, but it's still visible there somewhere.
+
+i started this draft 6 days ago, July 10th. now i mostly just edited a few things there.
+
+facebook is harder to delete because too many people i'm contact with through that alone! and, honestly, other than telegram, which is still not the best option, there's still no good alternative other than email (or is there? please, let me know)!
+
+and google is everywhere, with irreplaceable conveniences. some i already just deleted anyway. others are much harder, as already mentioned.
