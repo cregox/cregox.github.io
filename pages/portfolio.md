@@ -1,7 +1,8 @@
 ---
 title: who?
 description: portfolio for caue 'cregox' rego. such a creative web name!
-image: throwing boomerang.jpg
+date: 2020-07-17 16:33:00
+image: /portfolio/throwing boomerang.jpg
 redirect_from:
   - /portpholio/
   - /folio/
@@ -25,5 +26,5 @@ born "caue rego" (plus more names) and turned into web "cregox", i'm just a [ran
 - [formigas](/formigas) was my adaptation from atari game. more nostalgia? are you a kind of a gamer person? if you also like to code, this is for you! else, you might want to skip it.
 - [some photos](/caue-casting) for [casting](/casting), lol. if you enjoy feeling ashamed for other people.
 - [homemade]({{ site.a.youtube }}) [videos](/videos) are 2 links where you can find more shameless trash i've recorded in motion.
-- [i advise against building resumes](/resume). this one was even fun to create and maintain, but never gave me anything. because resumes don't bring work! networking and profiles meant to [help](/thanks) others, do.
-- [ahoxus](/ahoxus) is my newest thing (may 2019). it's a morphing project about life, still looking for its shape.
+- [i advise against building resumes](/nocover). [mine](/resume) was even fun to create and maintain, but never gave me anything. because resumes don't bring work! networking and profiles meant to [help](/thanks) others, do.
+- [ahoxus](/ahoxus) is my newest thing (aug 2019). it's a morphing project about life, still looking for its shape.
