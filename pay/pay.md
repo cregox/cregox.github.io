@@ -1,6 +1,7 @@
 ---
 title: invest
 description: show us our money!
+date: 2020-07-17 16:40:00
 image: piracicaba water flow.jpg
 permalink: /pay/
 redirect_from:
@@ -20,7 +21,7 @@ iban: https://www.iban.com/glossary
 
 perhaps you'll want to [get in touch](/contact) and give us some feedback as well.
 
-as of today (dec 2019), there's no silver bullet way to send money to someone over the web:
+i believe that as of today (dec 2019) there's still no simple unique way to send money to someone over the web, so:
 
 <details>
   <summary markdown="span">perhaps the easiest way for you today is **transfer wise**.</summary>
