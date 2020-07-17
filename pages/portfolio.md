@@ -3,7 +3,9 @@ title: who?
 description: portfolio for caue 'cregox' rego. such a creative web name!
 date: 2020-07-17 16:33:00
 image: /portfolio/throwing boomerang.jpg
+permalink: /portfolio/
 redirect_from:
+  - /portifolio/
   - /portpholio/
   - /folio/
   - /who/
