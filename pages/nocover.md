@@ -1,5 +1,8 @@
 ---
 title: no cover
+description: i hate cover letters and you should too! (here's why)
+date: 2020-07-17 16:47:00
+permalink: /nocover/
 redirect_from:
   - /cover/
   - /letter/
@@ -8,10 +11,9 @@ layout: page
 published: true
 ---
 
-i hate cover letters. and you should too. here's why.
+# {{ page.description }}
 
-keep in mind, this is no blog post. and i couldn't quickily find one.
-so i'll collect many links here and keep it as short as i can.
+since i couldn't quickily find someone blogging or [manifesting](/mani) about this, i'll collect many links here and keep it as short as i can.
 
 # job vacancies are overestimated
 
