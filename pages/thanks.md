@@ -1,7 +1,9 @@
 ---
 title: thanks
 description: because yes, we should all practice more gratitude. and help each other.
-image: leiria flower.jpg
+date: 2020-07-17 17:12:00
+image: /thanks/leiria flower.jpg
+permalink: /thanks/
 redirect_from:
   - /touch/
   - /thank/
@@ -12,45 +14,48 @@ menu: true
 ---
 
 <video poster="{{ page.image }}" autoplay loop muted playsinline controls>
-  <source src="leiria flower boomerang.mp4" />
-  <img title="gratitude in the small things" src="moving leiria flower.gif" alt="a sunflower in a small old town pedestrian street" />
+  <source src="/thanks/leiria flower boomerang.mp4" />
+  <img title="gratitude in the small things" src="/thanks/moving leiria flower.gif" alt="a sunflower in a small old town pedestrian street" />
 </video>
 
 how to touch people? you know, deep inside. the right way.
 
 we all know how. it's simple. just do our best, pay attention to each situation.
 
-not always it'll be pleasent, though. spreading love can be pretty hard.
+not always will it be pleasent. spreading love can be pretty hard!
 
 so, are we doing it nearly as much as we should?
 
-this is my never ending, and always in need of update, list of people i'm thankful for. humans who touched me recently, even if ever so slightly or critically.
+no idea.
 
-_(means their touch might work on you to.)_ ;)
+i used to list some people here who i'm thankful for, by name. humans who touched me recently, even if ever so slightly or critically.
 
-in [random](/random) order. <a href="javascript:shuffle()">truly</a>.
+instead, i'll list them by some random identifier... because i realize now that not everyone is very comfortable with publicity of their names.
+
+<a href="javascript:shuffle()">truly</a> in [random](/random) order.
 
 <span id="random">
-sandraclark
-otaviomachado
-assislima
-manuellima
-luiaracd
-inaciopessoa
-ianrego
-yurebis
-henriquegalvao
-adrtrotta
-guzforster
-ekifalcaos
-gabispinelli
-fernandarolli
-mairasardao
-edmondpruteanu
-ragaganga
-suhailyazijy
+mom
+dad
+family-shrink
+childhood-musical-prodigy-friend
+sister
+childhood-musical-prodigy-who-went-finance-friend
+middle-brother
+small-brother
+childhood-nuts-friend
+childhood-really-nuts-friend
+teenage-friend
+step-brother
+sister-of-step-brother-married-with-middle-one
+big-crush-who-never-was
+wife
+relaxation-coding-dude
+tantra-couple
+online-medic-gone-missing
 "[ahoxus](/ahoxus) list [TK](/tk)"
-curtissmurphy
+tamera-healing-from-brazil-friend
+spanish-lady-from-swiss-friend
 </span>
 
 {% include random_js.html %}
