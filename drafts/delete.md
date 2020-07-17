@@ -1,6 +1,7 @@
 ---
 title: delete everything!
 description: google, facebook, twitter, your dog...
+date: 2020-07-17 16:00:00
 image: /pages/death.jpg
 permalink: /delete/
 redirect_from:
