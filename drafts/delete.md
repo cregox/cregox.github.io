@@ -80,3 +80,5 @@ i started this draft 6 days ago, July 10th. now i mostly just edited a few thing
 facebook is harder to delete because too many people i'm contact with through that alone! and, honestly, other than telegram, which is still not the best option, there's still no good alternative other than email (or is there? please, let me know)!
 
 and google is everywhere, with irreplaceable conveniences. some i already just deleted anyway. others are much harder, as already mentioned.
+
+pay attention, though! as soon as one such big group open up everything, a bit like wikipedia and even telegram, and make things that are really free, loving, and good, as long as it's better than what i'm using now, i'll jump in! this is not about privacy, evil money or whatever new age bullshit. this is a very practical stance on trying to expose the real issues with too many things out there. and better enjoy the ride. 😘
