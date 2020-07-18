@@ -68,7 +68,7 @@ tinder
 
 bumble
 
-i would love to delete telegram too, but still could find [no alternative](https://restoreprivacy.com/secure-encrypted-messaging-services/). signal is not friendly to multiple devices and it breaks sms way too often. wickr is too extreme on privacy, harmful even. wire i'll still try again, but unless it offers more than telegram i won't switch just for better privacy. i need just better backup!
+i will probably delete even telegram too, but still going through [alternatives](https://restoreprivacy.com/secure-encrypted-messaging-services/) and looking for different [sources (privacy law compliant sounds like a good reference)](https://en.m.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients). from those so far, there are about 5 candidates... signal is not friendly to multiple devices and it breaks sms way too often. wickr is too extreme on privacy, harmful even. wire i'll still try again, but unless it offers more than telegram i won't switch just for better privacy. i need [decentralised](https://en.m.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols)! so my best bets are now on xmpp, matrix, and jami (mattermost doesn't offer free hosting and keybase is only at the google store for some reason). there's also the weird odd ball "easy join" i found by accident... not to mention [this list](https://www.geckoandfly.com/20552/encrypted-secure-message-chat/) i still have to go through because it points out the single most important aspect of every app that should be: [decentralised](https://hackernoon.com/what-is-decentralized-internet-and-how-new-ios-and-android-mobile-apps-will-work-545938afe3ea). remember, the internet? 
 
 still a big TK.
 
