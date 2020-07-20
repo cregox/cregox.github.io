@@ -1,7 +1,7 @@
 ---
 title: progressive web app
-description: pwa is such a good name which is just way undervalued!
-date: 2020-07-17 16:00:00
+description: pwa is such a good name which is just way 
+date: 2020-07-20 12:50:00
 image: /pages/progressive.jpg
 permalink: /pwa/
 redirect_from:
