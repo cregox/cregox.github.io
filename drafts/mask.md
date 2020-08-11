@@ -1,7 +1,7 @@
 ---
 title: covid-19 masks
 description: why masks are like condoms (or even sunglasses) on steroids
-date: 2020-08-07 11:00:00
+date: 2020-08-11 19:19:00
 image: /pages/tk.jpg
 permalink: /masks/
 redirect_from:
@@ -106,3 +106,27 @@ i call it [ahoxus](/ahoxus). and you might not believe it, but i don't need you 
 but if you're also even slightly bothered by how reliant you've grow to be with sunglasses, do take a deep breath and keep digging!
 
 plus, wear seatbelts. those are virtually always good. and do it wrong as well. life will go on.
+
+### chances to get sick or die
+
+- searched for variations of "chances covid getting odds skeptic shark attack" on the past week
+
+- found 4 interesting articles
+
+- sadly, [the first one](https://www.psychologytoday.com/us/blog/never-binge-again/202002/coronavirus-food-and-why-i-may-be-eaten-shark) would have been ideal, if not for being so outdated (from february) and, as usual, so focused only in the usa. they state chances of dying from botulism there (145 per year) vs slipping and falling (19,500 deaths per year).
+
+granted, covid19 can't be measured per year and chances will vary wildly, but keep on reading...
+
+- the [second one](https://www.matherhospital.org/wellness-at-mather/what-are-your-chances-of-catching-covid-19/) is close to useless, as it happens with most infographics... but it's still an interesting approach: risk only really begins when you spend at least 10 minutes in proximity (less than 1 or 2 meters away) with someone who's positive. but still, how much is our risk today?
+
+- [this article from june](https://www.mercurynews.com/2020/06/22/whats-your-risk-from-coronavirus-new-study-suggests-lower-than-we-perceive/) brings 2 good data points about it: "The study found a 50-to-64-year-old person who has a single random contact has, on average, a 1 in 852,000 chance of being hospitalized or a 1 in 19.1 million chance of dying based on rates as of the last week of May." but... "critics say the study oversimplified answers to one of COVID-19’s most vexing questions". fair enough...
+
+- finally, from 2 days ago, we found [this excellent piece](https://www.npr.org/2020/08/09/900490301/covid-19-may-never-go-away-with-or-without-a-vaccine): "More than 19 million people have tested positive for the coronavirus globally, and at least 722,000 have died."
+
+there. keep in mind the trends are going down and that they've been worse before. but, as it is, 800k deaths in roughly 6 months of corona can be extrapolated for a worst case scenario of 1.6 million this year. but since all graphs point to a downward curve, we're probably past half of the crisis. more likely the amount of deaths for the next 6 months will be less than 700k. not quite a 1 in 19 million chance, but still 1 in 10,000, if my math still serves me right.
+
+so what are the chances of getting covid19 without direct contact for 10 minutes with someone positive? exponentially lower.
+
+my point here is just that even during the crisis, the real chances of getting sick from covid, given we keep a safe distance, were significantly smaller than the media and the government would like is to believe, because if most people believe the chances are so small, they won't keep the crucial safe distance.
+
+and the only thing masks are really good for, other than generating a political debate, is reminding us to keep distance.
