@@ -2,7 +2,7 @@
 title: mountain
 description: is that the sea?
 date: 2020-08-14 13:00:00
-image: /pages/alvao.jpg
+image: /pages/alvaopeak.jpg
 permalink: /mountain/
 redirect_from:
   - /top/
@@ -29,4 +29,4 @@ following that link i fell into reddit and then this other [nice article](https:
 
 what's more... reddit also offered [this amazing link](http://www.heywhatsthat.com) where we can precisely measure the like of sight anywhere on earth, with all visuals you might expect from our best (free) earth simulations today. there was where i confirmed what i just knew already, against all experts from this place: yes, it is the sea. it's completely visible from alvao. and it's quite a magical view and realization. 😁
 
-![alvao sight map](/pages/alvaosightmap.jpg)
+![alvao sight map](/pages/alvaosightmap.png)
