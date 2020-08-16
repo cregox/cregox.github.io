@@ -7,7 +7,7 @@ permalink: /help/
 redirect_from:
   - /me/
   - /you/
-layout: page
+layout: draft
 published: true
 ---
 
