@@ -10,6 +10,7 @@ redirect_from:
   - /real/
 layout: draft
 published: true
+---
 
 # {{ page.description }}
 
