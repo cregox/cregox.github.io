@@ -1,7 +1,7 @@
 ---
 title: thanks
 description: because yes, we should all practice more gratitude. and help each other.
-date: 2020-07-17 17:12:00
+date: 2020-08-10 06:12:00
 image: /thanks/leiria flower.jpg
 permalink: /thanks/
 redirect_from:
@@ -70,6 +70,6 @@ my best friend guzforster pointed me to it, thinking i could use some "portfolio
 
 the thing is, i truly haven't. not with the right attitude, at least, of truly helping others.
 
-and the funny part is that i know for a fact i've touched other people with whatever crap i've done, thanks to more good friends (sandra, gabi, maira, etc TK)... and probably what i do better, finished project wise, is always related to programming. despite all my eforts against it.
+and the funny part is that i know for a fact i've touched other people with whatever crap i've done, thanks to more good friends... and probably what i do better, finished project wise, is always related to programming. despite all my eforts against it.
 
 so, there you go. coincidentally, i even decided to start this page just because i could find nowhere to publicly thank gigi. and now i hope this can start something beautiful!

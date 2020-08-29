@@ -1,6 +1,7 @@
 ---
 title: tamera
-description: not yet ahoxus
+description: not yet ahoxus! 😆
+date: 2020-08-28 11:54:00
 image: /pages/tamera symbol.jpeg
 permalink: /tamera/
 redirect_from:
@@ -8,13 +9,14 @@ redirect_from:
   - /biotope/
 layout: page
 published: true
+tamera: https://ahoxus.org/tamera
 ---
 
 [> photos from places after tamera <](https://photos.app.goo.gl/daDS1yX1Dh6kz5qG6).
 
-[![tamera symbol]({{ page.image }})](https://tamera.org)
+[![tamera symbol]({{ page.image }})]({{ page.tamera }})
 
-to me it is a turning point. a realization of a dream, even if only still just a tiny part of it. it showed me it's possible to live a completely [fulfilling life](/capitalism) with just a few people around and the same goal.
+to me [tamera]({{ page.tamera }}) is a turning point. a realization of a dream, even if only still just a tiny part of it. it showed me it's possible to live a completely [fulfilling life](/capitalism) with just a few people around and the same goal.
 
 when i started [ahoxus](/ahoxus) in 2018 i only had in mind things i didn't want to repeat from the [basiux](/basiux). i didn't realize it was about tamera but, in retrospect, it was.
 
