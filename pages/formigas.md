@@ -25,4 +25,6 @@ which, in turn, was a copy of an atari game called Labyrinth. i've used Gorilla'
 
 both were quite fun to build.
 
+but this scratch version have only 1 big drawback: forward compatibility with reality. it'll probably stop working before they can update it according with the latest tech... on the bright side, it still works today and you can even see the source code, which is immensely smaller than the previous version and anything i could've build in any other language, for achieving the same results: working on a web browser, nice graphs, some sound and music, easy feedback (although i don't think i'm getting any notifications there), etc.
+
 i thought next time, i would make an adaptation to javascript with some more interesting twist... but if i ever do this again, it'll be in yet another unexpected future event.
