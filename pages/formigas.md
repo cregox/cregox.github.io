@@ -2,7 +2,7 @@
 title: formigas
 description: my adaptation from atari
 date: 2020-08-30 14:16:00
-image: /pages/formigas scratch 2020.png
+image: /gallery/formigas scratch 2020.png
 permalink: /formigas/
 redirect_from:
   - /scratch/
@@ -13,7 +13,7 @@ published: true
 
 # {{ page.description }}
 
-![tk]({{ page.image }})
+![page.image]({{ page.image }})
 
 [formigas](https://scratch.mit.edu/projects/17273607/#player) is a tiny game i've made using MIT's "Scratch" visual language, in 5 days from january [2014](/2014).
 
