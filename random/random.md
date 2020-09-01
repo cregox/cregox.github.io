@@ -81,7 +81,7 @@ the trick is that cryptography needs only eggs. puzzles are useless. and in this
 
 yes, quantum computing can break this model, but never the seed. even the fastest most advanced computer would need to simulate the entire conditions around what generated the seed in order to predict the next seed... in practice, it's impossible.
 
-now, i haven't even brought up how a software can generate a true random number, in theory... the short version is: ai. just like a single human behaviour can easily be random to us, another intelligent being will, necessarily, be able to be random. the catch 22 here is how to make such an intelligent ai smarter than humans and i would argue that it needs a true random generator to begin with. but this could be a paradox resolved by itself, creating both at the exact same time.
+now, i haven't even brought up how a software can generate a true random number, in theory... the short version is: ai. just like a single human behaviour can easily be random to us, another intelligent being will, necessarily, be able to be random. the catch 22 here is how to make such an intelligent ai smarter than humans and i would argue that [it needs a true random generator to begin with](https://ai.stackexchange.com/questions/15590/is-randomness-necessary-for-ai?newreg=70448b7751cd4731b79234915d4a1248). but this could be a paradox resolved by itself, creating both at the exact same time.
 
 after all, [randomness do help math in ways most people (including me) will never comprehend](https://www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/), although to me it's very clear that's basically tapping into god. chaos, perhaps? 😁
 
