@@ -13,7 +13,10 @@ this is cregox.
 here you can search for anything related to me that might entice you, such as "damme", "[ahoxus](/ahoxus)" or "random". try it:
 
 <iframe
-src="https://duckduckgo.com/search.html?width=256&site=cregox.net,ahoxus.org&prefill=search with the duck"
+src="https://duckduckgo.com/search.html
+?width=256&prefill=search with the duck
+&kp=-2&kj=d&kx=b&k1=-1&kam=osm
+&site=cregox.net,ahoxus.org"
 style="overflow:hidden;margin:0;padding:0;width:314px;height:40px;"
 frameborder="0">
 </iframe>
