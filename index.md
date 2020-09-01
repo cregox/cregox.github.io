@@ -6,24 +6,19 @@ layout: default
 published: true
 ---
 
-hello!
+warm greetings, human.
 
-please, search below for anything related to cregox that might entice you. such as "damme", "[ahoxus](/ahoxus)" or "random".
+this is cregox.
 
-<script>
-  (function() {
-    var cx = '010647840594061099018:ofzvp-qmvj4';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
+here you can search for anything related to me that might entice you, such as "damme", "[ahoxus](/ahoxus)" or "random". try it:
 
-still can't find something in specific? try going [straight to google](https://www.google.com/search?q=site:cregox.net+[random]).
+<iframe
+src="https://duckduckgo.com/search.html?width=256&site=cregox.net,ahoxus.org&prefill=search with the duck"
+style="overflow:hidden;margin:0;padding:0;width:314px;height:40px;"
+frameborder="0">
+</iframe>
+
+out of ideas to search for? [duck with a random one](https://duckduckgo.com/?q=site:cregox.net+[random]).
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
@@ -32,8 +27,8 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
 <small> _[(disclaimer about the lower case writing style)](/locaws)_ </small>
 
 <script> (function() {
-    window.onhashchange = updateGoogleLinks;
-    window.onpopstate = updateGoogleLinks;
+    window.onhashchange = updateQueryLinks;
+    window.onpopstate = updateQueryLinks;
     var term = sample([
         'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
@@ -42,10 +37,10 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
         'wanderful', 'video', 'film', 'rating', 'scale'
     ]);
     var linksUpdated = [];
-    updateGoogleLinks();
-    function updateGoogleLinks () {
-        var gcseTerm = getHashQueryStringValue('gsc.q');
-        if (gcseTerm) term = gcseTerm;
+    updateQueryLinks();
+    function updateQueryLinks () {
+        // var gcseTerm = getHashQueryStringValue('gsc.q');
+        // if (gcseTerm) term = gcseTerm;
         linksUpdated.forEach(function(original){
             original.item.href = original.href.replace('[random]', term);
         })
