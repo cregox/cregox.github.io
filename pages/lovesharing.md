@@ -1,7 +1,7 @@
 ---
 title: love sharing
 description: i share even my toothbrush, if you can love me too! 😘
-image: /pages/toothbrush.jpg
+image: /pages/bluetoothbrush.jpg
 permalink: /lovesharing/
 redirect_from:
   - /love/
@@ -12,7 +12,7 @@ published: true
 
 # {{ page.description }}
 
-![my toothbrush]({{ page.image }})
+![my blue tooth brush]({{ page.image }})
 
 if you found this link from bluetooth, perhaps you should know i would love to also [share my internet for free](/freeweb).
 
