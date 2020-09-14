@@ -89,7 +89,7 @@ enough about the technicalities, though...
 
 vaccines will be absolutely mandatory. physical distance is by far the best method, and only one capable of resetting the pandemic effect, when it gets out of hand.
 
-except for the naive mask recommendations, i can't recommend enough for you to [spend at least 1h and dig into nick's unique article](https://ncase.me/covid-19).
+except for the naive mask recommendations, **i can't recommend enough for you to [spend at least 1h and dig into ncase (nick)'s unique article](https://ncase.me/covid-19)**. also, the best graphs i've found to keep track are, by far: [aatish's (first)](https://aatishb.com/covidtrends/?location=Australia&location=Brazil&location=Canada&location=China&location=Colombia&location=Finland&location=Hong+Kong&location=India&location=Mexico&location=New+Zealand&location=Peru&location=Portugal&location=Russia&location=Singapore&location=South+Africa&location=South+Korea&location=Spain&location=Taiwan&location=US) and [johns hopkins](https://coronavirus.jhu.edu/map.html).
 
 this covid-19 will be contained. but it's just a very small hint on how terrible the system is set. it's set for disaster. to fail miserably. and many more will both live terribly and die because of this.
 
