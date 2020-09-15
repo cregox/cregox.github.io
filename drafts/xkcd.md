@@ -15,6 +15,8 @@ published: true
 
 ![randall self portrait]({{ page.image }})
 
+[from](https://mobile.twitter.com/cauerego/status/1305764615532445696)
+
 [review](https://cregox.net/talk/t/xkcd-was-dead-staple-horse-wrong-about-passwords/7743.html)
 
 [point fingers](https://www.correcthorsebatterystaple.net/)
