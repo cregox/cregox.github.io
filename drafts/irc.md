@@ -33,7 +33,7 @@ and delta chat.
 
 also telegram is far superior than twitter, for further reference on why delta chat.
 
-please, just keep it simple, smart. (reference to kiss versus niagara)
+please, just keep it simple, smart. (reference to [kiss versus niagara](https://github.com/8bitPit/Niagara-Issues/issues/180#issuecomment-686421514) and [[open source](/open)])
 
 # forums 2.0
 
