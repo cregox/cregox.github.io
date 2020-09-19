@@ -38,4 +38,4 @@ although, in this case, i would bet that nobody would be against knowing anythin
 
 - it gets points for having a nice _tagline_ "love is actually not guaranteed, nothing is", being an easy story to tell (_international_), and showing a little bit of _caring_ (taking about love), but it doesn't dig deep enough to be good.
 
-and story but, again, this is just yet another draft. 😁
+and sorry, but, again, this is just yet another draft. 😁
