@@ -55,6 +55,7 @@ published: false
 ---
 title: could be anything
 description: this is good for opengraph
+date: 2020-07-17 16:00:00
 image: spaces allowed.jpg
 permalink: /anything/
 redirect_from:
@@ -68,7 +69,7 @@ published: true
 - again, optional, but try styling it up with markdown!
 
 ```
-it's very easy to make some words **bold** and other words *italic* with markdown. you can even [link to Google!](http://google.com)
+it's very easy to make some words **bold** and other words *italic* with markdown. you can even [link to cregox!](https://cregox.net)
 
 sometimes you want numbered lists:
 
