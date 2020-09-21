@@ -2,7 +2,7 @@
 title: maps
 description: how to get from point A to B
 date: 2020-09-21 13:00:00
-image: /pages/world map 1689.jpg
+image: /pages/world map 1689.jpeg
 permalink: /maps/
 redirect_from:
   - /map/
