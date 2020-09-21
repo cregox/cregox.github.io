@@ -17,6 +17,8 @@ published: true
 
 ![our world view haven't changed much in the past 500 years or so]({{ page.image }})
 
+> The word "map" comes from the medieval Latin Mappa mundi, wherein mappa meant napkin or cloth and mundi the world. Thus, "map" became a shortened term referring to a two-dimensional representation of the surface of the world. -- [wikipedia](https://en.m.wikipedia.org/w/index.php?title=Map&oldid=977379227)
+
 fuck, google maps is good! so much so that it still feels far superior than the rest. but [[google is evil](/google)] and so the map suffer.
 
 by far, google **main issue** is the lack of awareness of [what software should even be: always open source, or simply no strings attached **free**](/open)!
