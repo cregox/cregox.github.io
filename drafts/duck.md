@@ -7,7 +7,7 @@ permalink: /duck/
 redirect_from:
   - /duckduckgo/
   - /ducking/
-layout: page
+layout: draft
 published: true
 ---
 
