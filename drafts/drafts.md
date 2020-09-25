@@ -14,4 +14,4 @@ published: true
 
 ![drafts]({{ page.image }})
 
-to remind myself the drafts go into drafts folder, not draft!
+to remind myself the drafts go into `drafts` folder and not `draft`!
