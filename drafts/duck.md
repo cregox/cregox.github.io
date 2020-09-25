@@ -15,11 +15,11 @@ published: true
 
 ![duck]({{ page.image }})
 
-by far the most interesting web search since google launched over 20 years ago.
+[duckduckgo](https://duckduckgo.com) is by far the most interesting* web search tool since google launched over 20 years ago.
 
-obviously despite of the erradic [[privacy](/privacy)] concerns.
+obviously despite of the erradic [[privacy](/privacy)] concerns...
 
-interesting because it's a new company focusing on search and growing among all the other big ones.
+*interesting because it's a new company focusing on search and growing among all the other big ones.
 
 and, hopefully, it'll eventually learn that their focus should be [[opening up](/open)], or someone else will have to arise again.
 
