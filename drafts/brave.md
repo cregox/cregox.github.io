@@ -7,7 +7,7 @@ permalink: /brave/
 redirect_from:
   - /bat/
   - /chromium/
-layout: page
+layout: draft
 published: true
 ---
 
@@ -19,10 +19,14 @@ published: true
 
 in short:
 
-it's that the best browser.
+it's the best browser today.
 
 forget freaking trendy [[privacy](/privacy)] (not even tor will give you that) or getting insignificant pay for terrible ads...
 
-it rocks because it works great everywhere, it's fast (because it blocks [[ads](/ads)]), fully [[OSS](/oss)], and sustainable! 
+it rocks because it works great everywhere, it's fast (because it blocks [[ads](/ads)]), fully [[OSS](/oss)], and sustainable (for whatever [that](/ahoxus) means)! 
 
-main complain: it was hard to migrate from chrome... it uses chromium, so i thought it should offer some easier way, connecting to google to import or something... anyway, turn off the ads, learn to be online (in public), and enjoy it.
+main complain: it was hard to migrate from chrome... it uses chromium, so i thought it should offer some easier way, connecting to google to import or something... i ended up doing manually and little by little.
+
+anyway, turn off the brave ads, learn to be online/public (because there's no such thing as online privacy, ultimately*), and enjoy it.
+
+* unless you really know how feds and hankers can find you and live completely outside "the system"... but keep in mind there's hardly any good reason to go full [[snowden](/snowden)] (in short, he was probably dumb).
