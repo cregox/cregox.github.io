@@ -2,7 +2,7 @@
 title: duck
 description: where the duck goes?
 date: 2020-09-22 20:47:00
-image: /pages/duck.jpg
+image: /pages/duck.png
 permalink: /duck/
 redirect_from:
   - /duckduckgo/

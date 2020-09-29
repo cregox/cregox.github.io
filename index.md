@@ -1,39 +1,39 @@
 ---
 title: home
 description: do worry, plus be happy... and do it!
+date: 2020-09-29 19:57:00
 image: cregox avatar.jpg
 layout: default
 published: true
+ask: https://duckduckgo.com/?q=%random+"cregox"+site:cregox.net&kp=-2&k1=-1&kj=g2&kam=osm
 ---
 
 hello!
 
-please, search below for anything related to cregox that might entice you. such as "damme", "[ahoxus](/ahoxus)" or "random".
+search below for anything related to cregox that might entice you. such as "damme", "[[ahoxus](/ahoxus)]" or "[[random](/random)]", for instance.
 
-<script>
-  (function() {
-    var cx = '010647840594061099018:ofzvp-qmvj4';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search defaultToRefinement="main" linktarget="_self" enableAutoComplete="true"></gcse:search>
+<form name="searchForm" class="search" method="get" action="https://duckduckgo.com" onsubmit="return duckFix();">
+<input type="hidden" name="kam" value="osm">
+<input type="hidden" name="kp" value="-2">
+<input type="hidden" name="k1" value="-1">
+<input type="hidden" name="kj" value="g2">
+<input type="text" name="q" placeholder="duck search" value='"cregox" site:cregox.net'>
+<input type="hidden" name="hq" value="">
+<input type="submit" value="🔎">
+</form>
 
-still can't find something in specific? try going [straight to google](https://www.google.com/search?q=site:cregox.net+[random]).
+still [can't find](/duck) something in specific? got nothing in mind? try going straight to [the duck 🦆 with a random string]({{ page.ask }}).
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
-<small> missing cookies? [really](/reality)?! sorry, [we don't track](/tracking)! 😁😘 </small>
+<small> missing cookies? [really](/reality)?! sorry, [[we don't track](/tracking)]! 😁😘 </small>
 
 <small> _[(disclaimer about the lower case writing style)](/locaws)_ </small>
 
 <script> (function() {
-    window.onhashchange = updateGoogleLinks;
-    window.onpopstate = updateGoogleLinks;
+    window.onhashchange = updateAll;
+    window.onpopstate = updateAll;
+//    window.onfocus = updateAll;
     var term = sample([
         'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
@@ -42,16 +42,39 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
         'wanderful', 'video', 'film', 'rating', 'scale'
     ]);
     var linksUpdated = [];
-    updateGoogleLinks();
-    function updateGoogleLinks () {
-        var gcseTerm = getHashQueryStringValue('gsc.q');
-        if (gcseTerm) term = gcseTerm;
+    var urlParams = new URLSearchParams(window.location.search);
+
+    function updateAll () {
+        updateLinks();
+        vq.value = urlParams.get("q");
+//        q.defaultValue = q.value;
+//        document.searchForm.refresh();
+    }
+
+    document.searchForm.q.setAttribute("name", "vq");
+    document.searchForm.hq.setAttribute("name", "q");
+    var q = document.searchForm.q;
+    var vq = document.searchForm.vq;
+    document.searchForm.onsubmit = function duckFix () {
+        q.value = vq.value;
+        if (q.value.length == 0) {
+            q.value = term;
+        }
+        var askURL = new URL('{{ page.ask }}');
+        var ask = askURL.searchParams;
+        q.value += ask.get("q").replace("%random", "");
+    }
+
+    updateAll();
+    function updateLinks () {
+        var hashTerm = getHashQueryStringValue('q');
+        if (hashTerm) term = hashTerm;
         linksUpdated.forEach(function(original){
-            original.item.href = original.href.replace('[random]', term);
+            original.item.href = original.href.replace('%random', term);
         })
-        document.querySelectorAll('a[href*="[random]"]').forEach(function(item){
+        document.querySelectorAll('a[href*="%random"]').forEach(function(item){
             linksUpdated.push({item: item, href: item.href, term: term});
-            item.href = item.href.replace('[random]', term);
+            item.href = item.href.replace('%random', term);
         })
     }
     function sample (items) {
