@@ -33,7 +33,6 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
 <script> (function() {
     window.onhashchange = updateAll;
     window.onpopstate = updateAll;
-//    window.onfocus = updateAll;
     var term = sample([
         'random', 'basiux', 'fuck', 'reason of life', 'trs', 'rfc',
         'imrs', 'password', 'faq', 'brain', 'philosophy', 'help',
@@ -43,26 +42,28 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
     ]);
     var linksUpdated = [];
     var urlParams = new URLSearchParams(window.location.search);
+// no idea why this doesn't work! but it's worth it to leave it here for reference, i suppose
+//    var urlParams = window.location.searchParams;
 
     function updateAll () {
         updateLinks();
         vq.value = urlParams.get("q");
-//        q.defaultValue = q.value;
-//        document.searchForm.refresh();
     }
 
+    // use a hidden form to send the query
     document.searchForm.q.setAttribute("name", "vq");
     document.searchForm.hq.setAttribute("name", "q");
     var q = document.searchForm.q;
     var vq = document.searchForm.vq;
+
+    // because html onsubmit didn't work
     document.searchForm.onsubmit = function duckFix () {
         q.value = vq.value;
         if (q.value.length == 0) {
             q.value = term;
         }
-        var askURL = new URL('{{ page.ask }}');
-        var ask = askURL.searchParams;
-        q.value += ask.get("q").replace("%random", "");
+        var ask = new URL('{{ page.ask }}');
+        q.value += ask.searchParams.get("q").replace("%random", "");
     }
 
     updateAll();
