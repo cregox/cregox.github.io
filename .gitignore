@@ -4,3 +4,5 @@
 .sass-cache
 node_modules/
 /gulp-google-optimisation-for-later/
+.jekyll-metadata
+
