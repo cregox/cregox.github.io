@@ -1,6 +1,7 @@
 ---
 title: pc's & dados
-description: og
+description: one of my first coding projects
+date: 2020-10-06 22:04:00
 image: pcsedados home.gif
 permalink: /pcsedados/
 redirect_from:
@@ -12,14 +13,15 @@ published: true
 
 [![pcsedadosb home]({{ page.image }})](http://www.pcsedados.com.br/)
 
-this is, to date, about 17 years later, my coding project I'm most proud of. done in 2003.
+# {{ page.description }}
+
+this is, to date, about 17 years later, my coding project i'm most proud of. done in 2003.
 
 coincidentally, it's:
 
-- still working
-- the longest one running
-- even helping to keep the business up
-- and required almost no (technical) maintenance ever
+- the longest one running (worked for about 17 years)
+- helped to keep the business up for that long
+- required almost no (technical) maintenance ever
 
 ### here's the most relevant part, after clicking [services] / [hire]:
 
