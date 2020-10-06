@@ -2,12 +2,12 @@
 title: duck
 description: where the duck goes?
 date: 2020-09-22 20:47:00
-image: /pages/duck.png
+image: duck.png
 permalink: /duck/
 redirect_from:
   - /duckduckgo/
   - /ducking/
-layout: draft
+layout: page
 published: true
 ---
 
@@ -15,7 +15,7 @@ published: true
 
 ![duck]({{ page.image }})
 
-[duckduckgo](https://duckduckgo.com) is by far the most interesting* web search tool since google launched over 20 years ago.
+[duckduckgo](https://duck.com?{{ site.duck }}) is by far the most interesting* web search tool since [[google](/google)] launched over 20 years ago.
 
 obviously despite of the erradic [[privacy](/privacy)] concerns...
 
@@ -24,3 +24,4 @@ obviously despite of the erradic [[privacy](/privacy)] concerns...
 and, hopefully, it'll eventually learn that their focus should be [[opening up](/open)], or someone else will have to arise again.
 
 meanwhile, let's enjoy it. like all the other digital era ones that came before. and keep on [[deleting](/delete)] the rest.
+

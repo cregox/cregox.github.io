@@ -5,7 +5,7 @@ date: 2020-09-29 19:57:00
 image: cregox avatar.jpg
 layout: default
 published: true
-ask: https://duckduckgo.com/?q=%random+"cregox"+site:cregox.net&kp=-2&k1=-1&kj=g2&kam=osm
+ask: https://duckduckgo.com/?q=%random+"cregox"+site:cregox.net
 ---
 
 hello!
@@ -22,7 +22,7 @@ search below for anything related to cregox that might entice you. such as "damm
 <input type="submit" value="🔎">
 </form>
 
-still [can't find](/duck) something in specific? got nothing in mind? try going straight to [the duck 🦆 with a random string]({{ page.ask }}).
+still [can't find](/duck) something in specific? got nothing in mind? try going straight to [the duck 🦆 with a random string]({{ page.ask }}{{ site.duck }}).
 
 or perhaps just lay back and "watch" some [fas tv](/tv).
 
@@ -85,3 +85,5 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
       return decodeURIComponent(window.location.hash.replace(new RegExp("^(?:.*[&\\#]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
     }
 })(); </script>
+ </script>
+

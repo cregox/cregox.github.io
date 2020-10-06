@@ -14,6 +14,7 @@ include: [".well-known"]
 #google_analytics: UA-4687862-8 # placed on head include
 
 # (hopefuly) widely used external links
+duck: "&kp=-2&k1=-1&kj=g2&kam=osm"
 a:
   caue:
     casting: https://b.cregox.net/caue-casting
