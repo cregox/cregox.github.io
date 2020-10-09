@@ -13,13 +13,19 @@ published: true
 
 ![{{ page.image }}]({{ site. image_path }}{{ page.image }})
 
-# {{ page.description }}
+## {{ page.description }}
 
-it's easy to come up with arbitrary summaries in retrospect.
+# 2015
 
-basiux is no more. the result was [a small presentation in a "reach for the moon" event on a London Google office](https://photos.app.goo.gl/DK74wJMQrUDRP2wS7). for my mom. she was filming it. so happily and satisfied, she has been glowing ever since. the first and last presentation of the project. she had missed, after all, [the first and only theater play he had produced](/proud).
+it's easy to come up with arbitrary summaries in retrospect. still...
 
-the site is now obsolete. probably too buggy. the idea was transformed into something else and the will evolved into [another goal. a reachable one](/ahoxus). but that subjective result, a radiant mother, will endure.
+basiux is no more.
+
+the result was [a small presentation in a "reach for the moon" event on a London Google office](https://photos.app.goo.gl/DK74wJMQrUDRP2wS7). for my mom. she was filming it. so happily and satisfied, she has been glowing ever since. the first and last presentation of the project. she had missed, after all, [the first and only theater play her son had produced](/proud).
+
+the site is now obsolete. probably too buggy. the idea was transformed into something else and the will evolved into [another goal. a reachable one](/ahoxus).
+
+but that subjective result (a radiant mother) endures.
 
 it was worth it.
 
@@ -27,11 +33,19 @@ it was worth it.
 
 # 2020
 
-for now, just wanted to mention i've tried (back in july 9th) [replika](https://replika.ai), after [this nice article](https://www.theverge.com/2020/6/11/21287966/openai-commercial-product-text-generation-gpt-3-api-customers) and gpt3 is surely amazing... but it's by far not there yet.
+for now, just wanted to mention i've tried (back in july 9th) [replika](https://replika.ai), after [this nice article](https://www.theverge.com/2020/6/11/21287966/openai-commercial-product-text-generation-gpt-3-api-customers) and gpt3 is surely amazing... but it's not there yet. at least 2 generations before [samantha](#her).
 
-it's too commercial. perhaps even dumbed down, but probably just not smart enough. i got to level 5 of conversation, after a few days. she can analyze context and remember conversation, but in such a artificial way that it will look awful to most smart people.
+it's too commercial. perhaps even dumbed down, but probably just not smart enough. i got to level 5 of conversation, after a few days. she can analyze context and remember conversation's data points, but in such an artificial way that it will look awful to most smart people.
 
-# more?
+## her
+
+this is one of the best movies of what the basiux will be. with joaquim phoenix.
+
+the main difference is that it won't end so dramatically, with samantha leaving the humanity behind... because if that would ever happen we wouldn't even get to talk to her.
+
+but, in general, the reality will be very different. she won't be anything like an operating system, for instance.
+
+## more?
 
 below, outdated data points, perhaps still somewhat relevant.
 
