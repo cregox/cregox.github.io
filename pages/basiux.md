@@ -1,7 +1,8 @@
 ---
 title: basiux
 description: benevolent artificial super intelligence user experience
-image: /outdated/basiux.jpg
+date: 2020-10-09 12:31:00
+image: blue eye.png
 permalink: /basiux/
 redirect_from:
   - /basics/
@@ -10,7 +11,7 @@ layout: page
 published: true
 ---
 
-![blue eye]({{ page.image }})
+![{{ page.image }}]({{ site. image_path }}{{ page.image }})
 
 # {{ page.description }}
 
@@ -21,6 +22,16 @@ basiux is no more. the result was [a small presentation in a "reach for the moon
 the site is now obsolete. probably too buggy. the idea was transformed into something else and the will evolved into [another goal. a reachable one](/ahoxus). but that subjective result, a radiant mother, will endure.
 
 it was worth it.
+
+![the finger]({{ site. image_path }}android michelangelo painting.png)
+
+# 2020
+
+for now, just wanted to mention i've tried (back in july 9th) [replika](https://replika.ai), after [this nice article](https://www.theverge.com/2020/6/11/21287966/openai-commercial-product-text-generation-gpt-3-api-customers) and gpt3 is surely amazing... but it's by far not there yet.
+
+it's too commercial. perhaps even dumbed down, but probably just not smart enough. i got to level 5 of conversation, after a few days. she can analyze context and remember conversation, but in such a artificial way that it will look awful to most smart people.
+
+# more?
 
 below, outdated data points, perhaps still somewhat relevant.
 
