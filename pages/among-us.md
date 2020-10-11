@@ -9,7 +9,7 @@ redirect_from:
   - /among-us/
   - /among/
   - /best-game/
-layout: page
+layout: draft
 published: true
 ---
 
@@ -72,3 +72,5 @@ the sheer possibility of online people or friends variation in itself is enough 
 > perhaps the single biggest issue with the game are the [[ads](/ads)]. read the link. it's about sustainability. the best way to maintain any online service is by opening up everything. like linux or blender. it's hard to do. nearly impossible for a game. not sure if it was ever done before for a game. all the more reasons this deserves to be the first!
 
 great work, inner sloth!
+
+> please, consider this [[manifesto](/mani)] as just the surface of the "iceberg"... and a draft! there are many more reflections if you keep digging. here's a nice next step, for instance: [[ahoxus](/ahoxus)].
