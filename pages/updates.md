@@ -21,5 +21,3 @@ menu: true
 - get on [telegram](https://t.me/cregox_tv).
 
 - see [all website changes on github](https://github.com/cregox/cregox.github.io/commits/master), if you dare!
-
- dare!
