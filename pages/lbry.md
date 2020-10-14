@@ -15,7 +15,7 @@ published: true
 
 ![{{ page.image }}]({{ page.image }})
 
-there's not much to be said. it's [[free and open software done right](/foss)].
+there's not much to be said. it's [[free and open software done right](/foss)]. and it's great for [[degoogling](/delete)]!
 
 there are many similar platforms out there, trying to do the same... but this one hooked me up because of their amazing attempt of a better DNS.
 

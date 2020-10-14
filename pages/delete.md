@@ -2,12 +2,13 @@
 title: delete everything!
 description: google, facebook, twitter, your dog...
 date: 2020-07-17 16:00:00
-image: /pages/death.jpg
+image: death.jpg
 permalink: /delete/
 redirect_from:
   - /focus/
   - /life/
   - /death/
+  - /degoogle/
 layout: draft
 published: true
 ---
@@ -83,3 +84,7 @@ facebook is harder to delete because too many people i'm contact with through th
 and google is everywhere, with irreplaceable conveniences. some i already just deleted anyway. others are much harder, as already mentioned.
 
 pay attention, though! as soon as one such big group open up everything, a bit like wikipedia and even telegram, and make things that are really free, loving, and good, as long as it's better than what i'm using now, i'll jump in! this is not about privacy, evil money or whatever new age bullshit. this is a very practical stance on trying to expose the real issues with too many things out there. and better enjoy the ride. 😘
+
+# part 4, degoogle
+
+starting with [[disroot](/disroot)], and [[lbry](/lbry)]. and going [much deeper](https://www.reddit.com/r/degoogle/wiki)...
