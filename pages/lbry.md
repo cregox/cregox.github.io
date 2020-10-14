@@ -2,7 +2,7 @@
 title: lbry
 description: the only right way to do content
 date: 2020-10-14 13:00:00
-image: degoogle.jpg
+image: degoogle.png
 permalink: /lbry/
 redirect_from:
   - /odysee/
