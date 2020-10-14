@@ -1,13 +1,14 @@
 ---
-title: open source software
+title: free open source software
 description: what that means and why we should care
 date: 2020-09-15 06:40:00
 image: /pages/no walls.jpg
-permalink: /oss/
+permalink: /foss/
 redirect_from:
   - /open/
   - /source/
   - /opensource/
+  - /oss/
 layout: draft
 published: true
 ---
