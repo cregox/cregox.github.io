@@ -17,9 +17,11 @@ published: true
 
 ![{{ page.image }}]({{ page.image }})
 
-simply put, privacy is mostly needed to secure lives from violence. right?
+simply put: privacy is mostly needed to [secure lives from violence](https://thenextweb.com/contributors/2018/11/20/read-this-if-youve-got-nothing-to-hide/). indeed, in practice, life is miserable without some amount of privacy!
 
 but... what if there's no way to have both privacy and freedom while living in a public space?
+
+# island
 
 picture a lone person living in a completely isolated **island**. it's a full 100% private life. and it's also fully free.
 
@@ -45,7 +47,7 @@ so, that defines the "only one in the world (or island) freedom", or just **isla
 
 let's get into some more definitions...
 
-# right to be forgotten
+# forgotten
 
 now... where does the "right to be forgotten" enter in this formula?
 
@@ -73,7 +75,9 @@ in a world where everyone can be forgotten to get full privacy rights, nobody is
 - zero freedom
 - full population
 
-# science versus memory
+# memory
+
+> side note: science only exists because we decided to stop trusting our memory. it's flacid. it needs to forget. the right to be forgotten is indeed human nature. but it's also the opposite direction of science, society, and whatever [hive intelligence](/ahoxus) that may exist in us.
 
 if we know who did what at all times, we don't need to build walls. because we know not only who did it, but who's doing it. and even who is planning to do whatever.
 
@@ -99,3 +103,4 @@ this is the **[imagine](/ahoxus#imagine) world**:
 
 and this is the only world i want to live in.
 
+the key to making it possible within our lifetime, is building layers of privacy in which the last one is fully public.
