@@ -18,7 +18,7 @@ menu: true
   <img title="gratitude in the small things" src="/thanks/moving leiria flower.gif" alt="a sunflower in a small old town pedestrian street" />
 </video>
 
-how to touch people? you know, deep inside. the right way.
+how to touch people? you know, deep inside. the right way. offer [gratitude](https://web.archive.org/web/20180911073305/https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/)
 
 we all know how. it's simple. just do our best, pay attention to each situation.
 

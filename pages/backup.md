@@ -1,10 +1,22 @@
 ---
-permalink: /backup/
-redirect_from: /backups/
-layout: page
 title: backup manifesto
+description: why redundancy is so important
+date: 2020-10-16 16:16:00
+image: walking on autumn leaves.gif
+permalink: /backup/
+redirect_from:
+  - /backups/
+  - /redundancy/
+  - /redundant/
+layout: page
 published: true
 ---
+
+# {{ page.description }}
+
+![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+
+<small>_[should we](/contact) be using less gif's?_</small>
 
 i've wrote too much about backup. a lot of times.
 
@@ -32,19 +44,15 @@ problem is, even today, that's still a freaking difficult quest. lost lots of da
 
 because most "engineers" forget that internet redundancy principle. myself included. it's in our culture to forget it.
 
-anyway...
+# practice
 
-a bit more in practice, computer wise, in the past i've used a combination of 1 local backup and 2 different clouds. now i'm with just 1 cloud, and fearing for the life of my data. plus never managed to properly automate videos and most web content. still, i do manually download them and do automate part of it, thanks to a few awesome online services.
+computer wise, in the past i've used a combination of 1 local backup and 2 different clouds. now i'm with just 1 cloud, and fearing for the life of my data. plus never managed to properly automate videos and most web content. still, i do manually download them and do automate part of it, thanks to a few awesome online services.
 
 guess we'll have to _keep on trying_...
 
-(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: chao[.](/random).[.](/ahoxus) i mean, [gratitude](https://curiosity.com/topics/see-how-your-gratitude-stacks-up-with-this-gratitude-survey-curiosity/).
+(*) or perhaps i should stop worrying so much about it and keep on the one and only ultimate backup: [c](/random)hao..[.](/ahoxus) i mean, [[gratitude](/thanks)].
 
-![walking on autumn leaves](walking on autumn leaves.gif)
-
-<small>_[should we](/contact) be using less gif's?_</small>
-
-PS: to be more specific about a few things...
+to be more specific about a few things (how they were in my past, before jun 2019)...
 
 - the local backup was apple's time machine. the mac would also have a dropbox folder synced into google drive.
 - now, with chromebook, time machine and dropbox are gone, as backup tools. but dropbox was never reliable to begin with, and time machine, well, i forgot the password (not to mention it's also quite unreliable, being a single physical disk and all). even while using 2 password managers. because none of them reminds us of saving a disk encryption key. privacy getting in the way of security, once again!
