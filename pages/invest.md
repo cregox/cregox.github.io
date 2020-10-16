@@ -25,7 +25,7 @@ iban: https://www.iban.com/glossary
 
 our free work is based on trust and reciprocity, and every single time we get any feedback through money it is a big signal there's something right in our work.
 
-perhaps you'll want to [get in touch](/contact) and give us some feedback as well.
+hopefully you'll also want to [get in touch](/contact) and give us some feedback as well.
 
 i believe that as of today (check the date stamp on the top) there's still no simple unique way to send money to someone over the web, so:
 
