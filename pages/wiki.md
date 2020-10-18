@@ -1,8 +1,8 @@
 ---
 title: wiki
 description: an origin of "pedia"
-date: 2020-09-15 07:06:00
-image: /pages/wiki.jpg
+date: 2020-10-18 13:06:00
+image: wiki wiki.jpg
 permalink: /wiki/
 redirect_from:
   - /wikipedia/
@@ -13,14 +13,36 @@ published: true
 
 # {{ page.description }}
 
-![wiki wiki]({{ page.image }})
+![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
-for a big tk...
+this [[manifesto](/mani)] was created after the [[OSS note](/oss)] about what i [[really](/reality)] mean when i just started using those brackets to signalise internal links to important definitions in the wikipedia style.
 
-this was created after the [[OSS note](/oss)] about what i [[really](/reality)] mean when i just started using those brackets to signalise internal links to important definitions in the wikipedia style. but this is not exactly a wiki page (yet, because it's much harder to do) my will is to make them of a different colour from most links in this website, which might work as a better signalling of what they mean.
+i want this whole site to be a mix between [[git](/git)] and wiki. perhaps making the wiki-like links in a different colour... for sure making it easier to get contributions, and to see the history of each page (although both features are already possible using git).
 
 a constant effort to improve on our current human written communication protocols.
 
-also, why not, a brief history and context of what wikipedia means to me. which needs further research, since i probably never even read wikipedia's own definition, recently or historically, but i remember somewhat vividly what it was on its own origins.
+# science
 
-big tk, indeed!
+what's [[science](/science)] to you?
+
+wikipedia is easily the biggest open online science experiment. and it's also incredibly scientific in all of its main content.
+
+TK
+
+# skepticism
+
+have you heard of the [skeptical movement](/skeptic)?
+
+different from science, which is mostly practical, this is about pure logic, theory, and consistency. TK
+
+you might think science can't be illogical, but it can. TK
+
+wikipedia is also surprisingly skeptical and, for every major scientific topic there is, the article in there will clearly state of it's pseudo (a.k.a. not really scientific). TK
+
+# history
+
+[wiki](https://en.m.wikipedia.org/wiki/Wiki) means quick, in hawaiian.
+
+> Ward Cunningham, the developer of the first wiki software, WikiWikiWeb, originally described wiki as "the simplest online database that could possibly work.".
+
+TK
