@@ -18,6 +18,6 @@ menu: true
 
 - see my work at [ahoxus](/ahoxus).
 
-- get on [telegram](https://t.me/cregox_tv).
+- get on [telegram](/telegram) (for now).
 
 - see [all website changes on github](https://github.com/cregox/cregox.github.io/commits/master), if you dare!
