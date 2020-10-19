@@ -2,7 +2,7 @@
 title: books
 description: is there a better option?
 date: 2020-09-30 22:00:00
-image: /pages/data.jpg
+image: data.jpg
 permalink: /books/
 redirect_from:
   - /data/
@@ -11,9 +11,11 @@ layout: draft
 published: true
 ---
 
+<small>_looking for [[the book](/book)]?_</small>
+
 # {{ page.description }}
 
-![data]({{ page.image }})
+![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
 i've [talked about books](https://cregox.net/talk/t/why-books-are-way-too-outdated/7777.html) before (or rather written about 'em) and the sentiment is basically the same:
 
@@ -27,10 +29,16 @@ not everyone can write a book, which can be a good thing, but even who have some
 
 the negative points of books are plenty. so many i never managed to get to all of them, after all these years...
 
-granted, they still offer some advantages over the internet, such as no batteries required and... erm... being able to broadcast easily what you're reading? what else, really? everything else is just habits: smell. screen light. etc. in practice there's no comparison.
+granted, they still offer some advantages over the internet, such as no batteries required and... erm... being able to broadcast easily what you're reading? what else, really? everything else is just [[brain](/brain)] conditioning: smell. screen light. etc. in practice there's no comparison.
 
-# then what?
+then what?
+
+# internet
+
+of course!
 
 i personally refuse to read basically every book. in a way, i'm a living proof that one can get quite a lot of data for oneself without books.
 
-thanks to the web, of course. there's already more video content well done than time in one's life to consume it all. why settle for less?
+thanks to the web, of course. wikipedia alone can already take a lifetime to be fully read into comprehension.
+
+there's also more video content really well done than time in one's life to just watch them all. why settle for less?

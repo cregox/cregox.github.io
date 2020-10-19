@@ -1,7 +1,10 @@
 ---
 title: story
+description: some words put together
+date: 2020-10-19 00:22:00
+image: story.jpg
+permalink: fabula
 redirect_from:
-  - fabula
   - story
   - rakonto
   - estoria
@@ -13,7 +16,13 @@ layout: draft
 published: true
 ---
 
-/fabula is Latin for story. rakonto. liber libro. wait what was the story again?
+<small>_looking for other [[books](/books)]?_</small>
+
+# {{ page.description }}
+
+![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+
+/fabula is latin for story. rakonto. liber libro. wait what was the story again?
 
 let's begin from the 2nd act. out of 4. or from the beginning. in fact, you choose.
 
