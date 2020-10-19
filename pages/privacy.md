@@ -1,7 +1,7 @@
 ---
 title: privacy?
 description: what exactly is public, anyway
-date: 2020-10-18 20:11:00
+date: 2020-10-19 19:11:00
 image: sand castle.jpg
 permalink: /privacy/
 redirect_from:
@@ -19,7 +19,7 @@ published: true
 
 simply put: privacy is mostly needed to [secure lives from violence](https://thenextweb.com/contributors/2018/11/20/read-this-if-youve-got-nothing-to-hide/). indeed, in practice, life is miserable without some amount of privacy!
 
-but... what if there's no way to have both privacy and freedom while living in a public space?
+but that doesn't mean we should blindly pursue it... what if there's no way to have both privacy and freedom while living in a public space?
 
 # island
 
@@ -43,31 +43,37 @@ let's call this "only one in the [[world](/world)] freedom", just **island world
 - full freedom
 - zero population
 
-continuing, there's the forgiveness...
+continuing...
 
-# castle
+# forget
 
-now... where does the "right to be forgotten" enter in this formula?
+now... where does the "right to be forgotten" enter in this formula? is it a claim for privacy or freedom?
 
-deleting data, in any format, is claiming for privacy. not releasing data to the public is exactly the same. both are legal rights associated with "freedom".
+it's for privacy.
 
-it is indeed a free will exerted for the individual. but it actually decreases the freedom level for the group of people, who now doesn't have the right to know what was the data, or what it is. if data have just 1 owner, then it's not free data.
+deleting data, in any format, or simply never releasing it. it's "my data", i own it, and i do whatever i want with it. private data. private space.
 
-which freedom is more important, in theory? the individual or the group's?
+that means if i want the right to be forgotten, i'll have to forfeit freedom.
 
-if you thought it's the individual, think again. criminals are individuals. so is your neighbor with loud music. or a rushing driver, who's free to rush.
+which freedom is more important, in theory? my right to ommit, or my right to know the truth? they're incompatible and opposites.
 
-fair enough, it's easy to picture that giving a bank password away or your home address is an invitation to thieves...
+the definition of freedom in here is the later.
+
+ultimately, if i have the right to know the truth, to be anywhere, to do anything, as long as it doesn't affect the right of others, this is a much more free world than the opposite (right to hide anything, block anywhere through ownership, forbid anything from being done).
+
+fair enough, extrapolating "just a tiny bit" it's easy to picture that giving a bank password away or your home address is an invitation to thieves...
 
 but...
 
-how about giving away "hey, i'm a thief" data? isn't that the exact same *privacy* right being broken, when we, as a society, need that data to comply with other laws?
+how about giving away "hey, i'm a thief" data? isn't that the exact same *privacy* rights being broken?
 
-in the same way, the walls of castles are built as a preventive measure against the lack of power to fully have access to that freedom from the island world.
+# castle
 
-they both (island and castle) create a sort of "freedom cell" inside, while removing freedom from who's outside.
+in the same way, the walls of castles can be seen as being built for preventing access into inside. when built on an island, it's easy to see how it's taking away space from the island. for the planet, a single castle may look insignificant, but when there are castles everywhere, then there's no more freedom.
 
-in a world where everyone can be forgotten (to get their individual full privacy rights), nobody is free because there are walls everywhere! this is the **castle world**:
+in a world where everyone can be forgotten (to get their individual full privacy rights), nobody is free because there are walls everywhere!
+
+this is the **castle world**:
 
 - full privacy
 - zero freedom
@@ -91,7 +97,7 @@ there's no simple answer to how a zero privacy world in a planet filled with hum
 
 the cloth that only fits in the child can be used by other children. in a world with only 1 adult and 1 child, the cloth could be used only by the child as a cloth and still be used by the adult for whatever other use if there's one that makes sense, because nobody takes it as an ownership. because everyone choose to keep it free for the group, rather than the individual.
 
-such a world requires a lot of imagination and change from our current one. even dealing with [[death](/death)] must be different. in such a world, there's no [[trolley paradox](/trolley)]: if you'd have to choose between killing 1 person or 5 by acting and switching the trolley lever, it's always 1 person. and we'd always switch the lever if there are less people on the other side.
+TK such a world requires a lot of imagination and change from our current one. even dealing with [[death](/death)] must be different. in such a world, there's no [[trolley paradox](/trolley)]: if you'd have to choose between killing 1 person or 5 by acting and switching the trolley lever, it's always 1 person. and we'd always switch the lever if there are less people on the other side.
 
 in it we must recognize that one of the major aspects of science is not relying on memory, because the [[brain](/brain)] forgets very easily (to stay healthy). yet, we need to remember as much as possible, using all means within reach, as to "keep the castle walls down".
 
@@ -107,6 +113,4 @@ and this is the only world i want to live in.
 
 the key to making it possible within our lifetime, is building layers of privacy in which the last one is fully public...
 
-... that's something still to be written about.
-
-TK
+... TK
