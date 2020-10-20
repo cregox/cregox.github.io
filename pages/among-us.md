@@ -1,7 +1,7 @@
 ---
 title: among us
-description: best digital online game ever!
-date: 2020-10-11 13:22:00
+description: best online game ever!
+date: 2020-10-20 16:22:00
 image: why-among-us.png
 permalink: /amongus/
 redirect_from:
@@ -14,6 +14,8 @@ published: true
 ---
 
 # {{ page.description }}
+
+([here's a bit of my experience with online games](/whatever games))
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
@@ -74,3 +76,9 @@ the sheer possibility of online people or friends variation in itself is enough 
 great work, inner sloth!
 
 > please, consider this [[manifesto](/mani)] as just the surface of the "iceberg"... and a draft! there are many more reflections if you keep digging. here's a nice next step, for instance: [[ahoxus](/ahoxus)].
+
+## although
+
+in the last 9 days i ended up not playing it as much as i thought i would. perhaps it was me, i didn't play anything. but whenever i had the will to start, i also got tired of thinking how i didn't want to socialize or play the annoying mini games as a crew member...
+
+might need more time in my background to see how great it really is, as it is.
