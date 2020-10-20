@@ -31,6 +31,12 @@ it was worth it.
 
 ![the finger]({{ site. image_path }}android michelangelo painting.png)
 
+also, there was...
+
+# jessica
+
+TK, but i wrote extensively about this [elsewhere](https://cregox.net/talk/t/t-mobile-jessica-chatbot/7738.html).
+
 # 2020
 
 for now, just wanted to mention i've tried (back in july 9th) [replika](https://replika.ai), after [this nice article](https://www.theverge.com/2020/6/11/21287966/openai-commercial-product-text-generation-gpt-3-api-customers) and gpt3 is surely amazing... but it's not there yet. at least 2 generations before [samantha](#her).
