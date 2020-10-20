@@ -15,9 +15,11 @@ published: true
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
-this [[manifesto](/mani)] was created after the [[OSS note](/oss)] about what i [[really](/reality)] mean when i just started using those brackets to signalise internal links to important definitions in the wikipedia style.
+this [[manifesto](/mani)] was created after the [[FOSS note](/foss)] about what i [[really](/reality)] mean when i just started using those brackets to signalise internal links to important definitions in the wikipedia style.
 
-i want this whole site to be a mix between [[git](/git)] and wiki. perhaps making the wiki-like links in a different colour... for sure making it easier to get contributions, and to see the history of each page (although both features are already possible using git).
+they'll eventually even gain a different colour rather than just those square brackets. can you [imagine](/ahoxus) the colors? (and now, this "imagine" internal link is just a regular one more like a loosely related spin off, like most internal links in this site, on this case because of the association i make between imagine, john, and ahoxus)
+
+i want this whole site to be a mix between [[git](/git)] and wiki. making it easier to get contributions, and to see the history of each page (although both of those features are already technically possible using git).
 
 a constant effort to improve on our current human written communication protocols.
 
