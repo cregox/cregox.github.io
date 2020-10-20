@@ -17,7 +17,7 @@ right? air. sex. taking a shit.
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
-but [[google](/google)]'s pixel 3 isn't one of them. neither best nor free.
+but [[google](/google)]'s pixel 3 isn't one of them. neither best nor [[free](/free)].
 
 plus, google's word is worthless (as presented below).
 
