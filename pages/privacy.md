@@ -1,19 +1,24 @@
 ---
 title: privacy?
 description: what exactly is public, anyway
-date: 2020-10-19 19:11:00
+date: 2020-10-22 11:11:00
 image: sand castle.jpg
-permalink: /privacy/
+permalink: privacy
 redirect_from:
-  - /public/
-  - /freedom/
-  - /forgotten/
-  - /data/
+  - public
+  - freedom
+  - forgotten
+  - data
+  - anonymous
+  - anonym
+  - anonymity
 layout: draft
 published: true
 ---
 
 # {{ page.description }}
+
+isn't [#anonymity](#anonymity) basically the same topic? yes. yes it is.
 
 ![{{ page.image }}]({{ page.image }})
 
@@ -114,3 +119,21 @@ and this is the only world i want to live in.
 the key to making it possible within our lifetime, is building layers of privacy in which the last one is fully public...
 
 ... TK
+
+# anonymity
+
+this is a claim for privacy. no name. no identification.
+
+it's a rightful requirement in practice for safety and security today, hands down. so much so it should be the last layer of privacy, and a right for every human being who chooses to be anonymous.
+
+but it must still be just a privacy layer.
+
+when all layers are removed, the ideal world must have zero secrets left. accessible truth to anyone willing to dig, to take the green pill (because i never know or care if it's the red or the blue that means "hidden truth"), and/or to see the spoilers.
+
+the truth, the reality, the trick behind the magic isn't magical at all. looking at it is what takes away many beautiful illusions. not everyone will want it, the illusions are quite enjoyable after all.
+
+but as much as we can and should hide it in many circumstances, better worlds with less layers already exist precisely because they have less layers and, in the end, just the truth.
+
+the cruel reality in its while splendor is so much more wonderful than the sum of any beautiful illusions. nature over butterflies! 😂
+
+TK

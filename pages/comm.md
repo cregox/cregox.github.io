@@ -61,7 +61,7 @@ it still is the best free and open tool for chatting to this day.
 
 and, in short, it sucks big balls. for the same reasons forums (even the [brand new 2.0 #](#forums)) do: nobody really uses them. outside of the geek realm, anyway.
 
-unlike facebook and twitter... ah, [[twitter](/twitter)]... why did you have to be [[closed](/oss)]? and no, mastodon sadly isn't better than the little blue bird, yet.
+unlike facebook and twitter... ah, [[twitter](/twitter)]... why did you have to be [[closed](/oss)]? and no, [[mastodon](/mastodon)] sadly isn't better than the little blue bird, yet.
 
 then what?
 

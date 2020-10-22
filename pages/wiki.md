@@ -1,12 +1,12 @@
 ---
 title: wiki
 description: an origin of "pedia"
-date: 2020-10-18 13:06:00
+date: 2020-10-18 09:44:00
 image: wiki wiki.jpg
-permalink: /wiki/
+permalink: wiki
 redirect_from:
-  - /wikipedia/
-  - /pedia/
+  - wikipedia
+  - pedia
 layout: draft
 published: true
 ---
@@ -48,3 +48,9 @@ wikipedia is also surprisingly skeptical and, for every major scientific topic t
 > Ward Cunningham, the developer of the first wiki software, WikiWikiWeb, originally described wiki as "the simplest online database that could possibly work.".
 
 TK
+
+# [[unhosted]](/unhosted)
+
+TK it was created here on oct 22nd, and moved there because i was going to update the date in this mani without proof reading it first. big indication it should be a different mani!
+
+it's still very related to wiki. you might want to read it there.
