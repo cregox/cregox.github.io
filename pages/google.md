@@ -20,6 +20,8 @@ i believed their great engineering was worth the cost. after all, as "the man of
 
 what i missed, however, is just how fundamentally misleading that engineering was. what's the point of building the best possible bridge over a huge river connecting nothing to nowhere? or, even worse, like google does, connecting an imaginary land to the abyss.
 
+not to mention [how any of the actual engineering feat is made possible](https://www.engadget.com/2018-05-24-google-will-always-do-evil.html?guccounter=1). in short: by being completely and unapologetically diabolic.
+
 you might have guessed by now that [[i'm degoogling my life](/delete)] because, even technically, google blows terribly (in the sum of the whole).
 
 below are my many reasons why google is evil and bad... most reasons which can be applied to about every single huge group (sadly), or piece of software that's not [[foss](/foss)].
@@ -44,7 +46,7 @@ TK [[here's another story](/maps)]. in short, there are some alternative... but 
 
 ### docs
 
-- outdated concept
+- outdated concept. see coda.io or airtable. (still looking for a good foss, although there might not be anything other than mediawiki)
 
 ### drive
 
