@@ -3,7 +3,7 @@ title: ahoxus - chaos up
 description: life can be beautiful!
 date: 2020-10-24 10:00:00
 image: ahoxus_small.png
-permalink: ahoxus
+permalink: /ahoxus/
 redirect_from:
   - life
   - be
