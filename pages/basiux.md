@@ -5,8 +5,11 @@ date: 2020-10-09 12:31:00
 image: blue eye.png
 permalink: /basiux/
 redirect_from:
-  - /basics/
-  - /benevolent/
+  - basics
+  - benevolent
+  - her
+  - jessica
+  - replika
 layout: page
 published: true
 ---
