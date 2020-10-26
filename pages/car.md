@@ -3,7 +3,7 @@ title: car sharing
 description: because sharing is caring...
 date: 2020-10-26 10:00:00
 image: red renault.jpg
-permalink: car/
+permalink: /car/
 redirect_from:
   - sharing
   - pooling
