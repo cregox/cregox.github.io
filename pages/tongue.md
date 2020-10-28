@@ -1,6 +1,6 @@
 ---
 title: tongue
-description: og
+description: no, not the incredible muscle!
 date: 2020-10-28 20:47:00
 image: arrival.jpg
 permalink: tongue
@@ -14,6 +14,8 @@ published: true
 # {{ page.description }}
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+
+although [it plays](https://dood.al/pinktrombone/) a fundamental role in human communication.
 
 some manifestos i briefly touch the endless topic around words:
 
