@@ -26,4 +26,4 @@ some manifestos i briefly touch the endless topic around words:
 - [[life](/life-hacks)]
 - [[basiux](/basiux)]
 
-and **arrival** might be the best video ever to [talk about language](https://youtu.be/Qd8zT1YAUck).
+and **arrival** [might be](https://youtu.be/95_-hv3yWWU) the best video ever to [talk about language](https://youtu.be/Qd8zT1YAUck).
