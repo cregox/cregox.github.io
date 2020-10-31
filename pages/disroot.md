@@ -47,4 +47,6 @@ who: [degoogling](/degoogle) people
 
 for sure the main challenge will be making a better [[email](/email)] which doesn't get blocked by the big guys, like disroot often do. for now, the plan is just keeping this small until we figure out how to make it truly free without [[abusers](/abuse)].
 
+next: promote this as [a good landing page](http://yourlandingpagesucks.com/startup-landing-page-teardown-yc/index.html) @ahoxus
+
 <!-- and since you'll probably want something similar for yourself, just **sign up below for an update**! TK not ready -->
