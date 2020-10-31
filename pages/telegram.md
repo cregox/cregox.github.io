@@ -1,7 +1,7 @@
 ---
 title: telegram
 description: why it's the second best option
-date: 2020-10-19 20:51:00
+date: 2020-10-31 10:33:00
 image: chatting.jpg
 permalink: telegram
 redirect_from:
@@ -42,7 +42,11 @@ but since i started to [[delete](/delete)] facebook, google, and all the bad pie
 
 not to mention it keeps trying to reinvent the wheel on everything! even on encryption!! so much wasted energy.
 
+and like nearly everything online today, it still gets [[privacy](/privacy)] wrong ([some do it right](/social)).
+
 **i'll still use it for now**, nevertheless, because it's still so much better than anything else!
+
+hoping it might even eventually **merge** with delta... #mergetelegramanddeltachat
 
 but either delta chat, matrix or some jabber variation will soon take over... and i'll be there to enjoy it! 😁
 
