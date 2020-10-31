@@ -1,9 +1,9 @@
 ---
 title: brain
-permalink: /brain/
+permalink: brain
 redirect_from:
-  - /mind/
-  - /life/
+  - mind
+  - mindset
 layout: draft
 published: true
 ---

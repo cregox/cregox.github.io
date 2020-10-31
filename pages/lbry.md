@@ -1,15 +1,18 @@
 ---
 title: lbry
 description: the only right way to do content
-date: 2020-10-14 13:00:00
+date: 2020-10-31 01:48:00
 image: degoogle.png
 permalink: /lbry/
 redirect_from:
-  - /odysee/
-  - /youtube/
+  - odysee
+  - video
+  - videos
 layout: draft
 published: true
 ---
+
+_looking for [[film](/film)]?_
 
 # {{ page.description }}
 
@@ -17,7 +20,7 @@ published: true
 
 there's not much to be said. it's [[free and open software done right](/foss)]. and it's great for [[degoogling](/delete)]!
 
-there are many similar platforms out there, trying to do the same... but this one hooked me up because of their amazing attempt of a better DNS.
+there are many similar platforms (such as the [[social](/social)] ones) out there, trying to do the same... but this one hooked me up because of their amazing attempt of a better DNS.
 
 i even created a channel to "pirate" [from youtube](https://odysee.com/@youtube:c2) there, whenever i want to share a youtube video and have the time and patience to manually feed it.
 

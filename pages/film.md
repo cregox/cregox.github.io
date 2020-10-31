@@ -1,20 +1,28 @@
 ---
 title: film
-permalink: /film/
+description: yes, we also make films!
+date: 2020-10-31 01:49:00
+image: cregox filming.jpg
+permalink: film
 redirect_from:
-  - /films/
-  - /movie/
-  - /movies/
-  - /video/
-  - /videos/
-layout: page
+  - films
+  - movie
+  - movies
+layout: draft
 published: true
 ---
 
-# wait, what? is cregox [also](/casting) a filmmaker?
+_looking for [[video](/video)]?_
 
-he wished. the potential is certainly there:
+TK boy, this page needs a revamping!
 
+# {{ page.description }}
+
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+
+wait, what? what does it mean "[also](/casting) make films"? is cregox a filmmaker?
+
+he wished. the potential is certainly there, if you're kind enough:
 
 {% include youtube.html id='H3dYs97krpc' ratio='56.25%' %}
 <small>first video produced mostly alone and edited on a cell phone... such a long story.</small>

@@ -5,13 +5,14 @@ date: 2020-10-19 21:14:00
 image: death.jpg
 permalink: /delete/
 redirect_from:
-  - /focus/
-  - /life/
-  - /death/
-  - /degoogle/
+  - focus
+  - death
+  - degoogle
 layout: draft
 published: true
 ---
+
+_looking for [[hacks](/hacks)]?_
 
 # {{ page.description }}
 

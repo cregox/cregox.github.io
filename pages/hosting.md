@@ -1,14 +1,17 @@
 ---
 title: hosting
 description: how to host your site like this one!
-image: /pages/hostress.jpg
-permalink: /hosting/
+date: 2020-10-27 22:11:00
+image: hostress.jpg
+permalink: hosting
 redirect_from:
-  - /free hosting/
-  - /host/
+  - free hosting
+  - host
 layout: draft
 published: true
 ---
+
+_looking for [[unhosted](/unhosted)]?_
 
 # {{ page.description }}
 
@@ -16,7 +19,7 @@ published: true
 
 you'll need git, android, termux, and many hours of free time! nothing else. no money. no computer. 
 
-for now, you'll also need github pages and jekyll... but i'll soon migrate that into netlify and gatsbyjs or something, because of pwa and microsoft...
+for now, you'll also need github pages and jekyll... but i'll soon migrate that into netlify and gatsbyjs or something, because of [[pwa](/pwa)] and [[microsoft](/github)]...
 
 # termux
 
@@ -32,3 +35,9 @@ gem install nokogiri -- --use-system-libraries
 ```
 
 TK
+
+# disroot
+
+soon we'll be offering [[this service](/disroot)] not just for webpages, but also for [[email](/email)], [unhosting](/unhosted), and [so much more](/ahoxus)!
+
+[stay tuned](/updates).

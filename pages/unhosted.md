@@ -6,11 +6,11 @@ image: decentralised web.jpg
 permalink: unhosted
 redirect_from:
   - hosted
-  - host
-  - hosting
 layout: draft
 published: true
 ---
+
+_looking for [[hosting](/hosting)]?_
 
 # {{ page.description }}
 

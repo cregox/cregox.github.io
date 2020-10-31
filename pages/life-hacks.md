@@ -1,15 +1,18 @@
 ---
 title: life hacks
 description: little hints on how to live better
-image: /pages/hacking.jpg
-permalink: /life-hacks/
+date: 2020-10-31 01:13:00
+image: hacking.jpg
+permalink: life-hacks
 redirect_from:
-  - /lifehacks/
-  - /life/
-  - /hacks/
+  - lifehacks
+  - life
+  - hacks
 layout: draft
 published: true
 ---
+
+_looking for [[death](/death)]?_
 
 # {{ page.description }}
 
@@ -23,3 +26,4 @@ everything in life is about conditioning. so those also take some time to start 
 
 - how to wake up without an alarm: **always** guess the time before looking into the clock. 🤯
 
+- aim for real [[freedom](/freedom)] and don't settle for [[less](/abuse)].
