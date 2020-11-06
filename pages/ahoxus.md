@@ -12,6 +12,7 @@ redirect_from:
   - health
 layout: page
 published: true
+menu: true
 ahoxus: https://ahoxus.org
 ---
 

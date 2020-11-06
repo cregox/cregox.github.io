@@ -12,6 +12,7 @@ redirect_from:
   - /god/
 layout: page
 published: true
+menu: true
 ---
 
 <small>looking for the first [cregox/random](/lucky)?</small>

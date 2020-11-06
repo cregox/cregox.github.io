@@ -2,7 +2,7 @@
 title: disroot and enjoy
 description: 1. To tear up the roots of, or by the roots; hence, to tear from a foundation; to uproot.
 date: 2020-10-29 18:50:00
-image: uproot.jpg
+image: /gallery/uproot.jpg
 permalink: disroot
 redirect_from:
   - uproot

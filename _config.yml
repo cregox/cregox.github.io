@@ -29,19 +29,28 @@ a:
   stackoverflow: http://stackoverflow.com/story/cauerego
   unity3d: http://answers.unity3d.com/users/822/cawas.html
 
+## Gallery Configuration ##
+# If you modify this, also modify the `default.scope.path` key below.
+gallery_dir: "gallery"
+# Any valid value of "background-position" CSS attribute.
+image_position: "left center"
+
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: default
-  -
-    scope:
-      path: "talk"
-      type: pages
-    values:
-      layout: talk # overrides previous default layout
-      google_analytics: # placed on files by httrack and talk layout
+ - scope:
+    path: "" # an empty string here means all files in the project
+   values:
+    layout: default
+ - scope:
+    path: "talk"
+    type: pages
+   values:
+    layout: talk # overrides previous default layout
+    google_analytics: # placed on files by httrack and talk layout
+ - scope:
+     # Should be same as the `gallery_dir` key above.
+    path: "gallery"
+   values:
+    image: true
 
 # Build settings
 markdown: kramdown
