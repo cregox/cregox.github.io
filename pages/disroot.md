@@ -44,10 +44,10 @@ why: disroot have near zero customer support and ain't [[foss](/foss)] (amazingl
 
 who: [degoogling](/degoogle) people
 
-[financially](/money), it'll be exactly same model as disroot, and a bit of what [wikipedia](/jimmy) should do: take donations, don't ask for them but offer transparent incentives for when you do donate. it's like offering a premium service, except it's not a service, it's non binding (you can just clone everything and make it your own), it will constantly morph as i need, and it's s sort of mix with non profit in which we do reserve the rights to make a profit for our own benefit, but in a sustainable way (it's not a business and [[we don't rely on it to survive](/ahoxus)]) and with zero growth mindset.
+[financially](/money), it'll be exactly same model as disroot, and a bit of what [wikipedia](/jimmy) should do: take donations, don't ask for them but offer transparent incentives for when you do donate. it's like offering a premium service, except it's not a service, it's non binding (you can just clone everything and make it your own), it will constantly morph as i need, and it's a sort of mix with non profit in which we do reserve the rights to make a profit for our own benefit, but in a sustainable way (it's not a business and [[we don't rely on it to survive](/ahoxus)]) and with zero growth mindset.
 
 for sure the main challenge will be making a better [[email](/email)] which doesn't get blocked by the big guys, like disroot often do. for now, the plan is just keeping this small until we figure out how to make it truly free without [[abusers](/abuse)].
 
-next: promote this as [a good landing page](http://yourlandingpagesucks.com/startup-landing-page-teardown-yc/index.html) @ahoxus
+next: promote this as [a good landing page](http://yourlandingpagesucks.com/startup-landing-page-teardown-yc/index.html) @[ahoxus](/ahoxus)
 
 <!-- and since you'll probably want something similar for yourself, just **sign up below for an update**! TK not ready -->
