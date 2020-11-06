@@ -1,7 +1,8 @@
 ---
 title: disroot and enjoy
-description: 1. To tear up the roots of, or by the roots; hence, to tear from a foundation; to uproot.
+description: to tear up the roots from a foundation; to uproot.
 date: 2020-10-29 18:50:00
+gallery: uproot
 image: /gallery/uproot.jpg
 permalink: disroot
 redirect_from:
@@ -13,7 +14,7 @@ published: true
 
 # {{ page.description }}
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 [dis'root'](https://disroot.org) is this amazing service made to [replace all your other services](/delete) needs, but made by open source, volunteers, and plenty of data [[real](/real)] [[freedom](/free)].
 

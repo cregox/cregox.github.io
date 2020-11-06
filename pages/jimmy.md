@@ -2,9 +2,11 @@
 title: jimmy
 description: wales did a miracle with wikipedia but stopped there
 date: 2020-10-30 23:50:00
+gallery: jimbo
 image: /gallery/jimbo.png
 permalink: jimmy
 redirect_from:
+  - jimbo
   - wales
 layout: draft
 published: true
@@ -14,7 +16,7 @@ _looking for [[wikipedia](/wikipedia)]?_
 
 # {{ page.description }}
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 in about 1 week i'll send him the following [[public and linkable email](/email#linkable)]...
 
