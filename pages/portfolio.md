@@ -2,19 +2,22 @@
 title: who?
 description: portfolio for caue 'cregox' rego. such a creative web name!
 date: 2020-10-06 21:03:00
-image: throwing boomerang.jpg
-permalink: /portfolio/
+gallery: boomerang
+image: /gallery/boomerang.jpg
+permalink: portfolio
 redirect_from:
-  - /portifolio/
-  - /portpholio/
-  - /folio/
-  - /who/
+  - boomerang
+  - portifolio
+  - portpholio
+  - folio
+  - who
 layout: page
 published: true
 menu: true
 ---
 
-![that boomerang ain't gonna fly itself!]({{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
+_that boomerang ain't gonna fly itself!_
 
 born "caue rego" (plus more names) and turned into web "cregox", i'm just a [random](/random) dude (who loves boomerangs!).
 

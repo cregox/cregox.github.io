@@ -2,20 +2,24 @@
 title: random
 description: what is love?
 date: 2020-09-29 19:07:00
-image: /pages/dice.jpg
-permalink: /random/
+gallery: dice
+image: /gallery/dice.jpg
+permalink: random
 redirect_from:
-  - /determinism/
-  - /chaos/
-  - /rnd/
-  - /rng/
-  - /god/
+  - dice
+  - determinism
+  - chaos
+  - rnd
+  - rng
+  - god
 layout: page
 published: true
 menu: true
 ---
 
-<small>looking for the first [cregox/random](/lucky)?</small>
+<small>looking for the first [][cregox/random](/lucky)]?</small>
+
+<small>or perhaps for [[chaos up](/chaos up)]?</small>
 
 {% include youtube.html id="3LopI4YeC4I" ratio="56.25%" %}
 
@@ -27,7 +31,8 @@ but if you need more...
 
 # {{ page.description }}
 
-![the current depiction of "random"]({{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
+_how people like to depict "random" today_
 
 > baby don't hurt me, oh more!
 

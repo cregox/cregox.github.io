@@ -2,9 +2,12 @@
 title: contact
 description: direct ways to find cregox
 date: 2020-07-17 17:03:00
-image: /contact/cregox_ana_boat_thumb.jpg
-permalink: /contact/
-redirect_from: /contacts/
+gallery: ana boat
+image: /gallery/ana boat.jpg
+permalink: contact
+redirect_from: 
+  - ana boat
+  - contacts
 layout: page
 published: true
 menu: true
@@ -23,5 +26,5 @@ how about:
 
 i usually reply in a few hours. if i don't answer in a couple of days, do nag me again. i respond basically to everything within a week.
 
-![ana boat](caue on ana boat.jpeg)
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 *i've [**wished**](/2019) to live in such a "boat"... flying through the skies... [not quite anymore!](/tamera)*
