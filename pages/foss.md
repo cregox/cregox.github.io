@@ -1,20 +1,30 @@
 ---
 title: free open source software
 description: what that means and why we should care
-date: 2020-10-20 22:40:00
-image: freedom.jpg
+date: 2020-11-08 12:40:00
+gallery: freedom
+image: /gallery/freedom.jpg
 permalink: foss
 redirect_from:
   - open
   - source
   - opensource
   - oss
+  - free
   - freedom
+  - libre
+  - floss
 layout: draft
 published: true
 ---
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+_looking for [[free money](/free money)]?_
+
+_or for [[lbry](/lbry)]?_
+
+_perhaps [[privacy](/privacy)]?_
+
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # {{ page.description }}
 
@@ -34,7 +44,7 @@ leaving the source code inaccessible, thus, is the same, in a human level of sof
 
 ## source
 
-just open it up by whatever means!
+just open **everything** up by whatever means!
 
 oss ain’t easy. there’s too much that needs to be done to maintain it in a useful manner for anyone else. we know...
 
@@ -42,4 +52,16 @@ there are many ways to open a source code, though. if enough people just do it t
 
 keep the [[faith](/random)]!
 
-ps: the [[internal links](/wiki)] in here are very, very important for context and understanding.
+## libre
+
+[stallman from gnu and free software foundation fsf](https://www.gnu.org/philosophy/floss-and-foss.en.html) explains the difference between floss, foss, and libre.
+
+the whole idea here is a bit of a mixture from there.
+
+just [[stfw](/stfw)] and you'll quickly see that nobody talks about floss outside of the [[dental](/dental)] realm. only foss. and libre comes in all kinds of flavors, not only nor primarily software.
+
+foss here is free open source as in libre. it's not about financial cost, it's about software freedom so we can advance it better and faster for everyone. very practical and technical, there's just nothing that compares.
+
+this is a political statement. but also so much more than that: it's a philosophical and logical statement.
+
+ps: the [[internal links](/wiki)] in here are often very, very important for context and understanding.

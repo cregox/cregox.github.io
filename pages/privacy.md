@@ -2,11 +2,12 @@
 title: privacy?
 description: what exactly is public, anyway
 date: 2020-10-22 11:11:00
-image: sand castle.jpg
+gallery: sand castle
+image: /gallery/sand castle.jpg
 permalink: privacy
 redirect_from:
+  - sand castle
   - public
-  - freedom
   - forgotten
   - data
   - anonymous
@@ -16,11 +17,13 @@ layout: draft
 published: true
 ---
 
+_looking for [[libre / free software](/libre)]?_
+
 # {{ page.description }}
 
 isn't [#anonymity](#anonymity) basically the same topic? yes. yes it is.
 
-![{{ page.image }}]({{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 simply put: privacy is mostly needed to [secure lives from violence](https://thenextweb.com/contributors/2018/11/20/read-this-if-youve-got-nothing-to-hide/). indeed, in practice, life is miserable without some amount of privacy!
 

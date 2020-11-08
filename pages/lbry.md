@@ -2,9 +2,11 @@
 title: lbry
 description: the only right way to do content
 date: 2020-10-31 01:48:00
-image: degoogle.png
+gallery: degoogle
+image: /gallery/degoogle.png
 permalink: /lbry/
 redirect_from:
+  - degoogle
   - odysee
   - video
   - videos
@@ -14,9 +16,11 @@ published: true
 
 _looking for [[film](/film)]?_
 
+_or for [[libre](/libre)]?_
+
 # {{ page.description }}
 
-![{{ page.image }}]({{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 there's not much to be said. it's [[free and open software done right](/foss)]. and it's great for [[degoogling](/delete)]!
 

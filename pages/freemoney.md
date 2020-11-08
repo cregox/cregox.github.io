@@ -2,20 +2,22 @@
 title: free money
 description: of course there's no such thing. is there?
 date: 2020-10-20 23:51:00
-image: freedom.jpg
+gallery: money
+image: /gallery/money.jpg
 permalink: freemoney
 redirect_from:
   - free money
   - free-money
-  - free
   - money
 layout: draft
 published: true
 ---
 
+_looking for [[libre](/libre)]?_
+
 # {{ page.description }}
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 first, what does "free money" even mean?
 
@@ -42,3 +44,8 @@ TK another overview about ahoxus, from the free money perspective. very similar 
 (it's quite possible to get the idea by just going through the links, but, anyway...)
 
 soon TK 😒
+ay...)
+
+soon TK 😒
+�
+ TK 😒
