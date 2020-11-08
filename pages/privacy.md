@@ -17,7 +17,7 @@ layout: draft
 published: true
 ---
 
-_looking for [[libre / free software](/libre)]?_
+- _looking for [[libre / free software](/libre)]?_
 
 # {{ page.description }}
 

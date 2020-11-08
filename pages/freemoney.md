@@ -13,7 +13,7 @@ layout: draft
 published: true
 ---
 
-_looking for [[libre](/libre)]?_
+- _looking for [[libre](/libre)]?_
 
 # {{ page.description }}
 

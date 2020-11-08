@@ -11,7 +11,7 @@ layout: draft
 published: true
 ---
 
-_looking for [[jimmy](/jimmy)]?_
+- _looking for [[jimmy](/jimmy)]?_
 
 # {{ page.description }}
 

@@ -14,9 +14,8 @@ layout: draft
 published: true
 ---
 
-_looking for [[film](/film)]?_
-
-_or for [[libre](/libre)]?_
+- _looking for [[film](/film)]?_
+- _or for [[libre](/libre)]?_
 
 # {{ page.description }}
 

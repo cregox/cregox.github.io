@@ -10,7 +10,7 @@ layout: draft
 published: true
 ---
 
-_looking for [[hosting](/hosting)]?_
+- _looking for [[hosting](/hosting)]?_
 
 # {{ page.description }}
 

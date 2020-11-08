@@ -18,11 +18,9 @@ layout: draft
 published: true
 ---
 
-_looking for [[free money](/free money)]?_
-
-_or for [[lbry](/lbry)]?_
-
-_perhaps [[privacy](/privacy)]?_
+- _looking for [[free money](/free money)]?_
+- _or for [[lbry](/lbry)]?_
+- _perhaps [[privacy](/privacy)]?_
 
 [![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
@@ -65,3 +63,4 @@ foss here is free open source as in libre. it's not about financial cost, it's a
 this is a political statement. but also so much more than that: it's a philosophical and logical statement.
 
 ps: the [[internal links](/wiki)] in here are often very, very important for context and understanding.
+.
