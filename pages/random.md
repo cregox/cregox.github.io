@@ -17,7 +17,7 @@ published: true
 menu: true
 ---
 
-<small>looking for the first [][cregox/random](/lucky)]?</small>
+<small>looking for the first [[cregox/random](/lucky)]?</small>
 
 <small>or perhaps for [[chaos up](/chaos up)]?</small>
 
@@ -138,3 +138,4 @@ it's true randomness and completely unpredictable. it's what we need the most wh
 of course, this is all just my gut feeling, after playing with the [basiux](/basiux). a feeling strong enough to make me keep writing so much about it, years after i abandoned it. even if it may look completely incoherent. just to register it. and hopefully, find the right destination in the back of someone's mind.
 
 thanks for reading! 😁😘
+
