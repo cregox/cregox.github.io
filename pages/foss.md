@@ -62,5 +62,5 @@ foss here is free open source as in libre. it's not about financial cost, it's a
 
 this is a political statement. but also so much more than that: it's a philosophical and logical statement.
 
-ps: the [[internal links](/wiki)] in here are often very, very important for context and understanding.
+> ps: the [[internal links](/wiki)] in here are often very, very important for context and understanding.
 .
