@@ -5,11 +5,12 @@ date: 2020-10-20 16:22:00
 image: sherlock.jpg
 permalink: stfw
 redirect_from:
-  - search
   - web
 layout: draft
 published: true
 ---
+
+- _looking for [[search](/search)]?_
 
 # {{ page.description }}
 
