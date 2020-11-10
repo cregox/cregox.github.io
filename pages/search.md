@@ -39,6 +39,6 @@ there is no way to simply search for everything on my phone, you know, like with
 
 i just wanted to hit search and find my data (which could all be [[public](/public)] for all i care) whatever kind of data: email, calendar, files, notes, chat, clipboard history, somewhere online, contact notes, map pins etc.
 
-but since [that probably won't happen anytime soon](https://github.com/Neamar/KISS/issues/1621), i might have to [build it](/disroot)...
+but since [that probably won't happen anytime soon](https://github.com/Neamar/KISS/issues/1621), i might have to [build](/disroot) it somehow (for sure, using [[kiss](/kiss)])...
 
 but don't hold your breath! technically i don't even know where to begin.
