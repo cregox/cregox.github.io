@@ -1,37 +1,36 @@
 ---
 title: mani
-description: manifestos is the new kind of blog that will soon exist
-image: brand new.jpg
-permalink: /mani/
+description: manifesto is the new blog
+date: 2020-11-12 07:00:00
+gallery: mani
+image:/gallery/mani.jpg
+permalink: mani
 redirect_from:
-  - /manifesto/
-  - /newblog/
+  - manifesto
+  - not a blog
+  - blogless
 layout: draft
 published: true
 ---
 
-this will soon be a checklist of things that a blog 2.0 should do.
+# {{ page.description }}
 
-like when i've build a list for camera and found narrative and noticed it was still not the time for such a camera to exist yet.
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
-anyway:
+[[checklists](/checklists)] are great, aren't they?
 
-- git compatible. jekyll for this mostly right. yes, editing pages should be allowed.
+like that time (around 2014) i've made a list for a camera and found [narrative](/talk/t/narrative-clip-and-privacy/7699.html)... and later yet, noticed it was still not the time (2018, i guess?) for such a camera to exist yet.
 
-- comments. static like the content. why not?!
+anyway, here's the checklist for what's a manifesto:
 
-- ability to quote. pretty much like medium and discourse.
-
-- responsive. this means easy to embed videos and images that will be optimized for mobile.
-
-- offline. pwa should be default, with web notifications rather than emails. or both.
-
-- easy navigation through edit history. like wikipedia.
-
-- keyword based. rather than posts. this the manifesto kind of format. manis must be frequently updated. again, like wikipedia.
-
-- it's analogous to knowledge sources like encyclopedias and dictionaries, rather than news.
-
-- even if it's a story, it should frequently be updated.
-
-- way more [[TK]].
+- git compatible
+- [[wiki](/wiki)] like editing
+- static comments or no comments and a link to somewhere like [[mastodon](/mastodon)]
+- ability to quote? like medium and discourse (not sure it's such a good idea)
+- responsive. this also means easy to embed videos and images that will be optimized for mobile
+- offline. [[pwa](/pwa)] should be default, with web notifications rather than emails. or both.
+- easy navigation through edit history. like wikipedia
+- keyword based. rather than posts. manis must be frequently updated. again, like [[wikipedia](wikipedia)]
+- it's analogous to knowledge sources like encyclopedias and dictionaries, rather than news or blog
+- even if it's a story, it should frequently be updated
+- decentralised. no idea how.
