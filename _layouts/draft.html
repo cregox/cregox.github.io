@@ -13,8 +13,4 @@ layout: default
   </article>
 
 </div>
-<script>
-document.querySelectorAll('a[href="{{ page.url }}"]').forEach(function (item) {
-  item.href += location.search
-})
-</script>
+{% include layout_script.html %}

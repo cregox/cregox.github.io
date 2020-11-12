@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="cached">
 
   <header class="post-header">
-    <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
     <p class="post-meta"><a href="{{ site.github_url }}/commits/master/{{ page.path }}">{{ page.date | date: "%Y-%m-%d" }}</a>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
-    {{ content }}
+  <article>
+    <blockquote>
+      {{ content }}
+    </blockquote>
   </article>
 
 </div>
