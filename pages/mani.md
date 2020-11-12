@@ -3,7 +3,7 @@ title: mani
 description: manifesto is the new blog
 date: 2020-11-12 07:00:00
 gallery: mani
-image:/gallery/mani.jpg
+image: /gallery/mani.jpg
 permalink: mani
 redirect_from:
   - manifesto
