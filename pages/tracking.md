@@ -1,18 +1,23 @@
 ---
 title: tracking
-description: it's a waste of resources. profit from sharing and caring instead! #lifeprofit
-image: /pages/tracking.jpg
-permalink: /tracking/
+description: it's a waste of resources. #lifeprofit
+date: 2020-11-12 14:20:00
+gallery: tracking
+image: /gallery/tracking.jpg
+permalink: tracking
 redirect_from:
-  - /lifeprofit/
-  - /belove/
+  - lifeprofit
+  - belove
+  - track
 layout: draft
 published: true
 ---
 
 # {{ page.description }}
 
-![evil tracking]({{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
+
+profit from sharing and caring instead!
 
 simply put: in the long run, to the world, it doesn't add any benefit.
 

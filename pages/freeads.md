@@ -1,20 +1,26 @@
 ---
 title: free advertising
-description: why can't we have good ads and free content?
-image: big ad.jpg
-permalink: /freeads/
+description: good ads with free content are possible
+date: 2020-11-12 13:31:00
+gallery: big ad
+image: /gallery/big ad.jpg
+permalink: freeads
 redirect_from:
-  - /free/
-  - /ads/
+  - big ad
+  - free ads
+  - advertising
+  - ads
 layout: draft
 published: true
 ---
 
 # {{ page.description }}
 
-wait, it's actually possible to have both! isn't it? how about most google products?
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
-those are not really free. what "free" even means?
+wait, is it actually possible to have both? how about most [[google](/google)] products?
+
+those are not [[really](/really)] free. what [[free](/free)] even means?
 
 let's cut it down in pieces... and keep it simple.
 
@@ -30,7 +36,7 @@ our point here isn't about either of those.
 
 we're taking about free content, which is usually accompanied by bad and paid ads, which sponsor the content.
 
-# sponsored content?
+# sponsored
 
 more in specific, whoever builds content tend to do it looking for some sort of profit. and that, in turn, lead to start by investing heavily and then capitalising with the consolidated working formula of adding sponsors who use the medium to advertise.
 

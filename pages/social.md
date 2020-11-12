@@ -11,6 +11,7 @@ redirect_from:
   - kaggle
   - twitter
   - youtube
+  - microsoft
 layout: draft
 published: true
 ---
@@ -39,7 +40,7 @@ this is almost as good as scuttlebutt, but people actually use it!
 nobody asks for this, for some reason... but, specialty if [[jimmy](/jimmy)] can fix the [[wiki](/wiki)], everyone should have one!
 
 # [github](https://github.com/cauerego)
-in here [my love](/git) is fading away (you know, after ms bs).
+in here [my love](/git) is fading away (you know, after microsoft bullshit).
 
 ----
 below are deleted ones, [as explained further here](/delete).

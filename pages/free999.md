@@ -1,12 +1,15 @@
 ---
 title: free $999
 description: the best things in life are free
-image: google pixel 3.jpg
+date: 2020-04-01 00:00:00
+gallery: google pixel 3
+image: /gallery/google pixel 3.jpg
 permalink: free999
 redirect_from:
   - free 999
   - pixel3
   - pixel 3
+  - google pixel 3
 layout: draft
 published: true
 ---

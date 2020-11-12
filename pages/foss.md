@@ -10,10 +10,10 @@ redirect_from:
   - source
   - opensource
   - oss
-  - free
   - freedom
   - libre
   - floss
+  - software
 layout: draft
 published: true
 ---
@@ -32,15 +32,21 @@ programming languages are also, in practice, a human attempt to create a communi
 
 think about it. a simple tool to communicate allows us to talk among ourselves and computers in such a way that we can potentially create everything. every single thing.
 
-## free
+think about a simulated immersive digital world. anyone have any [questions](/basiux) that [the matrix (1999)](/?q=the+matrix), as a simulation of reality, is a real possibility in the near future?
 
-and it's only possible, historically, because we've made it as easy as possible for everyone to join in. opening up everything we can. linux, internet, and so many things in the computer world are open sourced in this foss way, completely **[[free](/free)]**.
+# free
+
+free, in most contexts, means no money needed. free of charge. free candy. for now, let's keep it simple: when there's no context, it's always about [[free money](/free money)], which can lead to the ultimate kind of freedom, but that's another topic.
+
+# software
+
+the existence of software as it is today (a history dating back even before the internet) is only possible, historically, because we've made it as easy as possible for everyone to join in. opening up everything we can. linux, internet, and so many things in the computer world are open sourced in this foss way, completely [[**free**](/free)]. and [[decentralised](/kernel)]!
 
 software is to computer language the same as culture is to human language. it's a complex conjunction of data, combined by simple words and ideas, that allows for quick execution and understanding of something. you either know, culturally, what i mean by "life is a box of chocolates" or you don't. and if you don't, then you need to "download" the "software" that explains what that means (like [[stfw](/stfw)]), or else it is just mumbojumbo to you.
 
 leaving the source code inaccessible, thus, is the same, in a human level of software, as creating your own culture (such as a dialect or films) and never revealing them to other people outside your allowed circle. it's creating scarcity of data, and trying to [[monetize](/capitalism)] on ignorance. including of whom is doing it.
 
-## source
+# source
 
 just open **everything** up by whatever means!
 
@@ -50,7 +56,7 @@ there are many ways to open a source code, though. if enough people just do it t
 
 keep the [[faith](/random)]!
 
-## libre
+# libre
 
 [stallman from gnu and free software foundation fsf](https://www.gnu.org/philosophy/floss-and-foss.en.html) explains the difference between floss, foss, and libre.
 
