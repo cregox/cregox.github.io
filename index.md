@@ -85,5 +85,3 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
       return decodeURIComponent(window.location.hash.replace(new RegExp("^(?:.*[&\\#]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
     }
 })(); </script>
- </script>
-
