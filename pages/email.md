@@ -2,10 +2,13 @@
 title: email
 description: the best free email for you! (alpha)
 date: 2020-10-27 21:55:00
-image: alpha.jpg
+gallery: email
+image: /gallery/email.jpg
 permalink: email
 redirect_from:
+  - emails
   - mail
+  - mails
   - mailing
 layout: draft
 published: true
@@ -13,7 +16,7 @@ published: true
 
 # {{ page.description }}
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 the idea is simple.
 

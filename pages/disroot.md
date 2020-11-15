@@ -1,7 +1,7 @@
 ---
 title: disroot and enjoy
 description: to tear up the roots from a foundation; to uproot.
-date: 2020-10-29 18:50:00
+date: 2020-10-29 08:40:00
 gallery: uproot
 image: /gallery/uproot.jpg
 permalink: disroot
@@ -11,6 +11,8 @@ redirect_from:
 layout: draft
 published: true
 ---
+
+_looking for [[achoz](/achoz)]?_
 
 # {{ page.description }}
 
@@ -48,6 +50,6 @@ who: [degoogling](/degoogle) people
 
 for sure the main challenge will be making a better [[email](/email)] which doesn't get blocked by the big guys, like disroot often do. for now, the plan is just keeping this small until we figure out how to make it truly free without [[abusers](/abuse)].
 
-next: promote this as [a good landing page](http://yourlandingpagesucks.com/startup-landing-page-teardown-yc/index.html) @[ahoxus](/ahoxus)
+next: promote it as [a good landing page](http://yourlandingpagesucks.com/startup-landing-page-teardown-yc/index.html) @[ahoxus](/ahoxus)
 
-<!-- and since you'll probably want something similar for yourself, just **sign up below for an update**! TK not ready -->
+update nov 15: the project name is now [[**achoz**](/achoz)]: chaos from a to z. just an even better name than disroot or uproot! 🥰
