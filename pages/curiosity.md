@@ -2,10 +2,11 @@
 title: curiosity
 description: why are we curious?
 image: cregox tongue.jpg
-permalink: /curiosity/
+permalink: curiosity
 redirect_from:
-  - /science/
-  - /ncase/
+  - curiosity.com
+  - science
+  - ncase
 layout: page
 published: true
 ---
