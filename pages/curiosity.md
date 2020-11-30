@@ -4,7 +4,7 @@ description: why are we curious?
 image: cregox tongue.jpg
 permalink: curiosity
 redirect_from:
-  - curiosity.com
+  - curiosity.com/
   - science
   - ncase
 layout: page
