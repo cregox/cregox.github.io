@@ -8,6 +8,7 @@ permalink: achoz
 redirect_from:
   - zohca
   - chaos
+  - sourcehut
 layout: draft
 published: true
 menu: true
@@ -54,3 +55,7 @@ this is the most complex, yet, once everything else is set, it's also the simple
 
 - google, bing: use searx
 - pc: a #mobileofflinefirst webapp for ripgrep
+
+# origins
+
+mostly inspired by disroot and sourcehut.
