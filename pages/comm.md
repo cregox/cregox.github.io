@@ -1,7 +1,7 @@
 ---
 title: comm
 description: short for online communication, or something
-date: 2020-10-16 15:31:00
+date: 2020-11-30 08:31:00
 image: communication.jpg
 permalink: /comm/
 redirect_from:
@@ -51,15 +51,17 @@ notice how that's one way, one dimension, but still requires 2 points: a sender 
 
 the best way to communicate, however, requires feedback. that's why the expression focus on the "2 way street". without feedback, communication could almost be defined as broadcasting!
 
+just keep in mind to keep the harmonic unbalanced balance of life, and that too much feedback can also make it the worst way.
+
 TK
 
 # online
 
 perhaps one of the first forms of online communication was irc. internet relay chat.
 
-it still is the best free and open tool for chatting to this day.
+it still is the best free and open tool for chatting, to this day. except...
 
-and, in short, it sucks big balls. for the same reasons forums (even the [brand new 2.0 #](#forums)) do: nobody really uses them. outside of the geek realm, anyway.
+in other words and in short, irc sucks big balls. for the same reasons forums (even the [brand new 2.0 #](#forums)) do: nobody really uses them (including myself). outside of the geek realm, anyway.
 
 unlike facebook and twitter... ah, [[twitter](/twitter)]... why did you have to be [[closed](/oss)]? and no, [[mastodon](/mastodon)] sadly isn't better than the little blue bird, yet.
 
@@ -67,7 +69,7 @@ then what?
 
 email.
 
-and delta chat. you never heard of it? it doesn't matter. it uses email as a protocol!
+and [[delta chat](/delta chat)]. you never heard of it? it doesn't matter. it uses email as a protocol!
 
 TK
 
@@ -78,6 +80,8 @@ telegram is far superior than whatsapp because it's at least **trying** to be [[
 signal, in the other hand, is so [[freaking private](/privacy)] that suddenly it's too easy to lose data! man i hate [[losing data](/backup)]!!
 
 TK please, just keep it simple, smart (reference to [kiss versus niagara](https://github.com/8bitPit/Niagara-Issues/issues/180#issuecomment-686421514)... and [[libre](/open)]), and [[redundant](/redundancy)] (backup friendly).
+
+again, delta chat for the win...
 
 TK
 
@@ -95,3 +99,11 @@ nodebb is the spin off which couldn't handle emails properly, or at all.
 and dailywtf are the guys who got expelled and bashed by @codinghorror and helped me open my eyes to this non minor issue.
 
 big TK here! 😁
+
+edit: the best alternative, i found out just recently, is a mailing list such as the one from [sourcehut](/sourcehut). simple, free, libre, foss, etc. the only issue i found there, so far, is the 80 chat limit mindset which makes the website nearly unreadable on mobile. also sadly, delta chat still doesn't work with mailing lists... but any good email client do. k9 and fairemail are good instances.
+
+# offline
+
+also remember that offline first is crucial!
+
+both delta and email clients already know this, of course.
