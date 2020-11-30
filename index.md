@@ -30,6 +30,8 @@ or perhaps just lay back and "watch" some [fas tv](/tv).
 
 <small> _[(disclaimer about the lower case writing style)](/locaws)_ </small>
 
+[<img class="small" src="{{ page.image }}" alt="{{ page.image }}">](/avatar)
+
 <script> (function() {
     window.onhashchange = updateAll;
     window.onpopstate = updateAll;
