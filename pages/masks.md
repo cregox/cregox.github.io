@@ -1,7 +1,7 @@
 ---
 title: covid-19 masks
 description: why masks are like condoms on steroids
-date: 2020-10-16 18:19:00
+date: 2020-12-02 11:12:00
 image: population of masks.jpg
 permalink: /masks/
 redirect_from:
@@ -134,7 +134,13 @@ finally we found [this excellent piece](https://www.npr.org/2020/08/09/900490301
 
 > More than 19 million people have tested positive for the coronavirus globally, and at least 722,000 have died.
 
-there. keep in mind the trends are going down and that they've been worse before. but, as it is, 800k deaths in roughly 6 months of corona can be extrapolated for a worst case scenario of 1.6 million this year. but since all graphs point to a downward curve, we're probably past half of the crisis. more likely the amount of deaths for the next 6 months will be less than 700k. not quite a 1 in 19 million chance, but still 1 in 10,000, if my math still serves me right.
+there.
+
+# prediction
+
+sidenote: i think i've made this prediction around august, but i lost track of history within github, which can't properly follow it after i renamed the file...
+
+keep in mind the trends are going down and that they've been worse before. but, as it is, 800k deaths in roughly 6 months of corona can be extrapolated for a worst case scenario of 1.6 million this year. but since all graphs point to a downward curve, we're probably past half of the crisis. more likely the amount of deaths for the next 6 months will be less than 700k. not quite a 1 in 19 million chance, but still 1 in 10,000, if my math still serves me right.
 
 so what are the chances of getting covid19 without direct contact for 10 minutes with someone positive? exponentially lower.
 
@@ -142,4 +148,24 @@ my point here is just that even during the crisis, the real chances of getting s
 
 and the only thing masks are really good for, other than generating a political debate, is reminding us to keep distance.
 
-for that, i'll still find myself one of those transparent astronaut looking helmets. so i can breath better, get more isolated, reminds about covid-19 and how i disagree with masks, and breath better! all at once. 😁
+for that, perhaps i'll still find myself one of those transparent astronaut looking helmets. so i can breath better, get more isolated, remind people about covid-19 and how i disagree with masks, and breath better! all at once. 😁
+
+that is, if my awesome new inspiration ([let's have a law to allow people who use tracking app to be mask free](https://fosstodon.org/web/statuses/105309779836208870)) doesn't pin out. i'm thinking it was probably my own illusion, but sometimes they're spot on!
+
+# wrong
+
+now in december, when we will hit 1.5m deaths before long, it's easy to see my prediction was wrong. this is the second time i get it wrong. but not by any significant much.
+
+who cares?
+
+i just want to mention it. and this:
+
+# disclaimer
+
+this is a huge draft!
+
+i'll soon edit most of it out and greatly improve this for reading.
+
+too long, didn't read: don't bother yet. but you may subscribe for [[ahoxus](/ahoxus)] and get notified once i do a good compilation of this.
+
+cheers!
