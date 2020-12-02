@@ -154,7 +154,7 @@ that is, if my awesome new inspiration ([let's have a law to allow people who us
 
 # wrong
 
-now in december, when we will hit 1.5m deaths before long, it's easy to see my prediction was wrong. this is the second time i get it wrong. but not by any significant much.
+now in december, [when we will hit 1.5m deaths before long](https://www.worldometers.info/coronavirus/), it's easy to see my prediction was wrong. this is the second time i get it wrong. but not by any significant much.
 
 who cares?
 
