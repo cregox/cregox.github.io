@@ -42,7 +42,7 @@ yes, top 10! it's great to be able to live a very fulfilling life with 0 income.
 
 [#knowyouworth](https://www.producthunt.com/posts/know-your-worth) (too extreme?)
 
-for a bit more on my budget, there's also some data under a recent [ahoxus update](/ahoxus).
+for a bit more on my budget today, there's also some data under [a recent update](https://ahoxus.org/paradise#reality) on [ahoxus](/ahoxus).
 
 # wallet
 
