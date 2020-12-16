@@ -1,16 +1,17 @@
 ---
 title: comm
 description: short for online communication, or something
-date: 2020-11-30 08:31:00
+date: 2020-12-16 09:14:00
 image: communication.jpg
-permalink: /comm/
+permalink: comm
 redirect_from:
-  - /com/
-  - /irc/
-  - /forum/
-  - /discourse/
-  - /forums/
-  - /nodebb/
+  - com
+  - irc
+  - forum
+  - discourse
+  - forums
+  - nodebb
+  - fossil
 layout: draft
 published: true
 ---
@@ -98,9 +99,11 @@ nodebb is the spin off which couldn't handle emails properly, or at all.
 
 and dailywtf are the guys who got expelled and bashed by @codinghorror and helped me open my eyes to this non minor issue.
 
-big TK here! 😁
+huge TK here! 😁
 
 edit: the best alternative, i found out just recently, is a mailing list such as the one from [sourcehut](/sourcehut). simple, free, libre, foss, etc. the only issue i found there, so far, is the 80 chat limit mindset which makes the website nearly unreadable on mobile. also sadly, delta chat still doesn't work with mailing lists... but any good email client do. k9 and fairemail are good instances.
+
+dec 16th update: there's a second best alternative: [[fossil-scm](/fossil)]. you can host your own markdown forums on you mobile even. or simply take it from another host anywhere and it out offline. it's everything above and more, but it ain't really simple since it requires the command line. it's my every intention to integrate it within [[achoz](/achoz)] and make it simple. it will be either this, a mixture with sourcehut, a merged fork from both, or something very similar.
 
 # offline
 
