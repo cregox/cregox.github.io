@@ -11,7 +11,6 @@ redirect_from:
   - discourse
   - forums
   - nodebb
-  - fossil
 layout: draft
 published: true
 ---
