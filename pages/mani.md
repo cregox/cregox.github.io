@@ -19,7 +19,7 @@ published: true
 
 [[checklists](/checklists)] are great, aren't they?
 
-like that time (around 2014) i've made a list for a camera and found [narrative](/talk/t/narrative-clip-and-privacy/7699.html)... and later yet, noticed it was still not the time (2018, i guess?) for such a camera to exist yet.
+like that time (around 2014) i've made a list for a [camera](/camera) and found [narrative](/talk/t/narrative-clip-and-privacy/7699.html)... and later yet, noticed it was still not the time (2018, i guess?) for such a camera to exist yet.
 
 anyway, here's the checklist for what's a manifesto:
 
