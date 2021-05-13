@@ -1,7 +1,7 @@
 ---
 title: ahoxus - chaos up
 description: life can be beautiful!
-date: 2020-10-24 10:00:00
+date: 2021-05-13 07:27:00
 image: ahoxus_small.png
 permalink: /ahoxus/
 redirect_from:
@@ -24,6 +24,7 @@ ahoxus: https://ahoxus.org
 
 <span id="random">
 #sandraclark
+#[stallman](http://stallman.org)
 #stephendubner
 #mandygresh
 #stevennovella
