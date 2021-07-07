@@ -9,6 +9,7 @@ redirect_from:
   - /money/
   - /pay/
   - /donate/
+  - /tip/
 layout: page
 published: true
 menu: true
