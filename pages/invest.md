@@ -1,7 +1,7 @@
 ---
 title: invest
 description: we love reciprocity!
-date: 2020-10-15 16:40:00
+date: 2021-07-07 06:40:00
 image: piracicaba water flow.jpg
 permalink: /invest/
 redirect_from:
@@ -30,12 +30,29 @@ hopefully you'll also want to [get in touch](/contact) and give us some feedback
 
 i believe that as of today (check the date stamp on the top) there's still no simple unique way to send money to someone over the web, so:
 
+<script>
+function copyElementText(id) {
+    var text = document.getElementById(id).innerText;
+    var elem = document.createElement("textarea");
+    document.body.appendChild(elem);
+    elem.value = text;
+    elem.select();
+    document.execCommand("copy");
+    document.body.removeChild(elem);
+}
+</script>
+
 <details>
   <summary markdown="span">perhaps the easiest way for you today is **transfer wise**.</summary>
   
-  <small>disclaimer: although they actually make it much harder on me, because they offer way too many options and apparently no central way to deal with them. i could literally create an account and get [bank information for a direct deposit in 6 different currencies](https://transferwise.com/gb/borderless/card) but it's probably best for you to just open an account there... yes this may look like it's harder, but if you haven't done any other way before, just go and try all other options and you'll see.</small>
+  <details>
+  <summary markdown="span"><small>disclaimer</small></summary>
+    <small>although they actually make it much harder on me, because they offer way too many options and apparently no central way to deal with them. i could literally create an account and get [bank information for a direct deposit in 6 different currencies](https://transferwise.com/gb/borderless/card) but it's probably best for you to just open an account there... yes this may look like it's harder, but if you haven't done any other way before, just go and try all other options and you'll see.</small>
+  </details>
 
-  [**referral link**](https://transferwise.com/invite/a/cauer11) to create an account there and [get a discount on your first transfer](https://transferwise.com/help/21/inviting-friends/2566789/how-does-a-free-transfer-work). please, send it to caue.rego@gmail.com and _choose one **iban**_ below.
+  here's my [**referral link**](https://transferwise.com/invite/a/cauer11) to create an account there and [get a discount on your first transfer](https://transferwise.com/help/21/inviting-friends/2566789/how-does-a-free-transfer-work).
+
+  when you have an account, just send to <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">cregox@ahoxus.org</span>
 </details>
 
 <details>
@@ -47,7 +64,7 @@ i believe that as of today (check the date stamp on the top) there's still no si
   
   ![blockchain](blockchain.info wallet 1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT.png)
   
-  <small>1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT</small>
+  <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">1Jsw4dEcD4H9MCh6kKdYPz9cpKjyBNgpFT</span>
   
   [how to use bitcoin?](https://bitcoin.org/en/getting-started)
 </details>
@@ -55,13 +72,13 @@ i believe that as of today (check the date stamp on the top) there's still no si
 <details>
   <summary markdown="span">**revolut** works fine.</summary>
   
-  using your [revolut account](https://revolut.com/r/cauedbqm) send money to [contact](/contact): <b>+1 732 7377346</b> or <b>caue.rego@gmail.com</b>
+  using your [revolut account](https://revolut.com/r/cauedbqm) send money to [contact](/contact): <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">cregox@ahoxus.org</span>
 
   you can also send it through [iban, bic, sepa and swift]({{ page.iban }}):
 
   REVOGB21
 
-  GB10 REVO 0099 7007 1522 88
+  <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">GB10 REVO 0099 7007 1522 88</span>
   
   [why (and what is) revolut?](https://char.gd/blog/2018/the-best-of-europes-startup-banks-compared)
 </details>
@@ -73,7 +90,7 @@ i believe that as of today (check the date stamp on the top) there's still no si
   
   ACTVPTPL
   
-  PT50-0023-0000-45471423515-94
+  <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">PT50-0023-0000-45471423515-94</span>
 </details>
 
 <details>
