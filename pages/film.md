@@ -1,7 +1,7 @@
 ---
 title: film
 description: yes, we also make films!
-date: 2020-10-31 01:49:00
+date: 2021-08-17 22:49:00
 image: cregox filming.jpg
 permalink: film
 redirect_from:
@@ -14,9 +14,11 @@ published: true
 
 _looking for [[video](/video)]?_
 
-TK boy, this page needs a revamping!
+TK boy, this page really needs a revamping!
 
 # {{ page.description }}
+
+mostly, trying to start [on tiktok now](https://vm.tiktok.com/ZMR83vKYs/).
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
