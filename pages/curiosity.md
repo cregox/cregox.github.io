@@ -1,7 +1,7 @@
 ---
 title: curiosity
 description: why are we curious?
-image: cregox tongue.jpg
+image: cregoxtongue.jpg
 permalink: curiosity
 redirect_from:
   - curiosity.com
@@ -18,10 +18,10 @@ but it was, for a few brief months (i think less than 2 years), the best news so
 
 it was just great science curation, and 2 to 5 minutes read, very well structured. 5 articles per day selection. average 1.5 that i could always find interest in reading.
 
-wished i could get hands in their archive and put everything back on, except i would take off all the advertising.
+wished i could get some hands in their archive and put everything back on (except i would take off all the [advertising, obviously](/ads)).
 
 also, science should also always be [fun](/tv)! and they kinda had hit a sweet spot even on this aspect.
 
-(even if it often gets [too serious or out of track](/tamera). or, even ["worse"](/language), [too utopian](https://ncase.me/ballot)... it's probably better to [stick with fun](https://ncase.me/fireflies)).
+(even if it often gets [too serious or out of track](/tamera). or, even ["worse"](/language), [too utopian](https://ncase.me/ballot)... it's probably better to [stick with fun](https://ncase.me/fireflies))
 
 sigh. 🥺
