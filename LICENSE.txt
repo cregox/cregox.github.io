@@ -1,10 +1,12 @@
 JUSTWTFPL - JUST DO WHAT THE FUCK YOU WANT PUBLIC LICENSE
-Version 4, nov 2020
+last version (5), oct 2021
 
-author: cregox@ahoxus.tk
+author: cregox@ahoxus.org
 
-everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed.
+everyone gets permission to copy and distribute verbatim or modified copies of this license document, changes allowed.
 
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 0. you JUST DO WHAT THE FUCK YOU WANT.
+
+PS: before using this license, think again. you should probably choose the best current license instead (today that means agpl), rework all your code, and change your life style. like i did.
