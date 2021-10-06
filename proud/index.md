@@ -1,12 +1,20 @@
 ---
 title: proud
 description: (see porfolio instead!) outdated list of projects i'm proud of.
+date: 2021-10-06 06:22:00
+gallery: skywalkcauerecorte
 image: ../projects/skywalkcauerecorte.jpg
+permalink: proud
 layout: page
 published: true
+menu: false
 ---
 
-you might prefer to see the [portfolio](/portfolio) instead!
+# {{ page.description }}
+
+*you might prefer to see the [[portfolio](/portfolio)] instead!*
+
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 although i've worked writing code for most of my career, what i'm most proud of have very little to do with computers (mostly from the magical/sabbatical [2014](/2014)!):
 
