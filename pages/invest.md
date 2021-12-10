@@ -76,9 +76,9 @@ function copyElementText(id) {
 
   you can also send it through [iban, bic, sepa and swift]({{ page.iban }}):
 
-  REVOGB21
+  REVOLT21
 
-  <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">GB10 REVO 0099 7007 1522 88</span>
+  <span class="copying" title="copy" id="cp" onclick="copyElementText(this.id)">LT82 3250 0835 3533 4600</span>
   
   [why (and what is) revolut?](https://char.gd/blog/2018/the-best-of-europes-startup-banks-compared)
 </details>
